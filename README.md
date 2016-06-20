@@ -1,4 +1,4 @@
-# MYOB Sydney Tea Club
+# Wonderful Tea Club Tasting Experience
 Tea tasting experience at MYOB Sydney
 
 | Date                  | Tea Master        | Tea Choice                                    |
