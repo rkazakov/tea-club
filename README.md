@@ -1,4 +1,4 @@
-# Tea Club
+# Tea Club TEArrific
 Tea tasting experience at MYOB Sydney
 
 | Date                     | Tea Master        | Tea Brand   | Tea Type | Tea Name                              |
