@@ -9,6 +9,7 @@ Tea tasting experience at MYOB Sydney
 | Wednesday 22nd June 2016 | Kate Andrews      | [Celestial] | Black    | Sweet Harvest Pumpkin                 |
 | Thursday 23rd June 2016  | Cherry Zhou       | Golden Tips | Oolong   | Milk Oolong Smoked Orthodox           |
 | Friday 24th June 2016    | Ruslan Kazakov    | [Basilur]   | Green    | Four Seasons Spring Green             |
+| Monday 27th June 2016    | Ruslan Kazakov    | [Basilur]   | Black    | Four Seasons Autumn Black             |
 
 [Basilur]: http://www.basilurtea.com
 [Celestial]: http://www.celestialseasonings.com
