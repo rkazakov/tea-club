@@ -4,7 +4,7 @@ Tea tasting experience at MYOB Sydney
 | Date                     | Tea Master        | Tea Brand   | Tea Type | Tea Name                              |
 |--------------------------|-------------------|-------------|----------|---------------------------------------|
 | Wednesday 29th June 2016 | Ruslan Kazakov    | [Basilur]   | Black    | Four Seasons Winter Black             |
-| Tuesday 28th June 2016   | Gary Butler       | T2          | Black    | Melbourne Breakfast                   |
+| Tuesday 28th June 2016   | Gary Butler       | [T2]        | Black    | Melbourne Breakfast                   |
 | Monday 27th June 2016    | Ruslan Kazakov    | [Basilur]   | Black    | Four Seasons Autumn Black             |
 | Friday 24th June 2016    | Ruslan Kazakov    | [Basilur]   | Green    | Four Seasons Spring Green             |
 | Thursday 23rd June 2016  | Cherry Zhou       | Golden Tips | Oolong   | Milk Oolong Smoked Orthodox           |
@@ -15,3 +15,4 @@ Tea tasting experience at MYOB Sydney
 
 [Basilur]: http://www.basilurtea.com
 [Celestial]: http://www.celestialseasonings.com
+[T2]: http://www.t2tea.com
