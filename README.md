@@ -3,7 +3,7 @@ Tea tasting experience at MYOB Sydney
 
 | Date                     | Tea Master        | Tea Brand     | Tea Type | Tea Name                              |
 |--------------------------|-------------------|---------------|----------|---------------------------------------|
-| Thursday 30th June 2016  | Charlotte Bian    | Guangdong     | Green    | Golden Sails Osmanthus Green          |
+| Thursday 30th June 2016  | Charlotte Bian    | Golden Sail   | Green    | Osmanthus Green                       |
 | Wednesday 29th June 2016 | Ruslan Kazakov    | [Basilur]     | Black    | Four Seasons Winter Black             |
 | Tuesday 28th June 2016   | Gary Butler       | [T2]          | Black    | Melbourne Breakfast                   |
 | Monday 27th June 2016    | Ruslan Kazakov    | [Basilur]     | Black    | Four Seasons Autumn Black             |
