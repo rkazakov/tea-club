@@ -4,15 +4,15 @@ Tea tasting experience at MYOB Sydney
 | Date           | Tea Master      | Brand         | Type     | Origin    | Name                        |
 |----------------|-----------------|---------------|----------|-----------|-----------------------------|
 | 1st July 2016  | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Lemon & Lime                |
-| 30th June 2016 | Charlotte Bian  | Golden Sail   | [Green]  |           | Osmanthus Green             |
+| 30th June 2016 | Charlotte Bian  | Golden Sail   | [Green]  | China     | Osmanthus Green Tea         |
 | 29th June 2016 | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Four Seasons Winter         |
-| 28th June 2016 | Gary Butler     | [T2]          | [Black]  |           | Melbourne Breakfast         |
+| 28th June 2016 | Gary Butler     | [T2]          | [Black]  | ?         | Melbourne Breakfast         |
 | 27th June 2016 | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Four Seasons Autumn         |
 | 24th June 2016 | Ruslan Kazakov  | [Basilur]     | [Green]  | Sri Lanka | Four Seasons Spring         |
-| 23rd June 2016 | Cherry Zhou     | [Golden Tips] | [Oolong] |           | Milk Oolong Smoked Orthodox |
-| 22nd June 2016 | Kate Andrews    | [Celestial]   | [Black]  |           | Sweet Harvest Pumpkin       |
+| 23rd June 2016 | Cherry Zhou     | [Golden Tips] | [Oolong] | ?         | Milk Oolong Smoked Orthodox |
+| 22nd June 2016 | Kate Andrews    | [Celestial]   | [Black]  | ?         | Sweet Harvest Pumpkin       |
 | 21st June 2016 | Ruslan Kazakov  | [Basilur]     | [Green]  | Sri Lanka | Four Seasons Summer         |
-| 20th June 2016 | Cherry Zhou     | [Lupicia]     | [Oolong] |           | Momo Oolong Super Grade     |
+| 20th June 2016 | Cherry Zhou     | [Lupicia]     | [Oolong] | Taiwan    | Momo Oolong Super Grade     |
 | 20th June 2016 | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Fruit Shop                  |
 
 <!-- Type -->
