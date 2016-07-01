@@ -14,6 +14,13 @@ Tea tasting experience at MYOB Sydney
 | Monday 20th June 2016    | Cherry Zhou       | [Lupicia]     | Oolong   | Momo Oolong Super Grade               |
 | Monday 20th June 2016    | Ruslan Kazakov    | [Basilur]     | Black    | Fruit Shop                            |
 
+<!-- Type -->
+[Black]: https://en.wikipedia.org/wiki/Black_tea
+[Green]: https://en.wikipedia.org/wiki/Green_tea
+[White]: https://en.wikipedia.org/wiki/White_tea
+[Oolong]: https://en.wikipedia.org/wiki/Oolong
+
+<!-- Brand -->
 [Basilur]: http://www.basilurtea.com
 [Celestial]: http://www.celestialseasonings.com
 [T2]: http://www.t2tea.com
