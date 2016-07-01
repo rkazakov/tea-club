@@ -9,7 +9,7 @@ Tea tasting experience at MYOB Sydney
 | 28th June 2016 | Gary Butler     | [T2]          | [Black]  | ?         | Melbourne Breakfast         |
 | 27th June 2016 | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Four Seasons Autumn         |
 | 24th June 2016 | Ruslan Kazakov  | [Basilur]     | [Green]  | Sri Lanka | Four Seasons Spring         |
-| 23rd June 2016 | Cherry Zhou     | [Golden Tips] | [Oolong] | ?         | Milk Oolong Smoked Orthodox |
+| 23rd June 2016 | Cherry Zhou     | [Golden Tips] | [Oolong] | India     | Milk Oolong Smoked Orthodox |
 | 22nd June 2016 | Kate Andrews    | [Celestial]   | [Black]  | ?         | Sweet Harvest Pumpkin       |
 | 21st June 2016 | Ruslan Kazakov  | [Basilur]     | [Green]  | Sri Lanka | Four Seasons Summer         |
 | 20th June 2016 | Cherry Zhou     | [Lupicia]     | [Oolong] | Taiwan    | Momo Oolong Super Grade     |
