@@ -1,20 +1,20 @@
 # Tea Club 
 Tea tasting experience at MYOB Sydney
 
-| Date     | Tea Master      | Brand         | Type     | Origin    | Name                    |
-|----------|-----------------|---------------|----------|-----------|-------------------------|
-| 06/07/16 | Kate Andrews    | [Lipton]      | [Black]  | -         | Blackcurrant            |
-| 01/07/16 | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Lemon & Lime            |
-| 30/06/16 | Charlotte Bian  | Golden Sail   | [Green]  | China     | Osmanthus Green Tea     |
-| 29/06/16 | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Four Seasons Winter     |
-| 28/06/16 | Gary Butler     | [T2]          | [Black]  | -         | Melbourne Breakfast     |
-| 27/06/16 | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Four Seasons Autumn     |
-| 24/06/16 | Ruslan Kazakov  | [Basilur]     | [Green]  | Sri Lanka | Four Seasons Spring     |
-| 23/06/16 | Cherry Zhou     | [Golden Tips] | [Oolong] | India     | Milk Oolong Smoked      |
-| 22/06/16 | Kate Andrews    | [Celestial]   | [Black]  | -         | Sweet Harvest Pumpkin   |
-| 21/06/16 | Ruslan Kazakov  | [Basilur]     | [Green]  | Sri Lanka | Four Seasons Summer     |
-| 20/06/16 | Cherry Zhou     | [Lupicia]     | [Oolong] | Taiwan    | Momo Oolong Super Grade |
-| 20/06/16 | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Fruit Shop              |
+| Date           | Tea Master      | Brand         | Type     | Origin    | Name                    |
+|----------------|-----------------|---------------|----------|-----------|-------------------------|
+| 6th July 2016  | Kate Andrews    | [Lipton]      | [Black]  | -         | Blackcurrant            |
+| 1st July 2016  | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Lemon & Lime            |
+| 30th June 2016 | Charlotte Bian  | Golden Sail   | [Green]  | China     | Osmanthus Green Tea     |
+| 29th June 2016 | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Four Seasons Winter     |
+| 28th June 2016 | Gary Butler     | [T2]          | [Black]  | -         | Melbourne Breakfast     |
+| 27th June 2016 | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Four Seasons Autumn     |
+| 24th June 2016 | Ruslan Kazakov  | [Basilur]     | [Green]  | Sri Lanka | Four Seasons Spring     |
+| 23rd June 2016 | Cherry Zhou     | [Golden Tips] | [Oolong] | India     | Milk Oolong Smoked      |
+| 22nd June 2016 | Kate Andrews    | [Celestial]   | [Black]  | -         | Sweet Harvest Pumpkin   |
+| 21st June 2016 | Ruslan Kazakov  | [Basilur]     | [Green]  | Sri Lanka | Four Seasons Summer     |
+| 20th June 2016 | Cherry Zhou     | [Lupicia]     | [Oolong] | Taiwan    | Momo Oolong Super Grade |
+| 20th June 2016 | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Fruit Shop              |
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
 [Green]: https://en.wikipedia.org/wiki/Green_tea
