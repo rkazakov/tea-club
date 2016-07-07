@@ -1,28 +1,22 @@
 # Tea Club 
 Tea tasting experience at MYOB Sydney
 
-| Date           | Tea Master      | Brand         | Type     | Name                      | Origin    |
-|----------------|-----------------|---------------|----------|---------------------------|-----------|
-| 7th July 2016  | Gary Butler     | [Adore Tea]   | [Black]  | [Keemun]                  | China     |
-| 7th July 2016  | Andrea Ho       | -             | [Green]  | [Genmaicha]               | Japan     |
-| 6th July 2016  | Kate Andrews    | [Lipton]      | [Black]  | [Blackcurrant]            | -         |
-| 1st July 2016  | Ruslan Kazakov  | [Basilur]     | [Black]  | Lemon & Lime              | Sri Lanka |
-| 30th June 2016 | Charlotte Bian  | Golden Sail   | [Green]  | Osmanthus Green Tea       | China     |
-| 29th June 2016 | Ruslan Kazakov  | [Basilur]     | [Black]  | Four Seasons Winter       | Sri Lanka |
-| 28th June 2016 | Gary Butler     | [T2]          | [Black]  | [Melbourne Breakfast]     | -         |
-| 27th June 2016 | Ruslan Kazakov  | [Basilur]     | [Black]  | Four Seasons Autumn       | Sri Lanka |
-| 24th June 2016 | Ruslan Kazakov  | [Basilur]     | [Green]  | Four Seasons Spring       | Sri Lanka |
-| 23rd June 2016 | Cherry Zhou     | [Golden Tips] | [Oolong] | Milk Oolong Smoked        | India     |
-| 22nd June 2016 | Kate Andrews    | [Celestial]   | [Black]  | Sweet Harvest Pumpkin     | -         |
-| 21st June 2016 | Ruslan Kazakov  | [Basilur]     | [Green]  | Four Seasons Summer       | Sri Lanka |
-| 20th June 2016 | Cherry Zhou     | [Lupicia]     | [Oolong] | [Momo Oolong Super Grade] | Taiwan    |
-| 20th June 2016 | Ruslan Kazakov  | [Basilur]     | [Black]  | [Fruit Shop]              | Sri Lanka |
-
-<!-- Type -->
-[Black]: https://en.wikipedia.org/wiki/Black_tea
-[Green]: https://en.wikipedia.org/wiki/Green_tea
-[White]: https://en.wikipedia.org/wiki/White_tea
-[Oolong]: https://en.wikipedia.org/wiki/Oolong
+| Brand         | Type     | Name                      | Origin      | Tea Master      | Date           |
+|---------------|----------|---------------------------|-------------|-----------------|----------------|
+| [Adore Tea]   | [Black]  | [Keemun]                  | [China]     | Gary Butler     | 7th July 2016  |
+| -             | [Green]  | [Genmaicha]               | [Japan]     | Andrea Ho       | 7th July 2016  |
+| [Lipton]      | [Black]  | [Blackcurrant]            | -           | Kate Andrews    | 6th July 2016  |
+| [Basilur]     | [Black]  | Lemon & Lime              | [Sri Lanka] | Ruslan Kazakov  | 1st July 2016  |
+| Golden Sail   | [Green]  | Osmanthus Green Tea       | [China]     | Charlotte Bian  | 30th June 2016 |
+| [Basilur]     | [Black]  | Four Seasons Winter       | [Sri Lanka] | Ruslan Kazakov  | 29th June 2016 |
+| [T2]          | [Black]  | [Melbourne Breakfast]     | -           | Gary Butler     | 28th June 2016 |
+| [Basilur]     | [Black]  | Four Seasons Autumn       | [Sri Lanka] | Ruslan Kazakov  | 27th June 2016 |
+| [Basilur]     | [Green]  | Four Seasons Spring       | [Sri Lanka] | Ruslan Kazakov  | 24th June 2016 |
+| [Golden Tips] | [Oolong] | Milk Oolong Smoked        | [India]     | Cherry Zhou     | 23rd June 2016 |
+| [Celestial]   | [Black]  | Sweet Harvest Pumpkin     | -           | Kate Andrews    | 22nd June 2016 |
+| [Basilur]     | [Green]  | Four Seasons Summer       | [Sri Lanka] | Ruslan Kazakov  | 21st June 2016 |
+| [Lupicia]     | [Oolong] | [Momo Oolong Super Grade] | [Taiwan]    | Cherry Zhou     | 20th June 2016 |
+| [Basilur]     | [Black]  | [Fruit Shop]              | [Sri Lanka] | Ruslan Kazakov  | 20th June 2016 |
 
 <!-- Brand -->
 [Basilur]: http://www.basilurshop.com.au
@@ -33,6 +27,12 @@ Tea tasting experience at MYOB Sydney
 [Lipton]: http://www.liptontea.com
 [Adore Tea]: http://adoretea.com.au
 
+<!-- Type -->
+[Black]: https://en.wikipedia.org/wiki/Black_tea
+[Green]: https://en.wikipedia.org/wiki/Green_tea
+[White]: https://en.wikipedia.org/wiki/White_tea
+[Oolong]: https://en.wikipedia.org/wiki/Oolong
+
 <!-- Name -->
 [Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
 [Keemun]: http://adoretea.com.au/Black/Black-Tea/Keemun.html
@@ -40,3 +40,10 @@ Tea tasting experience at MYOB Sydney
 [Melbourne Breakfast]: http://www.t2tea.com/en/au/tea/melbourne-breakfast-loose-leaf-gift-cube-T125AE023.html
 [Momo Oolong Super Grade]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+
+<!-- Origin -->
+[China]: https://en.wikipedia.org/wiki/China
+[India]: https://en.wikipedia.org/wiki/India
+[Japan]: https://en.wikipedia.org/wiki/Japan
+[Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
+[Taiwan]: https://en.wikipedia.org/wiki/Taiwan
