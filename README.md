@@ -35,5 +35,5 @@ Tea tasting experience at MYOB Sydney
 
 <!-- Name -->
 [Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
-[Keemun]: https://en.wikipedia.org/wiki/Keemun
+[Keemun]: http://adoretea.com.au/Black/Black-Tea/Keemun.html
 [Melbourne Breakfast]: http://www.t2tea.com/en/au/tea/melbourne-breakfast-loose-leaf-gift-cube-T125AE023.html
