@@ -5,7 +5,7 @@ Tea tasting experience at MYOB Sydney
 |----------------|-----------------|----------|---------------|-----------|---------------------------|
 | 7th July 2016  | Gary Butler     | [Black]  | [Adore Tea]   | China     | [Keemun]                  |
 | 7th July 2016  | Andrea Ho       | [Green]  | -             | Japan     | [Genmaicha]               |
-| 6th July 2016  | Kate Andrews    | [Black]  | [Lipton]      | -         | Blackcurrant              |
+| 6th July 2016  | Kate Andrews    | [Black]  | [Lipton]      | -         | [Blackcurrant]            |
 | 1st July 2016  | Ruslan Kazakov  | [Black]  | [Basilur]     | Sri Lanka | Lemon & Lime              |
 | 30th June 2016 | Charlotte Bian  | [Green]  | Golden Sail   | China     | Osmanthus Green Tea       |
 | 29th June 2016 | Ruslan Kazakov  | [Black]  | [Basilur]     | Sri Lanka | Four Seasons Winter       |
@@ -36,6 +36,7 @@ Tea tasting experience at MYOB Sydney
 <!-- Name -->
 [Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
 [Keemun]: http://adoretea.com.au/Black/Black-Tea/Keemun.html
+[Blackcurrant]: http://www.made-in-scandinavian.com/store/p1064/Lipton_Blackcurrant_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
 [Melbourne Breakfast]: http://www.t2tea.com/en/au/tea/melbourne-breakfast-loose-leaf-gift-cube-T125AE023.html
 [Momo Oolong Super Grade]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
