@@ -3,6 +3,8 @@ Tea tasting experience at MYOB Sydney
 
 | Date           | Tea Master      | Brand         | Type     | Origin    | Name                    |
 |----------------|-----------------|---------------|----------|-----------|-------------------------|
+| 7th July 2016  | Gary Butler     | [Adore Tea]   | [Black]  | China     | Keemun                  |
+| 7th July 2016  | Andrea Ho       | -             | [Green]  | Japan     | Genmaicha               |
 | 6th July 2016  | Kate Andrews    | [Lipton]      | [Black]  | -         | Blackcurrant            |
 | 1st July 2016  | Ruslan Kazakov  | [Basilur]     | [Black]  | Sri Lanka | Lemon & Lime            |
 | 30th June 2016 | Charlotte Bian  | Golden Sail   | [Green]  | China     | Osmanthus Green Tea     |
@@ -28,3 +30,4 @@ Tea tasting experience at MYOB Sydney
 [Lupicia]: http://www.lupicia.com.au
 [Golden Tips]: http://www.goldentipstea.com
 [Lipton]: http://www.liptontea.com
+[Adore Tea]: http://adoretea.com.au
