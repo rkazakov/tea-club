@@ -18,6 +18,9 @@ Tea tasting experience at MYOB Sydney
 | 02 | [Lupicia]     | [Oolong] | [Momo Oolong Super Grade] | [Taiwan]    | Cherry Zhou     | 20th June 2016 |
 | 01 | [Basilur]     | [Black]  | [Fruit Shop]              | [Sri Lanka] | Ruslan Kazakov  | 20th June 2016 |
 
+## Tea suggestions
+Suggestions of tea to buy to try
+
 <!-- Brand -->
 [Basilur]: http://www.basilurshop.com.au
 [Celestial]: http://www.celestialseasonings.com
