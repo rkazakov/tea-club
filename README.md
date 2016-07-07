@@ -16,7 +16,7 @@ Tea tasting experience at MYOB Sydney
 | 22nd June 2016 | Kate Andrews    | [Black]  | [Celestial]   | -         | Sweet Harvest Pumpkin     |
 | 21st June 2016 | Ruslan Kazakov  | [Green]  | [Basilur]     | Sri Lanka | Four Seasons Summer       |
 | 20th June 2016 | Cherry Zhou     | [Oolong] | [Lupicia]     | Taiwan    | [Momo Oolong Super Grade] |
-| 20th June 2016 | Ruslan Kazakov  | [Black]  | [Basilur]     | Sri Lanka | Fruit Shop                |
+| 20th June 2016 | Ruslan Kazakov  | [Black]  | [Basilur]     | Sri Lanka | [Fruit Shop]              |
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
@@ -25,7 +25,7 @@ Tea tasting experience at MYOB Sydney
 [Oolong]: https://en.wikipedia.org/wiki/Oolong
 
 <!-- Brand -->
-[Basilur]: http://www.basilurtea.com
+[Basilur]: http://www.basilurshop.com.au
 [Celestial]: http://www.celestialseasonings.com
 [T2]: http://www.t2tea.com
 [Lupicia]: http://www.lupicia.com.au
@@ -38,3 +38,4 @@ Tea tasting experience at MYOB Sydney
 [Keemun]: http://adoretea.com.au/Black/Black-Tea/Keemun.html
 [Melbourne Breakfast]: http://www.t2tea.com/en/au/tea/melbourne-breakfast-loose-leaf-gift-cube-T125AE023.html
 [Momo Oolong Super Grade]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
+[Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
