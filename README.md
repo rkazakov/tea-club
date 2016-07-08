@@ -3,6 +3,7 @@ Tea tasting experience at MYOB Sydney
 
 | #  | Brand         | Type     | Name                      | Origin      | Tea Master     | Date           |
 |----|---------------|----------|---------------------------|-------------|----------------|----------------|
+| 15 | [Adore Tea]   | [Black]  | [Darjeeling Vintage]      | [India]     | Gary Butler    | 8th July 2016  |
 | 14 | [Adore Tea]   | [Black]  | [Keemun]                  | [China]     | Gary Butler    | 7th July 2016  |
 | 13 | -             | [Green]  | [Genmaicha]               | [Japan]     | Andrea Ho      | 7th July 2016  |
 | 12 | [Lipton]      | [Black]  | [Blackcurrant]            | -           | Kate Andrews   | 6th July 2016  |
@@ -37,6 +38,7 @@ Suggestions of tea to buy to try
 [Oolong]: https://en.wikipedia.org/wiki/Oolong
 
 <!-- Name -->
+[Darjeeling Vintage]: http://adoretea.com.au/Black/Black-Tea/Darjeeling-Vintage.html
 [Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
 [Keemun]: http://adoretea.com.au/Black/Black-Tea/Keemun.html
 [Blackcurrant]: http://www.made-in-scandinavian.com/store/p1064/Lipton_Blackcurrant_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
