@@ -20,7 +20,7 @@ Tea tasting experience at MYOB Sydney
 | 01 | [Basilur]     | [Black]  | [Fruit Shop]              | [Sri Lanka] | Ruslan Kazakov | 20th June 2016 |
 
 ## Tea suggestions
-Suggestions of tea to buy to try
+Suggestions of teas to buy
 
 <!-- Brand -->
 [Basilur]: http://www.basilurshop.com.au
