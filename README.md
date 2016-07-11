@@ -3,6 +3,7 @@ Tea tasting experience at MYOB Sydney
 
 | #  | Brand         | Type     | Name                      | Origin      | Tea Master     | Date           |
 |----|---------------|----------|---------------------------|-------------|----------------|----------------|
+| 15 | [Adore Tea]   | [Black]  | [African Bop]             | [Africa]    | Gary Butler    | 11th July 2016 |
 | 15 | [Adore Tea]   | [Black]  | [Darjeeling Vintage]      | [India]     | Gary Butler    | 8th July 2016  |
 | 14 | [Adore Tea]   | [Black]  | [Keemun]                  | [China]     | Gary Butler    | 7th July 2016  |
 | 13 | -             | [Green]  | [Genmaicha]               | [Japan]     | Andrea Ho      | 7th July 2016  |
@@ -47,6 +48,7 @@ Suggestions of teas to buy
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
 
 <!-- Origin -->
+[Africa]: https://en.wikipedia.org/wiki/Africa
 [China]: https://en.wikipedia.org/wiki/China
 [India]: https://en.wikipedia.org/wiki/India
 [Japan]: https://en.wikipedia.org/wiki/Japan
