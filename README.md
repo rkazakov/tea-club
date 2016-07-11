@@ -14,7 +14,7 @@ Tea tasting experience at MYOB Sydney
 | 08 | [T2]          | [Black]  | [Melbourne Breakfast]           | -           | Gary Butler    | 28th June 2016 |
 | 07 | [Basilur]     | [Black]  | Four Seasons Autumn             | [Sri Lanka] | Ruslan Kazakov | 27th June 2016 |
 | 06 | [Basilur]     | [Green]  | Four Seasons Spring             | [Sri Lanka] | Ruslan Kazakov | 24th June 2016 |
-| 05 | [Golden Tips] | [Oolong] | Milk Oolong Smoked              | [India]     | Cherry Zhou    | 23rd June 2016 |
+| 05 | [Golden Tips] | [Oolong] | [Milk Oolong Smoked]            | [India]     | Cherry Zhou    | 23rd June 2016 |
 | 04 | [Celestial]   | [Black]  | [Sweet Harvest Pumpkin]         | -           | Kate Andrews   | 22nd June 2016 |
 | 03 | [Basilur]     | [Green]  | [Four Seasons Summer]           | [Sri Lanka] | Ruslan Kazakov | 21st June 2016 |
 | 02 | [Lupicia]     | [Oolong] | [Momo Oolong Super Grade]       | [Taiwan]    | Cherry Zhou    | 20th June 2016 |
@@ -46,6 +46,7 @@ Suggestions of teas to buy
 [Blackcurrant]: http://www.made-in-scandinavian.com/store/p1064/Lipton_Blackcurrant_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
 [Magic Fruits Lemon & Lime]: http://www.basilurshop.com.au/magic-fruits-packet-lt-lemon-lime-100g
 [Melbourne Breakfast]: http://www.t2tea.com/en/au/tea/melbourne-breakfast-loose-leaf-gift-cube-T125AE023.html
+[Milk Oolong Smoked]: http://goldentipstea.com/products/milk-oolong
 [Sweet Harvest Pumpkin]: http://www.celestialseasonings.com/products/black/sweet-harvest-pumpkin
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong Super Grade]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
