@@ -3,7 +3,7 @@ Tea tasting experience at MYOB Sydney
 
 | #  | Brand         | Type     | Name                      | Origin      | Tea Master     | Date           |
 |----|---------------|----------|---------------------------|-------------|----------------|----------------|
-| 15 | [Adore Tea]   | [Black]  | [African Bop]             | [Africa]    | Gary Butler    | 11th July 2016 |
+| 16 | [Adore Tea]   | [Black]  | [African Bop]             | [Africa]    | Gary Butler    | 11th July 2016 |
 | 15 | [Adore Tea]   | [Black]  | [Darjeeling Vintage]      | [India]     | Gary Butler    | 8th July 2016  |
 | 14 | [Adore Tea]   | [Black]  | [Keemun]                  | [China]     | Gary Butler    | 7th July 2016  |
 | 13 | -             | [Green]  | [Genmaicha]               | [Japan]     | Andrea Ho      | 7th July 2016  |
@@ -39,6 +39,7 @@ Suggestions of teas to buy
 [Oolong]: https://en.wikipedia.org/wiki/Oolong
 
 <!-- Name -->
+[African Bop]: http://adoretea.com.au/African-BOP-Teza-Estate.html
 [Darjeeling Vintage]: http://adoretea.com.au/Black/Black-Tea/Darjeeling-Vintage.html
 [Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
 [Keemun]: http://adoretea.com.au/Black/Black-Tea/Keemun.html
