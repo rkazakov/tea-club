@@ -11,7 +11,7 @@ Tea tasting experience at MYOB Sydney
 | 12 | [Lipton]      | [Black]  | [Blackcurrant]                  | -           | Kate Andrews   | 6th July 2016  |
 | 11 | [Basilur]     | [Black]  | [Magic Fruits Lemon & Lime]     | [Sri Lanka] | Ruslan Kazakov | 1st July 2016  |
 | 10 | Golden Sail   | [Green]  | Osmanthus Green Tea             | [China]     | Charlotte Bian | 30th June 2016 |
-| 09 | [Basilur]     | [Black]  | Four Seasons Winter             | [Sri Lanka] | Ruslan Kazakov | 29th June 2016 |
+| 09 | [Basilur]     | [Black]  | [Four Seasons Winter]           | [Sri Lanka] | Ruslan Kazakov | 29th June 2016 |
 | 08 | [T2]          | [Black]  | [Melbourne Breakfast]           | -           | Gary Butler    | 28th June 2016 |
 | 07 | [Basilur]     | [Black]  | [Four Seasons Autumn]           | [Sri Lanka] | Ruslan Kazakov | 27th June 2016 |
 | 06 | [Basilur]     | [Green]  | [Four Seasons Spring]           | [Sri Lanka] | Ruslan Kazakov | 24th June 2016 |
