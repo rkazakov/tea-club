@@ -3,7 +3,7 @@ Tea tasting experience at MYOB Sydney
 
 | #  | Brand         | Type     | Name                            | Origin      | Tea Master     | Date           |
 |----|---------------|----------|---------------------------------|-------------|----------------|----------------|
-| 17 | [Gewurzhaus]  | [Herbal] | [Eva's Yummy Tummy]     | [Australia] | Louise Brooks  | 12th July 2016 |
+| 17 | [Gewurzhaus]  | [Herbal] | [Eva's Yummy Tummy]             | [Australia] | Louise Brooks  | 12th July 2016 |
 | 16 | [Adore Tea]   | [Black]  | [African Bop]                   | [Africa]    | Gary Butler    | 11th July 2016 |
 | 15 | [Adore Tea]   | [Black]  | [Darjeeling Vintage]            | [India]     | Gary Butler    | 8th July 2016  |
 | 14 | [Adore Tea]   | [Black]  | [Keemun]                        | [China]     | Gary Butler    | 7th July 2016  |
@@ -42,7 +42,7 @@ Suggestions of teas to buy
 [Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
 
 <!-- Name -->
-[Eva's Organic Yummy Tummy]: http://www.gewurzhaus.com.au/evas_yummy_tummy_tea
+[Eva's Yummy Tummy]: http://www.gewurzhaus.com.au/evas_yummy_tummy_tea
 [African Bop]: http://adoretea.com.au/African-BOP-Teza-Estate.html
 [Darjeeling Vintage]: http://adoretea.com.au/Black/Black-Tea/Darjeeling-Vintage.html
 [Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
