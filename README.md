@@ -3,6 +3,7 @@ Tea tasting experience at MYOB Sydney
 
 | #  | Brand         | Type     | Name                            | Origin      | Tea Master     | Date           |
 |----|---------------|----------|---------------------------------|-------------|----------------|----------------|
+| 17 | [Gewurzhaus]  | [Herbal] | [Eva's Organic Yummy Tummy]     | [Australia] | Louise Brooks  | 12th July 2016 |
 | 16 | [Adore Tea]   | [Black]  | [African Bop]                   | [Africa]    | Gary Butler    | 11th July 2016 |
 | 15 | [Adore Tea]   | [Black]  | [Darjeeling Vintage]            | [India]     | Gary Butler    | 8th July 2016  |
 | 14 | [Adore Tea]   | [Black]  | [Keemun]                        | [China]     | Gary Butler    | 7th July 2016  |
@@ -31,14 +32,17 @@ Suggestions of teas to buy
 [Golden Tips]: http://www.goldentipstea.com
 [Lipton]: http://www.liptontea.com
 [Adore Tea]: http://adoretea.com.au
+[Gewurzhaus]: http://www.gewurzhaus.com.au
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
 [Green]: https://en.wikipedia.org/wiki/Green_tea
 [White]: https://en.wikipedia.org/wiki/White_tea
 [Oolong]: https://en.wikipedia.org/wiki/Oolong
+[Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
 
 <!-- Name -->
+[Eva's Organic Yummy Tummy]: http://www.gewurzhaus.com.au/evas_yummy_tummy_tea
 [African Bop]: http://adoretea.com.au/African-BOP-Teza-Estate.html
 [Darjeeling Vintage]: http://adoretea.com.au/Black/Black-Tea/Darjeeling-Vintage.html
 [Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
@@ -54,6 +58,7 @@ Suggestions of teas to buy
 
 <!-- Origin -->
 [Africa]: https://en.wikipedia.org/wiki/Africa
+[Australia]: https://en.wikipedia.org/wiki/Australia
 [China]: https://en.wikipedia.org/wiki/China
 [India]: https://en.wikipedia.org/wiki/India
 [Japan]: https://en.wikipedia.org/wiki/Japan
