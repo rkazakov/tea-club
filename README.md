@@ -3,6 +3,7 @@ Tea tasting experience at MYOB Sydney
 
 | #  | Brand         | Type     | Name                            | Origin      | Tea Master     | Date           |
 |----|---------------|----------|---------------------------------|-------------|----------------|----------------|
+| 19 | [Basilur]     | [Black]  | [Tea House]                     | [Sri Lanka] | Ruslan Kazakov | 14th July 2016 |
 | 18 | [Celestial]   | [Black]  | [Cranberry Vanilla]             | -           | Kate Andrews   | 13th July 2016 |
 | 17 | [Gewurzhaus]  | [Herbal] | [Eva's Yummy Tummy]             | [Australia] | Louise Brooks  | 12th July 2016 |
 | 16 | [Adore Tea]   | [Black]  | [African Bop]                   | [Africa]    | Gary Butler    | 11th July 2016 |
@@ -25,24 +26,8 @@ Tea tasting experience at MYOB Sydney
 ## Tea suggestions
 Suggestions of teas to buy
 
-<!-- Brand -->
-[Basilur]: http://www.basilurshop.com.au
-[Celestial]: http://www.celestialseasonings.com
-[T2]: http://www.t2tea.com
-[Lupicia]: http://www.lupicia.com.au
-[Golden Tips]: http://www.goldentipstea.com
-[Lipton]: http://www.liptontea.com
-[Adore Tea]: http://adoretea.com.au
-[Gewurzhaus]: http://www.gewurzhaus.com.au
-
-<!-- Type -->
-[Black]: https://en.wikipedia.org/wiki/Black_tea
-[Green]: https://en.wikipedia.org/wiki/Green_tea
-[White]: https://en.wikipedia.org/wiki/White_tea
-[Oolong]: https://en.wikipedia.org/wiki/Oolong
-[Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
-
 <!-- Name -->
+[Tea House]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-tea-house
 [Cranberry Vanilla]: http://www.celestialseasonings.com/products/herbal/cranberry-vanilla-wonderland
 [Eva's Yummy Tummy]: http://www.gewurzhaus.com.au/evas_yummy_tummy_tea
 [African Bop]: http://adoretea.com.au/African-BOP-Teza-Estate.html
@@ -61,6 +46,23 @@ Suggestions of teas to buy
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong Super Grade]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Festive Collection Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+
+<!-- Brand -->
+[Basilur]: http://www.basilurshop.com.au
+[Celestial]: http://www.celestialseasonings.com
+[T2]: http://www.t2tea.com
+[Lupicia]: http://www.lupicia.com.au
+[Golden Tips]: http://www.goldentipstea.com
+[Lipton]: http://www.liptontea.com
+[Adore Tea]: http://adoretea.com.au
+[Gewurzhaus]: http://www.gewurzhaus.com.au
+
+<!-- Type -->
+[Black]: https://en.wikipedia.org/wiki/Black_tea
+[Green]: https://en.wikipedia.org/wiki/Green_tea
+[White]: https://en.wikipedia.org/wiki/White_tea
+[Oolong]: https://en.wikipedia.org/wiki/Oolong
+[Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
 
 <!-- Origin -->
 [Africa]: https://en.wikipedia.org/wiki/Africa
