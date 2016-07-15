@@ -1,28 +1,28 @@
 # Tea Club 
 Tea tasting experience at MYOB Sydney
 
-| #  | Brand         | Type        | Name                      | Origin      | Tea Master     | Date           |
-|----|---------------|-------------|---------------------------|-------------|----------------|----------------|
-| 20 | [Sempio]      | [Oksusucha] | [Corn Tassel]             | [Korea]     | Charlotte Bian | 15th July 2016 |
-| 19 | [Basilur]     | [Black]     | [Tea House]               | [Sri Lanka] | Ruslan Kazakov | 14th July 2016 |
-| 18 | [Celestial]   | [Black]     | [Cranberry Vanilla]       | -           | Kate Andrews   | 13th July 2016 |
-| 17 | [Gewurzhaus]  | [Herbal]    | [Eva's Yummy Tummy]       | [Australia] | Louise Brooks  | 12th July 2016 |
-| 16 | [Adore Tea]   | [Black]     | [African Bop]             | [Africa]    | Gary Butler    | 11th July 2016 |
-| 15 | [Adore Tea]   | [Black]     | [Darjeeling Vintage]      | [India]     | Gary Butler    | 8th July 2016  |
-| 14 | [Adore Tea]   | [Black]     | [Keemun]                  | [China]     | Gary Butler    | 7th July 2016  |
-| 13 | -             | [Green]     | [Genmaicha]               | [Japan]     | Andrea Ho      | 7th July 2016  |
-| 12 | [Lipton]      | [Black]     | [Blackcurrant]            | -           | Kate Andrews   | 6th July 2016  |
-| 11 | [Basilur]     | [Black]     | [Lemon & Lime]            | [Sri Lanka] | Ruslan Kazakov | 1st July 2016  |
-| 10 | Golden Sail   | [Green]     | [Osmanthus Green Tea]     | [China]     | Charlotte Bian | 30th June 2016 |
-| 09 | [Basilur]     | [Black]     | [Four Seasons Winter]     | [Sri Lanka] | Ruslan Kazakov | 29th June 2016 |
-| 08 | [T2]          | [Black]     | [Melbourne Breakfast]     | -           | Gary Butler    | 28th June 2016 |
-| 07 | [Basilur]     | [Black]     | [Four Seasons Autumn]     | [Sri Lanka] | Ruslan Kazakov | 27th June 2016 |
-| 06 | [Basilur]     | [Green]     | [Four Seasons Spring]     | [Sri Lanka] | Ruslan Kazakov | 24th June 2016 |
-| 05 | [Golden Tips] | [Oolong]    | [Milk Oolong Smoked]      | [India]     | Cherry Zhou    | 23rd June 2016 |
-| 04 | [Celestial]   | [Black]     | [Sweet Harvest Pumpkin]   | -           | Kate Andrews   | 22nd June 2016 |
-| 03 | [Basilur]     | [Green]     | [Four Seasons Summer]     | [Sri Lanka] | Ruslan Kazakov | 21st June 2016 |
-| 02 | [Lupicia]     | [Oolong]    | [Momo Oolong Super Grade] | [Taiwan]    | Cherry Zhou    | 20th June 2016 |
-| 01 | [Basilur]     | [Black]     | [Fruit Shop]              | [Sri Lanka] | Ruslan Kazakov | 20th June 2016 |
+| #  | Brand         | Type        | Name                      | Origin      | Tea Master     | Date     |
+|----|---------------|-------------|---------------------------|-------------|----------------|----------|
+| 20 | [Sempio]      | [Oksusucha] | [Corn Tassel]             | [Korea]     | Charlotte Bian | 15-07-16 |
+| 19 | [Basilur]     | [Black]     | [Tea House]               | [Sri Lanka] | Ruslan Kazakov | 14-07-16 |
+| 18 | [Celestial]   | [Black]     | [Cranberry Vanilla]       | -           | Kate Andrews   | 13-07-16 |
+| 17 | [Gewurzhaus]  | [Herbal]    | [Eva's Yummy Tummy]       | [Australia] | Louise Brooks  | 12-07-16 |
+| 16 | [Adore Tea]   | [Black]     | [African Bop]             | [Africa]    | Gary Butler    | 11-07-16 |
+| 15 | [Adore Tea]   | [Black]     | [Darjeeling Vintage]      | [India]     | Gary Butler    | 08-07-16 |
+| 14 | [Adore Tea]   | [Black]     | [Keemun]                  | [China]     | Gary Butler    | 07-07-16 |
+| 13 | -             | [Genmaicha] | Brown rice tea            | [Japan]     | Andrea Ho      | 07-07-16 |
+| 12 | [Lipton]      | [Black]     | [Blackcurrant]            | -           | Kate Andrews   | 06-07-16 |
+| 11 | [Basilur]     | [Black]     | [Lemon & Lime]            | [Sri Lanka] | Ruslan Kazakov | 01-07-16 |
+| 10 | Golden Sail   | [Green]     | [Osmanthus Green Tea]     | [China]     | Charlotte Bian | 30-06-16 |
+| 09 | [Basilur]     | [Black]     | [Four Seasons Winter]     | [Sri Lanka] | Ruslan Kazakov | 29-06-16 |
+| 08 | [T2]          | [Black]     | [Melbourne Breakfast]     | -           | Gary Butler    | 28-06-16 |
+| 07 | [Basilur]     | [Black]     | [Four Seasons Autumn]     | [Sri Lanka] | Ruslan Kazakov | 27-06-16 |
+| 06 | [Basilur]     | [Green]     | [Four Seasons Spring]     | [Sri Lanka] | Ruslan Kazakov | 24-06-16 |
+| 05 | [Golden Tips] | [Oolong]    | [Milk Oolong Smoked]      | [India]     | Cherry Zhou    | 23-06-16 |
+| 04 | [Celestial]   | [Black]     | [Sweet Harvest Pumpkin]   | -           | Kate Andrews   | 22-06-16 |
+| 03 | [Basilur]     | [Green]     | [Four Seasons Summer]     | [Sri Lanka] | Ruslan Kazakov | 21-06-16 |
+| 02 | [Lupicia]     | [Oolong]    | [Momo Oolong Super Grade] | [Taiwan]    | Cherry Zhou    | 20-06-16 |
+| 01 | [Basilur]     | [Black]     | [Fruit Shop]              | [Sri Lanka] | Ruslan Kazakov | 20-06-16 |
 
 ## Tea suggestions
 Suggestions of teas to buy
@@ -34,7 +34,6 @@ Suggestions of teas to buy
 [Eva's Yummy Tummy]: http://www.gewurzhaus.com.au/evas_yummy_tummy_tea
 [African Bop]: http://adoretea.com.au/African-BOP-Teza-Estate.html
 [Darjeeling Vintage]: http://adoretea.com.au/Black/Black-Tea/Darjeeling-Vintage.html
-[Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
 [Keemun]: http://adoretea.com.au/Black/Black-Tea/Keemun.html
 [Blackcurrant]: http://www.made-in-scandinavian.com/store/p1064/Lipton_Blackcurrant_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
 [Magic Fruits Lemon & Lime]: http://www.basilurshop.com.au/magic-fruits-packet-lt-lemon-lime-100g
@@ -66,6 +65,7 @@ Suggestions of teas to buy
 [White]: https://en.wikipedia.org/wiki/White_tea
 [Oolong]: https://en.wikipedia.org/wiki/Oolong
 [Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
+[Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
 [Oksusucha]: https://en.wikipedia.org/wiki/Oksusucha
 
 <!-- Origin -->
