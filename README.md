@@ -3,6 +3,7 @@ Tea tasting experience at MYOB Sydney
 
 | #  | Brand         | Type     | Name                            | Origin      | Tea Master     | Date           |
 |----|---------------|----------|---------------------------------|-------------|----------------|----------------|
+| 20 | Sempio        | ?        | Corn Tassel                     | ?           | Charlotte Bian | 15th July 2016 |
 | 19 | [Basilur]     | [Black]  | [Tea House]                     | [Sri Lanka] | Ruslan Kazakov | 14th July 2016 |
 | 18 | [Celestial]   | [Black]  | [Cranberry Vanilla]             | -           | Kate Andrews   | 13th July 2016 |
 | 17 | [Gewurzhaus]  | [Herbal] | [Eva's Yummy Tummy]             | [Australia] | Louise Brooks  | 12th July 2016 |
