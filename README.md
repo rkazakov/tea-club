@@ -10,7 +10,7 @@ Tea tasting experience at MYOB Sydney
 | 16 | [Adore Tea]   | [Black]     | [African Bop]             | [Africa]    | Gary Butler    | 11-07-16 |
 | 15 | [Adore Tea]   | [Black]     | [Darjeeling Vintage]      | [India]     | Gary Butler    | 08-07-16 |
 | 14 | [Adore Tea]   | [Black]     | [Keemun]                  | [China]     | Gary Butler    | 07-07-16 |
-| 13 | -             | [Genmaicha] | Brown rice tea            | [Japan]     | Andrea Ho      | 07-07-16 |
+| 13 | -             | [Genmaicha] | [Brown Rice Tea]          | [Japan]     | Andrea Ho      | 07-07-16 |
 | 12 | [Lipton]      | [Black]     | [Blackcurrant]            | -           | Kate Andrews   | 06-07-16 |
 | 11 | [Basilur]     | [Black]     | [Lemon & Lime]            | [Sri Lanka] | Ruslan Kazakov | 01-07-16 |
 | 10 | Golden Sail   | [Green]     | [Osmanthus Green Tea]     | [China]     | Charlotte Bian | 30-06-16 |
@@ -26,6 +26,17 @@ Tea tasting experience at MYOB Sydney
 
 ## Tea suggestions
 Suggestions of teas to buy
+
+<!-- Brand -->
+[Adore Tea]: http://adoretea.com.au
+[Basilur]: http://www.basilurshop.com.au
+[Celestial]: http://www.celestialseasonings.com
+[Gewurzhaus]: http://www.gewurzhaus.com.au
+[Golden Tips]: http://www.goldentipstea.com
+[Lipton]: http://www.liptontea.com
+[Lupicia]: http://www.lupicia.com.au
+[Sempio]: http://www.sempio.com
+[T2]: http://www.t2tea.com
 
 <!-- Name -->
 [Corn Tassel]: http://www.sempio.com/eng/products/View.asp?mc=020101&cate1=PDZZ&cate2=PDZZ4
@@ -48,25 +59,14 @@ Suggestions of teas to buy
 [Momo Oolong Super Grade]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
 
-<!-- Brand -->
-[Basilur]: http://www.basilurshop.com.au
-[Celestial]: http://www.celestialseasonings.com
-[T2]: http://www.t2tea.com
-[Lupicia]: http://www.lupicia.com.au
-[Golden Tips]: http://www.goldentipstea.com
-[Lipton]: http://www.liptontea.com
-[Adore Tea]: http://adoretea.com.au
-[Gewurzhaus]: http://www.gewurzhaus.com.au
-[Sempio]: http://www.sempio.com
-
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
-[Green]: https://en.wikipedia.org/wiki/Green_tea
-[White]: https://en.wikipedia.org/wiki/White_tea
-[Oolong]: https://en.wikipedia.org/wiki/Oolong
-[Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
 [Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
+[Green]: https://en.wikipedia.org/wiki/Green_tea
+[Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
 [Oksusucha]: https://en.wikipedia.org/wiki/Oksusucha
+[Oolong]: https://en.wikipedia.org/wiki/Oolong
+[White]: https://en.wikipedia.org/wiki/White_tea
 
 <!-- Origin -->
 [Africa]: https://en.wikipedia.org/wiki/Africa
@@ -74,6 +74,6 @@ Suggestions of teas to buy
 [China]: https://en.wikipedia.org/wiki/China
 [India]: https://en.wikipedia.org/wiki/India
 [Japan]: https://en.wikipedia.org/wiki/Japan
+[Korea]: https://en.wikipedia.org/wiki/Korea
 [Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
-[Korea]: https://en.wikipedia.org/wiki/Korea
