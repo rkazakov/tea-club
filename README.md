@@ -10,9 +10,9 @@ Tea tasting experience at MYOB Sydney
 | 16 | [Adore Tea]   | [Black]     | [African Bop]             | [Africa]    | Gary Butler    | 11-07-16 |
 | 15 | [Adore Tea]   | [Black]     | [Darjeeling Vintage]      | [India]     | Gary Butler    | 08-07-16 |
 | 14 | [Adore Tea]   | [Black]     | [Keemun]                  | [China]     | Gary Butler    | 07-07-16 |
-| 13 | -             | [Genmaicha] | [Brown Rice Tea]          | [Japan]     | Andrea Ho      | 07-07-16 |
+| 13 | -             | [Genmaicha] | Brown Rice Tea            | [Japan]     | Andrea Ho      | 07-07-16 |
 | 12 | [Lipton]      | [Black]     | [Blackcurrant]            | -           | Kate Andrews   | 06-07-16 |
-| 11 | [Basilur]     | [Black]     | [Lemon & Lime]            | [Sri Lanka] | Ruslan Kazakov | 01-07-16 |
+| 11 | [Basilur]     | [Black]     | [Magic Fruits Lemon&Lime] | [Sri Lanka] | Ruslan Kazakov | 01-07-16 |
 | 10 | Golden Sail   | [Green]     | [Osmanthus Green Tea]     | [China]     | Charlotte Bian | 30-06-16 |
 | 09 | [Basilur]     | [Black]     | [Four Seasons Winter]     | [Sri Lanka] | Ruslan Kazakov | 29-06-16 |
 | 08 | [T2]          | [Black]     | [Melbourne Breakfast]     | -           | Gary Butler    | 28-06-16 |
@@ -47,7 +47,7 @@ Suggestions of teas to buy
 [Darjeeling Vintage]: http://adoretea.com.au/Black/Black-Tea/Darjeeling-Vintage.html
 [Keemun]: http://adoretea.com.au/Black/Black-Tea/Keemun.html
 [Blackcurrant]: http://www.made-in-scandinavian.com/store/p1064/Lipton_Blackcurrant_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
-[Magic Fruits Lemon & Lime]: http://www.basilurshop.com.au/magic-fruits-packet-lt-lemon-lime-100g
+[Magic Fruits Lemon&Lime]: http://www.basilurshop.com.au/magic-fruits-packet-lt-lemon-lime-100g
 [Osmanthus Green Tea]: http://www.teaspring.com/Osmanthus-Flower.asp
 [Four Seasons Winter]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-t-caddy-lt-winter-tea-125g.html
 [Melbourne Breakfast]: http://www.t2tea.com/en/au/tea/melbourne-breakfast-loose-leaf-gift-cube-T125AE023.html
