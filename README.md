@@ -47,7 +47,7 @@ Suggestions of teas to buy
 [Sweet Harvest Pumpkin]: http://www.celestialseasonings.com/products/black/sweet-harvest-pumpkin
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong Super Grade]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
-[Festive Collection Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+[Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
 
 <!-- Brand -->
 [Basilur]: http://www.basilurshop.com.au
