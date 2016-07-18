@@ -11,7 +11,7 @@ Tea tasting experience at MYOB Sydney
 | 16 | [Adore Tea]   | [Black]     | [African Bop]               | [Africa]    | Gary Butler    | 11-07-16 |
 | 15 | [Adore Tea]   | [Black]     | [Darjeeling Vintage]        | [India]     | Gary Butler    | 08-07-16 |
 | 14 | [Adore Tea]   | [Black]     | [Keemun]                    | [China]     | Gary Butler    | 07-07-16 |
-| 13 | -             | [Genmaicha] | Brown Rice Tea              | [Japan]     | Andrea Ho      | 07-07-16 |
+| 13 | -             | [Green]     | [Genmaicha]                 | [Japan]     | Andrea Ho      | 07-07-16 |
 | 12 | [Lipton]      | [Black]     | [Blackcurrant]              | -           | Kate Andrews   | 06-07-16 |
 | 11 | [Basilur]     | [Black]     | [Magic Fruits Lemon & Lime] | [Sri Lanka] | Ruslan Kazakov | 01-07-16 |
 | 10 | Golden Sail   | [Green]     | [Osmanthus Green Tea]       | [China]     | Charlotte Bian | 30-06-16 |
