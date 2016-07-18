@@ -3,7 +3,7 @@ Tea tasting experience at MYOB Sydney
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
-| 21 | [Zhen Pin]    | [Green]     | [Shi Feng Longjing]         | [China]     | Ray Dai        | 18-07-16 |
+| 21 | Zhen Pin      | [Green]     | [Shi Feng Longjing]         | [China]     | Ray Dai        | 18-07-16 |
 | 20 | [Sempio]      | [Oksusucha] | [Corn Tassel]               | [Korea]     | Charlotte Bian | 15-07-16 |
 | 19 | [Basilur]     | [Black]     | [Tea House]                 | [Sri Lanka] | Ruslan Kazakov | 14-07-16 |
 | 18 | [Celestial]   | [Black]     | [Cranberry Vanilla]         | -           | Kate Andrews   | 13-07-16 |
@@ -38,7 +38,6 @@ Suggestions of teas to buy
 [Lupicia]: http://www.lupicia.com.au
 [Sempio]: http://www.sempio.com
 [T2]: http://www.t2tea.com
-[Zhen Pin]: http://www.zhentea.ca
 
 <!-- Name -->
 [Shi Feng Longjing]: https://en.wikipedia.org/wiki/Longjing_tea
