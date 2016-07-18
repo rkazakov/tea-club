@@ -3,6 +3,7 @@ Tea tasting experience at MYOB Sydney
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
+| 21 | [Zhen Pin]    | [Green]     | [Shi Feng Longjing]         | [China]     | Ray Dai        | 18-07-16 |
 | 20 | [Sempio]      | [Oksusucha] | [Corn Tassel]               | [Korea]     | Charlotte Bian | 15-07-16 |
 | 19 | [Basilur]     | [Black]     | [Tea House]                 | [Sri Lanka] | Ruslan Kazakov | 14-07-16 |
 | 18 | [Celestial]   | [Black]     | [Cranberry Vanilla]         | -           | Kate Andrews   | 13-07-16 |
