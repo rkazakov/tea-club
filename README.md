@@ -38,8 +38,10 @@ Suggestions of teas to buy
 [Lupicia]: http://www.lupicia.com.au
 [Sempio]: http://www.sempio.com
 [T2]: http://www.t2tea.com
+[Zhen Pin]: http://www.zhentea.ca
 
 <!-- Name -->
+[Shi Feng Longjing]: https://en.wikipedia.org/wiki/Longjing_tea
 [Corn Tassel]: http://www.sempio.com/eng/products/View.asp?mc=020101&cate1=PDZZ&cate2=PDZZ4
 [Tea House]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-tea-house
 [Cranberry Vanilla]: http://www.celestialseasonings.com/products/herbal/cranberry-vanilla-wonderland
