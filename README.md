@@ -56,7 +56,7 @@ Suggestions of teas to buy
 [Melbourne Breakfast]: http://www.t2tea.com/en/au/tea/melbourne-breakfast-loose-leaf-gift-cube-T125AE023.html
 [Four Seasons Autumn]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-t-caddy-lt-autumn-tea-125g.html
 [Four Seasons Spring]: http://www.basilurshop.com.au/four-seasons-t-caddy-lt-spring-tea-125g
-[Milk Oolong Smoked]: http://goldentipstea.com/products/milk-oolong
+[Milk Oolong Smoked]: http://www.eicfinefoods.com/products/milk-oolong-tea-pouch-100g/
 [Sweet Harvest Pumpkin]: http://www.celestialseasonings.com/products/black/sweet-harvest-pumpkin
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong Super Grade]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
