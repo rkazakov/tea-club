@@ -3,13 +3,14 @@ Tea tasting experience at MYOB Sydney
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
-| 22 | [Basilur]     | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | Cherry Zhou    | 19-07-16 |
+| 23 | [Adore Tea]   | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Gary Butler    | 20-07-16 |
+| 22 | [Tipson]      | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | Cherry Zhou    | 19-07-16 |
 | 21 | Zhen Pin      | [Green]     | [Shi Feng Longjing]         | [China]     | Ray Dai        | 18-07-16 |
 | 20 | [Sempio]      | [Oksusucha] | [Corn Tassel]               | [Korea]     | Charlotte Bian | 15-07-16 |
 | 19 | [Basilur]     | [Black]     | [Tea House]                 | [Sri Lanka] | Ruslan Kazakov | 14-07-16 |
 | 18 | [Celestial]   | [Black]     | [Cranberry Vanilla]         | -           | Kate Andrews   | 13-07-16 |
 | 17 | [Gewurzhaus]  | [Herbal]    | [Eva's Yummy Tummy]         | [Australia] | Louise Brooks  | 12-07-16 |
-| 16 | [Adore Tea]   | [Black]     | [African Bop]               | [Africa]    | Gary Butler    | 11-07-16 |
+| 16 | [Adore Tea]   | [Black]     | [African BOP]               | [Africa]    | Gary Butler    | 11-07-16 |
 | 15 | [Adore Tea]   | [Black]     | [Darjeeling Vintage]        | [India]     | Gary Butler    | 08-07-16 |
 | 14 | [Adore Tea]   | [Black]     | [Keemun]                    | [China]     | Gary Butler    | 07-07-16 |
 | 13 | -             | [Genmaicha] | Brown rice tea              | [Japan]     | Andrea Ho      | 07-07-16 |
@@ -39,14 +40,17 @@ Suggestions of teas to buy
 [Lupicia]: http://www.lupicia.com.au
 [Sempio]: http://www.sempio.com
 [T2]: http://www.t2tea.com
+[Tipson]: http://www.tipsontea.com
 
 <!-- Name -->
+[Ceylon BOP1]: http://adoretea.com.au/Black/Black-Tea/Ceylon-BOP1.html
+[Ethno Blue Flowers]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-blue-flowers
 [Shi Feng Longjing]: https://en.wikipedia.org/wiki/Longjing_tea
 [Corn Tassel]: http://www.sempio.com/eng/products/View.asp?mc=020101&cate1=PDZZ&cate2=PDZZ4
 [Tea House]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-tea-house
 [Cranberry Vanilla]: http://www.celestialseasonings.com/products/herbal/cranberry-vanilla-wonderland
 [Eva's Yummy Tummy]: http://www.gewurzhaus.com.au/evas_yummy_tummy_tea
-[African Bop]: http://adoretea.com.au/African-BOP-Teza-Estate.html
+[African BOP]: http://adoretea.com.au/African-BOP-Teza-Estate.html
 [Darjeeling Vintage]: http://adoretea.com.au/Black/Black-Tea/Darjeeling-Vintage.html
 [Keemun]: http://adoretea.com.au/Black/Black-Tea/Keemun.html
 [Blackcurrant]: http://www.made-in-scandinavian.com/store/p1064/Lipton_Blackcurrant_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
