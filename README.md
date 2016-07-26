@@ -1,11 +1,11 @@
 # Tea Club - MYOB Sydney
 Tea tasting experience at MYOB Sydney
 
+```
 Where: MYOB Sydney Office
-
 When: Monday - Friday 3pm
-
 What: Come and try new tea everyday
+```
 
 ## Meetings History
 
