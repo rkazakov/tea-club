@@ -11,6 +11,7 @@ What: Come and try new tea everyday
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
+| 25 | [Basilur]     | [Green]     | [Jasmine]                   | [Sri Lanka] | Ruslan Kazakov | 26-07-16 |
 | 24 | [Basilur]     | [Black]     | [Window Sri Lanka]          | [Sri Lanka] | Cherry Zhou    | 21-07-16 |
 | 23 | [Adore Tea]   | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Gary Butler    | 20-07-16 |
 | 22 | [Tipson]      | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | Cherry Zhou    | 19-07-16 |
@@ -52,6 +53,7 @@ Suggestions of teas to buy
 [Tipson]: http://www.tipsontea.com
 
 <!-- Name -->
+[Jasmine]: http://www.basilurtea.com.au/tea_collection/fruits_and_flower/two-layer-t-caddy-lt-jasmine-green-tea-125g.html
 [Window Sri Lanka]: http://www.basilurshop.com.au/basilur/window-collection-t-caddy-lt-sri-lanka/
 [Ceylon BOP1]: http://adoretea.com.au/Black/Black-Tea/Ceylon-BOP1.html
 [Ethno Blue Flowers]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-blue-flowers
