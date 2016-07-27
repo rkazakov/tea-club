@@ -11,6 +11,7 @@ What: Come and try new tea everyday
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
+| 26 | [Tipson]      | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Cherry Zhou    | 27-07-16 |
 | 25 | [Basilur]     | [Green]     | [Jasmine]                   | [Sri Lanka] | Ruslan Kazakov | 26-07-16 |
 | 24 | [Basilur]     | [Black]     | [Window Sri Lanka]          | [Sri Lanka] | Cherry Zhou    | 21-07-16 |
 | 23 | [Adore Tea]   | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Gary Butler    | 20-07-16 |
