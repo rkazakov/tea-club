@@ -11,6 +11,7 @@ What: Come and try new tea everyday
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
+| 29 | [Gewurzhaus]  | [Herbal]    | [Professor Clara's Clarity] | [Australia] | Louise Brooks  | 09-08-16 |
 | 28 | [Tipson]      | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Cherry Zhou    | 02-08-16 |
 | 27 | [Basilur]     | [Green]     | [Green Tea]                 | [Sri Lanka] | Ruslan Kazakov | 29-07-16 |
 | 26 | [Tipson]      | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Cherry Zhou    | 27-07-16 |
@@ -56,6 +57,7 @@ Suggestions of teas to buy
 [Tipson]: http://www.tipsontea.com
 
 <!-- Name -->
+[Professor Clara's Clarity]: http://www.gewurzhaus.com.au/professor_claras_clarity_tea
 [Ethno White Flowers]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-white-flowers
 [Green Tea]: http://www.basilurtea.com.au/tea_collection/fruits_and_flower/two-layer-t-caddy-lt-jasmine-green-tea-125g.html
 [Ethno Cream Buds]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-cream-buds
