@@ -104,6 +104,7 @@ Suggestions of teas to buy
 [China]: https://en.wikipedia.org/wiki/China
 [India]: https://en.wikipedia.org/wiki/India
 [Japan]: https://en.wikipedia.org/wiki/Japan
+[Korea]: https://en.wikipedia.org/wiki/Kenya
 [Korea]: https://en.wikipedia.org/wiki/Korea
 [Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
