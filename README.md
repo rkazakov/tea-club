@@ -11,6 +11,7 @@ What: Come and try new tea everyday
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
+| 30 | [Wedgwood]    | [Black]     | [English Breakfast]         | [Australia] | Jess Cozanitis | 10-08-16 |
 | 29 | [Gewurzhaus]  | [Herbal]    | [Professor Clara's Clarity] | [Australia] | Louise Brooks  | 09-08-16 |
 | 28 | [Tipson]      | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Cherry Zhou    | 02-08-16 |
 | 27 | [Basilur]     | [Green]     | [Green Tea]                 | [Sri Lanka] | Ruslan Kazakov | 29-07-16 |
@@ -55,8 +56,10 @@ Suggestions of teas to buy
 [Sempio]: http://www.sempio.com
 [T2]: http://www.t2tea.com
 [Tipson]: http://www.tipsontea.com
+[Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[English Breakfast]: https://www.wedgwood.com.au/wedgwood-tea-english-breakfast-140g-caddy.html
 [Professor Clara's Clarity]: http://www.gewurzhaus.com.au/professor_claras_clarity_tea
 [Ethno White Flowers]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-white-flowers
 [Green Tea]: http://www.basilurtea.com.au/tea_collection/fruits_and_flower/two-layer-t-caddy-lt-jasmine-green-tea-125g.html
