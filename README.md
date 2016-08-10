@@ -11,7 +11,7 @@ What: Come and try new tea everyday
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
-| 30 | [Wedgwood]    | [Black]     | [English Breakfast]         | [Australia] | Jess Cozanitis | 10-08-16 |
+| 30 | [Wedgwood]    | [Black]     | [English Breakfast]         | [Kenya]     | Jess Cozanitis | 10-08-16 |
 | 29 | [Gewurzhaus]  | [Herbal]    | [Professor Clara's Clarity] | [Australia] | Louise Brooks  | 09-08-16 |
 | 28 | [Tipson]      | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Cherry Zhou    | 02-08-16 |
 | 27 | [Basilur]     | [Green]     | [Green Tea]                 | [Sri Lanka] | Ruslan Kazakov | 29-07-16 |
