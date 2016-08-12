@@ -11,6 +11,7 @@ What: Come and try new tea everyday
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
+| 31 | [Basilur]     | [Black]     | [Orient Delight]            | [Sri Lanka] | Ruslan Kazakov | 12-08-16 |
 | 30 | [Wedgwood]    | [Black]     | [English Breakfast]         | [Kenya]     | Jess Cozanitis | 10-08-16 |
 | 29 | [Gewurzhaus]  | [Herbal]    | [Professor Clara's Clarity] | [Australia] | Louise Brooks  | 09-08-16 |
 | 28 | [Tipson]      | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Cherry Zhou    | 02-08-16 |
@@ -59,6 +60,7 @@ Suggestions of teas to buy
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Orient Delight]: http://www.basilurtea.com.au/tea_collection/oriental_collection/oriental-collection-lt-oriental-delight-100g.html
 [English Breakfast]: https://www.wedgwood.com.au/wedgwood-tea-english-breakfast-140g-caddy.html
 [Professor Clara's Clarity]: http://www.gewurzhaus.com.au/professor_claras_clarity_tea
 [Ethno White Flowers]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-white-flowers
