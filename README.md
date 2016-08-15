@@ -107,6 +107,7 @@ Suggestions of teas to buy
 [Australia]: https://en.wikipedia.org/wiki/Australia
 [Brazil]: https://en.wikipedia.org/wiki/Brazil
 [China]: https://en.wikipedia.org/wiki/China
+[Germany]: https://en.wikipedia.org/wiki/Germany
 [India]: https://en.wikipedia.org/wiki/India
 [Japan]: https://en.wikipedia.org/wiki/Japan
 [Kenya]: https://en.wikipedia.org/wiki/Kenya
