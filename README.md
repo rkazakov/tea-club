@@ -26,7 +26,7 @@ What: Come and try new tea everyday
 | 20 | [Sempio]      | [Oksusucha] | [Corn Tassel]               | [Korea]     | Charlotte Bian | 15-07-16 |
 | 19 | [Basilur]     | [Black]     | [Tea House]                 | [Sri Lanka] | Ruslan Kazakov | 14-07-16 |
 | 18 | [Celestial]   | [Black]     | [Cranberry Vanilla]         | -           | Kate Andrews   | 13-07-16 |
-| 17 | [Gewurzhaus]  | [Herbal]    | [Eva's Yummy Tummy]         | [Australia] | Louise Brooks  | 12-07-16 |
+| 17 | [Gewurzhaus]  | [Herbal]    | [Eva's Yummy Tummy]         | [Germany]   | Louise Brooks  | 12-07-16 |
 | 16 | [Adore Tea]   | [Black]     | [African BOP]               | [Africa]    | Gary Butler    | 11-07-16 |
 | 15 | [Adore Tea]   | [Black]     | [Darjeeling Vintage]        | [India]     | Gary Butler    | 08-07-16 |
 | 14 | [Adore Tea]   | [Black]     | [Keemun]                    | [China]     | Gary Butler    | 07-07-16 |
