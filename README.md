@@ -11,10 +11,10 @@ What: Come and try new tea everyday
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
-| 32 | [Gewurzhaus]  | [Herbal]    | [Heavenly Good Luck]        | [Australia] | Louise Brooks  | 15-08-16 |
+| 32 | [Gewurzhaus]  | [Herbal]    | [Heavenly Good Luck]        | [Indial]    | Louise Brooks  | 15-08-16 |
 | 31 | [Basilur]     | [Black]     | [Orient Delight]            | [Sri Lanka] | Ruslan Kazakov | 12-08-16 |
 | 30 | [Wedgwood]    | [Black]     | [English Breakfast]         | [Kenya]     | Jess Cozanitis | 10-08-16 |
-| 29 | [Gewurzhaus]  | [Herbal]    | [Professor Clara's Clarity] | [Australia] | Louise Brooks  | 09-08-16 |
+| 29 | [Gewurzhaus]  | [Herbal]    | [Professor Clara's Clarity] | [Brazil]    | Louise Brooks  | 09-08-16 |
 | 28 | [Tipson]      | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Cherry Zhou    | 02-08-16 |
 | 27 | [Basilur]     | [Green]     | [Green Tea]                 | [Sri Lanka] | Ruslan Kazakov | 29-07-16 |
 | 26 | [Tipson]      | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Cherry Zhou    | 27-07-16 |
@@ -105,6 +105,7 @@ Suggestions of teas to buy
 <!-- Origin -->
 [Africa]: https://en.wikipedia.org/wiki/Africa
 [Australia]: https://en.wikipedia.org/wiki/Australia
+[Brazil]: https://en.wikipedia.org/wiki/Brazil
 [China]: https://en.wikipedia.org/wiki/China
 [India]: https://en.wikipedia.org/wiki/India
 [Japan]: https://en.wikipedia.org/wiki/Japan
