@@ -11,6 +11,7 @@ What: Come and try new tea everyday
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
+| 32 | [Gewurzhaus]  | [Herbal]    | [Heavenly Good Luck]        | [Australia] | Louise Brooks  | 15-08-16 |
 | 31 | [Basilur]     | [Black]     | [Orient Delight]            | [Sri Lanka] | Ruslan Kazakov | 12-08-16 |
 | 30 | [Wedgwood]    | [Black]     | [English Breakfast]         | [Kenya]     | Jess Cozanitis | 10-08-16 |
 | 29 | [Gewurzhaus]  | [Herbal]    | [Professor Clara's Clarity] | [Australia] | Louise Brooks  | 09-08-16 |
@@ -60,6 +61,7 @@ Suggestions of teas to buy
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Heavenly Good Luck]: https://gewurzhaus.com.au/product/heavenly-good-luck-tea-90g-l
 [Orient Delight]: http://www.basilurtea.com.au/tea_collection/oriental_collection/oriental-collection-lt-oriental-delight-100g.html
 [English Breakfast]: https://www.wedgwood.com.au/wedgwood-tea-english-breakfast-140g-caddy.html
 [Professor Clara's Clarity]: http://www.gewurzhaus.com.au/professor_claras_clarity_tea
