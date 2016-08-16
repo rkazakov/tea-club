@@ -25,7 +25,7 @@ What: Come and try new tea everyday
 | 21 | Zhen Pin      | [Green]     | [Shi Feng Longjing]         | [China]     | Ray Dai        | 18-07-16 |
 | 20 | [Sempio]      | [Oksusucha] | [Corn Tassel]               | [Korea]     | Charlotte Bian | 15-07-16 |
 | 19 | [Basilur]     | [Black]     | [Tea House]                 | [Sri Lanka] | Ruslan Kazakov | 14-07-16 |
-| 18 | [Celestial]   | [Black]     | [Cranberry Vanilla]         | -           | Kate Andrews   | 13-07-16 |
+| 18 | [Celestial]   | [Black]     | [Cranberry Vanilla]         | [Africa]    | Kate Andrews   | 13-07-16 |
 | 17 | [Gewurzhaus]  | [Herbal]    | [Eva's Yummy Tummy]         | [Germany]   | Louise Brooks  | 12-07-16 |
 | 16 | [Adore Tea]   | [Black]     | [African BOP]               | [Africa]    | Gary Butler    | 11-07-16 |
 | 15 | [Adore Tea]   | [Black]     | [Darjeeling Vintage]        | [India]     | Gary Butler    | 08-07-16 |
@@ -39,7 +39,7 @@ What: Come and try new tea everyday
 | 07 | [Basilur]     | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Ruslan Kazakov | 27-06-16 |
 | 06 | [Basilur]     | [Green]     | [Four Seasons Spring]       | [Sri Lanka] | Ruslan Kazakov | 24-06-16 |
 | 05 | [Golden Tips] | [Oolong]    | [Milk Oolong Smoked]        | [India]     | Cherry Zhou    | 23-06-16 |
-| 04 | [Celestial]   | [Black]     | [Sweet Harvest Pumpkin]     | -           | Kate Andrews   | 22-06-16 |
+| 04 | [Celestial]   | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | Kate Andrews   | 22-06-16 |
 | 03 | [Basilur]     | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | Ruslan Kazakov | 21-06-16 |
 | 02 | [Lupicia]     | [Oolong]    | [Momo Oolong Super Grade]   | [Taiwan]    | Cherry Zhou    | 20-06-16 |
 | 01 | [Basilur]     | [Black]     | [Festive Season Fruit Shop] | [Sri Lanka] | Ruslan Kazakov | 20-06-16 |
@@ -109,6 +109,7 @@ Suggestions of teas to buy
 [China]: https://en.wikipedia.org/wiki/China
 [Germany]: https://en.wikipedia.org/wiki/Germany
 [India]: https://en.wikipedia.org/wiki/India
+[Jamaica]: https://en.wikipedia.org/wiki/Jamaica
 [Japan]: https://en.wikipedia.org/wiki/Japan
 [Kenya]: https://en.wikipedia.org/wiki/Kenya
 [Korea]: https://en.wikipedia.org/wiki/Korea
