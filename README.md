@@ -11,6 +11,7 @@ What: Come and try new tea everyday
 
 | #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|---------------|-------------|-----------------------------|-------------|----------------|----------|
+| 32 | [Lipton]      | [Black]     | [Blue Fruit]                | -           | Kate Andrews   | 16-08-16 |
 | 32 | [Gewurzhaus]  | [Herbal]    | [Heavenly Good Luck]        | [India]     | Louise Brooks  | 15-08-16 |
 | 31 | [Basilur]     | [Black]     | [Orient Delight]            | [Sri Lanka] | Ruslan Kazakov | 12-08-16 |
 | 30 | [Wedgwood]    | [Black]     | [English Breakfast]         | [Kenya]     | Jess Cozanitis | 10-08-16 |
@@ -61,6 +62,7 @@ Suggestions of teas to buy
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Blue Fruit]: http://www.made-in-scandinavian.com/store/p1065/Lipton_Blue_Fruit_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
 [Heavenly Good Luck]: https://gewurzhaus.com.au/product/heavenly-good-luck-tea-90g-l
 [Orient Delight]: http://www.basilurtea.com.au/tea_collection/oriental_collection/oriental-collection-lt-oriental-delight-100g.html
 [English Breakfast]: https://www.wedgwood.com.au/wedgwood-tea-english-breakfast-140g-caddy.html
