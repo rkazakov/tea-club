@@ -9,9 +9,10 @@ What: Come and try new tea everyday
 
 ## Meetings History
 
-| #  | Brand         | Type        | Name                        | Origin      | Tea Master     | Date     |
-|----|---------------|-------------|-----------------------------|-------------|----------------|----------|
-| 32 | [Lipton]      | [Black]     | [Blue Fruit]                | -           | Kate Andrews   | 16-08-16 |
+| #  | Brand         | Type        | Name                        | Origin      | Tea Master            | Date     |
+|----|---------------|-------------|-----------------------------|-------------|-----------------------|----------|
+| 34 | -             | [Herbal]    | Borage Flower               | Iran        | Marzieh Morovatpasand | 16-08-16 |
+| 33 | [Lipton]      | [Black]     | [Blue Fruit]                | -           | Kate Andrews   | 16-08-16 |
 | 32 | [Gewurzhaus]  | [Herbal]    | [Heavenly Good Luck]        | [India]     | Louise Brooks  | 15-08-16 |
 | 31 | [Basilur]     | [Black]     | [Orient Delight]            | [Sri Lanka] | Ruslan Kazakov | 12-08-16 |
 | 30 | [Wedgwood]    | [Black]     | [English Breakfast]         | [Kenya]     | Jess Cozanitis | 10-08-16 |
