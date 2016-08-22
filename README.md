@@ -61,7 +61,7 @@ Suggestions of teas to buy
 [Golden Tips]: http://www.goldentipstea.com
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
-[Nourish and Nest]: http://nourish-and-nest.myshopify.com
+[Nourish and N.]: http://nourish-and-nest.myshopify.com
 [Sempio]: http://www.sempio.com
 [T2]: http://www.t2tea.com
 [Tipson]: http://www.tipsontea.com
