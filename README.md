@@ -11,7 +11,7 @@ What: Come and try new tea everyday
 
 | #  | Brand            | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|------------------|-------------|-----------------------------|-------------|----------------|----------|
-| 37 | [Nourish and N.] | [Black]     | [French Lady Grey]          | -           | Jess Cozanitis | 22-08-16 |
+| 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Jess Cozanitis | 22-08-16 |
 | 36 | [Basilur]        | [Green]     | [Window Chinese]            | [Sri Lanka] | Cherry Zhou    | 19-08-16 |
 | 35 | [Adore Tea]      | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Gary Butler    | 18-08-16 |
 | 34 | [Golchin]        | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Marzieh M.     | 17-08-16 |
@@ -19,7 +19,7 @@ What: Come and try new tea everyday
 | 32 | [Gewurzhaus]     | [Herbal]    | [Heavenly Good Luck]        | [India]     | Louise Brooks  | 15-08-16 |
 | 31 | [Basilur]        | [Black]     | [Orient Delight]            | [Sri Lanka] | Ruslan Kazakov | 12-08-16 |
 | 30 | [Wedgwood]       | [Black]     | [English Breakfast]         | [Kenya]     | Jess Cozanitis | 10-08-16 |
-| 29 | [Gewurzhaus]     | [Herbal]    | [Professor Clara's Clarity] | [Brazil]    | Louise Brooks  | 09-08-16 |
+| 29 | [Gewurzhaus]     | [Herbal]    | [Clara's Clarity]           | [Brazil]    | Louise Brooks  | 09-08-16 |
 | 28 | [Tipson]         | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Cherry Zhou    | 02-08-16 |
 | 27 | [Basilur]        | [Green]     | [Green Tea]                 | [Sri Lanka] | Ruslan Kazakov | 29-07-16 |
 | 26 | [Tipson]         | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Cherry Zhou    | 27-07-16 |
@@ -37,7 +37,7 @@ What: Come and try new tea everyday
 | 14 | [Adore Tea]      | [Black]     | [Keemun]                    | [China]     | Gary Butler    | 07-07-16 |
 | 13 | -                | [Genmaicha] | Brown rice tea              | [Japan]     | Andrea Ho      | 07-07-16 |
 | 12 | [Lipton]         | [Black]     | [Blackcurrant]              | -           | Kate Andrews   | 06-07-16 |
-| 11 | [Basilur]        | [Black]     | [Magic Fruits Lemon & Lime] | [Sri Lanka] | Ruslan Kazakov | 01-07-16 |
+| 11 | [Basilur]        | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov | 01-07-16 |
 | 10 | Golden Sail      | [Green]     | [Osmanthus Green Tea]       | [China]     | Charlotte Bian | 30-06-16 |
 | 09 | [Basilur]        | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | Ruslan Kazakov | 29-06-16 |
 | 08 | [T2]             | [Black]     | [Melbourne Breakfast]       | -           | Gary Butler    | 28-06-16 |
@@ -46,8 +46,8 @@ What: Come and try new tea everyday
 | 05 | [Golden Tips]    | [Oolong]    | [Milk Oolong Smoked]        | [India]     | Cherry Zhou    | 23-06-16 |
 | 04 | [Celestial]      | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | Kate Andrews   | 22-06-16 |
 | 03 | [Basilur]        | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | Ruslan Kazakov | 21-06-16 |
-| 02 | [Lupicia]        | [Oolong]    | [Momo Oolong Super Grade]   | [Taiwan]    | Cherry Zhou    | 20-06-16 |
-| 01 | [Basilur]        | [Black]     | [Festive Season Fruit Shop] | [Sri Lanka] | Ruslan Kazakov | 20-06-16 |
+| 02 | [Lupicia]        | [Oolong]    | [Momo Oolong]               | [Taiwan]    | Cherry Zhou    | 20-06-16 |
+| 01 | [Basilur]        | [Black]     | [Fruit Shop]                | [Sri Lanka] | Ruslan Kazakov | 20-06-16 |
 
 ## Tea suggestions
 Suggestions of teas to buy
@@ -61,7 +61,7 @@ Suggestions of teas to buy
 [Golden Tips]: http://www.goldentipstea.com
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
-[Nourish and N.]: http://nourish-and-nest.myshopify.com
+[Nourish and Nest]: http://nourish-and-nest.myshopify.com
 [Sempio]: http://www.sempio.com
 [T2]: http://www.t2tea.com
 [Tipson]: http://www.tipsontea.com
@@ -76,7 +76,7 @@ Suggestions of teas to buy
 [Heavenly Good Luck]: https://gewurzhaus.com.au/product/heavenly-good-luck-tea-90g-l
 [Orient Delight]: http://www.basilurtea.com.au/tea_collection/oriental_collection/oriental-collection-lt-oriental-delight-100g.html
 [English Breakfast]: https://www.wedgwood.com.au/wedgwood-tea-english-breakfast-140g-caddy.html
-[Professor Clara's Clarity]: http://www.gewurzhaus.com.au/professor_claras_clarity_tea
+[Clara's Clarity]: http://www.gewurzhaus.com.au/professor_claras_clarity_tea
 [Ethno White Flowers]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-white-flowers
 [Green Tea]: http://www.basilurtea.com.au/tea_collection/fruits_and_flower/two-layer-t-caddy-lt-jasmine-green-tea-125g.html
 [Ethno Cream Buds]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-cream-buds
@@ -93,7 +93,7 @@ Suggestions of teas to buy
 [Darjeeling Vintage]: http://adoretea.com.au/Black/Black-Tea/Darjeeling-Vintage.html
 [Keemun]: http://adoretea.com.au/Black/Black-Tea/Keemun.html
 [Blackcurrant]: http://www.made-in-scandinavian.com/store/p1064/Lipton_Blackcurrant_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
-[Magic Fruits Lemon & Lime]: http://www.basilurshop.com.au/magic-fruits-packet-lt-lemon-lime-100g
+[Lemon & Lime]: http://www.basilurshop.com.au/magic-fruits-packet-lt-lemon-lime-100g
 [Osmanthus Green Tea]: http://www.teaspring.com/Osmanthus-Flower.asp
 [Four Seasons Winter]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-t-caddy-lt-winter-tea-125g.html
 [Melbourne Breakfast]: http://www.t2tea.com/en/au/tea/melbourne-breakfast-loose-leaf-gift-cube-T125AE023.html
@@ -102,8 +102,8 @@ Suggestions of teas to buy
 [Milk Oolong Smoked]: http://www.eicfinefoods.com/products/milk-oolong-tea-pouch-100g
 [Sweet Harvest Pumpkin]: http://www.celestialseasonings.com/products/black/sweet-harvest-pumpkin
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
-[Momo Oolong Super Grade]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
-[Festive Season Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+[Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
+[Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
