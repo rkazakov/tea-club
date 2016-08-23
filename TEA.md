@@ -1,7 +1,4 @@
-# Tea Club - MYOB Sydney
-Tea tasting experience at MYOB Sydney
-
-## Tea Catalog
+# Tea Catalog
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master     |
 |----|--------------------|-------------|-----------------------------|-------------|----------------|
