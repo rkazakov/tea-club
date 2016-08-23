@@ -1,56 +1,47 @@
 # Tea Club - MYOB Sydney
 Tea tasting experience at MYOB Sydney
 
-```
-Where: MYOB Sydney Office
-When: Monday - Friday 3pm
-What: Come and try new tea everyday
-```
-
 ## Tea Catalog
-[Unique teas](TEA.md) we tried.
 
-## Meetings History
-
-| #  | Brand              | Type        | Name                        | Origin      | Tea Master     | Date     |
-|----|--------------------|-------------|-----------------------------|-------------|----------------|----------|
-| 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Jess Cozanitis | 22-08-16 |
-| 36 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Cherry Zhou    | 19-08-16 |
-| 35 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Gary Butler    | 18-08-16 |
-| 34 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Marzieh M.     | 17-08-16 |
-| 33 | [Lipton]           | [Black]     | [Blue Fruit]                | -           | Kate Andrews   | 16-08-16 |
-| 32 | [Gewurzhaus]       | [Herbal]    | [Heavenly Good Luck]        | [India]     | Louise Brooks  | 15-08-16 |
-| 31 | [Basilur]          | [Black]     | [Orient Delight]            | [Sri Lanka] | Ruslan Kazakov | 12-08-16 |
-| 30 | [Wedgwood]         | [Black]     | [English Breakfast]         | [Kenya]     | Jess Cozanitis | 10-08-16 |
-| 29 | [Gewurzhaus]       | [Herbal]    | [Clara's Clarity]           | [Brazil]    | Louise Brooks  | 09-08-16 |
-| 28 | [Tipson]           | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Cherry Zhou    | 02-08-16 |
-| 27 | [Basilur]          | [Green]     | [Green Tea]                 | [Sri Lanka] | Ruslan Kazakov | 29-07-16 |
-| 26 | [Tipson]           | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Cherry Zhou    | 27-07-16 |
-| 25 | [Basilur]          | [Green]     | [Jasmine Tea]               | [Sri Lanka] | Ruslan Kazakov | 26-07-16 |
-| 24 | [Basilur]          | [Black]     | [Window Sri Lanka]          | [Sri Lanka] | Cherry Zhou    | 21-07-16 |
-| 23 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Gary Butler    | 20-07-16 |
-| 22 | [Tipson]           | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | Cherry Zhou    | 19-07-16 |
-| 21 | Zhen Pin           | [Green]     | [Shi Feng Longjing]         | [China]     | Ray Dai        | 18-07-16 |
-| 20 | [Sempio]           | [Oksusucha] | [Corn Tassel]               | [Korea]     | Charlotte Bian | 15-07-16 |
-| 19 | [Basilur]          | [Black]     | [Tea House]                 | [Sri Lanka] | Ruslan Kazakov | 14-07-16 |
-| 18 | [Celestial]        | [Black]     | [Cranberry Vanilla]         | [Africa]    | Kate Andrews   | 13-07-16 |
-| 17 | [Gewurzhaus]       | [Herbal]    | [Eva's Yummy Tummy]         | [Germany]   | Louise Brooks  | 12-07-16 |
-| 16 | [Adore Tea]        | [Black]     | [African BOP]               | [Africa]    | Gary Butler    | 11-07-16 |
-| 15 | [Adore Tea]        | [Black]     | [Darjeeling Vintage]        | [India]     | Gary Butler    | 08-07-16 |
-| 14 | [Adore Tea]        | [Black]     | [Keemun]                    | [China]     | Gary Butler    | 07-07-16 |
-| 13 | -                  | [Genmaicha] | Brown rice tea              | [Japan]     | Andrea Ho      | 07-07-16 |
-| 12 | [Lipton]           | [Black]     | [Blackcurrant]              | -           | Kate Andrews   | 06-07-16 |
-| 11 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov | 01-07-16 |
-| 10 | Golden Sail        | [Green]     | [Osmanthus Green Tea]       | [China]     | Charlotte Bian | 30-06-16 |
-| 09 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | Ruslan Kazakov | 29-06-16 |
-| 08 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Gary Butler    | 28-06-16 |
-| 07 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Ruslan Kazakov | 27-06-16 |
-| 06 | [Basilur]          | [Green]     | [Four Seasons Spring]       | [Sri Lanka] | Ruslan Kazakov | 24-06-16 |
-| 05 | [Golden Tips]      | [Oolong]    | [Milk Oolong Smoked]        | [India]     | Cherry Zhou    | 23-06-16 |
-| 04 | [Celestial]        | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | Kate Andrews   | 22-06-16 |
-| 03 | [Basilur]          | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | Ruslan Kazakov | 21-06-16 |
-| 02 | [Lupicia]          | [Oolong]    | [Momo Oolong]               | [Taiwan]    | Cherry Zhou    | 20-06-16 |
-| 01 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Ruslan Kazakov | 20-06-16 |
+| #  | Brand              | Type        | Name                        | Origin      | Tea Master     |
+|----|--------------------|-------------|-----------------------------|-------------|----------------|
+| 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Jess Cozanitis |
+| 36 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Cherry Zhou    |
+| 35 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Gary Butler    |
+| 34 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Marzieh M.     |
+| 33 | [Lipton]           | [Black]     | [Blue Fruit]                | -           | Kate Andrews   |
+| 32 | [Gewurzhaus]       | [Herbal]    | [Heavenly Good Luck]        | [India]     | Louise Brooks  |
+| 31 | [Basilur]          | [Black]     | [Orient Delight]            | [Sri Lanka] | Ruslan Kazakov |
+| 30 | [Wedgwood]         | [Black]     | [English Breakfast]         | [Kenya]     | Jess Cozanitis |
+| 29 | [Gewurzhaus]       | [Herbal]    | [Clara's Clarity]           | [Brazil]    | Louise Brooks  |
+| 28 | [Tipson]           | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Cherry Zhou    |
+| 27 | [Basilur]          | [Green]     | [Green Tea]                 | [Sri Lanka] | Ruslan Kazakov |
+| 26 | [Tipson]           | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Cherry Zhou    |
+| 25 | [Basilur]          | [Green]     | [Jasmine Tea]               | [Sri Lanka] | Ruslan Kazakov |
+| 24 | [Basilur]          | [Black]     | [Window Sri Lanka]          | [Sri Lanka] | Cherry Zhou    |
+| 23 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Gary Butler    |
+| 22 | [Tipson]           | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | Cherry Zhou    |
+| 21 | Zhen Pin           | [Green]     | [Shi Feng Longjing]         | [China]     | Ray Dai        |
+| 20 | [Sempio]           | [Oksusucha] | [Corn Tassel]               | [Korea]     | Charlotte Bian |
+| 19 | [Basilur]          | [Black]     | [Tea House]                 | [Sri Lanka] | Ruslan Kazakov |
+| 18 | [Celestial]        | [Black]     | [Cranberry Vanilla]         | [Africa]    | Kate Andrews   |
+| 17 | [Gewurzhaus]       | [Herbal]    | [Eva's Yummy Tummy]         | [Germany]   | Louise Brooks  |
+| 16 | [Adore Tea]        | [Black]     | [African BOP]               | [Africa]    | Gary Butler    |
+| 15 | [Adore Tea]        | [Black]     | [Darjeeling Vintage]        | [India]     | Gary Butler    |
+| 14 | [Adore Tea]        | [Black]     | [Keemun]                    | [China]     | Gary Butler    |
+| 13 | -                  | [Genmaicha] | Brown rice tea              | [Japan]     | Andrea Ho      |
+| 12 | [Lipton]           | [Black]     | [Blackcurrant]              | -           | Kate Andrews   |
+| 11 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov |
+| 10 | Golden Sail        | [Green]     | [Osmanthus Green Tea]       | [China]     | Charlotte Bian |
+| 09 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | Ruslan Kazakov |
+| 08 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Gary Butler    |
+| 07 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Ruslan Kazakov |
+| 06 | [Basilur]          | [Green]     | [Four Seasons Spring]       | [Sri Lanka] | Ruslan Kazakov |
+| 05 | [Golden Tips]      | [Oolong]    | [Milk Oolong Smoked]        | [India]     | Cherry Zhou    |
+| 04 | [Celestial]        | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | Kate Andrews   |
+| 03 | [Basilur]          | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | Ruslan Kazakov |
+| 02 | [Lupicia]          | [Oolong]    | [Momo Oolong]               | [Taiwan]    | Cherry Zhou    |
+| 01 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Ruslan Kazakov |
 
 <!-- Brand -->
 [Adore Tea]: http://adoretea.com.au
