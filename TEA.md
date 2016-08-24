@@ -2,6 +2,8 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master     |
 |----|--------------------|-------------|-----------------------------|-------------|----------------|
+| 39 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Ruslan Kazakov |
+| 38 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Ruslan Kazakov |
 | 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Jess Cozanitis |
 | 36 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Cherry Zhou    |
 | 35 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Gary Butler    |
