@@ -53,11 +53,14 @@
 [Lupicia]: http://www.lupicia.com.au
 [Nourish and Nest]: http://nourish-and-nest.myshopify.com
 [Sempio]: http://www.sempio.com
+[Siplo]: http://www.siplo.com.au
 [T2]: http://www.t2tea.com
 [Tipson]: http://www.tipsontea.com
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Mango & Pineapple]: http://www.basilurshop.com.au/basilur/magic-fruits-100g-t-caddy-mango-and-pineapple
+[Let's Get Fabulous]: http://www.siplo.com.au/lets-get-fabulous
 [French Lady Grey]: http://nourish-and-nest.myshopify.com/products/french-lady-grey-organic-tea
 [Window Chinese]: http://www.basilurshop.com.au/basilur/window-collection-t-caddy-lt-chinese
 [Orange Pekoe]: http://adoretea.com.au/New-Tea/Organic-Ceylon-Orange-Pekoe.html
