@@ -1,46 +1,46 @@
 # Tea Catalog
 
-| #  | Brand              | Type        | Name                        | Origin      | Tea Master     |
-|----|--------------------|-------------|-----------------------------|-------------|----------------|
-| 39 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Ruslan Kazakov |
-| 38 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Ruslan Kazakov |
-| 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Jess Cozanitis |
-| 36 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Cherry Zhou    |
-| 35 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Gary Butler    |
-| 34 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Marzieh M.     |
-| 33 | [Lipton]           | [Black]     | [Blue Fruit]                | -           | Kate Andrews   |
-| 32 | [Gewurzhaus]       | [Herbal]    | [Heavenly Good Luck]        | [India]     | Louise Brooks  |
-| 31 | [Basilur]          | [Black]     | [Orient Delight]            | [Sri Lanka] | Ruslan Kazakov |
-| 30 | [Wedgwood]         | [Black]     | [English Breakfast]         | [Kenya]     | Jess Cozanitis |
-| 29 | [Gewurzhaus]       | [Herbal]    | [Clara's Clarity]           | [Brazil]    | Louise Brooks  |
-| 28 | [Tipson]           | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Cherry Zhou    |
-| 27 | [Basilur]          | [Green]     | [Green Tea]                 | [Sri Lanka] | Ruslan Kazakov |
-| 26 | [Tipson]           | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Cherry Zhou    |
-| 25 | [Basilur]          | [Green]     | [Jasmine Tea]               | [Sri Lanka] | Ruslan Kazakov |
-| 24 | [Basilur]          | [Black]     | [Window Sri Lanka]          | [Sri Lanka] | Cherry Zhou    |
-| 23 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Gary Butler    |
-| 22 | [Tipson]           | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | Cherry Zhou    |
-| 21 | Zhen Pin           | [Green]     | [Shi Feng Longjing]         | [China]     | Ray Dai        |
-| 20 | [Sempio]           | [Oksusucha] | [Corn Tassel]               | [Korea]     | Charlotte Bian |
-| 19 | [Basilur]          | [Black]     | [Tea House]                 | [Sri Lanka] | Ruslan Kazakov |
-| 18 | [Celestial]        | [Black]     | [Cranberry Vanilla]         | [Africa]    | Kate Andrews   |
-| 17 | [Gewurzhaus]       | [Herbal]    | [Eva's Yummy Tummy]         | [Germany]   | Louise Brooks  |
-| 16 | [Adore Tea]        | [Black]     | [African BOP]               | [Africa]    | Gary Butler    |
-| 15 | [Adore Tea]        | [Black]     | [Darjeeling Vintage]        | [India]     | Gary Butler    |
-| 14 | [Adore Tea]        | [Black]     | [Keemun]                    | [China]     | Gary Butler    |
-| 13 | -                  | [Genmaicha] | Brown rice tea              | [Japan]     | Andrea Ho      |
-| 12 | [Lipton]           | [Black]     | [Blackcurrant]              | -           | Kate Andrews   |
-| 11 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov |
-| 10 | Golden Sail        | [Green]     | [Osmanthus Green Tea]       | [China]     | Charlotte Bian |
-| 09 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | Ruslan Kazakov |
-| 08 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Gary Butler    |
-| 07 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Ruslan Kazakov |
-| 06 | [Basilur]          | [Green]     | [Four Seasons Spring]       | [Sri Lanka] | Ruslan Kazakov |
-| 05 | [Golden Tips]      | [Oolong]    | [Milk Oolong Smoked]        | [India]     | Cherry Zhou    |
-| 04 | [Celestial]        | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | Kate Andrews   |
-| 03 | [Basilur]          | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | Ruslan Kazakov |
-| 02 | [Lupicia]          | [Oolong]    | [Momo Oolong]               | [Taiwan]    | Cherry Zhou    |
-| 01 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Ruslan Kazakov |
+| #  | Brand              | Type        | Name                        | Origin      | Flavours            |
+|----|--------------------|-------------|-----------------------------|-------------|---------------------|
+| 39 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Mongo, Pineaple     |
+| 38 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Apricot, Lemongrass |
+| 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Rose                |
+| 36 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Milk                |
+| 35 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Black tea           |
+| 34 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | - |
+| 33 | [Lipton]           | [Black]     | [Blue Fruit]                | -           | - |
+| 32 | [Gewurzhaus]       | [Herbal]    | [Heavenly Good Luck]        | [India]     | - |
+| 31 | [Basilur]          | [Black]     | [Orient Delight]            | [Sri Lanka] | - |
+| 30 | [Wedgwood]         | [Black]     | [English Breakfast]         | [Kenya]     | - |
+| 29 | [Gewurzhaus]       | [Herbal]    | [Clara's Clarity]           | [Brazil]    | - |
+| 28 | [Tipson]           | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | - |
+| 27 | [Basilur]          | [Green]     | [Green Tea]                 | [Sri Lanka] | - |
+| 26 | [Tipson]           | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | - |
+| 25 | [Basilur]          | [Green]     | [Jasmine Tea]               | [Sri Lanka] | - |
+| 24 | [Basilur]          | [Black]     | [Window Sri Lanka]          | [Sri Lanka] | - |
+| 23 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | - |
+| 22 | [Tipson]           | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | - |
+| 21 | Zhen Pin           | [Green]     | [Shi Feng Longjing]         | [China]     | - |
+| 20 | [Sempio]           | [Oksusucha] | [Corn Tassel]               | [Korea]     | - |
+| 19 | [Basilur]          | [Black]     | [Tea House]                 | [Sri Lanka] | - |
+| 18 | [Celestial]        | [Black]     | [Cranberry Vanilla]         | [Africa]    | - |
+| 17 | [Gewurzhaus]       | [Herbal]    | [Eva's Yummy Tummy]         | [Germany]   | - |
+| 16 | [Adore Tea]        | [Black]     | [African BOP]               | [Africa]    | - |
+| 15 | [Adore Tea]        | [Black]     | [Darjeeling Vintage]        | [India]     | - |
+| 14 | [Adore Tea]        | [Black]     | [Keemun]                    | [China]     | - |
+| 13 | -                  | [Genmaicha] | Brown rice tea              | [Japan]     | - |
+| 12 | [Lipton]           | [Black]     | [Blackcurrant]              | -           | - |
+| 11 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | - |
+| 10 | Golden Sail        | [Green]     | [Osmanthus Green Tea]       | [China]     | - |
+| 09 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | - |
+| 08 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | - |
+| 07 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | - |
+| 06 | [Basilur]          | [Green]     | [Four Seasons Spring]       | [Sri Lanka] | - |
+| 05 | [Golden Tips]      | [Oolong]    | [Milk Oolong Smoked]        | [India]     | - |
+| 04 | [Celestial]        | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | - |
+| 03 | [Basilur]          | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | - |
+| 02 | [Lupicia]          | [Oolong]    | [Momo Oolong]               | [Taiwan]    | - |
+| 01 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | - |
 
 <!-- Brand -->
 [Adore Tea]: http://adoretea.com.au
