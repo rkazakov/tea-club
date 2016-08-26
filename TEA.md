@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavours            |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------|
+| 41 | [Tipson]           | [Black]     | [Golden Disk]               | [Sri Lanka] | Coffee, Vanilla     |
 | 40 | [Sahar Khiz]       | [Black]     | [Saffron Tea]               | [Iran]      | Saffron             |
 | 39 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Mongo, Pineaple     |
 | 38 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Apricot, Lemongrass |
@@ -61,6 +62,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Golden Disk]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-golden-disk
 [Saffron Tea]: http://www.saharkhizsaffron.com/saffron_tea.htm
 [Mango & Pineapple]: http://www.basilurshop.com.au/basilur/magic-fruits-100g-t-caddy-mango-and-pineapple
 [Let's Get Fabulous]: http://www.siplo.com.au/lets-get-fabulous
