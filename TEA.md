@@ -37,12 +37,12 @@
 | 09 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | - |
 | 08 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | - |
 | 07 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | - |
-| 06 | [Basilur]          | [Green]     | [Four Seasons Spring]       | [Sri Lanka] | - |
-| 05 | [Golden Tips]      | [Oolong]    | [Milk Oolong Smoked]        | [India]     | - |
-| 04 | [Celestial]        | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | - |
-| 03 | [Basilur]          | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | - |
+| 06 | [Basilur]          | [Green]     | [Four Seasons Spring]       | [Sri Lanka] | Cherry |
+| 05 | [Golden Tips]      | [Oolong]    | [Milk Oolong Smoked]        | [India]     | Milk |
+| 04 | [Celestial]        | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | Pumpkin |
+| 03 | [Basilur]          | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | Wild Strawberry |
 | 02 | [Lupicia]          | [Oolong]    | [Momo Oolong]               | [Taiwan]    | Peach |
-| 01 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | - |
+| 01 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange |
 
 <!-- Brand -->
 [Adore Tea]: http://adoretea.com.au
