@@ -1,19 +1,20 @@
 # Tea Catalog
 
-| #  | Brand              | Type        | Name                        | Origin      | Flavours            |
-|----|--------------------|-------------|-----------------------------|-------------|---------------------|
-| 41 | [Tipson]           | [Black]     | [Golden Disk]               | [Sri Lanka] | Coffee, Vanilla     |
-| 40 | [Sahar Khiz]       | [Black]     | [Saffron Tea]               | [Iran]      | Saffron             |
-| 39 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Mongo, Pineaple     |
-| 38 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Apricot, Lemongrass |
-| 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Rose                |
-| 36 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Milk                |
-| 35 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Black tea           |
-| 34 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Borage              |
-| 33 | [Lipton]           | [Black]     | [Blue Fruit]                | -           | - |
-| 32 | [Gewurzhaus]       | [Herbal]    | [Heavenly Good Luck]        | [India]     | - |
-| 31 | [Basilur]          | [Black]     | [Orient Delight]            | [Sri Lanka] | Black tea |
-| 30 | [Wedgwood]         | [Black]     | [English Breakfast]         | [Kenya]     | Black tea |
+| #  | Brand              | Type        | Name                        | Origin      | Flavours              |
+|----|--------------------|-------------|-----------------------------|-------------|-----------------------|
+| 42 | [Lipton]           | [Black]     | [Forest Fruit]              | -           | Strawberry, Cherry    |
+| 41 | [Tipson]           | [Black]     | [Golden Disk]               | [Sri Lanka] | Coffee, Vanilla       |
+| 40 | [Sahar Khiz]       | [Black]     | [Saffron Tea]               | [Iran]      | Saffron               |
+| 39 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Mongo, Pineapple       |
+| 38 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Apricot, Lemongrass   |
+| 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Rose                  |
+| 36 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Milk                  |
+| 35 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Black tea             |
+| 34 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Borage                |
+| 33 | [Lipton]           | [Black]     | [Blue Fruit]                | -           | Blueberry, Blackberry |
+| 32 | [Gewurzhaus]       | [Herbal]    | [Heavenly Good Luck]        | [India]     | Fennel, Cinnamon      |
+| 31 | [Basilur]          | [Black]     | [Orient Delight]            | [Sri Lanka] | Black tea             |
+| 30 | [Wedgwood]         | [Black]     | [English Breakfast]         | [Kenya]     | Black tea             |
 | 29 | [Gewurzhaus]       | [Herbal]    | [Clara's Clarity]           | [Brazil]    | - |
 | 28 | [Tipson]           | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | - |
 | 27 | [Basilur]          | [Green]     | [Green Tea]                 | [Sri Lanka] | Green tea |
@@ -62,6 +63,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Forest Fruit]: http://www.made-in-scandinavian.com/store/p1070/Lipton_Forest_Fruit_Tea_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
 [Golden Disk]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-golden-disk
 [Saffron Tea]: http://www.saharkhizsaffron.com/saffron_tea.htm
 [Mango & Pineapple]: http://www.basilurshop.com.au/basilur/magic-fruits-100g-t-caddy-mango-and-pineapple

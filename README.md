@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|----------------|----------|
+| 42 | [Lipton]           | [Black]     | [Forest Fruit]              | -           | Kate Andrews   | 29-08-16 |
 | 41 | [Tipson]           | [Black]     | [Golden Disk]               | [Sri Lanka] | Cherry Zhou    | 26-08-16 |
 | 40 | [Sahar Khiz]       | [Black]     | [Saffron Tea]               | [Iran]      | Azadeh H.      | 25-08-16 |
 | 39 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Ruslan Kazakov | 24-08-16 |
@@ -74,6 +75,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Forest Fruit]: http://www.made-in-scandinavian.com/store/p1070/Lipton_Forest_Fruit_Tea_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
 [Golden Disk]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-golden-disk
 [Saffron Tea]: http://www.saharkhizsaffron.com/saffron_tea.htm
 [Mango & Pineapple]: http://www.basilurshop.com.au/basilur/magic-fruits-100g-t-caddy-mango-and-pineapple
