@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavours              |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------------|
+| 44 | [Basilur]          | [Green]     | [Cream Fantasy]             | [Sri Lanka] | Strawberry, Papaya    |
 | 43 | [Basilur]          | [Black]     | [Nuwara Eliya]              | [Sri Lanka] | Black tea             |
 | 42 | [Lipton]           | [Black]     | [Forest Fruit]              | -           | Strawberry, Cherry    |
 | 41 | [Tipson]           | [Black]     | [Golden Disk]               | [Sri Lanka] | Coffee, Vanilla       |
@@ -64,6 +65,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Cream Fantasy]: http://www.basilurtea.com.au/tea_collection/bouquet/bouquet-t-caddy-lt-cream-fantasy.html
 [Nuwara Eliya]: http://www.basilurtea.com.au/tea_collection/leaf_of_ceylon/leaf-of-ceylon-lt-nuwara-eliya-125g.html
 [Forest Fruit]: http://www.made-in-scandinavian.com/store/p1070/Lipton_Forest_Fruit_Tea_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
 [Golden Disk]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-golden-disk
