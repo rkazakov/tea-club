@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|----------------|----------|
+| 45 | [Severnyi Chai]    | [Herbal]    | [Ivan Chai]                 | [Russia]    | Ivan Pchelnikov| 01-09-16 |
 | 44 | [Basilur]          | [Green]     | [Cream Fantasy]             | [Sri Lanka] | Ruslan Kazakov | 31-08-16 |
 | 43 | [Basilur]          | [Black]     | [Nuwara Eliya]              | [Sri Lanka] | Ruslan Kazakov | 30-08-16 |
 | 42 | [Lipton]           | [Black]     | [Forest Fruit]              | -           | Kate Andrews   | 29-08-16 |
@@ -71,12 +72,14 @@ What: Come and try new tea everyday
 [Nourish and Nest]: http://nourish-and-nest.myshopify.com
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [Sempio]: http://www.sempio.com
+[Severnyi Chai]: http://www.ivan-chai.su
 [Siplo]: http://www.siplo.com.au
 [T2]: http://www.t2tea.com
 [Tipson]: http://www.tipsontea.com
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Ivan Chai]: http://www.eliziya.ru/chajnyj-napitok-severnyj-chaj-ivan-chaj-listovoj-phermentirovannyj-v-piramidkah-30-g-637.html
 [Cream Fantasy]: http://www.basilurtea.com.au/tea_collection/bouquet/bouquet-t-caddy-lt-cream-fantasy.html
 [Nuwara Eliya]: http://www.basilurtea.com.au/tea_collection/leaf_of_ceylon/leaf-of-ceylon-lt-nuwara-eliya-125g.html
 [Forest Fruit]: http://www.made-in-scandinavian.com/store/p1070/Lipton_Forest_Fruit_Tea_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
@@ -142,5 +145,6 @@ What: Come and try new tea everyday
 [Japan]: https://en.wikipedia.org/wiki/Japan
 [Kenya]: https://en.wikipedia.org/wiki/Kenya
 [Korea]: https://en.wikipedia.org/wiki/Korea
+[Russia]: https://en.wikipedia.org/wiki/Russia
 [Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
