@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavours              |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------------|
+| 46 | [Kuban Tea]        | [Black]     | [Azercay with Thyme]        | [Russia]    | Thyme                 |
 | 45 | [Severnyi Chai]    | [Herbal]    | [Ivan Chai]                 | [Russia]    | Willowherbs           |
 | 44 | [Basilur]          | [Green]     | [Cream Fantasy]             | [Sri Lanka] | Strawberry, Papaya    |
 | 43 | [Basilur]          | [Black]     | [Nuwara Eliya]              | [Sri Lanka] | Black tea             |
@@ -55,6 +56,7 @@
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
 [Golden Tips]: http://www.goldentipstea.com
+[Kuban Tea]: http://www.kubantea.ru
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
 [Nourish and Nest]: http://nourish-and-nest.myshopify.com
@@ -67,6 +69,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Azercay with Thyme]: http://kubantea.ru/tea/ru/azercay_tea_products.html
 [Ivan Chai]: http://www.eliziya.ru/chajnyj-napitok-severnyj-chaj-ivan-chaj-listovoj-phermentirovannyj-v-piramidkah-30-g-637.html
 [Cream Fantasy]: http://www.basilurtea.com.au/tea_collection/bouquet/bouquet-t-caddy-lt-cream-fantasy.html
 [Nuwara Eliya]: http://www.basilurtea.com.au/tea_collection/leaf_of_ceylon/leaf-of-ceylon-lt-nuwara-eliya-125g.html
