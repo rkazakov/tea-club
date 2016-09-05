@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master     | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|----------------|----------|
+| 47 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Ruslan Kazakov | 05-09-16 |
 | 46 | [Kuban Tea]        | [Black]     | [Azercay with Thyme]        | [Russia]    | Ivan Pchelnikov| 02-09-16 |
 | 45 | [Severnyi Chai]    | [Herbal]    | [Ivan Chai]                 | [Russia]    | Ivan Pchelnikov| 01-09-16 |
 | 44 | [Basilur]          | [Green]     | [Cream Fantasy]             | [Sri Lanka] | Ruslan Kazakov | 31-08-16 |
@@ -39,7 +40,7 @@ What: Come and try new tea everyday
 | 24 | [Basilur]          | [Black]     | [Window Sri Lanka]          | [Sri Lanka] | Cherry Zhou    | 21-07-16 |
 | 23 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Gary Butler    | 20-07-16 |
 | 22 | [Tipson]           | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | Cherry Zhou    | 19-07-16 |
-| 21 | Zhen Pin           | [Green]     | [Shi Feng Longjing]         | [China]     | Ray Dai        | 18-07-16 |
+| 21 | Zhen Pin           | [Green]     | [Shi Feng Dragon Well]      | [China]     | Ray Dai        | 18-07-16 |
 | 20 | [Sempio]           | [Oksusucha] | [Corn Tassel]               | [Korea]     | Charlotte Bian | 15-07-16 |
 | 19 | [Basilur]          | [Black]     | [Tea House]                 | [Sri Lanka] | Ruslan Kazakov | 14-07-16 |
 | 18 | [Celestial]        | [Black]     | [Cranberry Vanilla]         | [Africa]    | Kate Andrews   | 13-07-16 |
@@ -81,6 +82,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Green Freshness]: http://www.basilurshop.com.au/bouquet-t-caddy-lt-green-freshness
 [Azercay with Thyme]: http://kubantea.ru/tea/ru/azercay_tea_products.html
 [Ivan Chai]: http://www.eliziya.ru/chajnyj-napitok-severnyj-chaj-ivan-chaj-listovoj-phermentirovannyj-v-piramidkah-30-g-637.html
 [Cream Fantasy]: http://www.basilurtea.com.au/tea_collection/bouquet/bouquet-t-caddy-lt-cream-fantasy.html
@@ -106,7 +108,7 @@ What: Come and try new tea everyday
 [Window Sri Lanka]: http://www.basilurshop.com.au/basilur/window-collection-t-caddy-lt-sri-lanka
 [Ceylon BOP1]: http://adoretea.com.au/Black/Black-Tea/Ceylon-BOP1.html
 [Ethno Blue Flowers]: http://www.basilurshop.com.au/tipson/ethno-collection-100g-t-caddy-blue-flowers
-[Shi Feng Longjing]: https://en.wikipedia.org/wiki/Longjing_tea
+[Shi Feng Dragon Well]: https://en.wikipedia.org/wiki/Longjing_tea
 [Corn Tassel]: http://www.sempio.com/eng/products/View.asp?mc=020101&cate1=PDZZ&cate2=PDZZ4
 [Tea House]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-tea-house
 [Cranberry Vanilla]: http://www.celestialseasonings.com/products/herbal/cranberry-vanilla-wonderland
