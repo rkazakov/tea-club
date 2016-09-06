@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 48 | [Qualitea]         | [Black]     | [Java Orange Pekoe]         | [Indonesia] | Gary Butler     | 06-09-16 |
 | 47 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Ruslan Kazakov  | 05-09-16 |
 | 46 | [Kuban Tea]        | [Black]     | [Azercay with Thyme]        | [Russia]    | Ivan Pchelnikov | 02-09-16 |
 | 45 | [Severnyi Chai]    | [Herbal]    | [Ivan Chai]                 | [Russia]    | Ivan Pchelnikov | 01-09-16 |
@@ -73,6 +74,7 @@ What: Come and try new tea everyday
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
 [Nourish and Nest]: http://nourish-and-nest.myshopify.com
+[Qualitea]: http://www.quali-tea.com
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
@@ -82,6 +84,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Java Orange Pekoe]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=195
 [Green Freshness]: http://www.basilurshop.com.au/bouquet-t-caddy-lt-green-freshness
 [Azercay with Thyme]: http://kubantea.ru/tea/ru/azercay_tea_products.html
 [Ivan Chai]: http://www.eliziya.ru/chajnyj-napitok-severnyj-chaj-ivan-chaj-listovoj-phermentirovannyj-v-piramidkah-30-g-637.html
@@ -145,6 +148,7 @@ What: Come and try new tea everyday
 [China]: https://en.wikipedia.org/wiki/China
 [Germany]: https://en.wikipedia.org/wiki/Germany
 [India]: https://en.wikipedia.org/wiki/India
+[Indonesia]: https://en.wikipedia.org/wiki/Indonesia
 [Iran]: https://en.wikipedia.org/wiki/Iran
 [Jamaica]: https://en.wikipedia.org/wiki/Jamaica
 [Japan]: https://en.wikipedia.org/wiki/Japan
