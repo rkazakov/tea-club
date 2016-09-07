@@ -1,55 +1,56 @@
 # Tea Catalog
 
-| #  | Brand              | Type        | Name                        | Origin      | Flavours                 |
-|----|--------------------|-------------|-----------------------------|-------------|--------------------------|
-| 48 | [Qualitea]         | [Black]     | [Java Orange Pekoe]         | [Indonesia] | Black tea                |
-| 47 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Lemon verbena            |
-| 46 | [Kuban Tea]        | [Black]     | [Azercay with Thyme]        | [Russia]    | Thyme                    |
-| 45 | [Severnyi Chai]    | [Herbal]    | [Ivan Chai]                 | [Russia]    | Willowherbs              |
-| 44 | [Basilur]          | [Green]     | [Cream Fantasy]             | [Sri Lanka] | Strawberry, Papaya       |
-| 43 | [Basilur]          | [Black]     | [Nuwara Eliya]              | [Sri Lanka] | Black tea                |
-| 42 | [Lipton]           | [Black]     | [Forest Fruit]              | -           | Strawberry, Cherry       |
-| 41 | [Tipson]           | [Black]     | [Golden Disk]               | [Sri Lanka] | Coffee, Vanilla          |
-| 40 | [Sahar Khiz]       | [Black]     | [Saffron Tea]               | [Iran]      | Saffron                  |
-| 39 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Mongo, Pineapple         |
-| 38 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Apricot, Lemongrass      |
-| 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Rose petals, Lavender    |
-| 36 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Milk Oolong              |
-| 35 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Black tea                |
-| 34 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Borage                   |
-| 33 | [Lipton]           | [Black]     | [Blue Fruit]                | -           | Blueberry, Blackberry    |
-| 32 | [Gewurzhaus]       | [Herbal]    | [Heavenly Good Luck]        | [India]     | Fennel, Cinnamon         |
-| 31 | [Basilur]          | [Black]     | [Orient Delight]            | [Sri Lanka] | Black tea                |
-| 30 | [Wedgwood]         | [Black]     | [English Breakfast]         | [Kenya]     | Black tea                |
-| 29 | [Gewurzhaus]       | [Herbal]    | [Clara's Clarity]           | [Brazil]    | Maté, Rosemary           |
-| 28 | [Tipson]           | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Soursop, Peach           |
-| 27 | [Basilur]          | [Green]     | [Green Tea]                 | [Sri Lanka] | Green tea                |
-| 26 | [Tipson]           | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Black tea                |
-| 25 | [Basilur]          | [Green]     | [Jasmine Tea]               | [Sri Lanka] | Jasmine                  |
-| 24 | [Basilur]          | [Black]     | [Window Sri Lanka]          | [Sri Lanka] | Black tea                |
-| 23 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Black tea                |
-| 22 | [Tipson]           | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | Black tea                |
-| 21 | Zhen Pin           | [Green]     | [Shi Feng Dragon Well]      | [China]     | Green Tea                |
-| 20 | [Sempio]           | [Oksusucha] | [Corn Tassel]               | [Korea]     | Corn                     |
-| 19 | [Basilur]          | [Black]     | [Tea House]                 | [Sri Lanka] | Cornflower, Peach        |
-| 18 | [Celestial]        | [Black]     | [Cranberry Vanilla]         | [Africa]    | Cranberry, Hibiscus      |
-| 17 | [Gewurzhaus]       | [Herbal]    | [Eva's Yummy Tummy]         | [Germany]   | Liquorice, Calendula     |
-| 16 | [Adore Tea]        | [Black]     | [African BOP]               | [Africa]    | Black tea                |
-| 15 | [Adore Tea]        | [Black]     | [Darjeeling Vintage]        | [India]     | Black tea                |
-| 14 | [Adore Tea]        | [Black]     | [Keemun]                    | [China]     | Black tea                |
-| 13 | -                  | [Genmaicha] | Brown rice tea              | [Japan]     | Roasted brown rice       |
-| 12 | [Lipton]           | [Black]     | [Blackcurrant]              | -           | Blackcurrant             |
-| 11 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Lemon, Lime              |
-| 10 | Golden Sail        | [Green]     | [Osmanthus Green Tea]       | [China]     | Osmanthus flower         |
-| 09 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | Cranberry                |
-| 08 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Vanilla                  |
-| 07 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Safflower, Maple syrup   |
-| 06 | [Basilur]          | [Green]     | [Four Seasons Spring]       | [Sri Lanka] | Strawberry, Marigold     |
-| 05 | [Golden Tips]      | [Oolong]    | [Milk Oolong Smoked]        | [India]     | Milk Oolong              |
-| 04 | [Celestial]        | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | Pumpkin, Ginger          |
-| 03 | [Basilur]          | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | Strawberry, Marigold     |
-| 02 | [Lupicia]          | [Oolong]    | [Momo Oolong]               | [Taiwan]    | White peach, Rose petals |
-| 01 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange, Papaya, Raisin   |
+| #  | Brand              | Type        | Name                        | Origin      | Flavours                  |
+|----|--------------------|-------------|-----------------------------|-------------|---------------------------|
+| 49 | [Basilur]          | [Black]     | [Window Moscow]             | [Sri Lanka] | Papaya, Cherry, Cranberry |
+| 48 | [Qualitea]         | [Black]     | [Java Orange Pekoe]         | [Indonesia] | Black tea                 |
+| 47 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Lemon verbena             |
+| 46 | [Kuban Tea]        | [Black]     | [Azercay with Thyme]        | [Russia]    | Thyme                     |
+| 45 | [Severnyi Chai]    | [Herbal]    | [Ivan Chai]                 | [Russia]    | Willowherbs               |
+| 44 | [Basilur]          | [Green]     | [Cream Fantasy]             | [Sri Lanka] | Strawberry, Papaya        |
+| 43 | [Basilur]          | [Black]     | [Nuwara Eliya]              | [Sri Lanka] | Black tea                 |
+| 42 | [Lipton]           | [Black]     | [Forest Fruit]              | -           | Strawberry, Cherry        |
+| 41 | [Tipson]           | [Black]     | [Golden Disk]               | [Sri Lanka] | Coffee, Vanilla           |
+| 40 | [Sahar Khiz]       | [Black]     | [Saffron Tea]               | [Iran]      | Saffron                   |
+| 39 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Mongo, Pineapple          |
+| 38 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Apricot, Lemongrass       |
+| 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Rose petals, Lavender     |
+| 36 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Milk Oolong               |
+| 35 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Black tea                 |
+| 34 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Borage                    |
+| 33 | [Lipton]           | [Black]     | [Blue Fruit]                | -           | Blueberry, Blackberry     |
+| 32 | [Gewurzhaus]       | [Herbal]    | [Heavenly Good Luck]        | [India]     | Fennel, Cinnamon          |
+| 31 | [Basilur]          | [Black]     | [Orient Delight]            | [Sri Lanka] | Black tea                 |
+| 30 | [Wedgwood]         | [Black]     | [English Breakfast]         | [Kenya]     | Black tea                 |
+| 29 | [Gewurzhaus]       | [Herbal]    | [Clara's Clarity]           | [Brazil]    | Maté, Rosemary            |
+| 28 | [Tipson]           | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Soursop, Peach            |
+| 27 | [Basilur]          | [Green]     | [Green Tea]                 | [Sri Lanka] | Green tea                 |
+| 26 | [Tipson]           | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Black tea                 |
+| 25 | [Basilur]          | [Green]     | [Jasmine Tea]               | [Sri Lanka] | Jasmine                   |
+| 24 | [Basilur]          | [Black]     | [Window Sri Lanka]          | [Sri Lanka] | Black tea                 |
+| 23 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Black tea                 |
+| 22 | [Tipson]           | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | Black tea                 |
+| 21 | Zhen Pin           | [Green]     | [Shi Feng Dragon Well]      | [China]     | Green Tea                 |
+| 20 | [Sempio]           | [Oksusucha] | [Corn Tassel]               | [Korea]     | Corn                      |
+| 19 | [Basilur]          | [Black]     | [Tea House]                 | [Sri Lanka] | Cornflower, Peach         |
+| 18 | [Celestial]        | [Black]     | [Cranberry Vanilla]         | [Africa]    | Cranberry, Hibiscus       |
+| 17 | [Gewurzhaus]       | [Herbal]    | [Eva's Yummy Tummy]         | [Germany]   | Liquorice, Calendula      |
+| 16 | [Adore Tea]        | [Black]     | [African BOP]               | [Africa]    | Black tea                 |
+| 15 | [Adore Tea]        | [Black]     | [Darjeeling Vintage]        | [India]     | Black tea                 |
+| 14 | [Adore Tea]        | [Black]     | [Keemun]                    | [China]     | Black tea                 |
+| 13 | -                  | [Genmaicha] | Brown rice tea              | [Japan]     | Roasted brown rice        |
+| 12 | [Lipton]           | [Black]     | [Blackcurrant]              | -           | Blackcurrant              |
+| 11 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Lemon, Lime               |
+| 10 | Golden Sail        | [Green]     | [Osmanthus Green Tea]       | [China]     | Osmanthus flower          |
+| 09 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | Cranberry                 |
+| 08 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Vanilla                   |
+| 07 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Safflower, Maple syrup    |
+| 06 | [Basilur]          | [Green]     | [Four Seasons Spring]       | [Sri Lanka] | Strawberry, Marigold      |
+| 05 | [Golden Tips]      | [Oolong]    | [Milk Oolong Smoked]        | [India]     | Milk Oolong               |
+| 04 | [Celestial]        | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | Pumpkin, Ginger           |
+| 03 | [Basilur]          | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | Strawberry, Marigold      |
+| 02 | [Lupicia]          | [Oolong]    | [Momo Oolong]               | [Taiwan]    | White peach, Rose petals  |
+| 01 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange, Papaya, Raisin    |
 
 <!-- Brand -->
 [Adore Tea]: http://adoretea.com.au
@@ -72,6 +73,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Window Moscow]: http://www.basilurshop.com.au/basilur/windows-collection/window-collection-t-caddy-lt-moscow
 [Java Orange Pekoe]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=195
 [Green Freshness]: http://www.basilurshop.com.au/bouquet-t-caddy-lt-green-freshness
 [Azercay with Thyme]: http://kubantea.ru/tea/ru/azercay_tea_products.html

@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 49 | [Basilur]          | [Black]     | [Window Moscow]             | [Sri Lanka] | Ruslan Kazakov  | 07-09-16 |
 | 48 | [Qualitea]         | [Black]     | [Java Orange Pekoe]         | [Indonesia] | Gary Butler     | 06-09-16 |
 | 47 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Ruslan Kazakov  | 05-09-16 |
 | 46 | [Kuban Tea]        | [Black]     | [Azercay with Thyme]        | [Russia]    | Ivan Pchelnikov | 02-09-16 |
@@ -84,6 +85,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Window Moscow]: http://www.basilurshop.com.au/basilur/windows-collection/window-collection-t-caddy-lt-moscow
 [Java Orange Pekoe]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=195
 [Green Freshness]: http://www.basilurshop.com.au/bouquet-t-caddy-lt-green-freshness
 [Azercay with Thyme]: http://kubantea.ru/tea/ru/azercay_tea_products.html
