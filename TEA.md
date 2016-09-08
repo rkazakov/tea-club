@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavours                  |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
+| 50 | [Adore Tea]        | [Black]     | [English Breakfast Supreme] | [Sri Lanka] | Black tea                 |
 | 49 | [Basilur]          | [Black]     | [Window Moscow]             | [Sri Lanka] | Papaya, Cherry, Cranberry |
 | 48 | [Qualitea]         | [Black]     | [Java Orange Pekoe]         | [Indonesia] | Black tea                 |
 | 47 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Lemon verbena             |
@@ -73,6 +74,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[English Breakfast Supreme]: http://adoretea.com.au/Top-25/english-breakfast-supreme.html
 [Window Moscow]: http://www.basilurshop.com.au/basilur/windows-collection/window-collection-t-caddy-lt-moscow
 [Java Orange Pekoe]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=195
 [Green Freshness]: http://www.basilurshop.com.au/bouquet-t-caddy-lt-green-freshness
