@@ -14,7 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 50 | [Adore Tea]        | [Black]     | [English Breakfast Supreme] | [Sri Lanka] | Gary Butler     | 08-09-16 |
+| 50 | [Adore Tea]        | [Black]     | [English Breakfast]         | [Sri Lanka] | Gary Butler     | 08-09-16 |
 | 49 | [Basilur]          | [Black]     | [Window Moscow]             | [Sri Lanka] | Ruslan Kazakov  | 07-09-16 |
 | 48 | [Qualitea]         | [Black]     | [Java Orange Pekoe]         | [Indonesia] | Gary Butler     | 06-09-16 |
 | 47 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Ruslan Kazakov  | 05-09-16 |
@@ -86,7 +86,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
-[English Breakfast Supreme]: http://adoretea.com.au/Top-25/english-breakfast-supreme.html
+[English Breakfast]: http://adoretea.com.au/Top-25/english-breakfast-supreme.html
 [Window Moscow]: http://www.basilurshop.com.au/basilur/windows-collection/window-collection-t-caddy-lt-moscow
 [Java Orange Pekoe]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=195
 [Green Freshness]: http://www.basilurshop.com.au/bouquet-t-caddy-lt-green-freshness
