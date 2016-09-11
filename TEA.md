@@ -3,7 +3,7 @@
 | #  | Brand              | Type        | Name                        | Origin      | Flavours                  |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
 | 51 | [Adore Tea]        | [Black]     | [Assam 2nd Flush]           | [India]     | Black tea                 |
-| 50 | [Adore Tea]        | [Black]     | [English Breakfast]         | [Sri Lanka] | Black tea                 |
+| 50 | [Adore Tea]        | [Black]     | [English Breakfast Supr]    | [Sri Lanka] | Black tea                 |
 | 49 | [Basilur]          | [Black]     | [Window Moscow]             | [Sri Lanka] | Papaya, Cherry, Cranberry |
 | 48 | [Qualitea]         | [Black]     | [Java Orange Pekoe]         | [Indonesia] | Black tea                 |
 | 47 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Lemon verbena             |
@@ -75,7 +75,8 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
-[English Breakfast]: http://adoretea.com.au/Top-25/english-breakfast-supreme.html
+[Assam 2nd Flush]: http://adoretea.com.au/Black/Black-Tea/assam-2nd-flush.html
+[English Breakfast Supr]: http://adoretea.com.au/Top-25/english-breakfast-supreme.html
 [Window Moscow]: http://www.basilurshop.com.au/basilur/windows-collection/window-collection-t-caddy-lt-moscow
 [Java Orange Pekoe]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=195
 [Green Freshness]: http://www.basilurshop.com.au/bouquet-t-caddy-lt-green-freshness
