@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavours                  |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
+| 51 | [Adore Tea]        | [Black]     | [Assam 2nd Flush]           | [India]     | Black tea                 |
 | 50 | [Adore Tea]        | [Black]     | [English Breakfast]         | [Sri Lanka] | Black tea                 |
 | 49 | [Basilur]          | [Black]     | [Window Moscow]             | [Sri Lanka] | Papaya, Cherry, Cranberry |
 | 48 | [Qualitea]         | [Black]     | [Java Orange Pekoe]         | [Indonesia] | Black tea                 |
