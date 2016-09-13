@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 52 | [Higher Living]    | [Green]     | [Green Tea Coconut]         | [UK]        | Kate Andrews    | 12-09-16 |
 | 51 | [Adore Tea]        | [Black]     | [Assam 2nd Flush]           | [India]     | Gary Butler     | 09-09-16 |
 | 50 | [Adore Tea]        | [Black]     | [English Breakfast Supr]    | [Sri Lanka] | Gary Butler     | 08-09-16 |
 | 49 | [Basilur]          | [Black]     | [Window Moscow]             | [Sri Lanka] | Ruslan Kazakov  | 07-09-16 |
@@ -70,6 +71,7 @@ What: Come and try new tea everyday
 [Adore Tea]: http://adoretea.com.au
 [Basilur]: http://www.basilurshop.com.au
 [Celestial]: http://www.celestialseasonings.com
+[Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
 [Golden Tips]: http://www.goldentipstea.com
@@ -87,6 +89,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Green Tea Coconut]: https://shop.higherlivingherbs.com/products/higher-living-green-tea-coconut-20-bag
 [Assam 2nd Flush]: http://adoretea.com.au/Black/Black-Tea/assam-2nd-flush.html
 [English Breakfast Supr]: http://adoretea.com.au/Top-25/english-breakfast-supreme.html
 [Window Moscow]: http://www.basilurshop.com.au/basilur/windows-collection/window-collection-t-caddy-lt-moscow
@@ -163,3 +166,4 @@ What: Come and try new tea everyday
 [Russia]: https://en.wikipedia.org/wiki/Russia
 [Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
+[UK]: https://en.wikipedia.org/wiki/United_Kingdom

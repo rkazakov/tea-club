@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavours                  |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
+| 52 | [Higher Living]    | [Green]     | [Green Tea Coconut]         | [UK]        | Coconut                   |
 | 51 | [Adore Tea]        | [Black]     | [Assam 2nd Flush]           | [India]     | Black tea                 |
 | 50 | [Adore Tea]        | [Black]     | [English Breakfast Supr]    | [Sri Lanka] | Black tea                 |
 | 49 | [Basilur]          | [Black]     | [Window Moscow]             | [Sri Lanka] | Papaya, Cherry, Cranberry |
@@ -58,6 +59,7 @@
 [Adore Tea]: http://adoretea.com.au
 [Basilur]: http://www.basilurshop.com.au
 [Celestial]: http://www.celestialseasonings.com
+[Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
 [Golden Tips]: http://www.goldentipstea.com
@@ -75,6 +77,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Green Tea Coconut]: https://shop.higherlivingherbs.com/products/higher-living-green-tea-coconut-20-bag
 [Assam 2nd Flush]: http://adoretea.com.au/Black/Black-Tea/assam-2nd-flush.html
 [English Breakfast Supr]: http://adoretea.com.au/Top-25/english-breakfast-supreme.html
 [Window Moscow]: http://www.basilurshop.com.au/basilur/windows-collection/window-collection-t-caddy-lt-moscow
@@ -151,3 +154,4 @@
 [Russia]: https://en.wikipedia.org/wiki/Russia
 [Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
+[UK]: https://en.wikipedia.org/wiki/United_Kingdom
