@@ -1,7 +1,8 @@
 # Tea Catalog
 
-| #  | Brand              | Type        | Name                        | Origin      | Flavours                  |
+| #  | Brand              | Type        | Name                        | Origin      | Flavour                   |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
+| 53 | [Twinings]         | [Herbal]    | [Camomile, Honey & Vanilla] | [China]     | Camomile, Honey           |
 | 52 | [Higher Living]    | [Green]     | [Green Tea Coconut]         | [UK]        | Coconut                   |
 | 51 | [Adore Tea]        | [Black]     | [Assam 2nd Flush]           | [India]     | Black tea                 |
 | 50 | [Adore Tea]        | [Black]     | [English Breakfast Supr]    | [Sri Lanka] | Black tea                 |
@@ -74,9 +75,11 @@
 [Siplo]: http://www.siplo.com.au
 [T2]: http://www.t2tea.com
 [Tipson]: http://www.tipsontea.com
+[Twinings]: http://www.twiningsusa.com
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Camomile, Honey & Vanilla]: https://www.twiningsusa.com/templates/product.aspx?ProductGuid=F08461&GroupGuid=74
 [Green Tea Coconut]: https://shop.higherlivingherbs.com/products/higher-living-green-tea-coconut-20-bag
 [Assam 2nd Flush]: http://adoretea.com.au/Black/Black-Tea/assam-2nd-flush.html
 [English Breakfast Supr]: http://adoretea.com.au/Top-25/english-breakfast-supreme.html

@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 53 | [Twinings]         | [Herbal]    | [Camomile, Honey & Vanilla] | [China]     | Charlotte Bian  | 13-09-16 |
 | 52 | [Higher Living]    | [Green]     | [Green Tea Coconut]         | [UK]        | Kate Andrews    | 12-09-16 |
 | 51 | [Adore Tea]        | [Black]     | [Assam 2nd Flush]           | [India]     | Gary Butler     | 09-09-16 |
 | 50 | [Adore Tea]        | [Black]     | [English Breakfast Supr]    | [Sri Lanka] | Gary Butler     | 08-09-16 |
@@ -86,9 +87,11 @@ What: Come and try new tea everyday
 [Siplo]: http://www.siplo.com.au
 [T2]: http://www.t2tea.com
 [Tipson]: http://www.tipsontea.com
+[Twinings]: http://www.twiningsusa.com
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Camomile, Honey & Vanilla]: https://www.twiningsusa.com/templates/product.aspx?ProductGuid=F08461&GroupGuid=74
 [Green Tea Coconut]: https://shop.higherlivingherbs.com/products/higher-living-green-tea-coconut-20-bag
 [Assam 2nd Flush]: http://adoretea.com.au/Black/Black-Tea/assam-2nd-flush.html
 [English Breakfast Supr]: http://adoretea.com.au/Top-25/english-breakfast-supreme.html
