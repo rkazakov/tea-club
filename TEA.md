@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                   |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
+| 56 | [Adore Tea]        | [Black]     | [Almond & Vanilla]          | [Sri Lanka] | Almond, Vanilla           |
 | 55 | [Basilur]          | [Black]     | [Frosty Night]              | [Sri Lanka] | Berberis, Rosehip, Almond |
 | 54 | [Tealeaves]        | [Black]     | [Caramel Whiskey]           | [China]     | Whiskey, Caramel          |
 | 53 | [Twinings]         | [Herbal]    | [Camomile, Honey, Vanilla]  | [China]     | Camomile, Honey           |
@@ -82,6 +83,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Almond & Vanilla]: http://adoretea.com.au/Black/Flavoured-Black/almond-vanilla.html
 [Frosty Night]: http://www.basilurshop.com.au/oriental-collection-t-caddy-lt-frosty-afternoon-100g
 [Caramel Whiskey]: http://www.tealeaves.com.au/black-caramel-whiskey/w1/i1102277/
 [Camomile, Honey, Vanilla]: https://www.twiningsusa.com/templates/product.aspx?ProductGuid=F08461&GroupGuid=74
