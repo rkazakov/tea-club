@@ -2,7 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                   |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
-| 57 | [T2]               | [White]     | [White Ginger]              | -           | Jesse Smit                |
+| 57 | [T2]               | [White]     | [White Ginger]              | -           | Ginger                    |
 | 56 | [Adore Tea]        | [Black]     | [Almond & Vanilla]          | [Sri Lanka] | Almond, Vanilla           |
 | 55 | [Basilur]          | [Black]     | [Frosty Night]              | [Sri Lanka] | Berberis, Rosehip, Almond |
 | 54 | [Tealeaves]        | [Black]     | [Caramel Whiskey]           | [China]     | Whiskey, Caramel          |
