@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 58 | [Tealyra]          | [Yellow]    | [Jun Shan Yin Zhen Yellow]  | [China]     | Ruslan Kazakov  | 22-09-16 |
 | 57 | [T2]               | [White]     | [White Ginger]              | -           | Jesse Smit      | 21-09-16 |
 | 56 | [Adore Tea]        | [Black]     | [Almond & Vanilla]          | [Sri Lanka] | Gary Butler     | 20-09-16 |
 | 55 | [Basilur]          | [Black]     | [Frosty Night]              | [Sri Lanka] | Ruslan Kazakov  | 19-09-16 |
@@ -91,11 +92,14 @@ What: Come and try new tea everyday
 [Siplo]: http://www.siplo.com.au
 [T2]: http://www.t2tea.com
 [Tealeaves]: http://www.tealeaves.com.au
+[Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
 [Twinings]: http://www.twiningsusa.com
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Jun Shan Yin Zhen Yellow]: https://www.tealyra.com.au/2016-harvest/jun-shan-yin-zhen-yellow-tea-475
+[White Ginger]: http://www.t2tea.com/en/au/tea/white-ginger-loose-leaf-gift-cube-T100AE011.html
 [Almond & Vanilla]: http://adoretea.com.au/Black/Flavoured-Black/almond-vanilla.html
 [Frosty Night]: http://www.basilurshop.com.au/oriental-collection-t-caddy-lt-frosty-afternoon-100g
 [Caramel Whiskey]: http://www.tealeaves.com.au/black-caramel-whiskey/w1/i1102277/
@@ -151,7 +155,6 @@ What: Come and try new tea everyday
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
-[White Ginger]: http://www.t2tea.com/en/au/tea/white-ginger-loose-leaf-gift-cube-T100AE011.html
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
@@ -160,6 +163,7 @@ What: Come and try new tea everyday
 [Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
 [Oksusucha]: https://en.wikipedia.org/wiki/Oksusucha
 [Oolong]: https://en.wikipedia.org/wiki/Oolong
+[Yellow]: https://en.wikipedia.org/wiki/Yellow_tea
 [White]: https://en.wikipedia.org/wiki/White_tea
 
 <!-- Origin -->
