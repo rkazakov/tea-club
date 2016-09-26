@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                   |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
+| 60 | [Lipton]           | [Green]     | [Green Gunpowder]           | [Russia]    | Gunpowder                 |
 | 59 | [Basilur]          | [Oolong]    | [White Magic]               | [Sri Lanka] | Milk                      |
 | 58 | [Tealyra]          | [Yellow]    | [Jun Shan Yin Zhen Yellow]  | [China]     | Yellow tea                |
 | 57 | [T2]               | [White]     | [White Ginger]              | -           | Ginger                    |
@@ -87,6 +88,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Green Gunpowder]: http://ksa.lipton.com/en-sa/product/detail/847033/lipton-green-gunpowder
 [White Magic]: http://www.basilurshop.com.au/bouquet-tea-bag-foil-env-white-magic-1-5g-x-20-en
 [Jun Shan Yin Zhen Yellow]: https://www.tealyra.com.au/2016-harvest/jun-shan-yin-zhen-yellow-tea-475
 [White Ginger]: http://www.t2tea.com/en/au/tea/white-ginger-loose-leaf-gift-cube-T100AE011.html
