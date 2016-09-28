@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 62 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | Ruslan Kazakov  | 28-09-16 |
 | 61 | [Calmer Sutra]     | [Black]     | [Lady Melba]                | [Sri Lanka] | Jess Cozanitis  | 27-09-16 |
 | 60 | [Lipton]           | [Green]     | [Green Gunpowder]           | [Russia]    | Kate Andrews    | 26-09-16 |
 | 59 | [Basilur]          | [Oolong]    | [White Magic]               | [Sri Lanka] | Ruslan Kazakov  | 23-09-16 |
@@ -102,6 +103,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Aged 20 Vintage Pu'erh]: https://www.tealyra.com.au/loose-tea-au/puerh-tea-au/aged-20-years-vintage-pu-erh
 [Lady Melba]: https://www.calmersutratea.com.au/collections/organic-tea/products/lady-melba
 [Green Gunpowder]: http://ksa.lipton.com/en-sa/product/detail/847033/lipton-green-gunpowder
 [White Magic]: http://www.basilurshop.com.au/bouquet-tea-bag-foil-env-white-magic-1-5g-x-20-en
@@ -170,6 +172,7 @@ What: Come and try new tea everyday
 [Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
 [Oksusucha]: https://en.wikipedia.org/wiki/Oksusucha
 [Oolong]: https://en.wikipedia.org/wiki/Oolong
+[Pu-erh]: https://en.wikipedia.org/wiki/Pu-erh_tea
 [Yellow]: https://en.wikipedia.org/wiki/Yellow_tea
 [White]: https://en.wikipedia.org/wiki/White_tea
 

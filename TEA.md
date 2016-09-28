@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                   |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
+| 62 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | 20-Year-Old socks         |
 | 61 | [Calmer Sutra]     | [Black]     | [Lady Melba]                | [Sri Lanka] | Bergamot                  |
 | 60 | [Lipton]           | [Green]     | [Green Gunpowder]           | [Russia]    | Gunpowder                 |
 | 59 | [Basilur]          | [Oolong]    | [White Magic]               | [Sri Lanka] | Milk                      |
@@ -90,6 +91,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Aged 20 Vintage Pu'erh]: https://www.tealyra.com.au/loose-tea-au/puerh-tea-au/aged-20-years-vintage-pu-erh
 [Lady Melba]: https://www.calmersutratea.com.au/collections/organic-tea/products/lady-melba
 [Green Gunpowder]: http://ksa.lipton.com/en-sa/product/detail/847033/lipton-green-gunpowder
 [White Magic]: http://www.basilurshop.com.au/bouquet-tea-bag-foil-env-white-magic-1-5g-x-20-en
@@ -158,6 +160,7 @@
 [Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
 [Oksusucha]: https://en.wikipedia.org/wiki/Oksusucha
 [Oolong]: https://en.wikipedia.org/wiki/Oolong
+[Pu-erh]: https://en.wikipedia.org/wiki/Pu-erh_tea
 [Yellow]: https://en.wikipedia.org/wiki/Yellow_tea
 [White]: https://en.wikipedia.org/wiki/White_tea
 
