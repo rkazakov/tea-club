@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 63 | [Tealyra]          | [Herbal]    | [Mango Yoghurt Desert]      | -           | Ruslan Kazakov  | 29-09-16 |
 | 62 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | Ruslan Kazakov  | 28-09-16 |
 | 61 | [Calmer Sutra]     | [Black]     | [Lady Melba]                | [Sri Lanka] | Jess Cozanitis  | 27-09-16 |
 | 60 | [Lipton]           | [Green]     | [Green Gunpowder]           | [Russia]    | Kate Andrews    | 26-09-16 |
@@ -103,6 +104,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Mango Yoghurt Desert]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/hibiscus-tea-au/mango-yoghurt-desert-772
 [Aged 20 Vintage Pu'erh]: https://www.tealyra.com.au/loose-tea-au/puerh-tea-au/aged-20-years-vintage-pu-erh
 [Lady Melba]: https://www.calmersutratea.com.au/collections/organic-tea/products/lady-melba
 [Green Gunpowder]: http://ksa.lipton.com/en-sa/product/detail/847033/lipton-green-gunpowder

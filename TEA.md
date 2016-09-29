@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                   |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
+| 63 | [Tealyra]          | [Herbal]    | [Mango Yoghurt Desert]      | -           | Mango, Papaya, Currants   |
 | 62 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | 20-Year-Old socks         |
 | 61 | [Calmer Sutra]     | [Black]     | [Lady Melba]                | [Sri Lanka] | Bergamot                  |
 | 60 | [Lipton]           | [Green]     | [Green Gunpowder]           | [Russia]    | Gunpowder                 |
@@ -91,6 +92,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Mango Yoghurt Desert]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/hibiscus-tea-au/mango-yoghurt-desert-772
 [Aged 20 Vintage Pu'erh]: https://www.tealyra.com.au/loose-tea-au/puerh-tea-au/aged-20-years-vintage-pu-erh
 [Lady Melba]: https://www.calmersutratea.com.au/collections/organic-tea/products/lady-melba
 [Green Gunpowder]: http://ksa.lipton.com/en-sa/product/detail/847033/lipton-green-gunpowder
