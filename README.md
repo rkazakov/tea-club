@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 64 | [Lipton]           | [Black]     | [Lemon]                     | -           | Kate Andrews    | 30-09-16 |
 | 63 | [Tealyra]          | [Herbal]    | [Mango Yoghurt Desert]      | -           | Ruslan Kazakov  | 29-09-16 |
 | 62 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | Ruslan Kazakov  | 28-09-16 |
 | 61 | [Calmer Sutra]     | [Black]     | [Lady Melba]                | [Sri Lanka] | Jess Cozanitis  | 27-09-16 |
@@ -104,6 +105,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Lemon]: http://www.made-in-scandinavian.com/store/p1077/Lipton_Lemon_Tea_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
 [Mango Yoghurt Desert]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/hibiscus-tea-au/mango-yoghurt-desert-772
 [Aged 20 Vintage Pu'erh]: https://www.tealyra.com.au/loose-tea-au/puerh-tea-au/aged-20-years-vintage-pu-erh
 [Lady Melba]: https://www.calmersutratea.com.au/collections/organic-tea/products/lady-melba
