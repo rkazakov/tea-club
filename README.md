@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 65 | [Tealyra]          | [Green]     | [Jasmine Dragon Pearls]     | [China]     | Ruslan Kazakov  | 04-10-16 |
 | 64 | [Lipton]           | [Black]     | [Lemon]                     | -           | Kate Andrews    | 30-09-16 |
 | 63 | [Tealyra]          | [Herbal]    | [Mango Yoghurt Desert]      | -           | Ruslan Kazakov  | 29-09-16 |
 | 62 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | Ruslan Kazakov  | 28-09-16 |
@@ -105,6 +106,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Jasmine Dragon Pearls]: https://www.tealyra.com.au/tea-collections/jasmine-tea/jasmine-dragon-pearls-1025
 [Lemon]: http://www.made-in-scandinavian.com/store/p1077/Lipton_Lemon_Tea_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
 [Mango Yoghurt Desert]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/hibiscus-tea-au/mango-yoghurt-desert-772
 [Aged 20 Vintage Pu'erh]: https://www.tealyra.com.au/loose-tea-au/puerh-tea-au/aged-20-years-vintage-pu-erh
