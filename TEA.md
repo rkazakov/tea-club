@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                   |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
+| 68 | [Uji no Tsuyu]     | [Green]     | Genmaicha                   | [Japan]     | Roasted rice              |
 | 67 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Orange, Rose, Lemongrass  |
 | 66 |                    |             |                             |             |                           |
 | 65 | [Tealyra]          | [Green]     | [Jasmine Dragon Pearls]     | [China]     | Jasmine                   |
@@ -94,6 +95,7 @@
 [Tipson]: http://www.tipsontea.com
 [Twinings]: http://www.twiningsusa.com
 [Wedgwood]: http://www.wedgwood.com.au
+[Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/body_shohin.html
 
 <!-- Name -->
 [Lady Grey]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/lady-grey
