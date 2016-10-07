@@ -2,9 +2,9 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                   |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
-| 68 | [Uji no Tsuyu]     | [Green]     | Genmaicha                   | [Japan]     | Roasted rice              |
+| 68 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Roasted rice              |
 | 67 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Orange, Rose, Lemongrass  |
-| 66 |                    |             |                             |             |                           |
+| 66 | [Rabbit Hole]      | [Black]     | [Lapsang Souchong]          | [China]     | Burnt tyre                |
 | 65 | [Tealyra]          | [Green]     | [Jasmine Dragon Pearls]     | [China]     | Jasmine                   |
 | 64 | [Lipton]           | [Black]     | [Lemon]                     | -           | Lemon                     |
 | 63 | [Tealyra]          | [Herbal]    | [Mango Yoghurt Desert]      | -           | Mango, Papaya, Currants   |
@@ -85,6 +85,7 @@
 [Lupicia]: http://www.lupicia.com.au
 [Nourish and Nest]: http://nourish-and-nest.myshopify.com
 [Qualitea]: http://www.quali-tea.com
+[Rabbit Hole]: https://therabbithole.com.au
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
@@ -94,11 +95,13 @@
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
 [Twinings]: http://www.twiningsusa.com
+[Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
-[Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/body_shohin.html
 
 <!-- Name -->
+[Ujinotsuyu Genmaicha]: http://www.ujinotsuyu.co.jp/english/body_shohin.html
 [Lady Grey]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/lady-grey
+[Lapsang Souchong]: https://therabbithole.com.au/products/lapsang-souchong
 [Jasmine Dragon Pearls]: https://www.tealyra.com.au/tea-collections/jasmine-tea/jasmine-dragon-pearls-1025
 [Lemon]: http://www.made-in-scandinavian.com/store/p1077/Lipton_Lemon_Tea_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
 [Mango Yoghurt Desert]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/hibiscus-tea-au/mango-yoghurt-desert-772

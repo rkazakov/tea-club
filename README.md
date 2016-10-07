@@ -14,9 +14,9 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 68 | [Uji no Tsuyu]     | [Green]     | Genmaicha                   | [Japan]     | Jesse Smit      | 07-10-16 |
+| 68 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Jesse Smit      | 07-10-16 |
 | 67 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Ruslan Kazakov  | 06-10-16 |
-| 66 |                    |             |                             |             | Gary Butler     | 05-10-16 |
+| 66 | [Rabbit Hole]      | [Black]     | [Lapsang Souchong]          | [China]     | Gary Butler     | 05-10-16 |
 | 65 | [Tealyra]          | [Green]     | [Jasmine Dragon Pearls]     | [China]     | Ruslan Kazakov  | 04-10-16 |
 | 64 | [Lipton]           | [Black]     | [Lemon]                     | -           | Kate Andrews    | 30-09-16 |
 | 63 | [Tealyra]          | [Herbal]    | [Mango Yoghurt Desert]      | -           | Ruslan Kazakov  | 29-09-16 |
@@ -97,6 +97,7 @@ What: Come and try new tea everyday
 [Lupicia]: http://www.lupicia.com.au
 [Nourish and Nest]: http://nourish-and-nest.myshopify.com
 [Qualitea]: http://www.quali-tea.com
+[Rabbit Hole]: https://therabbithole.com.au
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
@@ -106,11 +107,13 @@ What: Come and try new tea everyday
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
 [Twinings]: http://www.twiningsusa.com
+[Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
-[Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/body_shohin.html
 
 <!-- Name -->
+[Ujinotsuyu Genmaicha]: http://www.ujinotsuyu.co.jp/english/body_shohin.html
 [Lady Grey]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/lady-grey
+[Lapsang Souchong]: https://therabbithole.com.au/products/lapsang-souchong
 [Jasmine Dragon Pearls]: https://www.tealyra.com.au/tea-collections/jasmine-tea/jasmine-dragon-pearls-1025
 [Lemon]: http://www.made-in-scandinavian.com/store/p1077/Lipton_Lemon_Tea_20_-Tea_Bags_%2F_Pack_Made_in_Europe.html
 [Mango Yoghurt Desert]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/hibiscus-tea-au/mango-yoghurt-desert-772
