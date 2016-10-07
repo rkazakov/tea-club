@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 68 | [Uji no Tsuyu]     | [Green]     | Genmaicha                   | [Japan]     | Jesse Smit      | 07-10-16 |
 | 67 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Ruslan Kazakov  | 06-10-16 |
 | 66 |                    |             |                             |             | Gary Butler     | 05-10-16 |
 | 65 | [Tealyra]          | [Green]     | [Jasmine Dragon Pearls]     | [China]     | Ruslan Kazakov  | 04-10-16 |
@@ -106,6 +107,7 @@ What: Come and try new tea everyday
 [Tipson]: http://www.tipsontea.com
 [Twinings]: http://www.twiningsusa.com
 [Wedgwood]: http://www.wedgwood.com.au
+[Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/body_shohin.html
 
 <!-- Name -->
 [Lady Grey]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/lady-grey
