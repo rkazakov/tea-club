@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                   |
 |----|--------------------|-------------|-----------------------------|-------------|---------------------------|
+| 69 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Licorice, Fennel, Cinnamon|
 | 68 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Roasted rice              |
 | 67 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Orange, Rose, Lemongrass  |
 | 66 | [Rabbit Hole]      | [Black]     | [Lapsang Souchong]          | [China]     | Burnt tyre                |
@@ -99,6 +100,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Licorice Tea]: https://shop.higherlivingherbs.com/collections/frontpage/products/higher-living-licorice-tea-15-bag
 [Ujinotsuyu Genmaicha]: http://www.ujinotsuyu.co.jp/english/body_shohin.html
 [Lady Grey]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/lady-grey
 [Lapsang Souchong]: https://therabbithole.com.au/products/lapsang-souchong
