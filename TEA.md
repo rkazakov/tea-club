@@ -2,6 +2,8 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 71 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Cardamom, Cinnamon, Ginger |
+| 70 | ?                  | [Oolong]    | ?                           | ?           | ?                          |
 | 69 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Licorice, Fennel, Cinnamon |
 | 68 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Roasted rice               |
 | 67 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Orange, Rose, Lemongrass   |
@@ -100,6 +102,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Masala Chai]: http://www.basilurshop.com.au/basilur/oriental-collection-2x20g-foil-env-masala-chai
 [Licorice Tea]: https://shop.higherlivingherbs.com/collections/frontpage/products/higher-living-licorice-tea-15-bag
 [Ujinotsuyu Genmaicha]: http://www.ujinotsuyu.co.jp/english/body_shohin.html
 [Lady Grey]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/lady-grey

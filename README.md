@@ -14,6 +14,8 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 71 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Ruslan Kazakov  | 13-10-16 |
+| 70 | ?                  | [Oolong]    | ?                           | ?           | Jesse Smit      | 12-10-16 |
 | 69 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Louise Brooks   | 10-10-16 |
 | 68 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Jesse Smit      | 07-10-16 |
 | 67 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Ruslan Kazakov  | 06-10-16 |
@@ -112,6 +114,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Masala Chai]: http://www.basilurshop.com.au/basilur/oriental-collection-2x20g-foil-env-masala-chai
 [Licorice Tea]: https://shop.higherlivingherbs.com/collections/frontpage/products/higher-living-licorice-tea-15-bag
 [Ujinotsuyu Genmaicha]: http://www.ujinotsuyu.co.jp/english/body_shohin.html
 [Lady Grey]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/lady-grey
