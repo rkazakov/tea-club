@@ -3,7 +3,7 @@
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
 | 71 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Cardamom, Cinnamon, Ginger |
-| 70 | ?                  | [Oolong]    | ?                           | ?           | ?                          |
+| 70 | Shuey Shing        | [Oolong]    | Oolong Tea                  | [China]     | Oolong                     |
 | 69 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Licorice, Fennel, Cinnamon |
 | 68 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Roasted rice               |
 | 67 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Orange, Rose, Lemongrass   |
