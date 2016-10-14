@@ -15,7 +15,7 @@ What: Come and try new tea everyday
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
 | 71 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Ruslan Kazakov  | 13-10-16 |
-| 70 | ?                  | [Oolong]    | ?                           | ?           | Jesse Smit      | 12-10-16 |
+| 70 | Shuey Shing        | [Oolong]    | Oolong Tea                  | [China]     | Jesse Smit      | 12-10-16 |
 | 69 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Louise Brooks   | 10-10-16 |
 | 68 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Jesse Smit      | 07-10-16 |
 | 67 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Ruslan Kazakov  | 06-10-16 |
