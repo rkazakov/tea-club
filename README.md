@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 72 | [Basilur]          | [Black]     | [Basilur Darjeeling]        | [Sri Lanka] | Ruslan Kazakov  | 14-10-16 |
 | 71 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Ruslan Kazakov  | 13-10-16 |
 | 70 | Shuey Shing        | [Oolong]    | Oolong Tea                  | [China]     | Jesse Smit      | 12-10-16 |
 | 69 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Louise Brooks   | 10-10-16 |
@@ -114,6 +115,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Basilur Darjeeling]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-tea-bag-foil-env-darjeeling-2g.html
 [Masala Chai]: http://www.basilurshop.com.au/basilur/oriental-collection-2x20g-foil-env-masala-chai
 [Licorice Tea]: https://shop.higherlivingherbs.com/collections/frontpage/products/higher-living-licorice-tea-15-bag
 [Ujinotsuyu Genmaicha]: http://www.ujinotsuyu.co.jp/english/body_shohin.html

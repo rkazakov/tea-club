@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 72 | [Basilur]          | [Black]     | [Basilur Darjeeling]        | [Sri Lanka] | Black tea                  |
 | 71 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Cardamom, Cinnamon         |
 | 70 | Shuey Shing        | [Oolong]    | Oolong Tea                  | [China]     | Oolong tea                 |
 | 69 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Licorice, Fennel, Cinnamon |
@@ -102,6 +103,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Basilur Darjeeling]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-tea-bag-foil-env-darjeeling-2g.html
 [Masala Chai]: http://www.basilurshop.com.au/basilur/oriental-collection-2x20g-foil-env-masala-chai
 [Licorice Tea]: https://shop.higherlivingherbs.com/collections/frontpage/products/higher-living-licorice-tea-15-bag
 [Ujinotsuyu Genmaicha]: http://www.ujinotsuyu.co.jp/english/body_shohin.html
