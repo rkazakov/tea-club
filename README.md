@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 74 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Ishwor Gurung   | 18-10-16 |
 | 73 | [Tealeaves]        | [Black]     | [French Earl Grey]          | [China]     | Gary Butler     | 17-10-16 |
 | 72 | [Basilur]          | [Black]     | [Basilur Darjeeling]        | [Sri Lanka] | Ruslan Kazakov  | 14-10-16 |
 | 71 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Ruslan Kazakov  | 13-10-16 |
@@ -116,6 +117,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Go Go Goa]: http://www.t2tea.com/en/au/tea/go-go-goa-T125AE134.html
 [French Earl Grey]: http://www.tealeaves.com.au/black-french-earl-grey/w1/i1007115
 [Basilur Darjeeling]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-tea-bag-foil-env-darjeeling-2g.html
 [Masala Chai]: http://www.basilurshop.com.au/basilur/oriental-collection-2x20g-foil-env-masala-chai
