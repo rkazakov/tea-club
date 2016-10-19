@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 75 | [Basilur]          | [Black]     | [Leaf of Ceylon Ruhunu]     | [Sri Lanka] | Black tea                  |
 | 74 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Orange, Cinnamon, Ginger   |
 | 73 | [Tealeaves]        | [Black]     | [French Earl Grey]          | [China]     | Peach, Calendula, Rose     |
 | 72 | [Basilur]          | [Black]     | [Basilur Darjeeling]        | [Sri Lanka] | Black tea                  |
@@ -105,6 +106,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Leaf of Ceylon Ruhunu]: http://www.basilurshop.com.au/leaf-of-ceylon-lt-ruhunu-125g
 [Go Go Goa]: http://www.t2tea.com/en/au/tea/go-go-goa-T125AE134.html
 [French Earl Grey]: http://www.tealeaves.com.au/black-french-earl-grey/w1/i1007115
 [Basilur Darjeeling]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-tea-bag-foil-env-darjeeling-2g.html

@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 72 | [Basilur]          | [Black]     | [Leaf of Ceylon Ruhunu]     | [Sri Lanka] | Ruslan Kazakov  | 19-10-16 |
 | 74 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Ishwor Gurung   | 18-10-16 |
 | 73 | [Tealeaves]        | [Black]     | [French Earl Grey]          | [China]     | Gary Butler     | 17-10-16 |
 | 72 | [Basilur]          | [Black]     | [Basilur Darjeeling]        | [Sri Lanka] | Ruslan Kazakov  | 14-10-16 |
@@ -117,6 +118,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Leaf of Ceylon Ruhunu]: http://www.basilurshop.com.au/leaf-of-ceylon-lt-ruhunu-125g
 [Go Go Goa]: http://www.t2tea.com/en/au/tea/go-go-goa-T125AE134.html
 [French Earl Grey]: http://www.tealeaves.com.au/black-french-earl-grey/w1/i1007115
 [Basilur Darjeeling]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-tea-bag-foil-env-darjeeling-2g.html
