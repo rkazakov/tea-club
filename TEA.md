@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 76 | [Basilur]          | [Black]     | [Exotic]                    | [Sri Lanka] | Melon, Banana, Passion     |
 | 75 | [Basilur]          | [Black]     | [Leaf of Ceylon Ruhunu]     | [Sri Lanka] | Black tea                  |
 | 74 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Orange, Cinnamon, Ginger   |
 | 73 | [Tealeaves]        | [Black]     | [French Earl Grey]          | [China]     | Peach, Calendula, Rose     |
@@ -106,6 +107,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Exotic]: http://www.basilurtea.com.au/tea_collection/personal_collection/personal-collections-t-caddy-foil-env-exotic-2g-x-20-en.html
 [Leaf of Ceylon Ruhunu]: http://www.basilurshop.com.au/leaf-of-ceylon-lt-ruhunu-125g
 [Go Go Goa]: http://www.t2tea.com/en/au/tea/go-go-goa-T125AE134.html
 [French Earl Grey]: http://www.tealeaves.com.au/black-french-earl-grey/w1/i1007115
