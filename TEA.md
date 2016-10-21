@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 77 | [Krasnodrski]      | [Green]     | Odorous green               | [Russia]    | Odorous green tea          |
 | 76 | [Basilur]          | [Black]     | [Exotic]                    | [Sri Lanka] | Melon, Banana, Passion     |
 | 75 | [Basilur]          | [Black]     | [Leaf of Ceylon Ruhunu]     | [Sri Lanka] | Black tea                  |
 | 74 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Orange, Cinnamon, Ginger   |
@@ -80,6 +81,7 @@
 | 01 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange, Papaya, Raisin     |
 
 <!-- Brand -->
+[Krasnodrski]: http://www.krdtea.com/assortiment/listovoj_chaj
 [Adore Tea]: http://adoretea.com.au
 [Basilur]: http://www.basilurshop.com.au
 [Calmer Sutra]: https://www.calmersutratea.com.au
