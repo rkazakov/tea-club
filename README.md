@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 77 | [Krasnodrski]      | [Green]     | [Krasnodarskiy 1901 Green]  | [Russia]    | Ivan Pchelnikov | 21-10-16 |
 | 76 | [Basilur]          | [Black]     | [Exotic]                    | [Sri Lanka] | Ruslan Kazakov  | 20-10-16 |
 | 75 | [Basilur]          | [Black]     | [Leaf of Ceylon Ruhunu]     | [Sri Lanka] | Ruslan Kazakov  | 19-10-16 |
 | 74 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Ishwor Gurung   | 18-10-16 |
@@ -100,6 +101,7 @@ What: Come and try new tea everyday
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
 [Golden Tips]: http://www.goldentipstea.com
+[Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
@@ -119,6 +121,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Krasnodarskiy 1901 Green]: http://krdtea.com/assortiment/listovoj_chaj/chaj_zelenyij_krupnolistovoj_krasnodarskij_s_1901_goda
 [Exotic]: http://www.basilurtea.com.au/tea_collection/personal_collection/personal-collections-t-caddy-foil-env-exotic-2g-x-20-en.html
 [Leaf of Ceylon Ruhunu]: http://www.basilurshop.com.au/leaf-of-ceylon-lt-ruhunu-125g
 [Go Go Goa]: http://www.t2tea.com/en/au/tea/go-go-goa-T125AE134.html

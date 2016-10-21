@@ -2,7 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
-| 77 | [Krasnodrski]      | [Green]     | Odorous green               | [Russia]    | Odorous green tea          |
+| 77 | [Krasnodarskiy]    | [Green]     | [Krasnodarskiy 1901 Green]  | [Russia]    | Green tea                  |
 | 76 | [Basilur]          | [Black]     | [Exotic]                    | [Sri Lanka] | Melon, Banana, Passion     |
 | 75 | [Basilur]          | [Black]     | [Leaf of Ceylon Ruhunu]     | [Sri Lanka] | Black tea                  |
 | 74 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Orange, Cinnamon, Ginger   |
@@ -81,7 +81,6 @@
 | 01 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange, Papaya, Raisin     |
 
 <!-- Brand -->
-[Krasnodrski]: http://www.krdtea.com/assortiment/listovoj_chaj
 [Adore Tea]: http://adoretea.com.au
 [Basilur]: http://www.basilurshop.com.au
 [Calmer Sutra]: https://www.calmersutratea.com.au
@@ -90,6 +89,7 @@
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
 [Golden Tips]: http://www.goldentipstea.com
+[Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
@@ -109,6 +109,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Krasnodarskiy 1901 Green]: http://krdtea.com/assortiment/listovoj_chaj/chaj_zelenyij_krupnolistovoj_krasnodarskij_s_1901_goda
 [Exotic]: http://www.basilurtea.com.au/tea_collection/personal_collection/personal-collections-t-caddy-foil-env-exotic-2g-x-20-en.html
 [Leaf of Ceylon Ruhunu]: http://www.basilurshop.com.au/leaf-of-ceylon-lt-ruhunu-125g
 [Go Go Goa]: http://www.t2tea.com/en/au/tea/go-go-goa-T125AE134.html
