@@ -14,7 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 77 | [Krasnodrski]      | [Green]     | [Krasnodarskiy 1901 Green]  | [Russia]    | Ivan Pchelnikov | 21-10-16 |
+| 77 | [Krasnodarskiy]    | [Green]     | [Krasnodarskiy 1901 Green]  | [Russia]    | Ivan Pchelnikov | 21-10-16 |
 | 76 | [Basilur]          | [Black]     | [Exotic]                    | [Sri Lanka] | Ruslan Kazakov  | 20-10-16 |
 | 75 | [Basilur]          | [Black]     | [Leaf of Ceylon Ruhunu]     | [Sri Lanka] | Ruslan Kazakov  | 19-10-16 |
 | 74 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Ishwor Gurung   | 18-10-16 |
