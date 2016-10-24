@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 78 | [Basilur]          | [Herbal]    | [Peppermint]                | [Sri Lanka] | Peppermint                 |
 | 77 | [Krasnodarskiy]    | [Green]     | [Krasnodarskiy 1901 Green]  | [Russia]    | Green tea                  |
 | 76 | [Basilur]          | [Black]     | [Exotic]                    | [Sri Lanka] | Melon, Banana, Passion     |
 | 75 | [Basilur]          | [Black]     | [Leaf of Ceylon Ruhunu]     | [Sri Lanka] | Black tea                  |
@@ -109,6 +110,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Peppermint]: http://www.basilurshop.com.au/basilur/herbal-infusion-env-tb-peppermint
 [Krasnodarskiy 1901 Green]: http://krdtea.com/assortiment/listovoj_chaj/chaj_zelenyij_krupnolistovoj_krasnodarskij_s_1901_goda
 [Exotic]: http://www.basilurtea.com.au/tea_collection/personal_collection/personal-collections-t-caddy-foil-env-exotic-2g-x-20-en.html
 [Leaf of Ceylon Ruhunu]: http://www.basilurshop.com.au/leaf-of-ceylon-lt-ruhunu-125g

@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 78 | [Basilur]          | [Herbal]    | [Peppermint]                | [Sri Lanka] | Ruslan Kazakov  | 24-10-16 |
 | 77 | [Krasnodrski]      | [Green]     | [Krasnodarskiy 1901 Green]  | [Russia]    | Ivan Pchelnikov | 21-10-16 |
 | 76 | [Basilur]          | [Black]     | [Exotic]                    | [Sri Lanka] | Ruslan Kazakov  | 20-10-16 |
 | 75 | [Basilur]          | [Black]     | [Leaf of Ceylon Ruhunu]     | [Sri Lanka] | Ruslan Kazakov  | 19-10-16 |
@@ -121,6 +122,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Peppermint]: http://www.basilurshop.com.au/basilur/herbal-infusion-env-tb-peppermint
 [Krasnodarskiy 1901 Green]: http://krdtea.com/assortiment/listovoj_chaj/chaj_zelenyij_krupnolistovoj_krasnodarskij_s_1901_goda
 [Exotic]: http://www.basilurtea.com.au/tea_collection/personal_collection/personal-collections-t-caddy-foil-env-exotic-2g-x-20-en.html
 [Leaf of Ceylon Ruhunu]: http://www.basilurshop.com.au/leaf-of-ceylon-lt-ruhunu-125g
