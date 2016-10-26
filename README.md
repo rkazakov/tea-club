@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 79 | [Dafolongjing]     | [Green]     | [West Lake Dragon Well]     | [China]     | Alex Yang       | 25-10-16 |
 | 78 | [Basilur]          | [Herbal]    | [Peppermint]                | [Sri Lanka] | Ruslan Kazakov  | 24-10-16 |
 | 77 | [Krasnodarskiy]    | [Green]     | [Krasnodarskiy 1901 Green]  | [Russia]    | Ivan Pchelnikov | 21-10-16 |
 | 76 | [Basilur]          | [Black]     | [Exotic]                    | [Sri Lanka] | Ruslan Kazakov  | 20-10-16 |
@@ -98,6 +99,7 @@ What: Come and try new tea everyday
 [Basilur]: http://www.basilurshop.com.au
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
+[Dafolongjing]: http://www.dflj.cn
 [Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
@@ -122,6 +124,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[West Lake Dragon Well]: http://www.dflj.cn/shop/productsShow.aspx?username=dfljcn&id=343
 [Peppermint]: http://www.basilurshop.com.au/basilur/herbal-infusion-env-tb-peppermint
 [Krasnodarskiy 1901 Green]: http://krdtea.com/assortiment/listovoj_chaj/chaj_zelenyij_krupnolistovoj_krasnodarskij_s_1901_goda
 [Exotic]: http://www.basilurtea.com.au/tea_collection/personal_collection/personal-collections-t-caddy-foil-env-exotic-2g-x-20-en.html

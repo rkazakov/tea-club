@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 79 | [Dafolongjing]     | [Green]     | [West Lake Dragon Well]     | [China]     | Green tea                  |
 | 78 | [Basilur]          | [Herbal]    | [Peppermint]                | [Sri Lanka] | Peppermint                 |
 | 77 | [Krasnodarskiy]    | [Green]     | [Krasnodarskiy 1901 Green]  | [Russia]    | Green tea                  |
 | 76 | [Basilur]          | [Black]     | [Exotic]                    | [Sri Lanka] | Melon, Banana, Passion     |
@@ -86,6 +87,7 @@
 [Basilur]: http://www.basilurshop.com.au
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
+[Dafolongjing]: http://www.dflj.cn
 [Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
@@ -110,6 +112,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[West Lake Dragon Well]: http://www.dflj.cn/shop/productsShow.aspx?username=dfljcn&id=343
 [Peppermint]: http://www.basilurshop.com.au/basilur/herbal-infusion-env-tb-peppermint
 [Krasnodarskiy 1901 Green]: http://krdtea.com/assortiment/listovoj_chaj/chaj_zelenyij_krupnolistovoj_krasnodarskij_s_1901_goda
 [Exotic]: http://www.basilurtea.com.au/tea_collection/personal_collection/personal-collections-t-caddy-foil-env-exotic-2g-x-20-en.html
