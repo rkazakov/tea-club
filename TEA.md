@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 81 | [Adore Tea]        | [Black]     | [Banana Split]	     	  | [China]     | Banana and Chocolate                  |
 | 80 | [Rabbit Hole]      | [Black]     | [Choc Orange Fudge]     	  | [China]     | Orange and Chocolate                  |
 | 79 | [Dafolongjing]     | [Green]     | [West Lake Dragon Well]     | [China]     | Green tea                  |
 | 78 | [Basilur]          | [Herbal]    | [Peppermint]                | [Sri Lanka] | Peppermint                 |
@@ -113,6 +114,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Banana Split]: http://adoretea.com.au/banana-split.html
 [Choc Orange Fudge]: https://therabbithole.com.au/products/choc-orange-fudge
 [West Lake Dragon Well]: http://www.dflj.cn/shop/productsShow.aspx?username=dfljcn&id=343
 [Peppermint]: http://www.basilurshop.com.au/basilur/herbal-infusion-env-tb-peppermint
