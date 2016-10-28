@@ -2,8 +2,9 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
-| 81 | [Adore Tea]        | [Black]     | [Banana Split]	     	  | [China]     | Banana and Chocolate                  |
-| 80 | [Rabbit Hole]      | [Black]     | [Choc Orange Fudge]     	  | [China]     | Orange and Chocolate                  |
+| 82 | [Basilur]          | [Black]     | [English Afternoon]         | [Sri Lanka] | Black tea                  |
+| 81 | [Adore Tea]        | [Black]     | [Banana Split]	     	      | [China]     | Banana, Chocolate          |
+| 80 | [Rabbit Hole]      | [Black]     | [Choc Orange Fudge]     	  | [China]     | Orange, Chocolate          |
 | 79 | [Dafolongjing]     | [Green]     | [West Lake Dragon Well]     | [China]     | Green tea                  |
 | 78 | [Basilur]          | [Herbal]    | [Peppermint]                | [Sri Lanka] | Peppermint                 |
 | 77 | [Krasnodarskiy]    | [Green]     | [Krasnodarskiy 1901 Green]  | [Russia]    | Green tea                  |
@@ -114,6 +115,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[English Afternoon]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-t-caddy-lt-english-afternoon-100g.html
 [Banana Split]: http://adoretea.com.au/banana-split.html
 [Choc Orange Fudge]: https://therabbithole.com.au/products/choc-orange-fudge
 [West Lake Dragon Well]: http://www.dflj.cn/shop/productsShow.aspx?username=dfljcn&id=343
