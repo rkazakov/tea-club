@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 83 | [Tealyra]          | [Blooming]  | [Honey Peach Blossom]       | [China]     | Peach, Honey               |
 | 82 | [Basilur]          | [Black]     | [English Afternoon]         | [Sri Lanka] | Black tea                  |
 | 81 | [Adore Tea]        | [Black]     | [Banana Split]	     	      | [China]     | Banana, Chocolate          |
 | 80 | [Rabbit Hole]      | [Black]     | [Choc Orange Fudge]     	  | [China]     | Orange, Chocolate          |
@@ -115,6 +116,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Honey Peach Blossom]: https://www.tealyra.com.au/blooming-tea-au/honey-peach-blossom
 [English Afternoon]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-t-caddy-lt-english-afternoon-100g.html
 [Banana Split]: http://adoretea.com.au/banana-split.html
 [Choc Orange Fudge]: https://therabbithole.com.au/products/choc-orange-fudge
@@ -198,6 +200,7 @@
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
+[Blooming]: https://en.wikipedia.org/wiki/Flowering_tea
 [Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
 [Green]: https://en.wikipedia.org/wiki/Green_tea
 [Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
