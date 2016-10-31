@@ -48,7 +48,7 @@
 | 40 | [Sahar Khiz]       | [Black]     | [Saffron Tea]               | [Iran]      | Saffron                    |
 | 39 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Mongo, Pineapple           |
 | 38 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Apricot, Lemongrass        |
-| 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Rose petals, Lavender      |
+| 37 | [Nourish & Nest]   | [Black]     | [French Lady Grey]          | -           | Rose petals, Lavender      |
 | 36 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Milk Oolong                |
 | 35 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Black tea                  |
 | 34 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Borage                     |
@@ -100,7 +100,7 @@
 [Kuban Tea]: http://www.kubantea.ru
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
-[Nourish and Nest]: http://nourish-and-nest.myshopify.com
+[Nourish & Nest]: http://nourish-and-nest.myshopify.com
 [Qualitea]: http://www.quali-tea.com
 [Rabbit Hole]: https://therabbithole.com.au
 [Sahar Khiz]: http://www.saharkhizsaffron.com

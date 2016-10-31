@@ -60,7 +60,7 @@ What: Come and try new tea everyday
 | 40 | [Sahar Khiz]       | [Black]     | [Saffron Tea]               | [Iran]      | Azadeh H.       | 25-08-16 |
 | 39 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Ruslan Kazakov  | 24-08-16 |
 | 38 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Ruslan Kazakov  | 23-08-16 |
-| 37 | [Nourish and Nest] | [Black]     | [French Lady Grey]          | -           | Jess Cozanitis  | 22-08-16 |
+| 37 | [Nourish & Nest]   | [Black]     | [French Lady Grey]          | -           | Jess Cozanitis  | 22-08-16 |
 | 36 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Cherry Zhou     | 19-08-16 |
 | 35 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Gary Butler     | 18-08-16 |
 | 34 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Marzieh M.      | 17-08-16 |
@@ -112,7 +112,7 @@ What: Come and try new tea everyday
 [Kuban Tea]: http://www.kubantea.ru
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
-[Nourish and Nest]: http://nourish-and-nest.myshopify.com
+[Nourish & Nest]: http://nourish-and-nest.myshopify.com
 [Qualitea]: http://www.quali-tea.com
 [Rabbit Hole]: https://therabbithole.com.au
 [Sahar Khiz]: http://www.saharkhizsaffron.com
