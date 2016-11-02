@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 84 | [Basilur]          | [Black]     | [Island of Tea Gold]        | [Sri Lanka] | Black tea                  |
 | 83 | [Tealyra]          | [Blooming]  | [Honey Peach Blossom]       | [China]     | Peach, Honey               |
 | 82 | [Basilur]          | [Black]     | [English Afternoon]         | [Sri Lanka] | Black tea                  |
 | 81 | [Adore Tea]        | [Black]     | [Banana Split]	     	      | [China]     | Banana, Chocolate          |
@@ -116,6 +117,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Island of Tea Gold]: http://www.basilurshop.com.au/island-of-tea/island-of-tea-t-caddy-lt-gold
 [Honey Peach Blossom]: https://www.tealyra.com.au/blooming-tea-au/honey-peach-blossom
 [English Afternoon]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-t-caddy-lt-english-afternoon-100g.html
 [Banana Split]: http://adoretea.com.au/banana-split.html
