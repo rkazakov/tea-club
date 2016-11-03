@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 85 | [Tealyra]          | [Green]     | [Japanese Cherry Green]     | [Japan]     | Ruslan Kazakov  | 03-11-16 |
 | 84 | [Basilur]          | [Black]     | [Island of Tea Gold]        | [Sri Lanka] | Ruslan Kazakov  | 02-11-16 |
 | 83 | [Tealyra]          | [Blooming]  | [Honey Peach Blossom]       | [China]     | Ruslan Kazakov  | 31-10-16 |
 | 82 | [Basilur]          | [Black]     | [English Afternoon]         | [Sri Lanka] | Ruslan Kazakov  | 28-10-16 |
@@ -129,6 +130,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Japanese Cherry Green]: https://www.tealyra.com.au/loose-tea-au/buy-green-tea-au/flavored-green-tea/japanese-cherry-green-81
 [Island of Tea Gold]: http://www.basilurshop.com.au/island-of-tea/island-of-tea-t-caddy-lt-gold
 [Honey Peach Blossom]: https://www.tealyra.com.au/blooming-tea-au/honey-peach-blossom
 [English Afternoon]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-t-caddy-lt-english-afternoon-100g.html
