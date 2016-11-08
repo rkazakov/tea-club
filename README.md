@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 87 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Ruslan Kazakov  | 07-11-16 |
 | 86 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Ruslan Kazakov  | 04-11-16 |
 | 85 | [Tealyra]          | [Green]     | [Japanese Cherry Green]     | [Japan]     | Ruslan Kazakov  | 03-11-16 |
 | 84 | [Basilur]          | [Black]     | [Island of Tea Gold]        | [Sri Lanka] | Ruslan Kazakov  | 02-11-16 |
@@ -131,6 +132,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Basilur Earl Grey]: http://www.basilurshop.com.au/specialty-classic-t-caddy-lt-earl-grey-100g
 [Green Tea & Lemon]: http://www.twinings.com/int/product.php?productid=19
 [Japanese Cherry Green]: https://www.tealyra.com.au/loose-tea-au/buy-green-tea-au/flavored-green-tea/japanese-cherry-green-81
 [Island of Tea Gold]: http://www.basilurshop.com.au/island-of-tea/island-of-tea-t-caddy-lt-gold

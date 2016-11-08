@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 87 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Bergamot                   |
 | 86 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Lemon                      |
 | 85 | [Tealyra]          | [Green]     | [Japanese Cherry Green]     | [Japan]     | Rose petals, Cherry        |
 | 84 | [Basilur]          | [Black]     | [Island of Tea Gold]        | [Sri Lanka] | Black tea                  |
@@ -119,6 +120,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Basilur Earl Grey]: http://www.basilurshop.com.au/specialty-classic-t-caddy-lt-earl-grey-100g
 [Green Tea & Lemon]: http://www.twinings.com/int/product.php?productid=19
 [Japanese Cherry Green]: https://www.tealyra.com.au/loose-tea-au/buy-green-tea-au/flavored-green-tea/japanese-cherry-green-81
 [Island of Tea Gold]: http://www.basilurshop.com.au/island-of-tea/island-of-tea-t-caddy-lt-gold
