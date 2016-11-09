@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 88 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Apple, Ginger, Lemongrass  |
 | 87 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Bergamot                   |
 | 86 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Lemon                      |
 | 85 | [Tealyra]          | [Green]     | [Japanese Cherry Green]     | [Japan]     | Rose petals, Cherry        |
@@ -120,6 +121,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Magic Fruits Ginger]: http://www.basilurshop.com.au/basilur/magic-fruits-100g-t-caddy-ginger
 [Basilur Earl Grey]: http://www.basilurshop.com.au/specialty-classic-t-caddy-lt-earl-grey-100g
 [Green Tea & Lemon]: http://www.twinings.com/int/product.php?productid=19
 [Japanese Cherry Green]: https://www.tealyra.com.au/loose-tea-au/buy-green-tea-au/flavored-green-tea/japanese-cherry-green-81
