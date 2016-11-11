@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 89 | [Kunitaro]         | [Green]     | Genmaicha                   | [Japan]     | Jesse Smit      | 11-11-16 |
 | 88 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Ruslan Kazakov  | 09-11-16 |
 | 87 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Ruslan Kazakov  | 07-11-16 |
 | 86 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Ruslan Kazakov  | 04-11-16 |
@@ -115,6 +116,7 @@ What: Come and try new tea everyday
 [Golden Tips]: http://www.goldentipstea.com
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
+[Kunitaro]: http://www.kunitaro.co.jp
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
