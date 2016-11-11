@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 89 | [Kunitaro]         | [Green]     | Genmaicha                   | [Japan]     | Roasted Rice               |
 | 88 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Apple, Ginger, Lemongrass  |
 | 87 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Bergamot                   |
 | 86 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Lemon                      |
@@ -103,6 +104,7 @@
 [Golden Tips]: http://www.goldentipstea.com
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
+[Kunitaro]: http://www.kunitaro.co.jp
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
