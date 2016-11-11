@@ -14,7 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 89 | [Kunitaro]         | [Green]     | Genmaicha                   | [Japan]     | Jesse Smit      | 11-11-16 |
+| 89 | [Kunitaro]         | [Genmaicha] | Brown rice tea              | [Japan]     | Jesse Smit      | 11-11-16 |
 | 88 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Ruslan Kazakov  | 09-11-16 |
 | 87 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Ruslan Kazakov  | 07-11-16 |
 | 86 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Ruslan Kazakov  | 04-11-16 |
