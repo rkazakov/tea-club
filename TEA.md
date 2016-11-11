@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 89 | [Kunitaro]         | [Green]     | Genmaicha                   | [Japan]     | Roasted Rice               |
 | 88 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Apple, Ginger, Lemongrass  |
 | 87 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Bergamot                   |
 | 86 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Lemon                      |
