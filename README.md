@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 | #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 91 | [Trader Joe's]     | [Black]     | [Mango & Chile Black Tea]   | [Sri Lanka] | Kate Andrews    | 16-11-16 |
 | 90 | [Rabbit Hole]      | [Black]     | [Berry Bomb]            	  | -           | Gary Butler     | 14-11-16 |
 | 89 | [Kunitaro]         | [Genmaicha] | Brown rice tea              | [Japan]     | Jesse Smit      | 11-11-16 |
 | 88 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Ruslan Kazakov  | 09-11-16 |
@@ -131,11 +132,13 @@ What: Come and try new tea everyday
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
+[Trader Joe's]: http://www.traderjoes.com
 [Twinings]: http://www.twiningsusa.com
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Mango & Chile Black Tea]: http://www.traderjoes.com/digin/post/organic-mango-chile-black-tea
 [Berry Bomb]: https://therabbithole.com.au/products/berry-bomb
 [Magic Fruits Ginger]: http://www.basilurshop.com.au/basilur/magic-fruits-100g-t-caddy-ginger
 [Basilur Earl Grey]: http://www.basilurshop.com.au/specialty-classic-t-caddy-lt-earl-grey-100g

@@ -2,6 +2,7 @@
 
 | #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 91 | [Trader Joe's]     | [Black]     | [Mango & Chile Black Tea]   | [Sri Lanka] | Mango, Red Chile           |
 | 90 | [Rabbit Hole]      | [Black]     | [Berry Bomb]            	  | -           | Blueberry, Raspberry       |
 | 89 | [Kunitaro]         | [Genmaicha] | Brown rice tea              | [Japan]     | Roasted brown rice         |
 | 88 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Apple, Ginger, Lemongrass  |
@@ -119,11 +120,13 @@
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
+[Trader Joe's]: http://www.traderjoes.com
 [Twinings]: http://www.twiningsusa.com
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Mango & Chile Black Tea]: http://www.traderjoes.com/digin/post/organic-mango-chile-black-tea
 [Berry Bomb]: https://therabbithole.com.au/products/berry-bomb
 [Magic Fruits Ginger]: http://www.basilurshop.com.au/basilur/magic-fruits-100g-t-caddy-ginger
 [Basilur Earl Grey]: http://www.basilurshop.com.au/specialty-classic-t-caddy-lt-earl-grey-100g
