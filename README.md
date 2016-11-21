@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 094 | [Tealyra]          | [Herbal]    | [Egyptian Chamomile]        | [Egypt]     | Ruslan Kazakov  | 21-11-16 |
 | 093 | [T2]               | [Black]     | [New York Breakfast]        | -           | Gary Butler     | 18-11-16 |
 | 092 | [Symingtons]       | [Herbal]    | [Instant Dandelion Herbal]  | [Scotland]  | Louise Brooks   | 18-11-16 |
 | 091 | [Trader Joe's]     | [Black]     | [Mango & Chile Black Tea]   | [Sri Lanka] | Kate Andrews    | 16-11-16 |
@@ -141,6 +142,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Egyptian Chamomile]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/chamomile-tea-au/egyptian-chamomile-organic-44
 [New York Breakfast]: https://www.t2tea.com/en/au/tea/black-tea/new-york-breakfast-loose-leaf-tea-D65.html
 [Instant Dandelion Herbal]: https://www.naturalhealthorganics.com.au/brands/symington-s-dandelion-tea/symingtons-instant-dandelion-herbal-tea-100g.html
 [Mango & Chile Black Tea]: http://www.traderjoes.com/digin/post/organic-mango-chile-black-tea
@@ -249,6 +251,7 @@ What: Come and try new tea everyday
 [Australia]: https://en.wikipedia.org/wiki/Australia
 [Brazil]: https://en.wikipedia.org/wiki/Brazil
 [China]: https://en.wikipedia.org/wiki/China
+[Egypt]: https://en.wikipedia.org/wiki/Egypt
 [Germany]: https://en.wikipedia.org/wiki/Germany
 [India]: https://en.wikipedia.org/wiki/India
 [Indonesia]: https://en.wikipedia.org/wiki/Indonesia
