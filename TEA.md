@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |-----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 095 | [Nomurasangyo]     | [Green]     | [Hojicha]                   | [Japan]     | Green tea                  |
 | 094 | [Tealyra]          | [Herbal]    | [Egyptian Chamomile]        | [Egypt]     | Chamomile                  |
 | 093 | [T2]               | [Black]     | [New York Breakfast]        | -           | Cinnamon, Vanilla          |
 | 092 | [Symingtons]       | [Herbal]    | [Instant Dandelion Herbal]  | [Scotland]  | Dandelion                  |
@@ -112,6 +113,7 @@
 [Kunitaro]: http://www.kunitaro.co.jp
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
+[Nomurasangyo]: http://www.nihoncha.co.jp
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
 [Qualitea]: http://www.quali-tea.com
 [Rabbit Hole]: https://therabbithole.com.au
@@ -130,6 +132,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Hojicha]: http://www.nihoncha.co.jp/product/powder_tb.htm
 [Egyptian Chamomile]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/chamomile-tea-au/egyptian-chamomile-organic-44
 [New York Breakfast]: https://www.t2tea.com/en/au/tea/black-tea/new-york-breakfast-loose-leaf-tea-D65.html
 [Instant Dandelion Herbal]: https://www.naturalhealthorganics.com.au/brands/symington-s-dandelion-tea/symingtons-instant-dandelion-herbal-tea-100g.html

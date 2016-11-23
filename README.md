@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 095 | [Nomurasangyo]     | [Green]     | [Hojicha]                   | [Japan]     | Jesse Smit      | 23-11-16 |
 | 094 | [Tealyra]          | [Herbal]    | [Egyptian Chamomile]        | [Egypt]     | Ruslan Kazakov  | 21-11-16 |
 | 093 | [T2]               | [Black]     | [New York Breakfast]        | -           | Gary Butler     | 18-11-16 |
 | 092 | [Symingtons]       | [Herbal]    | [Instant Dandelion Herbal]  | [Scotland]  | Louise Brooks   | 18-11-16 |
@@ -124,6 +125,7 @@ What: Come and try new tea everyday
 [Kunitaro]: http://www.kunitaro.co.jp
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
+[Nomurasangyo]: http://www.nihoncha.co.jp
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
 [Qualitea]: http://www.quali-tea.com
 [Rabbit Hole]: https://therabbithole.com.au
@@ -142,6 +144,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Hojicha]: http://www.nihoncha.co.jp/product/powder_tb.htm
 [Egyptian Chamomile]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/chamomile-tea-au/egyptian-chamomile-organic-44
 [New York Breakfast]: https://www.t2tea.com/en/au/tea/black-tea/new-york-breakfast-loose-leaf-tea-D65.html
 [Instant Dandelion Herbal]: https://www.naturalhealthorganics.com.au/brands/symington-s-dandelion-tea/symingtons-instant-dandelion-herbal-tea-100g.html
