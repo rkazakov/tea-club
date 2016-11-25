@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |-----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 096 | [Celestial]        | [Herbal]    | [Sugar Cookie Sleigh Ride]  | -           | Thistle, Barley, Orange    |
 | 095 | [Nomurasangyo]     | [Green]     | [Hojicha]                   | [Japan]     | Green tea                  |
 | 094 | [Tealyra]          | [Herbal]    | [Egyptian Chamomile]        | [Egypt]     | Chamomile                  |
 | 093 | [T2]               | [Black]     | [New York Breakfast]        | -           | Cinnamon, Vanilla          |
@@ -132,6 +133,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Sugar Cookie Sleigh Ride]: http://www.celestialseasonings.com/products/herbal/sugar-cookie-sleigh-ride
 [Hojicha]: http://www.nihoncha.co.jp/product/powder_tb.htm
 [Egyptian Chamomile]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/chamomile-tea-au/egyptian-chamomile-organic-44
 [New York Breakfast]: https://www.t2tea.com/en/au/tea/black-tea/new-york-breakfast-loose-leaf-tea-D65.html
