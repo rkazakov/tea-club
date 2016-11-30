@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |-----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 097 | [Tealyra]          | [Herbal]    | [Pineapple Cherry Bloom]    | -           | Apple, Orange, Hibiscus    |
 | 096 | [Celestial]        | [Herbal]    | [Sugar Cookie Sleigh Ride]  | -           | Thistle, Barley, Orange    |
 | 095 | [Nomurasangyo]     | [Green]     | [Hojicha]                   | [Japan]     | Green tea                  |
 | 094 | [Tealyra]          | [Herbal]    | [Egyptian Chamomile]        | [Egypt]     | Chamomile                  |
@@ -133,6 +134,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Pineapple Cherry Bloom]: https://www.tealyrawhole.sale/wholesale-loose-tea/fruity-tea/pineapple-cherry-bloom
 [Sugar Cookie Sleigh Ride]: http://www.celestialseasonings.com/products/herbal/sugar-cookie-sleigh-ride
 [Hojicha]: http://www.nihoncha.co.jp/product/powder_tb.htm
 [Egyptian Chamomile]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/chamomile-tea-au/egyptian-chamomile-organic-44

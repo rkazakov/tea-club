@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 097 | [Tealyra]          | [Herbal]    | [Pineapple Cherry Bloom]    | -           | Ruslan Kazakov  | 30-11-16 |
 | 096 | [Celestial]        | [Herbal]    | [Sugar Cookie Sleigh Ride]  | -           | Kate Andrews    | 25-11-16 |
 | 095 | [Nomurasangyo]     | [Green]     | [Hojicha]                   | [Japan]     | Jesse Smit      | 23-11-16 |
 | 094 | [Tealyra]          | [Herbal]    | [Egyptian Chamomile]        | [Egypt]     | Ruslan Kazakov  | 21-11-16 |
@@ -145,6 +146,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Pineapple Cherry Bloom]: https://www.tealyrawhole.sale/wholesale-loose-tea/fruity-tea/pineapple-cherry-bloom
 [Sugar Cookie Sleigh Ride]: http://www.celestialseasonings.com/products/herbal/sugar-cookie-sleigh-ride
 [Hojicha]: http://www.nihoncha.co.jp/product/powder_tb.htm
 [Egyptian Chamomile]: https://www.tealyra.com.au/loose-tea-au/herbal-teas-au/chamomile-tea-au/egyptian-chamomile-organic-44
