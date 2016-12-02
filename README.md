@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 098 | [Higher Living]    | [Herbal]    | [Elderflower and Apricot]   | [UK]        | Louise Brooks   | 02-12-16 |
 | 097 | [Tealyra]          | [Herbal]    | [Pineapple Cherry Bloom]    | -           | Ruslan Kazakov  | 30-11-16 |
 | 096 | [Celestial]        | [Herbal]    | [Sugar Cookie Sleigh Ride]  | -           | Kate Andrews    | 25-11-16 |
 | 095 | [Nomurasangyo]     | [Green]     | [Hojicha]                   | [Japan]     | Jesse Smit      | 23-11-16 |
@@ -146,6 +147,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Elderflower and Apricot]: https://shop.coles.com.au/a/a-national/product/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
 [Pineapple Cherry Bloom]: https://www.tealyrawhole.sale/wholesale-loose-tea/fruity-tea/pineapple-cherry-bloom
 [Sugar Cookie Sleigh Ride]: http://www.celestialseasonings.com/products/herbal/sugar-cookie-sleigh-ride
 [Hojicha]: http://www.nihoncha.co.jp/product/powder_tb.htm

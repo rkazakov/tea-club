@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
 |-----|--------------------|-------------|-----------------------------|-------------|----------------------------|
+| 098 | [Higher Living]    | [Herbal]    | [Elderflower and Apricot]   | [UK]        | Elderflower, Apricot       |
 | 097 | [Tealyra]          | [Herbal]    | [Pineapple Cherry Bloom]    | -           | Apple, Orange, Hibiscus    |
 | 096 | [Celestial]        | [Herbal]    | [Sugar Cookie Sleigh Ride]  | -           | Thistle, Barley, Orange    |
 | 095 | [Nomurasangyo]     | [Green]     | [Hojicha]                   | [Japan]     | Green tea                  |
@@ -134,6 +135,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Elderflower and Apricot]: https://shop.coles.com.au/a/a-national/product/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
 [Pineapple Cherry Bloom]: https://www.tealyrawhole.sale/wholesale-loose-tea/fruity-tea/pineapple-cherry-bloom
 [Sugar Cookie Sleigh Ride]: http://www.celestialseasonings.com/products/herbal/sugar-cookie-sleigh-ride
 [Hojicha]: http://www.nihoncha.co.jp/product/powder_tb.htm
