@@ -1,105 +1,106 @@
 # Tea Catalog
 
-|  #  | Brand              | Type        | Name                        | Origin      | Flavour                    |
-|-----|--------------------|-------------|-----------------------------|-------------|----------------------------|
-| 098 | [Higher Living]    | [Herbal]    | [Elderflower and Apricot]   | [UK]        | Elderflower, Apricot       |
-| 097 | [Tealyra]          | [Herbal]    | [Pineapple Cherry Bloom]    | -           | Apple, Orange, Hibiscus    |
-| 096 | [Celestial]        | [Herbal]    | [Sugar Cookie Sleigh Ride]  | -           | Thistle, Barley, Orange    |
-| 095 | [Nomurasangyo]     | [Green]     | [Hojicha]                   | [Japan]     | Green tea                  |
-| 094 | [Tealyra]          | [Herbal]    | [Egyptian Chamomile]        | [Egypt]     | Chamomile                  |
-| 093 | [T2]               | [Black]     | [New York Breakfast]        | -           | Cinnamon, Vanilla          |
-| 092 | [Symingtons]       | [Herbal]    | [Instant Dandelion Herbal]  | [Scotland]  | Dandelion                  |
-| 091 | [Trader Joe's]     | [Black]     | [Mango & Chile Black Tea]   | [Sri Lanka] | Mango, Red Chile           |
-| 090 | [Rabbit Hole]      | [Black]     | [Berry Bomb]            	   | -           | Blueberry, Raspberry       |
-| 089 | [Kunitaro]         | [Genmaicha] | Brown rice tea              | [Japan]     | Roasted brown rice         |
-| 088 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Apple, Ginger, Lemongrass  |
-| 087 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Bergamot                   |
-| 086 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Lemon                      |
-| 085 | [Tealyra]          | [Green]     | [Japanese Cherry Green]     | [Japan]     | Rose petals, Cherry        |
-| 084 | [Basilur]          | [Black]     | [Island of Tea Gold]        | [Sri Lanka] | Black tea                  |
-| 083 | [Tealyra]          | [Blooming]  | [Honey Peach Blossom]       | [China]     | Peach, Honey               |
-| 082 | [Basilur]          | [Black]     | [English Afternoon]         | [Sri Lanka] | Black tea                  |
-| 081 | [Adore Tea]        | [Black]     | [Banana Split]	     	       | [China]     | Banana, Chocolate          |
-| 080 | [Rabbit Hole]      | [Black]     | [Choc Orange Fudge]     	   | [China]     | Orange, Chocolate          |
-| 079 | [Dafolongjing]     | [Green]     | [West Lake Dragon Well]     | [China]     | Green tea                  |
-| 078 | [Basilur]          | [Herbal]    | [Peppermint]                | [Sri Lanka] | Peppermint                 |
-| 077 | [Krasnodarskiy]    | [Green]     | [Krasnodarskiy 1901 Green]  | [Russia]    | Green tea                  |
-| 076 | [Basilur]          | [Black]     | [Exotic]                    | [Sri Lanka] | Melon, Banana, Passion     |
-| 075 | [Basilur]          | [Black]     | [Leaf of Ceylon Ruhunu]     | [Sri Lanka] | Black tea                  |
-| 074 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Orange, Cinnamon, Ginger   |
-| 073 | [Tealeaves]        | [Black]     | [French Earl Grey]          | [China]     | Peach, Calendula, Rose     |
-| 072 | [Basilur]          | [Black]     | [Basilur Darjeeling]        | [Sri Lanka] | Black tea                  |
-| 071 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Cardamom, Cinnamon         |
-| 070 | Shuey Shing        | [Oolong]    | Oolong Tea                  | [China]     | Oolong tea                 |
-| 069 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Licorice, Fennel, Cinnamon |
-| 068 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Roasted rice               |
-| 067 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Orange, Rose, Lemongrass   |
-| 066 | [Rabbit Hole]      | [Black]     | [Lapsang Souchong]          | [China]     | Burnt tyre                 |
-| 065 | [Tealyra]          | [Green]     | [Jasmine Dragon Pearls]     | [China]     | Jasmine                    |
-| 064 | [Lipton]           | [Black]     | [Lemon]                     | -           | Lemon                      |
-| 063 | [Tealyra]          | [Herbal]    | [Mango Yoghurt Desert]      | -           | Mango, Papaya, Currants    |
-| 062 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | 20-Year-Old socks          |
-| 061 | [Calmer Sutra]     | [Black]     | [Lady Melba]                | [Sri Lanka] | Bergamot                   |
-| 060 | [Lipton]           | [Green]     | [Green Gunpowder]           | [Russia]    | Gunpowder                  |
-| 059 | [Basilur]          | [Oolong]    | [White Magic]               | [Sri Lanka] | Milk                       |
-| 058 | [Tealyra]          | [Yellow]    | [Jun Shan Yin Zhen Yellow]  | [China]     | Yellow tea                 |
-| 057 | [T2]               | [White]     | [White Ginger]              | -           | Ginger                     |
-| 056 | [Adore Tea]        | [Black]     | [Almond & Vanilla]          | [Sri Lanka] | Almond, Vanilla            |
-| 055 | [Basilur]          | [Black]     | [Frosty Night]              | [Sri Lanka] | Berberis, Rosehip, Almond  |
-| 054 | [Tealeaves]        | [Black]     | [Caramel Whiskey]           | [China]     | Whiskey, Caramel           |
-| 053 | [Twinings]         | [Herbal]    | [Camomile, Honey, Vanilla]  | [UK]        | Camomile, Honey            |
-| 052 | [Higher Living]    | [Green]     | [Green Tea Coconut]         | [UK]        | Coconut                    |
-| 051 | [Adore Tea]        | [Black]     | [Assam 2nd Flush]           | [India]     | Black tea                  |
-| 050 | [Adore Tea]        | [Black]     | [English Breakfast Supr]    | [Sri Lanka] | Black tea                  |
-| 049 | [Basilur]          | [Black]     | [Window Moscow]             | [Sri Lanka] | Papaya, Cherry, Cranberry  |
-| 048 | [Qualitea]         | [Black]     | [Java Orange Pekoe]         | [Indonesia] | Black tea                  |
-| 047 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Lemon verbena              |
-| 046 | [Kuban Tea]        | [Black]     | [Azercay with Thyme]        | [Russia]    | Thyme                      |
-| 045 | [Severnyi Chai]    | [Herbal]    | [Ivan Chai]                 | [Russia]    | Willowherbs                |
-| 044 | [Basilur]          | [Green]     | [Cream Fantasy]             | [Sri Lanka] | Strawberry, Papaya         |
-| 043 | [Basilur]          | [Black]     | [Nuwara Eliya]              | [Sri Lanka] | Black tea                  |
-| 042 | [Lipton]           | [Black]     | [Forest Fruit]              | -           | Strawberry, Cherry         |
-| 041 | [Tipson]           | [Black]     | [Golden Disk]               | [Sri Lanka] | Coffee, Vanilla            |
-| 040 | [Sahar Khiz]       | [Black]     | [Saffron Tea]               | [Iran]      | Saffron                    |
-| 039 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Mongo, Pineapple           |
-| 038 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Apricot, Lemongrass        |
-| 037 | [Nourish & Nest]   | [Black]     | [French Lady Grey]          | -           | Rose petals, Lavender      |
-| 036 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Milk Oolong                |
-| 035 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Black tea                  |
-| 034 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Borage                     |
-| 033 | [Lipton]           | [Black]     | [Blue Fruit]                | -           | Blueberry, Blackberry      |
-| 032 | [Gewurzhaus]       | [Herbal]    | [Heavenly Good Luck]        | [India]     | Fennel, Cinnamon           |
-| 031 | [Basilur]          | [Black]     | [Orient Delight]            | [Sri Lanka] | Black tea                  |
-| 030 | [Wedgwood]         | [Black]     | [English Breakfast]         | [Kenya]     | Black tea                  |
-| 029 | [Gewurzhaus]       | [Herbal]    | [Clara's Clarity]           | [Brazil]    | Maté, Rosemary             |
-| 028 | [Tipson]           | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Soursop, Peach             |
-| 027 | [Basilur]          | [Green]     | [Green Tea]                 | [Sri Lanka] | Green tea                  |
-| 026 | [Tipson]           | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Black tea                  |
-| 025 | [Basilur]          | [Green]     | [Jasmine Tea]               | [Sri Lanka] | Jasmine                    |
-| 024 | [Basilur]          | [Black]     | [Window Sri Lanka]          | [Sri Lanka] | Black tea                  |
-| 023 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Black tea                  |
-| 022 | [Tipson]           | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | Black tea                  |
-| 021 | Zhen Pin           | [Green]     | [Shi Feng Dragon Well]      | [China]     | Green Tea                  |
-| 020 | [Sempio]           | [Oksusucha] | [Corn Tassel]               | [Korea]     | Corn                       |
-| 019 | [Basilur]          | [Black]     | [Tea House]                 | [Sri Lanka] | Cornflower, Peach          |
-| 018 | [Celestial]        | [Black]     | [Cranberry Vanilla]         | [Africa]    | Cranberry, Hibiscus        |
-| 017 | [Gewurzhaus]       | [Herbal]    | [Eva's Yummy Tummy]         | [Germany]   | Liquorice, Calendula       |
-| 016 | [Adore Tea]        | [Black]     | [African BOP]               | [Africa]    | Black tea                  |
-| 015 | [Adore Tea]        | [Black]     | [Darjeeling Vintage]        | [India]     | Black tea                  |
-| 014 | [Adore Tea]        | [Black]     | [Keemun]                    | [China]     | Black tea                  |
-| 013 | -                  | [Genmaicha] | Brown rice tea              | [Japan]     | Roasted brown rice         |
-| 012 | [Lipton]           | [Black]     | [Blackcurrant]              | -           | Blackcurrant               |
-| 011 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Lemon, Lime                |
-| 010 | Golden Sail        | [Green]     | [Osmanthus Green Tea]       | [China]     | Osmanthus flower           |
-| 009 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | Cranberry                  |
-| 008 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Vanilla                    |
-| 007 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Safflower, Maple syrup     |
-| 006 | [Basilur]          | [Green]     | [Four Seasons Spring]       | [Sri Lanka] | Strawberry, Marigold       |
-| 005 | [Golden Tips]      | [Oolong]    | [Milk Oolong Smoked]        | [India]     | Milk Oolong                |
-| 004 | [Celestial]        | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | Pumpkin, Ginger            |
-| 003 | [Basilur]          | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | Strawberry, Marigold       |
-| 002 | [Lupicia]          | [Oolong]    | [Momo Oolong]               | [Taiwan]    | White peach, Rose petals   |
-| 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange, Papaya, Raisin     |
+|  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
+|-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 099 | [Love Tea]         | [Herbal]    | [Detox]                     | [India]     | Dandelion, Licorice, Nettle |
+| 098 | [Higher Living]    | [Herbal]    | [Elderflower and Apricot]   | [UK]        | Elderflower, Apricot        |
+| 097 | [Tealyra]          | [Herbal]    | [Pineapple Cherry Bloom]    | -           | Apple, Orange, Hibiscus     |
+| 096 | [Celestial]        | [Herbal]    | [Sugar Cookie Sleigh Ride]  | -           | Thistle, Barley, Orange     |
+| 095 | [Nomurasangyo]     | [Green]     | [Hojicha]                   | [Japan]     | Green tea                   |
+| 094 | [Tealyra]          | [Herbal]    | [Egyptian Chamomile]        | [Egypt]     | Chamomile                   |
+| 093 | [T2]               | [Black]     | [New York Breakfast]        | -           | Cinnamon, Vanilla           |
+| 092 | [Symingtons]       | [Herbal]    | [Instant Dandelion Herbal]  | [Scotland]  | Dandelion                   |
+| 091 | [Trader Joe's]     | [Black]     | [Mango & Chile Black Tea]   | [Sri Lanka] | Mango, Red Chile            |
+| 090 | [Rabbit Hole]      | [Black]     | [Berry Bomb]            	   | -           | Blueberry, Raspberry        |
+| 089 | [Kunitaro]         | [Genmaicha] | Brown rice tea              | [Japan]     | Roasted brown rice          |
+| 088 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Apple, Ginger, Lemongrass   |
+| 087 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Bergamot                    |
+| 086 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Lemon                       |
+| 085 | [Tealyra]          | [Green]     | [Japanese Cherry Green]     | [Japan]     | Rose petals, Cherry         |
+| 084 | [Basilur]          | [Black]     | [Island of Tea Gold]        | [Sri Lanka] | Black tea                   |
+| 083 | [Tealyra]          | [Blooming]  | [Honey Peach Blossom]       | [China]     | Peach, Honey                |
+| 082 | [Basilur]          | [Black]     | [English Afternoon]         | [Sri Lanka] | Black tea                   |
+| 081 | [Adore Tea]        | [Black]     | [Banana Split]	     	       | [China]     | Banana, Chocolate           |
+| 080 | [Rabbit Hole]      | [Black]     | [Choc Orange Fudge]     	   | [China]     | Orange, Chocolate           |
+| 079 | [Dafolongjing]     | [Green]     | [West Lake Dragon Well]     | [China]     | Green tea                   |
+| 078 | [Basilur]          | [Herbal]    | [Peppermint]                | [Sri Lanka] | Peppermint                  |
+| 077 | [Krasnodarskiy]    | [Green]     | [Krasnodarskiy 1901 Green]  | [Russia]    | Green tea                   |
+| 076 | [Basilur]          | [Black]     | [Exotic]                    | [Sri Lanka] | Melon, Banana, Passion      |
+| 075 | [Basilur]          | [Black]     | [Leaf of Ceylon Ruhunu]     | [Sri Lanka] | Black tea                   |
+| 074 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Orange, Cinnamon, Ginger    |
+| 073 | [Tealeaves]        | [Black]     | [French Earl Grey]          | [China]     | Peach, Calendula, Rose      |
+| 072 | [Basilur]          | [Black]     | [Basilur Darjeeling]        | [Sri Lanka] | Black tea                   |
+| 071 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Cardamom, Cinnamon          |
+| 070 | Shuey Shing        | [Oolong]    | Oolong Tea                  | [China]     | Oolong tea                  |
+| 069 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Licorice, Fennel, Cinnamon  |
+| 068 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Roasted rice                |
+| 067 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Orange, Rose, Lemongrass    |
+| 066 | [Rabbit Hole]      | [Black]     | [Lapsang Souchong]          | [China]     | Burnt tyre                  |
+| 065 | [Tealyra]          | [Green]     | [Jasmine Dragon Pearls]     | [China]     | Jasmine                     |
+| 064 | [Lipton]           | [Black]     | [Lemon]                     | -           | Lemon                       |
+| 063 | [Tealyra]          | [Herbal]    | [Mango Yoghurt Desert]      | -           | Mango, Papaya, Currants     |
+| 062 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | 20-Year-Old socks           |
+| 061 | [Calmer Sutra]     | [Black]     | [Lady Melba]                | [Sri Lanka] | Bergamot                    |
+| 060 | [Lipton]           | [Green]     | [Green Gunpowder]           | [Russia]    | Gunpowder                   |
+| 059 | [Basilur]          | [Oolong]    | [White Magic]               | [Sri Lanka] | Milk                        |
+| 058 | [Tealyra]          | [Yellow]    | [Jun Shan Yin Zhen Yellow]  | [China]     | Yellow tea                  |
+| 057 | [T2]               | [White]     | [White Ginger]              | -           | Ginger                      |
+| 056 | [Adore Tea]        | [Black]     | [Almond & Vanilla]          | [Sri Lanka] | Almond, Vanilla             |
+| 055 | [Basilur]          | [Black]     | [Frosty Night]              | [Sri Lanka] | Berberis, Rosehip, Almond   |
+| 054 | [Tealeaves]        | [Black]     | [Caramel Whiskey]           | [China]     | Whiskey, Caramel            |
+| 053 | [Twinings]         | [Herbal]    | [Camomile, Honey, Vanilla]  | [UK]        | Camomile, Honey             |
+| 052 | [Higher Living]    | [Green]     | [Green Tea Coconut]         | [UK]        | Coconut                     |
+| 051 | [Adore Tea]        | [Black]     | [Assam 2nd Flush]           | [India]     | Black tea                   |
+| 050 | [Adore Tea]        | [Black]     | [English Breakfast Supr]    | [Sri Lanka] | Black tea                   |
+| 049 | [Basilur]          | [Black]     | [Window Moscow]             | [Sri Lanka] | Papaya, Cherry, Cranberry   |
+| 048 | [Qualitea]         | [Black]     | [Java Orange Pekoe]         | [Indonesia] | Black tea                   |
+| 047 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Lemon verbena               |
+| 046 | [Kuban Tea]        | [Black]     | [Azercay with Thyme]        | [Russia]    | Thyme                       |
+| 045 | [Severnyi Chai]    | [Herbal]    | [Ivan Chai]                 | [Russia]    | Willowherbs                 |
+| 044 | [Basilur]          | [Green]     | [Cream Fantasy]             | [Sri Lanka] | Strawberry, Papaya          |
+| 043 | [Basilur]          | [Black]     | [Nuwara Eliya]              | [Sri Lanka] | Black tea                   |
+| 042 | [Lipton]           | [Black]     | [Forest Fruit]              | -           | Strawberry, Cherry          |
+| 041 | [Tipson]           | [Black]     | [Golden Disk]               | [Sri Lanka] | Coffee, Vanilla             |
+| 040 | [Sahar Khiz]       | [Black]     | [Saffron Tea]               | [Iran]      | Saffron                     |
+| 039 | [Basilur]          | [Black]     | [Mango & Pineapple]         | [Sri Lanka] | Mongo, Pineapple            |
+| 038 | [Siplo]            | [White]     | [Let's Get Fabulous]        | -           | Apricot, Lemongrass         |
+| 037 | [Nourish & Nest]   | [Black]     | [French Lady Grey]          | -           | Rose petals, Lavender       |
+| 036 | [Basilur]          | [Green]     | [Window Chinese]            | [Sri Lanka] | Milk Oolong                 |
+| 035 | [Adore Tea]        | [Black]     | [Orange Pekoe]              | [Sri Lanka] | Black tea                   |
+| 034 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Borage                      |
+| 033 | [Lipton]           | [Black]     | [Blue Fruit]                | -           | Blueberry, Blackberry       |
+| 032 | [Gewurzhaus]       | [Herbal]    | [Heavenly Good Luck]        | [India]     | Fennel, Cinnamon            |
+| 031 | [Basilur]          | [Black]     | [Orient Delight]            | [Sri Lanka] | Black tea                   |
+| 030 | [Wedgwood]         | [Black]     | [English Breakfast]         | [Kenya]     | Black tea                   |
+| 029 | [Gewurzhaus]       | [Herbal]    | [Clara's Clarity]           | [Brazil]    | Maté, Rosemary              |
+| 028 | [Tipson]           | [Black]     | [Ethno White Flowers]       | [Sri Lanka] | Soursop, Peach              |
+| 027 | [Basilur]          | [Green]     | [Green Tea]                 | [Sri Lanka] | Green tea                   |
+| 026 | [Tipson]           | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Black tea                   |
+| 025 | [Basilur]          | [Green]     | [Jasmine Tea]               | [Sri Lanka] | Jasmine                     |
+| 024 | [Basilur]          | [Black]     | [Window Sri Lanka]          | [Sri Lanka] | Black tea                   |
+| 023 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Black tea                   |
+| 022 | [Tipson]           | [Black]     | [Ethno Blue Flowers]        | [Sri Lanka] | Black tea                   |
+| 021 | Zhen Pin           | [Green]     | [Shi Feng Dragon Well]      | [China]     | Green Tea                   |
+| 020 | [Sempio]           | [Oksusucha] | [Corn Tassel]               | [Korea]     | Corn                        |
+| 019 | [Basilur]          | [Black]     | [Tea House]                 | [Sri Lanka] | Cornflower, Peach           |
+| 018 | [Celestial]        | [Black]     | [Cranberry Vanilla]         | [Africa]    | Cranberry, Hibiscus         |
+| 017 | [Gewurzhaus]       | [Herbal]    | [Eva's Yummy Tummy]         | [Germany]   | Liquorice, Calendula        |
+| 016 | [Adore Tea]        | [Black]     | [African BOP]               | [Africa]    | Black tea                   |
+| 015 | [Adore Tea]        | [Black]     | [Darjeeling Vintage]        | [India]     | Black tea                   |
+| 014 | [Adore Tea]        | [Black]     | [Keemun]                    | [China]     | Black tea                   |
+| 013 | -                  | [Genmaicha] | Brown rice tea              | [Japan]     | Roasted brown rice          |
+| 012 | [Lipton]           | [Black]     | [Blackcurrant]              | -           | Blackcurrant                |
+| 011 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Lemon, Lime                 |
+| 010 | Golden Sail        | [Green]     | [Osmanthus Green Tea]       | [China]     | Osmanthus flower            |
+| 009 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | Cranberry                   |
+| 008 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Vanilla                     |
+| 007 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Safflower, Maple syrup      |
+| 006 | [Basilur]          | [Green]     | [Four Seasons Spring]       | [Sri Lanka] | Strawberry, Marigold        |
+| 005 | [Golden Tips]      | [Oolong]    | [Milk Oolong Smoked]        | [India]     | Milk Oolong                 |
+| 004 | [Celestial]        | [Black]     | [Sweet Harvest Pumpkin]     | [Jamaica]   | Pumpkin, Ginger             |
+| 003 | [Basilur]          | [Green]     | [Four Seasons Summer]       | [Sri Lanka] | Strawberry, Marigold        |
+| 002 | [Lupicia]          | [Oolong]    | [Momo Oolong]               | [Taiwan]    | White peach, Rose petals    |
+| 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange, Papaya, Raisin      |
 
 <!-- Brand -->
 [Adore Tea]: http://adoretea.com.au
@@ -126,6 +127,7 @@
 [Symingtons]: http://www.symingtons.com
 [Siplo]: http://www.siplo.com.au
 [T2]: http://www.t2tea.com
+[Tea Love]: https://lovetea.com.au
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
@@ -135,6 +137,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Detox]: https://lovetea.com.au/shop/detox-tea
 [Elderflower and Apricot]: https://shop.coles.com.au/a/a-national/product/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
 [Pineapple Cherry Bloom]: https://www.tealyrawhole.sale/wholesale-loose-tea/fruity-tea/pineapple-cherry-bloom
 [Sugar Cookie Sleigh Ride]: http://www.celestialseasonings.com/products/herbal/sugar-cookie-sleigh-ride

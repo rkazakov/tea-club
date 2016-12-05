@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 099 | [Love Tea]         | [Herbal]    | [Detox]                     | [India]     | Andrea Ho       | 05-12-16 |
 | 098 | [Higher Living]    | [Herbal]    | [Elderflower and Apricot]   | [UK]        | Louise Brooks   | 02-12-16 |
 | 097 | [Tealyra]          | [Herbal]    | [Pineapple Cherry Bloom]    | -           | Ruslan Kazakov  | 30-11-16 |
 | 096 | [Celestial]        | [Herbal]    | [Sugar Cookie Sleigh Ride]  | -           | Kate Andrews    | 25-11-16 |
@@ -138,6 +139,7 @@ What: Come and try new tea everyday
 [Symingtons]: http://www.symingtons.com
 [Siplo]: http://www.siplo.com.au
 [T2]: http://www.t2tea.com
+[Tea Love]: https://lovetea.com.au
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
@@ -147,6 +149,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Detox]: https://lovetea.com.au/shop/detox-tea
 [Elderflower and Apricot]: https://shop.coles.com.au/a/a-national/product/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
 [Pineapple Cherry Bloom]: https://www.tealyrawhole.sale/wholesale-loose-tea/fruity-tea/pineapple-cherry-bloom
 [Sugar Cookie Sleigh Ride]: http://www.celestialseasonings.com/products/herbal/sugar-cookie-sleigh-ride
