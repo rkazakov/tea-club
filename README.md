@@ -139,7 +139,7 @@ What: Come and try new tea everyday
 [Symingtons]: http://www.symingtons.com
 [Siplo]: http://www.siplo.com.au
 [T2]: http://www.t2tea.com
-[Tea Love]: https://lovetea.com.au
+[Love Tea]: https://lovetea.com.au
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
