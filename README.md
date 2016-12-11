@@ -14,7 +14,7 @@ What: Come and try new tea everyday
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 101 | [Tealyra]          | [Black]     | [Cream Earl Grey Moonlight] | -           | Ruslan Kazakov  | 07-12-16 |
+| 101 | [Tealyra]          | [Black]     | [Cream Earl Grey]           | -           | Ruslan Kazakov  | 07-12-16 |
 | 100 | [Tealyra]          | [Blooming]  | [Jasmine Lily Tower]        | [China]     | Ruslan Kazakov  | 07-12-16 |
 | 099 | [Love Tea]         | [Herbal]    | [Detox]                     | [India]     | Andrea Ho       | 05-12-16 |
 | 098 | [Higher Living]    | [Herbal]    | [Elderflower and Apricot]   | [UK]        | Louise Brooks   | 02-12-16 |
@@ -151,7 +151,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
-[Cream Earl Grey Moonlight]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/cream-earl-grey-moonlight
+[Cream Earl Grey]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/cream-earl-grey-moonlight
 [Jasmine Lily Tower]: https://www.tealyra.com.au/blooming-tea-au/jasmine-lily-tower
 [Detox]: https://lovetea.com.au/shop/detox-tea
 [Elderflower and Apricot]: https://shop.coles.com.au/a/a-national/product/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
