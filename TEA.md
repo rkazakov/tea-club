@@ -2,6 +2,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 101 | [Tealyra]          | [Black]     | [Cream Earl Grey Moonlight] | -           | Bergamot, Cornflower        |
+| 100 | [Tealyra]          | [Blooming]  | [Jasmine Lily Tower]        | [China]     | Jasmine                     |
 | 099 | [Love Tea]         | [Herbal]    | [Detox]                     | [India]     | Dandelion, Licorice, Nettle |
 | 098 | [Higher Living]    | [Herbal]    | [Elderflower and Apricot]   | [UK]        | Elderflower, Apricot        |
 | 097 | [Tealyra]          | [Herbal]    | [Pineapple Cherry Bloom]    | -           | Apple, Orange, Hibiscus     |
@@ -137,6 +139,8 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Cream Earl Grey Moonlight]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/cream-earl-grey-moonlight
+[Jasmine Lily Tower]: https://www.tealyra.com.au/blooming-tea-au/jasmine-lily-tower
 [Detox]: https://lovetea.com.au/shop/detox-tea
 [Elderflower and Apricot]: https://shop.coles.com.au/a/a-national/product/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
 [Pineapple Cherry Bloom]: https://www.tealyrawhole.sale/wholesale-loose-tea/fruity-tea/pineapple-cherry-bloom
