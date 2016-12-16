@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 103 | [Basilur]          | [Black]     | [Oriental Golden Crescent]  | [Sri Lanka] | Black tea                   |
 | 102 | [Twinings]         | [Herbal]    | [Spiced Apple Infusion]     | -           | Camomile, Apple, Cinnamon   |
 | 101 | [Tealyra]          | [Black]     | [Cream Earl Grey]           | -           | Bergamot, Cornflower        |
 | 100 | [Tealyra]          | [Blooming]  | [Jasmine Lily Tower]        | [China]     | Jasmine                     |
@@ -140,6 +141,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Oriental Golden Crescent]: http://www.basilurtea.co.nz/product/golden-crescent
 [Spiced Apple Infusion]: https://www.woolworths.com.au/shop/browse/drinks/herbal-specialty-tea?name=twinings-spiced-apple-infusion-tea&productId=770735
 [Cream Earl Grey]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/cream-earl-grey-moonlight
 [Jasmine Lily Tower]: https://www.tealyra.com.au/blooming-tea-au/jasmine-lily-tower
