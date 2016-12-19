@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 104 | Regular Tea        | [Oolong]    | [Da Hong Pao (Big Red Robe)]| [China]     | Oolong                      |
 | 103 | [Basilur]          | [Black]     | [Oriental Golden Crescent]  | [Sri Lanka] | Black tea                   |
 | 102 | [Twinings]         | [Herbal]    | [Spiced Apple Infusion]     | -           | Camomile, Apple, Cinnamon   |
 | 101 | [Tealyra]          | [Black]     | [Cream Earl Grey]           | -           | Bergamot, Cornflower        |
@@ -241,6 +242,7 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+[Da Hong Pao (Big Red Robe)]: https://en.wikipedia.org/wiki/Da_Hong_Pao
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
