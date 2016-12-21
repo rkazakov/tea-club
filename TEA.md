@@ -2,7 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 104 | Regular Tea        | [Oolong]    | [Da Hong Pao (Big Red Robe)]| [China]     | Oolong                      |
+| 104 | [Regular Tea]      | [Oolong]    | [Da Hong Pao]               | [China]     | Oolong tea                  |
 | 103 | [Basilur]          | [Black]     | [Oriental Golden Crescent]  | [Sri Lanka] | Black tea                   |
 | 102 | [Twinings]         | [Herbal]    | [Spiced Apple Infusion]     | -           | Camomile, Apple, Cinnamon   |
 | 101 | [Tealyra]          | [Black]     | [Cream Earl Grey]           | -           | Bergamot, Cornflower        |
@@ -126,6 +126,7 @@
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
 [Qualitea]: http://www.quali-tea.com
 [Rabbit Hole]: https://therabbithole.com.au
+[Regular Tea]: http://www.ckmc.cn
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
@@ -142,6 +143,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Da Hong Pao]: https://en.wikipedia.org/wiki/Da_Hong_Pao
 [Oriental Golden Crescent]: http://www.basilurtea.co.nz/product/golden-crescent
 [Spiced Apple Infusion]: https://www.woolworths.com.au/shop/browse/drinks/herbal-specialty-tea?name=twinings-spiced-apple-infusion-tea&productId=770735
 [Cream Earl Grey]: https://www.tealyra.com.au/loose-tea-au/black-tea-au/flavored-black-tea/cream-earl-grey-moonlight
@@ -242,7 +244,6 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
-[Da Hong Pao (Big Red Robe)]: https://en.wikipedia.org/wiki/Da_Hong_Pao
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
