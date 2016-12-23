@@ -2,6 +2,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 106 | [Celestial]        | [Herbal]    | [Gingerbread Spice]         | -           | Cinnamon, Chicory, Ginger   |
+| 105 | [Celestial]        | [Herbal]    | [Candy Cane Lane]           | -           | Peppermint, Orange, Mint    |
 | 104 | [Regular Tea]      | [Oolong]    | [Da Hong Pao]               | [China]     | Oolong tea                  |
 | 103 | [Basilur]          | [Black]     | [Oriental Golden Crescent]  | [Sri Lanka] | Black tea                   |
 | 102 | [Twinings]         | [Herbal]    | [Spiced Apple Infusion]     | -           | Camomile, Apple, Cinnamon   |
@@ -143,6 +145,8 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Gingerbread Spice]: http://www.celestialseasonings.com/products/herbal/gingerbread-spice
+[Candy Cane Lane]: http://www.celestialseasonings.com/products/green/candy-cane-lane
 [Da Hong Pao]: https://en.wikipedia.org/wiki/Da_Hong_Pao
 [Oriental Golden Crescent]: http://www.basilurtea.co.nz/product/golden-crescent
 [Spiced Apple Infusion]: https://www.woolworths.com.au/shop/browse/drinks/herbal-specialty-tea?name=twinings-spiced-apple-infusion-tea&productId=770735

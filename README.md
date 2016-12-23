@@ -14,6 +14,8 @@ What: Come and try new tea everyday
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 107 | [Celestial]        | [Herbal]    | [Gingerbread Spice]         | -           | Kate Andrews    | 23-12-16 |
+| 106 | [Celestial]        | [Herbal]    | [Candy Cane Lane]           | -           | Kate Andrews    | 23-12-16 |
 | 105 | [Rabbit Hole]      | [Black]     | [Berry Bomb]            	   | -           | Gary Butler     | 21-12-16 |
 | 104 | [Regular Tea]      | [Oolong]    | [Da Hong Pao]               | [China]     | Ray Dai         | 19-12-16 |
 | 103 | [Basilur]          | [Black]     | [Oriental Golden Crescent]  | [Sri Lanka] | Ruslan Kazakov  | 16-12-16 |
@@ -156,6 +158,8 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Gingerbread Spice]: http://www.celestialseasonings.com/products/herbal/gingerbread-spice
+[Candy Cane Lane]: http://www.celestialseasonings.com/products/green/candy-cane-lane
 [Da Hong Pao]: https://en.wikipedia.org/wiki/Da_Hong_Pao
 [Oriental Golden Crescent]: http://www.basilurtea.co.nz/product/golden-crescent
 [Spiced Apple Infusion]: https://www.woolworths.com.au/shop/browse/drinks/herbal-specialty-tea?name=twinings-spiced-apple-infusion-tea&productId=770735
