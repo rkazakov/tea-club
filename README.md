@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 108 | [Taylors]          | [Black]     | [Yorkshire Gold]            | [UK]        | Andy R Taylor   | 09-01-17 |
 | 107 | [Celestial]        | [Herbal]    | [Gingerbread Spice]         | -           | Kate Andrews    | 23-12-16 |
 | 106 | [Celestial]        | [Herbal]    | [Candy Cane Lane]           | -           | Kate Andrews    | 23-12-16 |
 | 105 | [Rabbit Hole]      | [Black]     | [Berry Bomb]            	   | -           | Gary Butler     | 21-12-16 |
@@ -149,6 +150,7 @@ What: Come and try new tea everyday
 [Siplo]: http://www.siplo.com.au
 [T2]: http://www.t2tea.com
 [Love Tea]: https://lovetea.com.au
+[Taylors]: https://www.taylorsofharrogate.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
@@ -158,6 +160,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Yorkshire Gold]: https://www.amazon.com/Taylors-Harrogate-Yorkshire-Loose-Package/dp/B003H7KV8Y
 [Gingerbread Spice]: http://www.celestialseasonings.com/products/herbal/gingerbread-spice
 [Candy Cane Lane]: http://www.celestialseasonings.com/products/green/candy-cane-lane
 [Da Hong Pao]: https://en.wikipedia.org/wiki/Da_Hong_Pao
