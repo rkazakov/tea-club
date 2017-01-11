@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 108 | [Qualitea]         | [Black]     | [Caramel Black]             | [Germany]   | Caramel, Macadamia          |
 | 107 | [Taylors]          | [Black]     | [Yorkshire Gold]            | [UK]        | Black tea                   |
 | 106 | [Celestial]        | [Herbal]    | [Gingerbread Spice]         | -           | Cinnamon, Chicory, Ginger   |
 | 105 | [Celestial]        | [Herbal]    | [Candy Cane Lane]           | -           | Peppermint, Orange, Mint    |
@@ -147,6 +148,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Caramel Black]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=184
 [Yorkshire Gold]: https://www.amazon.com/Taylors-Harrogate-Yorkshire-Loose-Package/dp/B003H7KV8Y
 [Gingerbread Spice]: http://www.celestialseasonings.com/products/herbal/gingerbread-spice
 [Candy Cane Lane]: http://www.celestialseasonings.com/products/green/candy-cane-lane

@@ -14,6 +14,7 @@ What: Come and try new tea everyday
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 109 | [Qualitea]         | [Black]     | [Caramel Black]             | [Germany]   | Gary Butler     | 11-01-17 |
 | 108 | [Taylors]          | [Black]     | [Yorkshire Gold]            | [UK]        | Andy R Taylor   | 09-01-17 |
 | 107 | [Celestial]        | [Herbal]    | [Gingerbread Spice]         | -           | Kate Andrews    | 23-12-16 |
 | 106 | [Celestial]        | [Herbal]    | [Candy Cane Lane]           | -           | Kate Andrews    | 23-12-16 |
@@ -160,6 +161,7 @@ What: Come and try new tea everyday
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Caramel Black]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=184
 [Yorkshire Gold]: https://www.amazon.com/Taylors-Harrogate-Yorkshire-Loose-Package/dp/B003H7KV8Y
 [Gingerbread Spice]: http://www.celestialseasonings.com/products/herbal/gingerbread-spice
 [Candy Cane Lane]: http://www.celestialseasonings.com/products/green/candy-cane-lane
