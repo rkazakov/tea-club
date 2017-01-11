@@ -1,7 +1,7 @@
 # MYOB Sydney Tea Club
 Tea tasting experience at MYOB Sydney
 
-![](./images/logo.png =500x)
+<img align="right" width="200" height="200" src="./images/logo.png">
 
 ```
 Where: MYOB Sydney Office
