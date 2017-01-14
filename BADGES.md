@@ -2,7 +2,7 @@
 
 Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the badges below.
 
-## Tea donations
+## Tea Donation Badges
 
 <img width="150" height="150" src="./images/badges/bohea.png">
 <img width="150" height="150" src="./images/badges/bohea.png">
@@ -14,13 +14,15 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
 | Souchong | 20           |
 | Pekoe    | 50           |
 
-## Special badges
+## Special Badges
 
+<img width="150" height="150" src="./images/badges/bohea.png">
 <img width="150" height="150" src="./images/badges/bohea.png">
 
 | Level     | Description        |
 |-----------|--------------------|
 | President | Tea club president |
+| Founder   | Tea club founder   |
 
 [MYOB Tea Club]: https://github.com/rkazakov/tea-club
 [Tea Leaf Grading]: https://en.wikipedia.org/wiki/Tea_leaf_grading
