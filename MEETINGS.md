@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 111 | [Kuban Tea]        | [Black]     | [Azercay with Bergamot]     | [Russia]    | Ivan Pchelnikov | 16-01-17 |
 | 110 | [Rabbit Hole]      | [Black]     | [Berry Bomb]            	   | -           | Gary Butler     | 13-01-17 |
 | 109 | [Qualitea]         | [Black]     | [Caramel Black]             | [Germany]   | Gary Butler     | 11-01-17 |
 | 108 | [Taylors]          | [Black]     | [Yorkshire Gold]            | [UK]        | Andy R Taylor   | 09-01-17 |
@@ -150,7 +151,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
-[Pure Ceylon Kandy]: http://basilurtea.co.uk/productdisplay/kandy-tea-bags
+[Azercay with Bergamot]: http://kubantea.ru/tea/ru/azercay_tea_products.html
 [Caramel Black]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=184
 [Yorkshire Gold]: https://www.amazon.com/Taylors-Harrogate-Yorkshire-Loose-Package/dp/B003H7KV8Y
 [Gingerbread Spice]: http://www.celestialseasonings.com/products/herbal/gingerbread-spice

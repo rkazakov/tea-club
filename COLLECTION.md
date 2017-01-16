@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 109 | [Kuban Tea]        | [Black]     | [Azercay with Bergamot]     | [Russia]    | Bergamot                    |
 | 108 | [Qualitea]         | [Black]     | [Caramel Black]             | [Germany]   | Caramel, Macadamia          |
 | 107 | [Taylors]          | [Black]     | [Yorkshire Gold]            | [UK]        | Black tea                   |
 | 106 | [Celestial]        | [Herbal]    | [Gingerbread Spice]         | -           | Cinnamon, Chicory, Ginger   |
@@ -148,6 +149,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Azercay with Bergamot]: http://kubantea.ru/tea/ru/azercay_tea_products.html
 [Caramel Black]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=184
 [Yorkshire Gold]: https://www.amazon.com/Taylors-Harrogate-Yorkshire-Loose-Package/dp/B003H7KV8Y
 [Gingerbread Spice]: http://www.celestialseasonings.com/products/herbal/gingerbread-spice
