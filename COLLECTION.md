@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 110 | [Black Dragon]     | [Green]     | [Green tea with wild rose]  | [Russia]    | Wild rose                   |
 | 109 | [Kuban Tea]        | [Black]     | [Azercay with Bergamot]     | [Russia]    | Bergamot                    |
 | 108 | [Qualitea]         | [Black]     | [Caramel Black]             | [Germany]   | Caramel, Macadamia          |
 | 107 | [Taylors]          | [Black]     | [Yorkshire Gold]            | [UK]        | Black tea                   |
@@ -118,6 +119,7 @@
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
 [Dafolongjing]: http://www.dflj.cn
+[Black Dragon]: http://www.china-tea.ru
 [Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
@@ -149,6 +151,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Green tea with wild rose]: http://china-tea.ru/produktsiya/detail.php?ELEMENT_ID=82&SECTION=1
 [Azercay with Bergamot]: http://kubantea.ru/tea/ru/azercay_tea_products.html
 [Caramel Black]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=184
 [Yorkshire Gold]: https://www.amazon.com/Taylors-Harrogate-Yorkshire-Loose-Package/dp/B003H7KV8Y
