@@ -5,19 +5,14 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
 ## Tea Donation Badges
 
 <img width="150" height="150" src="./images/badges/bohea.png">
-<img width="150" height="150" src="./images/badges/bohea.png">
-<img width="150" height="150" src="./images/badges/bohea.png">
 
 | Level     | Teas donated |
 |-----------|--------------|
 | Bohea     | 10           |
 | Congou    | 20           |
-| Souchong  | 40           |
+| Souchong  | 30           |
 
 ## Special Badges
-
-<img width="150" height="150" src="./images/badges/bohea.png">
-<img width="150" height="150" src="./images/badges/bohea.png">
 
 | Level     | Description        |
 |-----------|--------------------|
