@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 111 | -                  | [Herbal]    | [Butterfly Pea Flower Tea]  | [Thailand]  | Butterfly-pea flower        |
 | 110 | [Black Dragon]     | [Green]     | [Wild Rose Green Tea]       | [Russia]    | Wild rose                   |
 | 109 | [Kuban Tea]        | [Black]     | [Azercay with Bergamot]     | [Russia]    | Bergamot                    |
 | 108 | [Qualitea]         | [Black]     | [Caramel Black]             | [Germany]   | Caramel, Macadamia          |
@@ -151,6 +152,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Butterfly Pea Flower Tea]: https://en.wikipedia.org/wiki/Butterfly_pea_flower_tea
 [Wild Rose Green Tea]: http://china-tea.ru/produktsiya/detail.php?ELEMENT_ID=82&SECTION=1
 [Azercay with Bergamot]: http://kubantea.ru/tea/ru/azercay_tea_products.html
 [Caramel Black]: http://www.quali-tea.com/index.php?route=product/product&path=74&product_id=184
@@ -289,4 +291,5 @@
 [Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Scotland]: https://en.wikipedia.org/wiki/Scotland
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
+[Thailand]: https://en.wikipedia.org/wiki/Thailand
 [UK]: https://en.wikipedia.org/wiki/United_Kingdom
