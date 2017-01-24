@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 112 | [Basilur]          | [Black]     | [Ceylon Orange Pekoe]       | [Sri Lanka] | Black tea                   |
 | 111 | -                  | [Herbal]    | [Butterfly Pea Flower Tea]  | [Thailand]  | Butterfly-pea flower        |
 | 110 | [Black Dragon]     | [Green]     | [Wild Rose Green Tea]       | [Russia]    | Wild rose                   |
 | 109 | [Kuban Tea]        | [Black]     | [Azercay with Bergamot]     | [Russia]    | Bergamot                    |
@@ -152,6 +153,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Ceylon Orange Pekoe]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-tea-bag-foil-env-ceylon-orange-pekoe-2g.html
 [Butterfly Pea Flower Tea]: https://en.wikipedia.org/wiki/Butterfly_pea_flower_tea
 [Wild Rose Green Tea]: http://china-tea.ru/produktsiya/detail.php?ELEMENT_ID=82&SECTION=1
 [Azercay with Bergamot]: http://kubantea.ru/tea/ru/azercay_tea_products.html
