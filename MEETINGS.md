@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 115 | [Black Dragon]     | [Green]     | [Green tea with hawthorn]   | [Russia]    | Ivan Pchelnikov | 25-01-17 |
 | 114 | [Basilur]          | [Black]     | [Ceylon Orange Pekoe]       | [Sri Lanka] | Ruslan Kazakov  | 24-01-17 |
 | 113 | -                  | [Herbal]    | [Butterfly Pea Flower Tea]  | [Thailand]  | Louise Brooks   | 20-01-17 |
 | 112 | [Black Dragon]     | [Green]     | [Wild Rose Green Tea]       | [Russia]    | Ivan Pchelnikov | 18-01-17 |
@@ -155,6 +156,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Green tea with hawthorn]: http://china-tea.ru/produktsiya/detail.php?ELEMENT_ID=95&SECTION=1
 [Ceylon Orange Pekoe]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-tea-bag-foil-env-ceylon-orange-pekoe-2g.html
 [Butterfly Pea Flower Tea]: https://en.wikipedia.org/wiki/Butterfly_pea_flower_tea
 [Wild Rose Green Tea]: http://china-tea.ru/produktsiya/detail.php?ELEMENT_ID=82&SECTION=1
