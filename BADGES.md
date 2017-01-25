@@ -16,10 +16,9 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
 
 ## Special Badges
 
-| Level     | Description        |
-|-----------|--------------------|
-| President | Tea club president |
-| Founder   | Tea club founder   |
+| Level             | Description       |
+|-------------------|-------------------|
+| Chief Tea Officer | Chief Tea Officer |
 
 [MYOB Tea Club]: https://github.com/rkazakov/tea-club
 [Tea Leaf Grading]: https://en.wikipedia.org/wiki/Tea_leaf_grading
