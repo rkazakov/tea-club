@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 117 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Ruslan Kazakov  | 27-01-17 |
 | 116 | [Adore Tea]        | [Black]     | [Darjeeling Vintage]        | [India]     | Gary Butler     | 25-01-17 |
 | 115 | [Black Dragon]     | [Green]     | [Hawthorn Green Tea]        | [Russia]    | Ivan Pchelnikov | 25-01-17 |
 | 114 | [Basilur]          | [Black]     | [Ceylon Orange Pekoe]       | [Sri Lanka] | Ruslan Kazakov  | 24-01-17 |
