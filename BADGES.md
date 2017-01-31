@@ -1,0 +1,24 @@
+# Badges of Honour
+
+Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the badges below.
+
+## Tea Donation Badges
+
+<img width="150" height="150" src="./images/badges/bohea.png">
+<img width="150" height="150" src="./images/badges/congou.png">
+<img width="150" height="150" src="./images/badges/souchong.png">
+
+| Level     | Teas donated |
+|-----------|--------------|
+| Bohea     | 10           |
+| Congou    | 20           |
+| Souchong  | 30           |
+
+## Special Badges
+
+| Level             | Description       |
+|-------------------|-------------------|
+| Chief Tea Officer | Chief Tea Officer |
+
+[MYOB Tea Club]: https://github.com/rkazakov/tea-club
+[Tea Leaf Grading]: https://en.wikipedia.org/wiki/Tea_leaf_grading
