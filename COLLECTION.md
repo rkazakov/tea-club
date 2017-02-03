@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 117 | [Adore Tea]        | [Black]     | [Chai Chocolate]            | [India]     | Chocolate, Cardamom         |
 | 116 | [Montea Cristo]    | [Black]     | [Black Tea Caramel]         | [Australia] | Caramel                     |
 | 115 | [Adore Tea]        | [Black]     | [Afternoon Bliss]           | [China]     | Vanilla                     |
 | 114 | [Tealeaves]        | [Black]     | [Black Macadamia]           | [China]     | Macadamia				           |		
@@ -158,6 +159,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Chai Chocolate]: http://adoretea.com.au/Chai-Blends/chai-chocolate.html
 [Black Tea Caramel]: http://www.monteacristo.com.au/product/caramel
 [Afternoon Bliss]: http://www.adoreteawholesale.com.au/afternoon-bliss.html
 [Black Macadamia]: http://www.tealeaves.com.au/black-macadamia/w1/i1007050/

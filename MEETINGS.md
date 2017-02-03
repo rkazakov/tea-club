@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 122 | [Adore Tea]        | [Black]     | [Chai Chocolate]            | [India]     | Gary Butler     | 03-02-17 |
 | 121 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Ruslan Kazakov  | 03-02-17 |
 | 120 | [Montea Cristo]    | [Black]     | [Black Tea Caramel]         | [Australia] | Amy Dreise      | 03-02-17 |
 | 119 | [Adore Tea]        | [Black]     | [Afternoon Bliss]           | [China]     | Gary Butler     | 01-02-17 |
@@ -163,6 +164,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Chai Chocolate]: http://adoretea.com.au/Chai-Blends/chai-chocolate.html
 [Black Tea Caramel]: http://www.monteacristo.com.au/product/caramel
 [Afternoon Bliss]: http://www.adoreteawholesale.com.au/afternoon-bliss.html
 [Black Macadamia]: http://www.tealeaves.com.au/black-macadamia/w1/i1007050/
