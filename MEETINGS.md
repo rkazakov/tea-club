@@ -2,8 +2,15 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 116 | [Princess Java]    | [Herbal]    | [(Hibiscus) Karkade]        | [Russia]    | Ivan Pchelnikov | 06-02-17 |
-| 115 | [Black Dragon]     | [Green]     | [Green tea with hawthorn]   | [Russia]    | Ivan Pchelnikov | 25-01-17 |
+| 123 | [Princess Java]    | [Herbal]    | [(Hibiscus) Karkade]        | [Russia]    | Ivan Pchelnikov | 06-02-17 |
+| 122 | [Adore Tea]        | [Black]     | [Chai Chocolate]            | [India]     | Gary Butler     | 03-02-17 |
+| 121 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Ruslan Kazakov  | 03-02-17 |
+| 120 | [Montea Cristo]    | [Black]     | [Black Tea Caramel]         | [Australia] | Amy Dreise      | 03-02-17 |
+| 119 | [Adore Tea]        | [Black]     | [Afternoon Bliss]           | [China]     | Gary Butler     | 01-02-17 |
+| 118 | [Tealeaves]        | [Black]     | [Black Macadamia]           | [China]     | Gary Butler     | 30-01-17 |
+| 117 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Ruslan Kazakov  | 27-01-17 |
+| 116 | [Adore Tea]        | [Black]     | [Darjeeling Vintage]        | [India]     | Gary Butler     | 25-01-17 |
+| 115 | [Black Dragon]     | [Green]     | [Hawthorn Green Tea]        | [Russia]    | Ivan Pchelnikov | 25-01-17 |
 | 114 | [Basilur]          | [Black]     | [Ceylon Orange Pekoe]       | [Sri Lanka] | Ruslan Kazakov  | 24-01-17 |
 | 113 | -                  | [Herbal]    | [Butterfly Pea Flower Tea]  | [Thailand]  | Louise Brooks   | 20-01-17 |
 | 112 | [Black Dragon]     | [Green]     | [Wild Rose Green Tea]       | [Russia]    | Ivan Pchelnikov | 18-01-17 |
@@ -135,6 +142,7 @@
 [Kunitaro]: http://www.kunitaro.co.jp
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
+[Montea Cristo]: http://www.monteacristo.com.au
 [Nomurasangyo]: http://www.nihoncha.co.jp
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
 [Qualitea]: http://www.quali-tea.com
@@ -158,7 +166,11 @@
 
 <!-- Name -->
 [(Hibiscus) Karkade]: http://www.russiantable.com/store/Princess-Java-Tea-(Hibiscus)-Karkade-80gr__4993-27.html?rel_pf_id=9630
-[Green tea with hawthorn]: http://china-tea.ru/produktsiya/detail.php?ELEMENT_ID=95&SECTION=1
+[Chai Chocolate]: http://adoretea.com.au/Chai-Blends/chai-chocolate.html
+[Black Tea Caramel]: http://www.monteacristo.com.au/product/caramel
+[Afternoon Bliss]: http://www.adoreteawholesale.com.au/afternoon-bliss.html
+[Black Macadamia]: http://www.tealeaves.com.au/black-macadamia/w1/i1007050/
+[Hawthorn Green Tea]: http://china-tea.ru/produktsiya/detail.php?ELEMENT_ID=95&SECTION=1
 [Ceylon Orange Pekoe]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-tea-bag-foil-env-ceylon-orange-pekoe-2g.html
 [Butterfly Pea Flower Tea]: https://en.wikipedia.org/wiki/Butterfly_pea_flower_tea
 [Wild Rose Green Tea]: http://china-tea.ru/produktsiya/detail.php?ELEMENT_ID=82&SECTION=1
