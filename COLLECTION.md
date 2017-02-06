@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 114 | [Princess Java]    | [Herbal]    | [(Hibiscus) Karkade]        | [Russia]    | Sudanese rose petals        |
 | 113 | [Black Dragon]     | [Green]     | [Green tea with hawthorn]   | [Russia]    | With hawthorn               |
 | 112 | [Basilur]          | [Black]     | [Ceylon Orange Pekoe]       | [Sri Lanka] | Black tea                   |
 | 111 | -                  | [Herbal]    | [Butterfly Pea Flower Tea]  | [Thailand]  | Butterfly-pea flower        |
@@ -154,6 +155,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[(Hibiscus) Karkade]: http://www.russiantable.com/store/Princess-Java-Tea-(Hibiscus)-Karkade-80gr__4993-27.html?rel_pf_id=9630
 [Green tea with hawthorn]: http://china-tea.ru/produktsiya/detail.php?ELEMENT_ID=95&SECTION=1
 [Ceylon Orange Pekoe]: http://www.basilurtea.com.au/tea_collection/specialty_classics/specialty-classic-tea-bag-foil-env-ceylon-orange-pekoe-2g.html
 [Butterfly Pea Flower Tea]: https://en.wikipedia.org/wiki/Butterfly_pea_flower_tea
