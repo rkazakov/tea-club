@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 123 | [Princess Java]    | [Herbal]    | [(Hibiscus) Karkade]        | [Russia]    | Ivan Pchelnikov | 06-02-17 |
 | 122 | [Adore Tea]        | [Black]     | [Chai Chocolate]            | [India]     | Gary Butler     | 03-02-17 |
 | 121 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Ruslan Kazakov  | 03-02-17 |
 | 120 | [Montea Cristo]    | [Black]     | [Black Tea Caramel]         | [Australia] | Amy Dreise      | 03-02-17 |
@@ -164,6 +165,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[(Hibiscus) Karkade]: http://www.russiantable.com/store/Princess-Java-Tea-(Hibiscus)-Karkade-80gr__4993-27.html?rel_pf_id=9630
 [Chai Chocolate]: http://adoretea.com.au/Chai-Blends/chai-chocolate.html
 [Black Tea Caramel]: http://www.monteacristo.com.au/product/caramel
 [Afternoon Bliss]: http://www.adoreteawholesale.com.au/afternoon-bliss.html

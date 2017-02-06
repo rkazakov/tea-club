@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 118 | [Princess Java]    | [Herbal]    | [(Hibiscus) Karkade]        | [Russia]    | Sudanese rose petals        |
 | 117 | [Adore Tea]        | [Black]     | [Chai Chocolate]            | [India]     | Chocolate, Cardamom         |
 | 116 | [Montea Cristo]    | [Black]     | [Black Tea Caramel]         | [Australia] | Caramel                     |
 | 115 | [Adore Tea]        | [Black]     | [Afternoon Bliss]           | [China]     | Vanilla                     |
@@ -159,6 +160,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[(Hibiscus) Karkade]: http://www.russiantable.com/store/Princess-Java-Tea-(Hibiscus)-Karkade-80gr__4993-27.html?rel_pf_id=9630
 [Chai Chocolate]: http://adoretea.com.au/Chai-Blends/chai-chocolate.html
 [Black Tea Caramel]: http://www.monteacristo.com.au/product/caramel
 [Afternoon Bliss]: http://www.adoreteawholesale.com.au/afternoon-bliss.html
