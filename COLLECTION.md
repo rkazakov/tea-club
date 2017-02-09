@@ -2,7 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 118 | [Princess Java]    | [Herbal]    | [(Hibiscus) Karkade]        | [Russia]    | Sudanese rose petals        |
+| 118 | [Princess Java]    | [Herbal]    | [Carcade]                   | [Sudan]     | Sudanese rose petals        |
 | 117 | [Adore Tea]        | [Black]     | [Chai Chocolate]            | [India]     | Chocolate, Cardamom         |
 | 116 | [Montea Cristo]    | [Black]     | [Black Tea Caramel]         | [Australia] | Caramel                     |
 | 115 | [Adore Tea]        | [Black]     | [Afternoon Bliss]           | [China]     | Vanilla                     |
@@ -141,6 +141,7 @@
 [Nomurasangyo]: http://www.nihoncha.co.jp
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
 [Qualitea]: http://www.quali-tea.com
+[Princess Java]: http://www.java-tea.ru
 [Rabbit Hole]: https://therabbithole.com.au
 [Regular Tea]: http://www.ckmc.cn
 [Sahar Khiz]: http://www.saharkhizsaffron.com
@@ -160,7 +161,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
-[(Hibiscus) Karkade]: http://www.russiantable.com/store/Princess-Java-Tea-(Hibiscus)-Karkade-80gr__4993-27.html?rel_pf_id=9630
+[Carcade]: http://www.russiantable.com/store/Princess-Java-Tea-(Hibiscus)-Karkade-80gr__4993-27.html?rel_pf_id=9630
 [Chai Chocolate]: http://adoretea.com.au/Chai-Blends/chai-chocolate.html
 [Black Tea Caramel]: http://www.monteacristo.com.au/product/caramel
 [Afternoon Bliss]: http://www.adoreteawholesale.com.au/afternoon-bliss.html
@@ -305,6 +306,7 @@
 [Russia]: https://en.wikipedia.org/wiki/Russia
 [Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Scotland]: https://en.wikipedia.org/wiki/Scotland
+[Sudan]: https://en.wikipedia.org/wiki/Sudan
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
 [Thailand]: https://en.wikipedia.org/wiki/Thailand
 [UK]: https://en.wikipedia.org/wiki/United_Kingdom
