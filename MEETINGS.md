@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 126 | [Dary Kryma]       | [Herbal]    | [Filler Roseships]          | [Russia]    | Ivan Pchelnikov | 13-02-17 |
 | 125 | [Tealeaves]        | [Black]     | [Devonshire Cream]          | [China]     | Gary Butler     | 10-02-17 |
 | 124 | [Mrs Oldbucks]     | [Black]     | [Bushfire Caravan]          | -           | Gary Butler     | 08-02-17 |
 | 123 | [Princess Java]    | [Herbal]    | [Carcade]                   | [Sudan]     | Ivan Pchelnikov | 06-02-17 |
@@ -129,6 +130,7 @@
 | 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Ruslan Kazakov  | 20-06-16 |
 
 <!-- Brand -->
+[Dary Kryma]: http://crimeantea.ru/
 [Adore Tea]: http://adoretea.com.au
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
@@ -169,6 +171,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Filler Roseships]: http://crimeantea.ru/news/portfolio/shipovnik-nalivnoj-50g/?id=3694
 [Devonshire Cream]: http://www.tealeaves.com.au/black-devonshire-cream/w1/i1007151
 [Bushfire Caravan]: http://www.mrsoldbucks.com.au/tea-black
 [Carcade]: http://www.russiantable.com/store/Princess-Java-Tea-(Hibiscus)-Karkade-80gr__4993-27.html?rel_pf_id=9630
