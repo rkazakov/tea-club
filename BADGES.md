@@ -16,9 +16,9 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
 
 ## Special Badges
 
-| Level             | Description       |
-|-------------------|-------------------|
-| Chief Tea Officer | Chief Tea Officer |
+| Level             | Description             |
+|-------------------|-------------------------|
+| Chief Tea Officer | Awards badges of honour |
 
 [MYOB Tea Club]: https://github.com/rkazakov/tea-club
 [Tea Leaf Grading]: https://en.wikipedia.org/wiki/Tea_leaf_grading
