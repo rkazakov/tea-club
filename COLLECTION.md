@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 122 | [Adore Tea]        | [Black]     | [Cherry Ripe]               | [India]     | Cherry                      |
 | 121 | [Novyi Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Roseship                    |
 | 120 | [Tealeaves]        | [Black]     | [Devonshire Cream]          | [China]     | Cream                       |
 | 119 | [Mrs Oldbucks]     | [Black]     | [Bushfire Caravan]          | -           | Black tea                   |
@@ -166,6 +167,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Cherry Ripe]: http://adoretea.com.au/Black/Flavoured-Black/cherry-ripe.html
 [Roseship Filler]: http://crimeantea.ru/news/portfolio/shipovnik-nalivnoj-50g/?id=3694
 [Devonshire Cream]: http://www.tealeaves.com.au/black-devonshire-cream/w1/i1007151
 [Bushfire Caravan]: http://www.mrsoldbucks.com.au/tea-black
