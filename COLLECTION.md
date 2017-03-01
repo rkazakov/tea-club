@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 123 | [T2]               | [Black]     | [Banana Bake]               | -           | Banana, Coconut, Honey      |
 | 122 | [Adore Tea]        | [Black]     | [Cherry Ripe]               | [India]     | Cherry                      |
 | 121 | [Novyi Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Roseship                    |
 | 120 | [Tealeaves]        | [Black]     | [Devonshire Cream]          | [China]     | Cream                       |
@@ -167,6 +168,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Banana Bake]: https://www.t2tea.com/en/au/tea/black-tea/banana-bake-loose-leaf-gift-cube-T125AE106.html
 [Cherry Ripe]: http://adoretea.com.au/Black/Flavoured-Black/cherry-ripe.html
 [Roseship Filler]: http://crimeantea.ru/news/portfolio/shipovnik-nalivnoj-50g/?id=3694
 [Devonshire Cream]: http://www.tealeaves.com.au/black-devonshire-cream/w1/i1007151
