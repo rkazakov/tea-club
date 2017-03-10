@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 128 | Xiang Ming         | [Black]     | [Xiang Lapsang Souchong]    | [China]     | Black tea                   |
 | 127 | [Rabbit Hole]      | [Black]     | [Green Power]            	 | -           | Organic rice                |
 | 126 | [Montea Cristo]    | [Black]     | [Blood Orange]              | [Australia] | Blood Orange                |
 | 125 | [Disney]           | [Black]     | [Official Unbirthday Tea]   | [US]        | Black tea                   |
@@ -174,6 +175,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Xiang Lapsang Souchong]: https://en.wikipedia.org/wiki/Lapsang_souchong
 [Green Power]: https://therabbithole.com.au/products/green-power
 [Blood Orange]: http://www.monteacristo.com.au/product/blood-orange
 [Official Unbirthday Tea]: https://www.amazon.com/Disney-Parks-Wonderland-Official-Unbirthday/dp/B005TMLTJK
