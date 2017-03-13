@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 134 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Ivan Pchelnikov | 13-02-17 |
 | 133 | Xiang Ming         | [Black]     | [Xiang Lapsang Souchong]    | [China]     | Bill Wang       | 10-03-17 |
 | 132 | [Rabbit Hole]      | [Black]     | [Green Power]               | -           | Gary Butler     | 09-03-17 |
 | 131 | [Montea Cristo]    | [Black]     | [Blood Orange]              | [Australia] | Amy Dreise      | 09-03-17 |
@@ -125,7 +126,7 @@
 | 013 | -                  | [Genmaicha] | Brown rice tea              | [Japan]     | Andrea Ho       | 07-07-16 |
 | 012 | [Lipton]           | [Black]     | [Blackcurrant]              | -           | Kate Andrews    | 06-07-16 |
 | 011 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 01-07-16 |
-| 010 | Golden Sail        | [Green]     | [Osmanthus Green Tea]       | [China]     | Charlotte Bian  | 30-06-16 |
+| 010 | [Golden Sail]      | [Green]     | [Osmanthus Green Tea]       | [China]     | Charlotte Bian  | 30-06-16 |
 | 009 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | Ruslan Kazakov  | 29-06-16 |
 | 008 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Gary Butler     | 28-06-16 |
 | 007 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Ruslan Kazakov  | 27-06-16 |
@@ -147,6 +148,7 @@
 [Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
+[Golden Sail]: https://steepster.com/companies/golden-sail-brand
 [Golden Tips]: http://www.goldentipstea.com
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
@@ -180,6 +182,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 
 <!-- Name -->
+[Lichee Black Tea]: https://www.amazon.com/Golden-Sail-Brand-China-Lichee/dp/B003L8LX7M
 [Xiang Lapsang Souchong]: https://en.wikipedia.org/wiki/Lapsang_souchong
 [Green Power]: https://therabbithole.com.au/products/green-power
 [Blood Orange]: http://www.monteacristo.com.au/product/blood-orange
