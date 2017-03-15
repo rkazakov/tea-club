@@ -2,7 +2,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 133 | [XiangMing(香茗)]  | [Black]     | [Lapsang souchong-Xing]     | [China]     | Bill Wang       | 10-03-17 |
+| 134 | [Yuyupas]          | [Black]     | [Alishan Tea]               | [Taiwan]    | Bill Wang       | 10-03-17 |
+| 133 | [XiangMin(香茗)]   | [Black]     | [Lapsang souchong]          | [China]     | Bill Wang       | 10-03-17 |
 | 132 | [Rabbit Hole]      | [Black]     | [Green Power]               | -           | Gary Butler     | 09-03-17 |
 | 131 | [Montea Cristo]    | [Black]     | [Blood Orange]              | [Australia] | Amy Dreise      | 09-03-17 |
 | 130 | [Disney]           | [Black]     | [Official Unbirthday Tea]   | [US]        | Amy Dreise      | 06-03-17 |
@@ -304,7 +305,8 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
-[Lapsang souchong-Xing]: https://en.wikipedia.org/wiki/Lapsang_souchong
+[Alishan Tea]: http://yuyupas.com/products/1
+
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
 [Blooming]: https://en.wikipedia.org/wiki/Flowering_tea
