@@ -2,8 +2,11 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 126 | [Adoretea]         | [Herbal]    | [Nettle]                    | [Australia] | Nettle                      |
-| 125 | [Montea Cristo]    | [Black]     | [Blood Orange]              | [Australia] | Blood Orange                |
+| 130 | [Adoretea]         | [Herbal]    | [Nettle]                    | [Australia] | Nettle                      |
+| 129 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Lichee                      |
+| 128 | Xiang Ming         | [Black]     | [Xiang Lapsang Souchong]    | [China]     | Black tea                   |
+| 127 | [Rabbit Hole]      | [Black]     | [Green Power]            	 | -           | Organic rice                |
+| 126 | [Montea Cristo]    | [Black]     | [Blood Orange]              | [Australia] | Blood Orange                |
 | 125 | [Disney]           | [Black]     | [Official Unbirthday Tea]   | [US]        | Black tea                   |
 | 124 | [MightyLeaf]       | [Green]     | [Green Tea Tropical]        | [China]     | Tropical fruits             |
 | 123 | [T2]               | [Black]     | [Banana Bake]               | -           | Banana, Coconut, Honey      |
@@ -119,7 +122,7 @@
 | 013 | -                  | [Genmaicha] | Brown rice tea              | [Japan]     | Roasted brown rice          |
 | 012 | [Lipton]           | [Black]     | [Blackcurrant]              | -           | Blackcurrant                |
 | 011 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Lemon, Lime                 |
-| 010 | Golden Sail        | [Green]     | [Osmanthus Green Tea]       | [China]     | Osmanthus flower            |
+| 010 | [Golden Sail]      | [Green]     | [Osmanthus Green Tea]       | [China]     | Osmanthus flower            |
 | 009 | [Basilur]          | [Black]     | [Four Seasons Winter]       | [Sri Lanka] | Cranberry                   |
 | 008 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Vanilla                     |
 | 007 | [Basilur]          | [Black]     | [Four Seasons Autumn]       | [Sri Lanka] | Safflower, Maple syrup      |
@@ -141,6 +144,7 @@
 [Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
+[Golden Sail]: https://steepster.com/companies/golden-sail-brand
 [Golden Tips]: http://www.goldentipstea.com
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
@@ -175,6 +179,9 @@
 
 <!-- Name -->
 [Nettle]: http://adoretea.com.au/nettle.html
+[Lichee Black Tea]: https://www.amazon.com/Golden-Sail-Brand-China-Lichee/dp/B003L8LX7M
+[Xiang Lapsang Souchong]: https://en.wikipedia.org/wiki/Lapsang_souchong
+[Green Power]: https://therabbithole.com.au/products/green-power
 [Blood Orange]: http://www.monteacristo.com.au/product/blood-orange
 [Official Unbirthday Tea]: https://www.amazon.com/Disney-Parks-Wonderland-Official-Unbirthday/dp/B005TMLTJK
 [Green Tea Tropical]: http://www.mightyleaf.com/green-tea-tropical.html
