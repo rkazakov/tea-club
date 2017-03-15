@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 136 | [Yuyupas]          | [Black]     | [Alishan Tea]               | [Taiwan]    | Bill Wang       | 15-03-17 |
 | 135 | [Adoretea]         | [Herbal]    | [Nettle]                    | [Australia] | Amy Dreise      | 15-03-17 |
 | 134 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Ivan Pchelnikov | 13-02-17 |
 | 133 | Xiang Ming         | [Black]     | [Xiang Lapsang Souchong]    | [China]     | Bill Wang       | 10-03-17 |
@@ -310,6 +311,7 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+[Alishan Tea]: http://yuyupas.com/products/1
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
