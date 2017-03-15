@@ -6,7 +6,7 @@ Tea tasting experience at MYOB Sydney
 ```
 Where: MYOB Sydney Office
 When: Monday - Wednesday - Friday @ 3pm
-What: Come and share a good strong cuppa tea with us
+What: Come and enjoy a good strong cuppa tea with us
 ```
 
 - [Meetings](./MEETINGS.md) - All tea meetings
