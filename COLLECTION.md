@@ -1,3 +1,7 @@
+[Home](./README.md) - [Tea collection](./COLLECTION.md) - [Badges](./BADGES.md)
+
+-----
+
 # Tea Collection
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
