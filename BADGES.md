@@ -1,12 +1,18 @@
+[Home](./README.md) - [Tea collection](./COLLECTION.md) - [Badges](./BADGES.md)
+
+-----
+
 # Badges of Honour
 
 Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the badges below.
 
 ## Tea Donation Badges
 
-<img width="150" height="150" src="./images/badges/bohea.png">
-<img width="150" height="150" src="./images/badges/congou.png">
-<img width="150" height="150" src="./images/badges/souchong.png">
+<div>
+  <img width="150" height="150" src="./images/badges/bohea.png">
+  <img width="150" height="150" src="./images/badges/congou.png">
+  <img width="150" height="150" src="./images/badges/souchong.png">
+</div>
 
 | Level     | Teas donated |
 |-----------|--------------|
