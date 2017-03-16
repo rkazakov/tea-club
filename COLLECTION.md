@@ -2,7 +2,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 130 | [Adoretea]         | [Herbal]    | [Nettle]                    | [Australia] | Nettle                      |
+| 131 | [Yuyupas]          | [Black]     | [Alishan Tea]               | [Taiwan]    | Milk Oolong                 |
+| 130 | [Adoretea]         | [Herbal]    | [Nettle Tea]                | [Australia] | Nettle                      |
 | 129 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Lichee                      |
 | 128 | Xiang Ming         | [Black]     | [Xiang Lapsang Souchong]    | [China]     | Black tea                   |
 | 127 | [Rabbit Hole]      | [Black]     | [Green Power]            	 | -           | Organic rice                |
@@ -18,7 +19,7 @@
 | 117 | [Adore Tea]        | [Black]     | [Chai Chocolate]            | [India]     | Chocolate, Cardamom         |
 | 116 | [Montea Cristo]    | [Black]     | [Black Tea Caramel]         | [Australia] | Caramel                     |
 | 115 | [Adore Tea]        | [Black]     | [Afternoon Bliss]           | [China]     | Vanilla                     |
-| 114 | [Tealeaves]        | [Black]     | [Black Macadamia]           | [China]     | Macadamia				   |		
+| 114 | [Tealeaves]        | [Black]     | [Black Macadamia]           | [China]     | Macadamia				           |		
 | 113 | [Black Dragon]     | [Green]     | [Hawthorn Green Tea]        | [Russia]    | Hawthorn                    |
 | 112 | [Basilur]          | [Black]     | [Ceylon Orange Pekoe]       | [Sri Lanka] | Black tea                   |
 | 111 | -                  | [Herbal]    | [Butterfly Pea Flower Tea]  | [Thailand]  | Butterfly-pea flower        |
@@ -51,7 +52,7 @@
 | 084 | [Basilur]          | [Black]     | [Island of Tea Gold]        | [Sri Lanka] | Black tea                   |
 | 083 | [Tealyra]          | [Blooming]  | [Honey Peach Blossom]       | [China]     | Peach, Honey                |
 | 082 | [Basilur]          | [Black]     | [English Afternoon]         | [Sri Lanka] | Black tea                   |
-| 081 | [Adore Tea]        | [Black]     | [Banana Split]	       	   | [China]     | Banana, Chocolate           |
+| 081 | [Adore Tea]        | [Black]     | [Banana Split]	       	     | [China]     | Banana, Chocolate           |
 | 080 | [Rabbit Hole]      | [Black]     | [Choc Orange Fudge]     	   | [China]     | Orange, Chocolate           |
 | 079 | [Dafolongjing]     | [Green]     | [West Lake Dragon Well]     | [China]     | Green tea                   |
 | 078 | [Basilur]          | [Herbal]    | [Peppermint]                | [Sri Lanka] | Peppermint                  |
@@ -176,9 +177,11 @@
 [Twinings]: http://www.twiningsusa.com
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-[Nettle]: http://adoretea.com.au/nettle.html
+[Alishan Tea]: http://yuyupas.com/products/1
+[Nettle Tea]: http://adoretea.com.au/nettle.html
 [Lichee Black Tea]: https://www.amazon.com/Golden-Sail-Brand-China-Lichee/dp/B003L8LX7M
 [Xiang Lapsang Souchong]: https://en.wikipedia.org/wiki/Lapsang_souchong
 [Green Power]: https://therabbithole.com.au/products/green-power
