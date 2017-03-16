@@ -3,7 +3,7 @@
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
 | 131 | [Yuyupas]          | [Black]     | [Alishan Tea]               | [Taiwan]    | Milk Oolong                 |
-| 130 | [Adoretea]         | [Herbal]    | [Nettle Tea]                | [Australia] | Nettle                      |
+| 130 | [Adore Tea]        | [Herbal]    | [Nettle Tea]                | [Australia] | Nettle                      |
 | 129 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Lichee                      |
 | 128 | Xiang Ming         | [Black]     | [Xiang Lapsang Souchong]    | [China]     | Black tea                   |
 | 127 | [Rabbit Hole]      | [Black]     | [Green Power]            	 | -           | Organic rice                |
