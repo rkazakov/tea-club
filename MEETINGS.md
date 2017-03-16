@@ -1,6 +1,8 @@
-# Tea Meetings
+[Home](./README.md) - [Tea collection](./COLLECTION.md) - [Badges](./BADGES.md)
 
-[Home](./) - [Tea collection](./COLLECTION.md) - [Badges](./BADGES.md)
+-----
+
+# Tea Meetings
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
