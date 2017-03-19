@@ -2,6 +2,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 136 | [Skinny Me Tea]    | [Herbal]    | [8 day Teatox]                | [Australia] | Amy Dreise      | 17-03-17 |
 | 135 | [Adoretea]         | [Herbal]    | [Nettle]                    | [Australia] | Amy Dreise      | 15-03-17 |
 | 134 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Ivan Pchelnikov | 13-02-17 |
 | 133 | Xiang Ming         | [Black]     | [Xiang Lapsang Souchong]    | [China]     | Bill Wang       | 10-03-17 |
@@ -139,6 +140,7 @@
 | 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Ruslan Kazakov  | 20-06-16 |
 
 <!-- Brand -->
+[Skinny Me Tea]: https://www.skinnymetea.com.au/
 [Adore Tea]: http://adoretea.com.au
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
