@@ -186,6 +186,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[8 Day Teatox]: https://www.skinnymetea.com.au/products/14-day-teatox
 [Alishan Tea]: http://yuyupas.com/products/1
 [Nettle Tea]: http://adoretea.com.au/nettle.html
 [Lichee Black Tea]: https://www.amazon.com/Golden-Sail-Brand-China-Lichee/dp/B003L8LX7M
