@@ -6,8 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-
-| 137 | [Skinny Me Tea]    | [Herbal]    | [8 day Teatox]                | [Australia] | Amy Dreise      | 17-03-17 |
+| 137 | [Skinny Me Tea]    | [Herbal]    | [8 day Teatox]              | [Australia] | Amy Dreise      | 17-03-17 |
 | 136 | [Yuyupas]          | [Black]     | [Alishan Tea]               | [Taiwan]    | Bill Wang       | 15-03-17 |
 | 135 | [Adore Tea]        | [Herbal]    | [Nettle Tea]                | [Australia] | Amy Dreise      | 15-03-17 |
 | 134 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Ivan Pchelnikov | 13-02-17 |
