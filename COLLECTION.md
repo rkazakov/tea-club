@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 132 | [Skinny Me Tea]    | [Herbal]    | [8 day Teatox]              | [Australia] | Herbal                      |
 | 131 | [Yuyupas]          | [Black]     | [Alishan Tea]               | [Taiwan]    | Milk Oolong                 |
 | 130 | [Adore Tea]        | [Herbal]    | [Nettle Tea]                | [Australia] | Nettle                      |
 | 129 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Lichee                      |
@@ -139,6 +140,7 @@
 | 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange, Papaya, Raisin      |
 
 <!-- Brand -->
+[Skinny Me Tea]: https://www.skinnymetea.com.au/
 [Adore Tea]: http://adoretea.com.au
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
