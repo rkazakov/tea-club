@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 133 | [Some brand]       | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ginseng                     |
+| 133 | [Dragon Leaf]      | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ginseng                     |
 | 132 | [Skinny Me Tea]    | [Herbal]    | [8 day Teatox]              | [Australia] | Herbal                      |
 | 131 | [Yuyupas]          | [Black]     | [Alishan Tea]               | [Taiwan]    | Milk Oolong                 |
 | 130 | [Adore Tea]        | [Herbal]    | [Nettle Tea]                | [Australia] | Nettle                      |
@@ -141,7 +141,6 @@
 | 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange, Papaya, Raisin      |
 
 <!-- Brand -->
-[Skinny Me Tea]: https://www.skinnymetea.com.au/
 [Adore Tea]: http://adoretea.com.au
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
@@ -172,8 +171,9 @@
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
-[Symingtons]: http://www.symingtons.com
 [Siplo]: http://www.siplo.com.au
+[Skinny Me Tea]: https://www.skinnymetea.com.au
+[Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
 [Love Tea]: https://lovetea.com.au
 [Taylors]: https://www.taylorsofharrogate.com
@@ -187,6 +187,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Ginseng Oolong Tea]: http://www.dragon-leaf.com/green-tea.html
 [8 Day Teatox]: https://www.skinnymetea.com.au/products/14-day-teatox
 [Alishan Tea]: http://yuyupas.com/products/1
 [Nettle Tea]: http://adoretea.com.au/nettle.html
