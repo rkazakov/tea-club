@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 138 | [Some brand]       | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ivan Pchelnikov | 20-03-17 |
+| 138 | [Dragon Leaf]      | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ivan Pchelnikov | 20-03-17 |
 | 137 | [Skinny Me Tea]    | [Herbal]    | [8 day Teatox]              | [Australia] | Amy Dreise      | 17-03-17 |
 | 136 | [Yuyupas]          | [Black]     | [Alishan Tea]               | [Taiwan]    | Bill Wang       | 15-03-17 |
 | 135 | [Adore Tea]        | [Herbal]    | [Nettle Tea]                | [Australia] | Amy Dreise      | 15-03-17 |
@@ -159,6 +159,7 @@
 [Golchin]: http://www.golchin-tea.com
 [Golden Sail]: https://steepster.com/companies/golden-sail-brand
 [Golden Tips]: http://www.goldentipstea.com
+[Dragon Leaf]: http://www.dragon-leaf.com
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
@@ -192,6 +193,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Ginseng Oolong Tea]: http://www.dragon-leaf.com/green-tea.html
+[8 day Teatox]: https://www.skinnymetea.com.au/products/14-day-teatox
 [Alishan Tea]: http://yuyupas.com/products/1
 [Nettle Tea]: http://adoretea.com.au/nettle.html
 [Lichee Black Tea]: https://www.amazon.com/Golden-Sail-Brand-China-Lichee/dp/B003L8LX7M
