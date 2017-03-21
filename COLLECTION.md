@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 133 | [Some brand]       | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ginseng                     |
 | 132 | [Skinny Me Tea]    | [Herbal]    | [8 day Teatox]              | [Australia] | Herbal                      |
 | 131 | [Yuyupas]          | [Black]     | [Alishan Tea]               | [Taiwan]    | Milk Oolong                 |
 | 130 | [Adore Tea]        | [Herbal]    | [Nettle Tea]                | [Australia] | Nettle                      |
