@@ -194,7 +194,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-[Lavender Flowers Herbal Tea]: http://www.monteacristo.com.au/product/lavender-flowers/
+[Lavender Flowers Tea]: http://www.monteacristo.com.au/product/lavender-flowers/
 [Ginseng Oolong Tea]: http://www.dragon-leaf.com/green-tea.html
 [8 day Teatox]: https://www.skinnymetea.com.au/products/14-day-teatox
 [Alishan Tea]: http://yuyupas.com/products/1
