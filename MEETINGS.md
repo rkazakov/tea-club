@@ -146,7 +146,6 @@
 | 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Ruslan Kazakov  | 20-06-16 |
 
 <!-- Brand -->
-[Skinny Me Tea]: https://www.skinnymetea.com.au/
 [Adore Tea]: http://adoretea.com.au
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
@@ -178,8 +177,9 @@
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
-[Symingtons]: http://www.symingtons.com
 [Siplo]: http://www.siplo.com.au
+[Skinny Me Tea]: https://www.skinnymetea.com.au
+[Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
 [Love Tea]: https://lovetea.com.au
 [Taylors]: https://www.taylorsofharrogate.com
