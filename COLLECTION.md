@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 134 | [Montea Cristo]    | [Herbal]    | [Lavender Flowers Tea]      | [Australia] | Lavender                    |
 | 133 | [Dragon Leaf]      | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ginseng                     |
 | 132 | [Skinny Me Tea]    | [Herbal]    | [8 day Teatox]              | [Australia] | Herbal                      |
 | 131 | [Yuyupas]          | [Black]     | [Alishan Tea]               | [Taiwan]    | Milk Oolong                 |
@@ -188,6 +189,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Lavender Flowers Herbal Tea]: http://www.monteacristo.com.au/product/lavender-flowers/
 [Ginseng Oolong Tea]: http://www.dragon-leaf.com/green-tea.html
 [8 Day Teatox]: https://www.skinnymetea.com.au/products/14-day-teatox
 [Alishan Tea]: http://yuyupas.com/products/1
