@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 140 | [Adore Tea]        | [Black]     | [Arctic Fire]               | [China]     | Gary Butler     | 24-03-17 |
 | 139 | [Montea Cristo]    | [Herbal]    | [Lavender Flowers Tea]      | [Australia] | Amy Dreise      | 22-03-17 |
 | 138 | [Dragon Leaf]      | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ivan Pchelnikov | 20-03-17 |
 | 137 | [Skinny Me Tea]    | [Herbal]    | [8 day Teatox]              | [Australia] | Amy Dreise      | 17-03-17 |
@@ -194,6 +195,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Arctic Fire]: http://adoretea.com.au/Black/Flavoured-Black/arctic-fire.html
 [Lavender Flowers Tea]: http://www.monteacristo.com.au/product/lavender-flowers/
 [Ginseng Oolong Tea]: http://www.dragon-leaf.com/green-tea.html
 [8 day Teatox]: https://www.skinnymetea.com.au/products/14-day-teatox
