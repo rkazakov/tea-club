@@ -190,6 +190,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Arctic Fire]: http://adoretea.com.au/Black/Flavoured-Black/arctic-fire.html
 [Lavender Flowers Tea]: http://www.monteacristo.com.au/product/lavender-flowers/
 [Ginseng Oolong Tea]: http://www.dragon-leaf.com/green-tea.html
 [8 Day Teatox]: https://www.skinnymetea.com.au/products/14-day-teatox
