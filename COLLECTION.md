@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 135 | [Adore Tea]        | [Black]     | [Arctic Fire]               | [China]     | Cornflower, Mint            |
 | 134 | [Montea Cristo]    | [Herbal]    | [Lavender Flowers Tea]      | [Australia] | Lavender                    |
 | 133 | [Dragon Leaf]      | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ginseng                     |
 | 132 | [Skinny Me Tea]    | [Herbal]    | [8 day Teatox]              | [Australia] | Herbal                      |
