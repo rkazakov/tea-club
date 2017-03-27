@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 141 | [Mr. Tea]          | [Pu-erh]    | [Jasmine Puerhkiss]         | [China]     | Bill Wang       | 27-03-17 |
 | 140 | [Adore Tea]        | [Black]     | [Arctic Fire]               | [China]     | Gary Butler     | 24-03-17 |
 | 139 | [Montea Cristo]    | [Herbal]    | [Lavender Flowers Tea]      | [Australia] | Amy Dreise      | 22-03-17 |
 | 138 | [Dragon Leaf]      | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ivan Pchelnikov | 20-03-17 |
