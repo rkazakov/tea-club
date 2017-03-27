@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 136 | [Mr. Tea]          | [Pu-erh]    | [Jasmine Puerhkiss]         | [China]     | Organic                     |
 | 135 | [Adore Tea]        | [Black]     | [Arctic Fire]               | [China]     | Cornflower, Mint            |
 | 134 | [Montea Cristo]    | [Herbal]    | [Lavender Flowers Tea]      | [Australia] | Lavender                    |
 | 133 | [Dragon Leaf]      | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ginseng                     |
