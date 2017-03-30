@@ -6,8 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 142 | [Neo Australia]    | [Herbal]    | [Complexion Herbal Tea]     | [Australia] | Cardamom, Nutmeg            |
-| 141 | Mr. Tea            | [Pu-erh]    | Jasmine Puerhkiss           | [China]     | Jasmine                     |
+| 137 | [Neo Australia]    | [Herbal]    | [Complexion Herbal Tea]     | [Australia] | Cardamom, Nutmeg            |
+| 136 | Mr. Tea            | [Pu-erh]    | Jasmine Puerhkiss           | [China]     | Jasmine                     |
 | 135 | [Adore Tea]        | [Black]     | [Arctic Fire]               | [China]     | Cornflower, Mint            |
 | 134 | [Montea Cristo]    | [Herbal]    | [Lavender Flowers Tea]      | [Australia] | Lavender                    |
 | 133 | [Dragon Leaf]      | [Oolong]    | [Ginseng Oolong Tea]        | [China]     | Ginseng                     |
