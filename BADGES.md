@@ -22,6 +22,10 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
 
 ## Special Badges
 
+<div>
+  <img width="150" height="150" src="./images/badges/cto.png">
+</div>
+
 | Level             | Description             | People                      |
 |-------------------|-------------------------|-----------------------------|
 | Chief Tea Officer | Awards badges of honour | Ruslan Kazakov, Cherry Zhou |
