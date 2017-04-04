@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 139 | [Montea Cristo]    | [Herbal]     | [Ginger Kiss]          | [Australia] | Ginger                      |
 | 138 | [Montea Cristo]    | [Black]     | [Lychee Black Tea]          | [Australia] | Lychee                      |
 | 137 | [Neo Australia]    | [Herbal]    | [Complexion Herbal Tea]     | [Australia] | Cardamom, Nutmeg            |
 | 136 | Mr. Tea            | [Pu-erh]    | Jasmine Puerhkiss           | [China]     | Jasmine                     |
@@ -194,6 +195,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Ginger kiss]: http://www.monteacristo.com.au/product/ginger-kiss/
 [Lychee Black Tea]: http://www.monteacristo.com.au/product/lychee/
 [Complexion Herbal Tea]: https://www.neoaustralia.com.au/Complexion-Tea-120g-Jar
 [Arctic Fire]: http://adoretea.com.au/Black/Flavoured-Black/arctic-fire.html
