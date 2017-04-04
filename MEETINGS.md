@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 144 | [Montea Cristo]    | [Herbal]     | [Ginger Kiss]          | [Australia] | Amy Dreise      | 03-04-17 |
 | 143 | [Montea Cristo]    | [Black]     | [Lychee Black Tea]          | [Australia] | Amy Dreise      | 31-03-17 |
 | 142 | [Neo Australia]    | [Herbal]    | [Complexion Herbal Tea]     | [Australia] | Louise Brooks   | 29-03-17 |
 | 141 | Mr. Tea            | [Pu-erh]    | Jasmine Puerhkiss           | [China]     | Bill Wang       | 27-03-17 |
@@ -199,6 +200,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Ginger kiss]: http://www.monteacristo.com.au/product/ginger-kiss/
 [Lychee Black tea]: http://www.monteacristo.com.au/product/lychee/
 [Complexion Herbal Tea]: https://www.neoaustralia.com.au/Complexion-Tea-120g-Jar
 [Arctic Fire]: http://adoretea.com.au/Black/Flavoured-Black/arctic-fire.html
