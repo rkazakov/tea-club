@@ -1,4 +1,4 @@
-[Home](./README.md) - [Tea meetings](./MEETINGS.md) - [Badges](./BADGES.md)
+[Home](./README.md) ᛫ [Tea meetings](./MEETINGS.md) ᛫ [Badges](./BADGES.md)
 
 -----
 
@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 138 | [Montea Cristo]    | [Black]     | [Lychee black Tea]          | [Australia] | Lychee            |
+| 138 | [Montea Cristo]    | [Black]     | [Lychee Black Tea]          | [Australia] | Lychee                      |
 | 137 | [Neo Australia]    | [Herbal]    | [Complexion Herbal Tea]     | [Australia] | Cardamom, Nutmeg            |
 | 136 | Mr. Tea            | [Pu-erh]    | Jasmine Puerhkiss           | [China]     | Jasmine                     |
 | 135 | [Adore Tea]        | [Black]     | [Arctic Fire]               | [China]     | Cornflower, Mint            |

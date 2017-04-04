@@ -1,4 +1,4 @@
-[Home](./README.md) - [Tea meetings](./MEETINGS.md) - [Tea collection](./COLLECTION.md)
+[Home](./README.md) ᛫ [Tea meetings](./MEETINGS.md) ᛫ [Tea collection](./COLLECTION.md)
 
 -----
 
@@ -14,17 +14,21 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
   <img width="150" height="150" src="./images/badges/souchong.png">
 </div>
 
-| Level     | Teas donated |
-|-----------|--------------|
-| Bohea     | 10           |
-| Congou    | 20           |
-| Souchong  | 30           |
+| Level     | Teas donated | People                                      |
+|-----------|--------------|---------------------------------------------|
+| Bohea     | 10           | Gary Butler ᛫ Kate Andrews ᛫ Ivan Pchelnikov |
+| Congou    | 20           | Gary Butler                                 |
+| Souchong  | 30           | -                                           |
 
 ## Special Badges
 
-| Level             | Description             |
-|-------------------|-------------------------|
-| Chief Tea Officer | Awards badges of honour |
+<div>
+  <img width="150" height="150" src="./images/badges/cto.png">
+</div>
+
+| Level             | Description             | People                       |
+|-------------------|-------------------------|------------------------------|
+| Chief Tea Officer | Awards badges of honour | Ruslan Kazakov ᛫ Cherry Zhou |
 
 [MYOB Tea Club]: https://github.com/rkazakov/tea-club
 [Tea Leaf Grading]: https://en.wikipedia.org/wiki/Tea_leaf_grading
