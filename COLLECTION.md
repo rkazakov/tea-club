@@ -6,7 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 139 | [Montea Cristo]    | [Herbal]     | [Ginger Kiss]          | [Australia] | Ginger                      |
+| 141 | [Montea Cristo]    | [Herbal]    | [Pomegranate Fruit Blend]   | [Australia] | Pomegranate                 |
+| 140 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Cocoa                       |
+| 139 | [Montea Cristo]    | [Herbal]    | [Ginger Kiss]               | [Australia] | Ginger                      |
 | 138 | [Montea Cristo]    | [Black]     | [Lychee Black Tea]          | [Australia] | Lychee                      |
 | 137 | [Neo Australia]    | [Herbal]    | [Complexion Herbal Tea]     | [Australia] | Cardamom, Nutmeg            |
 | 136 | Mr. Tea            | [Pu-erh]    | Jasmine Puerhkiss           | [China]     | Jasmine                     |
@@ -18,7 +20,7 @@
 | 130 | [Adore Tea]        | [Herbal]    | [Nettle Tea]                | [Australia] | Nettle                      |
 | 129 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Lichee                      |
 | 128 | Xiang Ming         | [Black]     | [Xiang Lapsang Souchong]    | [China]     | Black tea                   |
-| 127 | [Rabbit Hole]      | [Black]     | [Green Power]            	 | -           | Organic rice                |
+| 127 | [Rabbit Hole]      | [Black]     | [Green Power]             | -           | Organic rice                |
 | 126 | [Montea Cristo]    | [Black]     | [Blood Orange]              | [Australia] | Blood Orange                |
 | 125 | [Disney]           | [Black]     | [Official Unbirthday Tea]   | [US]        | Black tea                   |
 | 124 | [MightyLeaf]       | [Green]     | [Green Tea Tropical]        | [China]     | Tropical fruits             |
@@ -195,6 +197,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Cocoa Loco]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/cocoa-loco-loose-leaf-gift-cube-T140AE059.html
+[Pomegranate Fruit Blend]: 
 [Ginger kiss]: http://www.monteacristo.com.au/product/ginger-kiss/
 [Lychee Black Tea]: http://www.monteacristo.com.au/product/lychee/
 [Complexion Herbal Tea]: https://www.neoaustralia.com.au/Complexion-Tea-120g-Jar
