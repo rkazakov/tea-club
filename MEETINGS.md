@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 146 | [Montea Cristo]    | [Herbal]    | [Pomegrante Fruit Blend]    | [Australia] | Amy Dreise      | 05-04-17 |
+| 146 | [Montea Cristo]    | [Herbal]    | [Pomegranate Fruit Blend]    | [Australia] | Amy Dreise      | 05-04-17 |
 | 145 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Amy Dreise      | 05-04-17 |
 | 144 | [Montea Cristo]    | [Herbal]    | [Ginger Kiss]               | [Australia] | Amy Dreise      | 03-04-17 |
 | 143 | [Montea Cristo]    | [Black]     | [Lychee Black Tea]          | [Australia] | Amy Dreise      | 31-03-17 |
@@ -203,7 +203,7 @@
 
 <!-- Name -->
 [Cocoa Loco]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/cocoa-loco-loose-leaf-gift-cube-T140AE059.html
-[Pomegrante Fruit Blend]: 
+[Pomegranate Fruit Blend]: 
 [Ginger kiss]: http://www.monteacristo.com.au/product/ginger-kiss/
 [Lychee Black tea]: http://www.monteacristo.com.au/product/lychee/
 [Complexion Herbal Tea]: https://www.neoaustralia.com.au/Complexion-Tea-120g-Jar
