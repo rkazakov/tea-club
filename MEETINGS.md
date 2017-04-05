@@ -203,12 +203,12 @@
 
 <!-- Name -->
 [Cocoa Loco]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/cocoa-loco-loose-leaf-gift-cube-T140AE059.html
-[Pomegranate Fruit Blend]: 
-[Ginger kiss]: http://www.monteacristo.com.au/product/ginger-kiss/
-[Lychee Black tea]: http://www.monteacristo.com.au/product/lychee/
+[Pomegranate Fruit Blend]: http://www.monteacristo.com.au/shop
+[Ginger kiss]: http://www.monteacristo.com.au/product/ginger-kiss
+[Lychee Black tea]: http://www.monteacristo.com.au/product/lychee
 [Complexion Herbal Tea]: https://www.neoaustralia.com.au/Complexion-Tea-120g-Jar
 [Arctic Fire]: http://adoretea.com.au/Black/Flavoured-Black/arctic-fire.html
-[Lavender Flowers Tea]: http://www.monteacristo.com.au/product/lavender-flowers/
+[Lavender Flowers Tea]: http://www.monteacristo.com.au/product/lavender-flowers
 [Ginseng Oolong Tea]: http://www.dragon-leaf.com/green-tea.html
 [8 day Teatox]: https://www.skinnymetea.com.au/products/14-day-teatox
 [Alishan Tea]: http://yuyupas.com/products/1
@@ -366,6 +366,7 @@
 [Japan]: https://en.wikipedia.org/wiki/Japan
 [Kenya]: https://en.wikipedia.org/wiki/Kenya
 [Korea]: https://en.wikipedia.org/wiki/Korea
+[Poland]: https://en.wikipedia.org/wiki/Poland
 [Russia]: https://en.wikipedia.org/wiki/Russia
 [Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Scotland]: https://en.wikipedia.org/wiki/Scotland
