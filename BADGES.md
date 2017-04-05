@@ -14,11 +14,11 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
   <img width="150" height="150" src="./images/badges/souchong.png">
 </div>
 
-| Level     | Teas donated | People                                      |
-|-----------|--------------|---------------------------------------------|
-| Bohea     | 10           | Gary Butler ᛫ Kate Andrews ᛫ Ivan Pchelnikov |
-| Congou    | 20           | Gary Butler                                 |
-| Souchong  | 30           | -                                           |
+| Level     | Teas donated | Members                                                  |
+|-----------|--------------|----------------------------------------------------------|
+| Bohea     | 10           | Gary Butler ᛫ Kate Andrews ᛫ Ivan Pchelnikov ᛫ Amy Dreise |
+| Congou    | 20           | Gary Butler                                              |
+| Souchong  | 30           | -                                                        |
 
 ## Special Badges
 
@@ -26,7 +26,7 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
   <img width="150" height="150" src="./images/badges/cto.png">
 </div>
 
-| Level             | Description             | People                       |
+| Level             | Description             | Members                      |
 |-------------------|-------------------------|------------------------------|
 | Chief Tea Officer | Awards badges of honour | Ruslan Kazakov ᛫ Cherry Zhou |
 
