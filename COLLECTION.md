@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 141 | [Montea Cristo]    | [Herbal]     | [Pomegrante Fruit Blend]          | [Australia] | Pomegrante                      |
+| 140 | [T2]               | [Herbal]     | [Cocoa Loco]          | [Poland] | Cocoa                      |
 | 139 | [Montea Cristo]    | [Herbal]     | [Ginger Kiss]          | [Australia] | Ginger                      |
 | 138 | [Montea Cristo]    | [Black]     | [Lychee Black Tea]          | [Australia] | Lychee                      |
 | 137 | [Neo Australia]    | [Herbal]    | [Complexion Herbal Tea]     | [Australia] | Cardamom, Nutmeg            |
@@ -195,6 +197,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Cocoa Loco]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/cocoa-loco-loose-leaf-gift-cube-T140AE059.html
+[Pomegrante Fruit Blend]: 
 [Ginger kiss]: http://www.monteacristo.com.au/product/ginger-kiss/
 [Lychee Black Tea]: http://www.monteacristo.com.au/product/lychee/
 [Complexion Herbal Tea]: https://www.neoaustralia.com.au/Complexion-Tea-120g-Jar
