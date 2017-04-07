@@ -6,7 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 146 | [Montea Cristo]    | [Herbal]    | [Pomegranate Fruit Blend]    | [Australia] | Amy Dreise      | 05-04-17 |
+| 147 | [Jia ming]         | [Green]     | [West Lake Dragon Well]     | [China]     | Bill Wang       | 07-04-17 |
+| 146 | [Montea Cristo]    | [Herbal]    | [Pomegranate Fruit Blend]   | [Australia] | Amy Dreise      | 05-04-17 |
 | 145 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Amy Dreise      | 05-04-17 |
 | 144 | [Montea Cristo]    | [Herbal]    | [Ginger Kiss]               | [Australia] | Amy Dreise      | 03-04-17 |
 | 143 | [Montea Cristo]    | [Black]     | [Lychee Black Tea]          | [Australia] | Amy Dreise      | 31-03-17 |
@@ -339,6 +340,8 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+[Dragon well]: https://en.wikipedia.org/wiki/Longjing_tea
+[longjing]: https://en.wikipedia.org/wiki/Longjing_tea
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
