@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 143 | [Gewurzhaus]       | [Black]     | [Organic Easter Bun Tea]    | [Germany]   | Cinnamon, Orange peel       |
 | 142 | Jia Ming           | [Green]     | [Jia Ming Chinese Tea]      | [China]     | Green tea                   |
 | 141 | [Montea Cristo]    | [Herbal]    | [Pomegranate Fruit Blend]   | [Australia] | Pomegranate                 |
 | 140 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Cocoa                       |
@@ -21,7 +22,7 @@
 | 130 | [Adore Tea]        | [Herbal]    | [Nettle Tea]                | [Australia] | Nettle                      |
 | 129 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Lichee                      |
 | 128 | Xiang Ming         | [Black]     | [Xiang Lapsang Souchong]    | [China]     | Black tea                   |
-| 127 | [Rabbit Hole]      | [Black]     | [Green Power]             | -           | Organic rice                |
+| 127 | [Rabbit Hole]      | [Black]     | [Green Power]             | -           | Organic rice                  |
 | 126 | [Montea Cristo]    | [Black]     | [Blood Orange]              | [Australia] | Blood Orange                |
 | 125 | [Disney]           | [Black]     | [Official Unbirthday Tea]   | [US]        | Black tea                   |
 | 124 | [MightyLeaf]       | [Green]     | [Green Tea Tropical]        | [China]     | Tropical fruits             |
@@ -198,6 +199,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Organic Easter Bun Tea]: https://gewurzhaus.com.au/product/easter-bun-tea
 [Jia Ming Chinese Tea]: https://en.wikipedia.org/wiki/Longjing_tea
 [Cocoa Loco]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/cocoa-loco-loose-leaf-gift-cube-T140AE059.html
 [Pomegranate Fruit Blend]: http://www.monteacristo.com.au/shop
