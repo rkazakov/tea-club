@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 142 | [Jia ming]         | [Green]     | [Dragon Well]               | [China]     | Green tea                   |
+| 142 | Jia Ming           | [Green]     | [Jia Ming Chinese Tea]      | [China]     | Green tea                   |
 | 141 | [Montea Cristo]    | [Herbal]    | [Pomegranate Fruit Blend]   | [Australia] | Pomegranate                 |
 | 140 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Cocoa                       |
 | 139 | [Montea Cristo]    | [Herbal]    | [Ginger Kiss]               | [Australia] | Ginger                      |
@@ -198,6 +198,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Jia Ming Chinese Tea]: https://en.wikipedia.org/wiki/Longjing_tea
 [Cocoa Loco]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/cocoa-loco-loose-leaf-gift-cube-T140AE059.html
 [Pomegranate Fruit Blend]: http://www.monteacristo.com.au/shop
 [Ginger kiss]: http://www.monteacristo.com.au/product/ginger-kiss
