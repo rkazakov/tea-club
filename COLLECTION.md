@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 142 | [Jia ming]         | [Green]     | [Dragon Well]               | [China]     | Green tea                   |
 | 141 | [Montea Cristo]    | [Herbal]    | [Pomegranate Fruit Blend]   | [Australia] | Pomegranate                 |
 | 140 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Cocoa                       |
 | 139 | [Montea Cristo]    | [Herbal]    | [Ginger Kiss]               | [Australia] | Ginger                      |
