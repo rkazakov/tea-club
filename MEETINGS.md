@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 148 | [Gewurzhaus]       | [Black]     | [Organic Easter Bun Tea]    | [Germany]   | Louise Brooks   | 10-04-17 |
 | 147 | Jia Ming           | [Green]     | [Jia Ming Chinese Tea]      | [China]     | Bill Wang       | 07-04-17 |
 | 146 | [Montea Cristo]    | [Herbal]    | [Pomegranate Fruit Blend]   | [Australia] | Amy Dreise      | 05-04-17 |
 | 145 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Amy Dreise      | 05-04-17 |
@@ -203,6 +204,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Organic Easter Bun Tea]: https://gewurzhaus.com.au/product/easter-bun-tea
 [Jia Ming Chinese Tea]: https://en.wikipedia.org/wiki/Longjing_tea
 [Cocoa Loco]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/cocoa-loco-loose-leaf-gift-cube-T140AE059.html
 [Pomegranate Fruit Blend]: http://www.monteacristo.com.au/shop
