@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 144 | [Gewurzhaus]       | [Black]     | [Velvety Vanilla Chai Tea]  | [India]     | Cassia, Cardamom, Pepper    |
 | 143 | [Gewurzhaus]       | [Black]     | [Organic Easter Bun Tea]    | [Germany]   | Cinnamon, Orange peel       |
 | 142 | Jia Ming           | [Green]     | [Jia Ming Chinese Tea]      | [China]     | Green tea                   |
 | 141 | [Montea Cristo]    | [Herbal]    | [Pomegranate Fruit Blend]   | [Australia] | Pomegranate                 |
@@ -199,6 +200,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Velvety Vanilla Chai Tea]: https://gewurzhaus.com.au/product/velvety-vanilla-chai-tea-80g-l
 [Organic Easter Bun Tea]: https://gewurzhaus.com.au/product/easter-bun-tea
 [Jia Ming Chinese Tea]: https://en.wikipedia.org/wiki/Longjing_tea
 [Cocoa Loco]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/cocoa-loco-loose-leaf-gift-cube-T140AE059.html
