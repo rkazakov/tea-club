@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 149 | Jia Ming           | [Green]     | [Jia Ming Chinese Tea]      | [China]     | Bill Wang       | 20-04-17 |
 | 149 | [Gewurzhaus]       | [Black]     | [Velvety Vanilla Chai Tea]  | [India]     | Louise Brooks   | 12-04-17 |
 | 148 | [Gewurzhaus]       | [Black]     | [Organic Easter Bun Tea]    | [Germany]   | Louise Brooks   | 10-04-17 |
 | 147 | Jia Ming           | [Green]     | [Jia Ming Chinese Tea]      | [China]     | Bill Wang       | 07-04-17 |
