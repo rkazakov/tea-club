@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 145 | Jia Ming           | [Green]     | [Jia Ming Dragon Well]      | [China]     | Green tea                   |
 | 144 | [Gewurzhaus]       | [Black]     | [Velvety Vanilla Chai Tea]  | [India]     | Cassia, Cardamom, Pepper    |
 | 143 | [Gewurzhaus]       | [Black]     | [Organic Easter Bun Tea]    | [Germany]   | Cinnamon, Orange peel       |
 | 142 | Jia Ming           | [Green]     | [Jia Ming Chinese Tea]      | [China]     | Green tea                   |
@@ -200,6 +201,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Jia Ming Dragon Well]: https://en.wikipedia.org/wiki/Longjing_tea
 [Velvety Vanilla Chai Tea]: https://gewurzhaus.com.au/product/velvety-vanilla-chai-tea-80g-l
 [Organic Easter Bun Tea]: https://gewurzhaus.com.au/product/easter-bun-tea
 [Jia Ming Chinese Tea]: https://en.wikipedia.org/wiki/Longjing_tea
