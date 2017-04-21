@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 146 | -                  | [Green]     | [Anji White Tea]            | [China]     | Green tea                   |
+| 146 | -                  | [White]     | [Anji White Tea]            | [China]     | White tea                   |
 | 145 | Jia Ming           | [Green]     | [Jia Ming Dragon Well]      | [China]     | Green tea                   |
 | 144 | [Gewurzhaus]       | [Black]     | [Velvety Vanilla Chai Tea]  | [India]     | Cassia, Cardamom, Pepper    |
 | 143 | [Gewurzhaus]       | [Black]     | [Organic Easter Bun Tea]    | [Germany]   | Cinnamon, Orange peel       |
