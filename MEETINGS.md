@@ -6,8 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 154 | [T2]               | [Green]     | [Cinnamon Matcha]           | [China]     | Kate Andrews    | 28-04-17 |
 | 153 | [Hema]             | [Green]     | [Green Tea Jasmine]         | [China]     | Marlouk Stek    | 26-03-17 |
-| 152 | ?                  | [Oolong]    | ?                           | [China]     | Ivan Pchelnikov | 24-04-17 |
+| 152 | -                  | [Oolong]    | Oolong Tea                  | [China]     | Ivan Pchelnikov | 24-04-17 |
 | 151 | -                  | [White]     | [Anji White Tea]            | [China]     | Ray Dai         | 21-04-17 |
 | 150 | Jia Ming           | [Green]     | [Jia Ming Dragon Well]      | [China]     | Bill Wang       | 20-04-17 |
 | 149 | [Gewurzhaus]       | [Black]     | [Velvety Vanilla Chai Tea]  | [India]     | Louise Brooks   | 12-04-17 |
@@ -210,6 +211,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Cinnamon Matcha]: http://www.t2tea.com/en/au/tea/matcha/cinnamon-matcha-T115AI079.html
 [Green Tea Jasmine]: http://www.hemashop.com/gb/shop/cooking-and-dining/coffee-and-tea/tea/green-tea-jasmine-fair-trade-(60940005)
 [Anji White Tea]: https://en.wikipedia.org/wiki/Anji_bai_cha
 [Jia Ming Dragon Well]: https://en.wikipedia.org/wiki/Longjing_tea
