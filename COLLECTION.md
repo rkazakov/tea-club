@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 149 | [T2]               | [Green]     | [Cinnamon Matcha]           | [China]     | Cinnamon, Matcha            |
 | 148 | [Hema]             | [Green]     | [Green Tea Jasmine]         | [China]     | Jasmine                     |
 | 147 | ?                  | [Oolong]    | ?                           | [China]     | Oolong tea                  |
 | 146 | -                  | [White]     | [Anji White Tea]            | [China]     | White tea                   |
@@ -205,6 +206,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Cinnamon Matcha]: http://www.t2tea.com/en/au/tea/matcha/cinnamon-matcha-T115AI079.html
 [Green Tea Jasmine]: http://www.hemashop.com/gb/shop/cooking-and-dining/coffee-and-tea/tea/green-tea-jasmine-fair-trade-(60940005)
 [Anji White Tea]: https://en.wikipedia.org/wiki/Anji_bai_cha
 [Jia Ming Dragon Well]: https://en.wikipedia.org/wiki/Longjing_tea
