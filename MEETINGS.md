@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 155 | [Missdong Teahouse]| [Black]     | [Valentine black tea]       | [China]     | Azadeh H        | 28-05-01 |
+| 155 | [Miss Dong's]      | [Black]     | Valentine Black Tea         | [China]     | Azadeh H.       | 01-05-17 |
 | 154 | [T2]               | [Green]     | [Cinnamon Matcha]           | [China]     | Kate Andrews    | 28-04-17 |
 | 153 | [Hema]             | [Green]     | [Green Tea Jasmine]         | [China]     | Marlouk Stek    | 26-03-17 |
 | 152 | -                  | [Oolong]    | Oolong Tea                  | [China]     | Ivan Pchelnikov | 24-04-17 |
@@ -183,6 +183,7 @@
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
 [MightyLeaf]: http://www.mightyleaf.com
+[Miss Dong's]: http://www.travelsignpostschina.com/destination/picture.php/chongqing-ciqikou-DSC6334
 [Montea Cristo]: http://www.monteacristo.com.au
 [Mrs Oldbucks]: http://www.mrsoldbucks.com.au/tea-black
 [Neo Australia]: http://www.neoaustralia.com.au
