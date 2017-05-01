@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 150 | [Miss Dong's]      | [Black]     | Valentine Black Tea         | [China]     | Black tea                   |
 | 149 | [T2]               | [Green]     | [Cinnamon Matcha]           | [China]     | Cinnamon, Matcha            |
 | 148 | [Hema]             | [Green]     | [Green Tea Jasmine]         | [China]     | Jasmine                     |
 | 147 | -                  | [Oolong]    | Oolong Tea                  | [China]     | Oolong tea                  |
@@ -177,6 +178,7 @@
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
 [MightyLeaf]: http://www.mightyleaf.com
+[Miss Dong's]: http://www.travelsignpostschina.com/destination/picture.php/chongqing-ciqikou-DSC6334
 [Montea Cristo]: http://www.monteacristo.com.au
 [Mrs Oldbucks]: http://www.mrsoldbucks.com.au/tea-black
 [Neo Australia]: http://www.neoaustralia.com.au
