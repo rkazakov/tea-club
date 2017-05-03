@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 156 | [Adore Tea]        | [Black]     | [Golden Monkey - Yunnan]    | [China]     | Gary Butler     | 03-05-17 |
 | 155 | [Miss Dong's]      | [Black]     | Valentine Black Tea         | [China]     | Azadeh H.       | 01-05-17 |
 | 154 | [T2]               | [Green]     | [Cinnamon Matcha]           | [China]     | Kate Andrews    | 28-04-17 |
 | 153 | [Hema]             | [Green]     | [Green Tea Jasmine]         | [China]     | Marlouk Stek    | 26-03-17 |
@@ -213,6 +214,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Golden Monkey - Yunnan]: http://adoretea.com.au/Black/Black-Tea/golden-monkey-yunnan.html
 [Cinnamon Matcha]: http://www.t2tea.com/en/au/tea/matcha/cinnamon-matcha-T115AI079.html
 [Green Tea Jasmine]: http://www.hemashop.com/gb/shop/cooking-and-dining/coffee-and-tea/tea/green-tea-jasmine-fair-trade-(60940005)
 [Anji White Tea]: https://en.wikipedia.org/wiki/Anji_bai_cha
