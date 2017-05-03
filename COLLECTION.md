@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 151 | [Adore Tea]        | [Black]     | [Golden Monkey - Yunnan]    | [China]     | Black tea                   |
 | 150 | [Miss Dong's]      | [Black]     | Valentine Black Tea         | [China]     | Black tea                   |
 | 149 | [T2]               | [Green]     | [Cinnamon Matcha]           | [China]     | Cinnamon, Matcha            |
 | 148 | [Hema]             | [Green]     | [Green Tea Jasmine]         | [China]     | Jasmine                     |
@@ -208,6 +209,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Golden Monkey - Yunnan]: http://adoretea.com.au/Black/Black-Tea/golden-monkey-yunnan.html
 [Cinnamon Matcha]: http://www.t2tea.com/en/au/tea/matcha/cinnamon-matcha-T115AI079.html
 [Green Tea Jasmine]: http://www.hemashop.com/gb/shop/cooking-and-dining/coffee-and-tea/tea/green-tea-jasmine-fair-trade-(60940005)
 [Anji White Tea]: https://en.wikipedia.org/wiki/Anji_bai_cha
