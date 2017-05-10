@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 159 | T2                 | [Black]     | Sikkim Temi                 | [India]     | Kate Andrews    | 10-05-17 |
+| 159 | [T2]               | [Black]     | [Sikkim Temi]               | [India]     | Kate Andrews    | 10-05-17 |
 | 158 | Pokolbin           | [Black]     | Irish Cream                 | [Australia] | Gary Butler     | 08-05-17 |
 | 157 | Pokolbin           | [Black]     | Chocolate & Coconut         | [Australia] | Gary Butler     | 05-05-17 |
 | 156 | [Adore Tea]        | [Black]     | [Golden Monkey - Yunnan]    | [China]     | Gary Butler     | 03-05-17 |
@@ -217,6 +217,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Sikkim Temi]: http://www.trufflestore.com.au/t2-sikkim-temi
 [Golden Monkey - Yunnan]: http://adoretea.com.au/Black/Black-Tea/golden-monkey-yunnan.html
 [Cinnamon Matcha]: http://www.t2tea.com/en/au/tea/matcha/cinnamon-matcha-T115AI079.html
 [Green Tea Jasmine]: http://www.hemashop.com/gb/shop/cooking-and-dining/coffee-and-tea/tea/green-tea-jasmine-fair-trade-(60940005)
