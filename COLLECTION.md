@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 154 | T2                 | [Black]     | Sikkim Temi                 | [India]     | Black tea                   |
+| 154 | [T2]               | [Black]     | [Sikkim Temi]               | [India]     | Black tea                   |
 | 153 | Pokolbin           | [Black]     | Irish Cream                 | [Australia] | Cocoa, Whiskey              |
 | 152 | Pokolbin           | [Black]     | Chocolate & Coconut         | [Australia] | Chocolate, Coconut          |
 | 151 | [Adore Tea]        | [Black]     | [Golden Monkey - Yunnan]    | [China]     | Black tea                   |
@@ -212,6 +212,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Sikkim Temi]: http://www.trufflestore.com.au/t2-sikkim-temi
 [Golden Monkey - Yunnan]: http://adoretea.com.au/Black/Black-Tea/golden-monkey-yunnan.html
 [Cinnamon Matcha]: http://www.t2tea.com/en/au/tea/matcha/cinnamon-matcha-T115AI079.html
 [Green Tea Jasmine]: http://www.hemashop.com/gb/shop/cooking-and-dining/coffee-and-tea/tea/green-tea-jasmine-fair-trade-(60940005)
