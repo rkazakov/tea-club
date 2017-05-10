@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 154 | T2                 | [Black]     | Sikkim Temi                 | [India]     | Black tea                   |
 | 153 | Pokolbin           | [Black]     | Irish Cream                 | [Australia] | Cocoa, Whiskey              |
 | 152 | Pokolbin           | [Black]     | Chocolate & Coconut         | [Australia] | Chocolate, Coconut          |
 | 151 | [Adore Tea]        | [Black]     | [Golden Monkey - Yunnan]    | [China]     | Black tea                   |
