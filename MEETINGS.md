@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 160 | [Higher Living]    | [White]     | [Elderflower & Apricot]     | [Australia] | Marlouk Stek    | 12-05-17 |
 | 159 | [T2]               | [Black]     | [Sikkim Temi]               | [India]     | Kate Andrews    | 10-05-17 |
 | 158 | Pokolbin           | [Black]     | Irish Cream                 | [Australia] | Gary Butler     | 08-05-17 |
 | 157 | Pokolbin           | [Black]     | Chocolate & Coconut         | [Australia] | Gary Butler     | 05-05-17 |
@@ -217,6 +218,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Elderflower & Apricot]: http://shop.coles.com.au/online/mobile/national/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
 [Sikkim Temi]: http://www.trufflestore.com.au/t2-sikkim-temi
 [Golden Monkey - Yunnan]: http://adoretea.com.au/Black/Black-Tea/golden-monkey-yunnan.html
 [Cinnamon Matcha]: http://www.t2tea.com/en/au/tea/matcha/cinnamon-matcha-T115AI079.html
