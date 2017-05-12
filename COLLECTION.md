@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 155 | [Higher Living]    | [White]     | [Elderflower & Apricot]     | [Australia] | Elderflower, Apricot        |
 | 154 | [T2]               | [Black]     | [Sikkim Temi]               | [India]     | Black tea                   |
 | 153 | Pokolbin           | [Black]     | Irish Cream                 | [Australia] | Cocoa, Whiskey              |
 | 152 | Pokolbin           | [Black]     | Chocolate & Coconut         | [Australia] | Chocolate, Coconut          |
@@ -212,6 +213,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Elderflower & Apricot]: http://shop.coles.com.au/online/mobile/national/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
 [Sikkim Temi]: http://www.trufflestore.com.au/t2-sikkim-temi
 [Golden Monkey - Yunnan]: http://adoretea.com.au/Black/Black-Tea/golden-monkey-yunnan.html
 [Cinnamon Matcha]: http://www.t2tea.com/en/au/tea/matcha/cinnamon-matcha-T115AI079.html
