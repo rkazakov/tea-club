@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 157 | [Celestial]        | [Herbal]    | [Bengal Spice]              | -           | Cinnamon, Ginger, Cardamom  |
+| 157 | [Celestial]        | [Herbal]    | [Bengal Spice]              | -           | Cinnamon, Ginger            |
 | 156 | [Twinings]         | [Black]     | [Twinings Morning Tea]      | [Australia] | Black tea                   |
 | 155 | [Higher Living]    | [White]     | [Elderflower & Apricot]     | [Australia] | Elderflower, Apricot        |
 | 154 | [T2]               | [Black]     | [Sikkim Temi]               | [India]     | Black tea                   |
