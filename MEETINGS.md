@@ -220,6 +220,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Bengal Spice]: http://www.celestialseasonings.com/products/herbal/bengal-spice-herbal-tea
 [Twinings Morning Tea]: http://www.foodanddrinkbusiness.com.au/packaging/twinings-launches-new-australian-tea-range-in-special-packs
 [Elderflower & Apricot]: http://shop.coles.com.au/online/mobile/national/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
 [Sikkim Temi]: http://www.trufflestore.com.au/t2-sikkim-temi
