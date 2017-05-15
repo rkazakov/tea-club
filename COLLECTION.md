@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 157 | [Celestial]        | [Herbal]    | [Bengal Spice]              | -           | Cinnamon, Ginger, Cardamom  |
 | 156 | [Twinings]         | [Black]     | [Twinings Morning Tea]      | [Australia] | Black tea                   |
 | 155 | [Higher Living]    | [White]     | [Elderflower & Apricot]     | [Australia] | Elderflower, Apricot        |
 | 154 | [T2]               | [Black]     | [Sikkim Temi]               | [India]     | Black tea                   |
@@ -214,6 +215,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Bengal Spice]: http://www.celestialseasonings.com/products/herbal/bengal-spice-herbal-tea
 [Twinings Morning Tea]: http://www.foodanddrinkbusiness.com.au/packaging/twinings-launches-new-australian-tea-range-in-special-packs
 [Elderflower & Apricot]: http://shop.coles.com.au/online/mobile/national/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
 [Sikkim Temi]: http://www.trufflestore.com.au/t2-sikkim-temi
