@@ -12,6 +12,7 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
   <img width="150" height="150" src="./images/badges/bohea.png">
   <img width="150" height="150" src="./images/badges/congou.png">
   <img width="150" height="150" src="./images/badges/souchong.png">
+  <img width="150" height="150" src="./images/badges/pekoe.png">
 </div>
 
 | Level     | Teas donated | Members                                                                 |
@@ -19,6 +20,7 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
 | Bohea     | 10           | Gary Butler ᛫ Kate Andrews ᛫ Ivan Pchelnikov ᛫ Amy Dreise ᛫ Louise Brooks |
 | Congou    | 20           | Gary Butler ᛫ Kate Andrews                                               |
 | Souchong  | 30           | -                                                                       |
+| Pekoe     | 50           | -                                                                       |
 
 ## Special Badges
 
