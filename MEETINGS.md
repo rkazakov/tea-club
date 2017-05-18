@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 163 | [Tealyra]          | [Herbal]    | [Mango Yoghurt Desert]      | -           | Ruslan Kazakov  | 17-05-17 |
 | 162 | [Celestial]        | [Herbal]    | [Bengal Spice]              | -           | Kate Andrews    | 15-05-17 |
 | 161 | [Twinings]         | [Black]     | [Twinings Morning Tea]      | [Australia] | Kate Andrews    | 12-05-17 |
 | 160 | [Higher Living]    | [White]     | [Elderflower & Apricot]     | [Australia] | Marlouk Stek    | 12-05-17 |
