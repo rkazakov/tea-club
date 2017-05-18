@@ -19,7 +19,7 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
 |-----------|--------------|-------------------------------------------------------------------------|
 | Bohea     | 10           | Gary Butler ᛫ Kate Andrews ᛫ Ivan Pchelnikov ᛫ Amy Dreise ᛫ Louise Brooks |
 | Congou    | 20           | Gary Butler ᛫ Kate Andrews                                               |
-| Souchong  | 30           | -                                                                       |
+| Souchong  | 30           | Gary Butler                                                             |
 | Pekoe     | 50           | -                                                                       |
 
 ## Special Badges
