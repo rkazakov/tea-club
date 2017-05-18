@@ -6,6 +6,16 @@
 
 Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the badges below.
 
+## Tea Club Administration
+
+<div>
+  <img width="150" height="150" src="./images/badges/cto.png">
+</div>
+
+| Level             | Description             | Members                      |
+|-------------------|-------------------------|------------------------------|
+| Chief Tea Officer | Awards badges of honour | Ruslan Kazakov ᛫ Cherry Zhou  |
+
 ## Tea Donation Badges
 
 <div>
@@ -21,16 +31,6 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
 | Congou    | 20           | Gary Butler ᛫ Kate Andrews                                               |
 | Souchong  | 30           | Gary Butler                                                             |
 | Pekoe     | 50           | -                                                                       |
-
-## Special Badges
-
-<div>
-  <img width="150" height="150" src="./images/badges/cto.png">
-</div>
-
-| Level             | Description             | Members                      |
-|-------------------|-------------------------|------------------------------|
-| Chief Tea Officer | Awards badges of honour | Ruslan Kazakov ᛫ Cherry Zhou |
 
 [MYOB Tea Club]: https://github.com/rkazakov/tea-club
 [Tea Leaf Grading]: https://en.wikipedia.org/wiki/Tea_leaf_grading
