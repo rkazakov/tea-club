@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 159 | [T2]               | [Blooming]  | T2 Blossoms                 | [Australia] | Green tea                   |
+| 158 | [T2]               | [Black]     | [T2 Manjari]                | [Australia] | Black tea                   |
 | 157 | [Celestial]        | [Herbal]    | [Bengal Spice]              | -           | Cinnamon, Ginger            |
 | 156 | [Twinings]         | [Black]     | [Twinings Morning Tea]      | [Australia] | Black tea                   |
 | 155 | [Higher Living]    | [White]     | [Elderflower & Apricot]     | [Australia] | Elderflower, Apricot        |
@@ -215,6 +217,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[T2 Manjari]: http://www.t2tea.com/en/au/tea/limited-edition-tea/tiny-tin-of-tea---manjari-T120AI080.html
 [Bengal Spice]: http://www.celestialseasonings.com/products/herbal/bengal-spice-herbal-tea
 [Twinings Morning Tea]: http://www.foodanddrinkbusiness.com.au/packaging/twinings-launches-new-australian-tea-range-in-special-packs
 [Elderflower & Apricot]: http://shop.coles.com.au/online/mobile/national/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
