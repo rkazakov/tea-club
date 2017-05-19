@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 165 | [T2]               | [Blooming]  | T2 Blossoms                 | [Australia] | Kate Andrews    | 19-05-17 |
+| 164 | [T2]               | [Black]     | [T2 Manjari]                | [Australia] | Kate Andrews    | 19-05-17 |
 | 163 | [Tealyra]          | [Herbal]    | [Mango Yoghurt Desert]      | -           | Ruslan Kazakov  | 17-05-17 |
 | 162 | [Celestial]        | [Herbal]    | [Bengal Spice]              | -           | Kate Andrews    | 15-05-17 |
 | 161 | [Twinings]         | [Black]     | [Twinings Morning Tea]      | [Australia] | Kate Andrews    | 12-05-17 |
@@ -221,6 +223,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[T2 Manjari]: http://www.t2tea.com/en/au/tea/limited-edition-tea/tiny-tin-of-tea---manjari-T120AI080.html
 [Bengal Spice]: http://www.celestialseasonings.com/products/herbal/bengal-spice-herbal-tea
 [Twinings Morning Tea]: http://www.foodanddrinkbusiness.com.au/packaging/twinings-launches-new-australian-tea-range-in-special-packs
 [Elderflower & Apricot]: http://shop.coles.com.au/online/mobile/national/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
