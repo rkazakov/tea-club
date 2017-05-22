@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 166 | [Efuton]           | [Herbal]    | Chrysanthemum Tea           | [China]     | Alex Yang       | 22-05-17 |
 | 165 | [T2]               | [Blooming]  | T2 Blossoms                 | [Australia] | Kate Andrews    | 19-05-17 |
 | 164 | [T2]               | [Black]     | [T2 Manjari]                | [Australia] | Kate Andrews    | 19-05-17 |
 | 163 | [Tealyra]          | [Herbal]    | [Mango Yoghurt Desert]      | -           | Ruslan Kazakov  | 17-05-17 |
@@ -180,6 +181,7 @@
 [Celestial]: http://www.celestialseasonings.com
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
+[Efuton]: http://www.efuton.com
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
