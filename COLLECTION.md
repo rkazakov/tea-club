@@ -175,6 +175,7 @@
 [Celestial]: http://www.celestialseasonings.com
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
+[Efuton]: http://www.efuton.com
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
