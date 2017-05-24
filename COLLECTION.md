@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 161 | [Rabbit Hole]      | [Green]     | Green Sencha                | [Japan]     | Sencha tea                  |
 | 160 | [Efuton]           | [Herbal]    | Chrysanthemum Tea           | [China]     | Chrysanthemum               |
 | 159 | [T2]               | [Blooming]  | T2 Blossoms                 | [Australia] | Green tea                   |
 | 158 | [T2]               | [Black]     | [T2 Manjari]                | [Australia] | Black tea                   |
