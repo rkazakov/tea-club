@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 168 | [Rabbit Hole]      | [Green]     | Green Sencha                | [Japan]     | Gary Butler     | 24-05-17 |
+| 167 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Ruslan Kazakov  | 24-05-17 |
 | 166 | [Efuton]           | [Herbal]    | Chrysanthemum Tea           | [China]     | Alex Yang       | 22-05-17 |
 | 165 | [T2]               | [Blooming]  | T2 Blossoms                 | [Australia] | Kate Andrews    | 19-05-17 |
 | 164 | [T2]               | [Black]     | [T2 Manjari]                | [Australia] | Kate Andrews    | 19-05-17 |
