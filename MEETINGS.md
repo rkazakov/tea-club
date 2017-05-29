@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 170 | [Dilmah]           | [Green]     | [Green tea with Lemongrass] | [Sri Lanka] | Amy Dreise      | 29-05-17 |
+| 170 | [Dilmah]           | [Green]     | [Lemongrass Green Tea]      | [Sri Lanka] | Amy Dreise      | 29-05-17 |
 | 169 | [Hansung KMT]      | [Herbal]    | [Honey Citron Tea]          | [Korea]     | Rozanna Wong    | 26-05-17 |
 | 168 | [Rabbit Hole]      | [Green]     | Green Sencha                | [Japan]     | Gary Butler     | 24-05-17 |
 | 167 | [Basilur]          | [Green]     | [Green Freshness]           | [Sri Lanka] | Ruslan Kazakov  | 24-05-17 |
@@ -231,7 +231,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-[Green tea with Lemongrass]: http://www.dilmahtea.com/ceylon-green-tea/pure-ceylon-green-tea-with-lemongrass.html
+[Lemongrass Green Tea]: http://www.dilmahtea.com/ceylon-green-tea/pure-ceylon-green-tea-with-lemongrass.html
 [Honey Citron Tea]: https://www.jayagrocer.com/product?variant_id=10143
 [T2 Manjari]: http://www.t2tea.com/en/au/tea/limited-edition-tea/tiny-tin-of-tea---manjari-T120AI080.html
 [Bengal Spice]: http://www.celestialseasonings.com/products/herbal/bengal-spice-herbal-tea
