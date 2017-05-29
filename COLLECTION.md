@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 163 | [Dilmah]           | [Green]     | [Green Tea with Lemongrass] | [Sri Lanka] | Green, Lemon                |
+| 163 | [Dilmah]           | [Green]     | [Lemongrass Green Tea]      | [Sri Lanka] | Lemongrass                  |
 | 162 | [Hansung KMT]      | [Herbal]    | [Honey Citron Tea]          | [Korea]     | Honey, Citron               |
 | 161 | [Rabbit Hole]      | [Green]     | Green Sencha                | [Japan]     | Sencha tea                  |
 | 160 | [Efuton]           | [Herbal]    | Chrysanthemum Tea           | [China]     | Chrysanthemum               |
