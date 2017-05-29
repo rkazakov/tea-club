@@ -224,7 +224,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-[Green tea with Lemongrass]: http://www.dilmahtea.com/ceylon-green-tea/pure-ceylon-green-tea-with-lemongrass.html
+[Lemongrass Green Tea]: http://www.dilmahtea.com/ceylon-green-tea/pure-ceylon-green-tea-with-lemongrass.html
 [Honey Citron Tea]: https://www.jayagrocer.com/product?variant_id=10143
 [T2 Manjari]: http://www.t2tea.com/en/au/tea/limited-edition-tea/tiny-tin-of-tea---manjari-T120AI080.html
 [Bengal Spice]: http://www.celestialseasonings.com/products/herbal/bengal-spice-herbal-tea
