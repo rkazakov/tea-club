@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 171 | [T2]               | [Green]     | [Gorgeous Geisha]           | [Japan]     | Marlouk Stek    | 31-05-17 |
 | 170 | [Dilmah]           | [Green]     | [Lemongrass Green Tea]      | [Sri Lanka] | Amy Dreise      | 29-05-17 |
 | 169 | [Hansung KMT]      | [Herbal]    | [Honey Citron Tea]          | [Korea]     | Rozanna Wong    | 26-05-17 |
 | 168 | [Rabbit Hole]      | [Green]     | Green Sencha                | [Japan]     | Gary Butler     | 24-05-17 |
@@ -231,6 +232,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Gorgeous Geisha]: http://www.t2tea.com/en/au/tea/green-tea/gorgeous-geisha-loose-leaf-gift-cube-T115AE009.html
 [Lemongrass Green Tea]: http://www.dilmahtea.com/ceylon-green-tea/pure-ceylon-green-tea-with-lemongrass.html
 [Honey Citron Tea]: https://www.jayagrocer.com/product?variant_id=10143
 [T2 Manjari]: http://www.t2tea.com/en/au/tea/limited-edition-tea/tiny-tin-of-tea---manjari-T120AI080.html
