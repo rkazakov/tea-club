@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 165 | [Twinings]         | [Green]     | [Apple & Elderflower flavour green tea]| [London]     | Apple and Elderflower|
+| 165 | [Twinings]         | [Green]     | [Apple & Elderflower flavour green tea]| [UK]     | Apple and Elderflower|
 | 164 | [T2]               | [Green]     | [Gorgeous Geisha]           | [Japan]     | Sencha tea, Strawberry      |
 | 163 | [Dilmah]           | [Green]     | [Lemongrass Green Tea]      | [Sri Lanka] | Lemongrass                  |
 | 162 | [Hansung KMT]      | [Herbal]    | [Honey Citron Tea]          | [Korea]     | Honey, Citron               |
