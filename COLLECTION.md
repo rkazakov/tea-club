@@ -6,7 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 163 | [Dilmah]           | [Green]     | [Green Tea with Lemongrass] | [Sri Lanka] | Green, Lemon                |
+| 164 | [T2]               | [Green]     | [Gorgeous Geisha]           | [Japan]     | Sencha tea, Strawberry      |
+| 163 | [Dilmah]           | [Green]     | [Lemongrass Green Tea]      | [Sri Lanka] | Lemongrass                  |
 | 162 | [Hansung KMT]      | [Herbal]    | [Honey Citron Tea]          | [Korea]     | Honey, Citron               |
 | 161 | [Rabbit Hole]      | [Green]     | Green Sencha                | [Japan]     | Sencha tea                  |
 | 160 | [Efuton]           | [Herbal]    | Chrysanthemum Tea           | [China]     | Chrysanthemum               |
@@ -224,7 +225,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-[Green tea with Lemongrass]: http://www.dilmahtea.com/ceylon-green-tea/pure-ceylon-green-tea-with-lemongrass.html
+[Gorgeous Geisha]: http://www.t2tea.com/en/au/tea/green-tea/gorgeous-geisha-loose-leaf-gift-cube-T115AE009.html
+[Lemongrass Green Tea]: http://www.dilmahtea.com/ceylon-green-tea/pure-ceylon-green-tea-with-lemongrass.html
 [Honey Citron Tea]: https://www.jayagrocer.com/product?variant_id=10143
 [T2 Manjari]: http://www.t2tea.com/en/au/tea/limited-edition-tea/tiny-tin-of-tea---manjari-T120AI080.html
 [Bengal Spice]: http://www.celestialseasonings.com/products/herbal/bengal-spice-herbal-tea
