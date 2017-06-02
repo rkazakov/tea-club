@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 165 | [Twinings]         | [Green]     | [Apple & Elderflower flavour green tea]| [UK]     | Apple and Elderflower|
+| 165 | [Twinings]         | [Green]     | [Apple & Elderflower]       | [UK]        | Apple, Elderflower          |
 | 164 | [T2]               | [Green]     | [Gorgeous Geisha]           | [Japan]     | Sencha tea, Strawberry      |
 | 163 | [Dilmah]           | [Green]     | [Lemongrass Green Tea]      | [Sri Lanka] | Lemongrass                  |
 | 162 | [Hansung KMT]      | [Herbal]    | [Honey Citron Tea]          | [Korea]     | Honey, Citron               |
@@ -226,7 +226,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-[Apple & Elderflower flavour green tea]: https://www.twinings.co.uk/tea/loose-leaf-pyramids/apple-elderflower-green-tea-pyramids
+[Apple & Elderflower]: https://www.twinings.co.uk/tea/loose-leaf-pyramids/apple-elderflower-green-tea-pyramids
 [Gorgeous Geisha]: http://www.t2tea.com/en/au/tea/green-tea/gorgeous-geisha-loose-leaf-gift-cube-T115AE009.html
 [Lemongrass Green Tea]: http://www.dilmahtea.com/ceylon-green-tea/pure-ceylon-green-tea-with-lemongrass.html
 [Honey Citron Tea]: https://www.jayagrocer.com/product?variant_id=10143
