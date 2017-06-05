@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 166 | [Uji-en]           | [Green]     | [Japanese Sencha]           | [Japan]     | Sencha tea                  |
 | 165 | [Twinings]         | [Green]     | [Apple & Elderflower]       | [UK]        | Apple, Elderflower          |
 | 164 | [T2]               | [Green]     | [Gorgeous Geisha]           | [Japan]     | Sencha tea, Strawberry      |
 | 163 | [Dilmah]           | [Green]     | [Lemongrass Green Tea]      | [Sri Lanka] | Lemongrass                  |
@@ -221,11 +222,13 @@
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
 [Twinings]: http://www.twiningsusa.com
+[Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Japanese Sencha]: http://www.uji-en.co.jp/wp-content/themes/ujien/pc/ocha.html
 [Apple & Elderflower]: https://www.twinings.co.uk/tea/loose-leaf-pyramids/apple-elderflower-green-tea-pyramids
 [Gorgeous Geisha]: http://www.t2tea.com/en/au/tea/green-tea/gorgeous-geisha-loose-leaf-gift-cube-T115AE009.html
 [Lemongrass Green Tea]: http://www.dilmahtea.com/ceylon-green-tea/pure-ceylon-green-tea-with-lemongrass.html
