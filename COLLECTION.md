@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 167 | -                  | [Green]     | [Chan cha]                  | [China]     | Green tea                   |
+| 167 | -                  | [Green]     | [Chan Cha]                  | [China]     | Green tea                   |
 | 166 | [Uji-en]           | [Green]     | [Japanese Sencha]           | [Japan]     | Sencha tea                  |
 | 165 | [Twinings]         | [Green]     | [Apple & Elderflower]       | [UK]        | Apple, Elderflower          |
 | 164 | [T2]               | [Green]     | [Gorgeous Geisha]           | [Japan]     | Sencha tea, Strawberry      |
@@ -229,6 +229,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Chan Cha]: http://baike.baidu.com/item/%E7%A6%85%E8%8C%B6
 [Japanese Sencha]: http://www.uji-en.co.jp/wp-content/themes/ujien/pc/ocha.html
 [Apple & Elderflower]: https://www.twinings.co.uk/tea/loose-leaf-pyramids/apple-elderflower-green-tea-pyramids
 [Gorgeous Geisha]: http://www.t2tea.com/en/au/tea/green-tea/gorgeous-geisha-loose-leaf-gift-cube-T115AE009.html
@@ -384,7 +385,6 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
-[Chan cha]: http://baike.baidu.com/item/%E7%A6%85%E8%8C%B6
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
