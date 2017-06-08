@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 174 | -                  | [Green]     | [Chan cha]                  | [China]     | Ray Dai         | 07-06-17 |
+| 174 | -                  | [Green]     | [Chan Cha]                  | [China]     | Ray Dai         | 07-06-17 |
 | 173 | [Uji-en]           | [Green]     | [Japanese Sencha]           | [Japan]     | Sikang Li       | 05-06-17 |
 | 172 | [Twinings]         | [Green]     | [Apple & Elderflower]       | [UK]        | Amy Dreise      | 02-06-17 |
 | 171 | [T2]               | [Green]     | [Gorgeous Geisha]           | [Japan]     | Marlouk Stek    | 31-05-17 |
@@ -236,6 +236,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Chan Cha]: http://baike.baidu.com/item/%E7%A6%85%E8%8C%B6
 [Japanese Sencha]: http://www.uji-en.co.jp/wp-content/themes/ujien/pc/ocha.html
 [Apple & Elderflower]: https://www.twinings.co.uk/tea/loose-leaf-pyramids/apple-elderflower-green-tea-pyramids
 [Gorgeous Geisha]: http://www.t2tea.com/en/au/tea/green-tea/gorgeous-geisha-loose-leaf-gift-cube-T115AE009.html
@@ -391,7 +392,6 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
-[Chan cha]: http://baike.baidu.com/item/%E7%A6%85%E8%8C%B6
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
