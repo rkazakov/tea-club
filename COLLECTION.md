@@ -6,7 +6,27 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 146 | -                  | [Green]     | [Anji White Tea]            | [China]     | Green tea                   |
+| 166 | [Uji-en]           | [Green]     | [Japanese Sencha]           | [Japan]     | Sencha tea                  |
+| 165 | [Twinings]         | [Green]     | [Apple & Elderflower]       | [UK]        | Apple, Elderflower          |
+| 164 | [T2]               | [Green]     | [Gorgeous Geisha]           | [Japan]     | Sencha tea, Strawberry      |
+| 163 | [Dilmah]           | [Green]     | [Lemongrass Green Tea]      | [Sri Lanka] | Lemongrass                  |
+| 162 | [Hansung KMT]      | [Herbal]    | [Honey Citron Tea]          | [Korea]     | Honey, Citron               |
+| 161 | [Rabbit Hole]      | [Green]     | Green Sencha                | [Japan]     | Sencha tea                  |
+| 160 | [Efuton]           | [Herbal]    | Chrysanthemum Tea           | [China]     | Chrysanthemum               |
+| 159 | [T2]               | [Blooming]  | T2 Blossoms                 | [Australia] | Green tea                   |
+| 158 | [T2]               | [Black]     | [T2 Manjari]                | [Australia] | Black tea                   |
+| 157 | [Celestial]        | [Herbal]    | [Bengal Spice]              | -           | Cinnamon, Ginger            |
+| 156 | [Twinings]         | [Black]     | [Twinings Morning Tea]      | [Australia] | Black tea                   |
+| 155 | [Higher Living]    | [White]     | [Elderflower & Apricot]     | [Australia] | Elderflower, Apricot        |
+| 154 | [T2]               | [Black]     | [Sikkim Temi]               | [India]     | Black tea                   |
+| 153 | Pokolbin           | [Black]     | Irish Cream                 | [Australia] | Cocoa, Whiskey              |
+| 152 | Pokolbin           | [Black]     | Chocolate & Coconut         | [Australia] | Chocolate, Coconut          |
+| 151 | [Adore Tea]        | [Black]     | [Golden Monkey - Yunnan]    | [China]     | Black tea                   |
+| 150 | [Miss Dong's]      | [Black]     | Valentine Black Tea         | [China]     | Black tea                   |
+| 149 | [T2]               | [Green]     | [Cinnamon Matcha]           | [China]     | Cinnamon, Matcha            |
+| 148 | [Hema]             | [Green]     | [Green Tea Jasmine]         | [China]     | Jasmine                     |
+| 147 | -                  | [Oolong]    | Oolong Tea                  | [China]     | Oolong tea                  |
+| 146 | -                  | [White]     | [Anji White Tea]            | [China]     | White tea                   |
 | 145 | Jia Ming           | [Green]     | [Jia Ming Dragon Well]      | [China]     | Green tea                   |
 | 144 | [Gewurzhaus]       | [Black]     | [Velvety Vanilla Chai Tea]  | [India]     | Cassia, Cardamom, Pepper    |
 | 143 | [Gewurzhaus]       | [Black]     | [Organic Easter Bun Tea]    | [Germany]   | Cinnamon, Orange peel       |
@@ -160,19 +180,24 @@
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
 [Dafolongjing]: http://www.dflj.cn
+[Dilmah]: http://www.dilmahtea.com/
 [Disney]: http://www.disney.com.au
-[Dragon Leaf]: http://www.dragon-leaf.com
+[Efuton]: http://www.efuton.com
+[Hansung KMT]: http://www.kmt.com.my
+[Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
 [Golden Sail]: https://steepster.com/companies/golden-sail-brand
 [Golden Tips]: http://www.goldentipstea.com
+[Dragon Leaf]: http://www.dragon-leaf.com
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
 [MightyLeaf]: http://www.mightyleaf.com
+[Miss Dong's]: http://www.travelsignpostschina.com/destination/picture.php/chongqing-ciqikou-DSC6334
 [Montea Cristo]: http://www.monteacristo.com.au
 [Mrs Oldbucks]: http://www.mrsoldbucks.com.au/tea-black
 [Neo Australia]: http://www.neoaustralia.com.au
@@ -197,11 +222,25 @@
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
 [Twinings]: http://www.twiningsusa.com
+[Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Japanese Sencha]: http://www.uji-en.co.jp/wp-content/themes/ujien/pc/ocha.html
+[Apple & Elderflower]: https://www.twinings.co.uk/tea/loose-leaf-pyramids/apple-elderflower-green-tea-pyramids
+[Gorgeous Geisha]: http://www.t2tea.com/en/au/tea/green-tea/gorgeous-geisha-loose-leaf-gift-cube-T115AE009.html
+[Lemongrass Green Tea]: http://www.dilmahtea.com/ceylon-green-tea/pure-ceylon-green-tea-with-lemongrass.html
+[Honey Citron Tea]: https://www.jayagrocer.com/product?variant_id=10143
+[T2 Manjari]: http://www.t2tea.com/en/au/tea/limited-edition-tea/tiny-tin-of-tea---manjari-T120AI080.html
+[Bengal Spice]: http://www.celestialseasonings.com/products/herbal/bengal-spice-herbal-tea
+[Twinings Morning Tea]: http://www.foodanddrinkbusiness.com.au/packaging/twinings-launches-new-australian-tea-range-in-special-packs
+[Elderflower & Apricot]: http://shop.coles.com.au/online/mobile/national/higher-living-herbal-infusion-white-tea-elderflower-and-apricot
+[Sikkim Temi]: http://www.trufflestore.com.au/t2-sikkim-temi
+[Golden Monkey - Yunnan]: http://adoretea.com.au/Black/Black-Tea/golden-monkey-yunnan.html
+[Cinnamon Matcha]: http://www.t2tea.com/en/au/tea/matcha/cinnamon-matcha-T115AI079.html
+[Green Tea Jasmine]: http://www.hemashop.com/gb/shop/cooking-and-dining/coffee-and-tea/tea/green-tea-jasmine-fair-trade-(60940005)
 [Anji White Tea]: https://en.wikipedia.org/wiki/Anji_bai_cha
 [Jia Ming Dragon Well]: https://en.wikipedia.org/wiki/Longjing_tea
 [Velvety Vanilla Chai Tea]: https://gewurzhaus.com.au/product/velvety-vanilla-chai-tea-80g-l
@@ -210,12 +249,12 @@
 [Cocoa Loco]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/cocoa-loco-loose-leaf-gift-cube-T140AE059.html
 [Pomegranate Fruit Blend]: http://www.monteacristo.com.au/shop
 [Ginger kiss]: http://www.monteacristo.com.au/product/ginger-kiss
-[Lychee Black Tea]: http://www.monteacristo.com.au/product/lychee
+[Lychee Black tea]: http://www.monteacristo.com.au/product/lychee
 [Complexion Herbal Tea]: https://www.neoaustralia.com.au/Complexion-Tea-120g-Jar
 [Arctic Fire]: http://adoretea.com.au/Black/Flavoured-Black/arctic-fire.html
 [Lavender Flowers Tea]: http://www.monteacristo.com.au/product/lavender-flowers
 [Ginseng Oolong Tea]: http://www.dragon-leaf.com/green-tea.html
-[8 Day Teatox]: https://www.skinnymetea.com.au/products/14-day-teatox
+[8 day Teatox]: https://www.skinnymetea.com.au/products/14-day-teatox
 [Alishan Tea]: http://yuyupas.com/products/1
 [Nettle Tea]: http://adoretea.com.au/nettle.html
 [Lichee Black Tea]: https://www.amazon.com/Golden-Sail-Brand-China-Lichee/dp/B003L8LX7M
@@ -380,3 +419,4 @@
 [Thailand]: https://en.wikipedia.org/wiki/Thailand
 [US]: https://en.wikipedia.org/wiki/United_States
 [UK]: https://en.wikipedia.org/wiki/United_Kingdom
+
