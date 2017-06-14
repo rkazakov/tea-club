@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 169 | [Basilur]          | [Black]     | [Raspberry & Rosehip]       | [Sri Lanka] | Raspberry, Rosehip          |
+| 168 | [Rabbit Hole]      | [Black]     | [Café Latte]                | [China]     | Coffee                      |
 | 167 | -                  | [Green]     | [Chan Cha]                  | [China]     | Green tea                   |
 | 166 | [Uji-en]           | [Green]     | [Japanese Sencha]           | [Japan]     | Sencha tea                  |
 | 165 | [Twinings]         | [Green]     | [Apple & Elderflower]       | [UK]        | Apple, Elderflower          |
@@ -229,6 +231,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Raspberry & Rosehip]: http://www.basilurshop.com.au/basilur/magic-fruits-tea-bags-raspberry-and-rosehip-2g-x-20
+[Café Latte]: http://www.adoretea.com.au/Green-Tea/Flavoured/Evening-Mist-p58.html
 [Chan Cha]: http://baike.baidu.com/item/%E7%A6%85%E8%8C%B6
 [Japanese Sencha]: http://www.uji-en.co.jp/wp-content/themes/ujien/pc/ocha.html
 [Apple & Elderflower]: https://www.twinings.co.uk/tea/loose-leaf-pyramids/apple-elderflower-green-tea-pyramids
