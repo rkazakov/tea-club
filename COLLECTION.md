@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 170 | [Adore Tea]        | [Herbal]    | [Turkish Apple]             | [Turkey]    | Apple                       |
 | 169 | [Basilur]          | [Black]     | [Raspberry & Rosehip]       | [Sri Lanka] | Raspberry, Rosehip          |
 | 168 | [Rabbit Hole]      | [Black]     | [Café Latte]                | [China]     | Coffee                      |
 | 167 | -                  | [Green]     | [Chan Cha]                  | [China]     | Green tea                   |
@@ -231,6 +232,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Turkish Apple]: http://adoretea.com.au/Fruit-Blends/turkish-apple.html
 [Raspberry & Rosehip]: http://www.basilurshop.com.au/basilur/magic-fruits-tea-bags-raspberry-and-rosehip-2g-x-20
 [Café Latte]: http://www.adoretea.com.au/Green-Tea/Flavoured/Evening-Mist-p58.html
 [Chan Cha]: http://baike.baidu.com/item/%E7%A6%85%E8%8C%B6
@@ -423,6 +425,7 @@
 [Sudan]: https://en.wikipedia.org/wiki/Sudan
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
 [Thailand]: https://en.wikipedia.org/wiki/Thailand
+[Turkey]: https://en.wikipedia.org/wiki/Turkey
 [US]: https://en.wikipedia.org/wiki/United_States
 [UK]: https://en.wikipedia.org/wiki/United_Kingdom
 
