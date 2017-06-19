@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 180 | [T2]               | [Herbal]    | [Citrus Punch]              | [Australia] | Marlouk Stek    | 19-06-17 |
+| 179 | [T2]               | [Herbal]    | [Toasty Nougat]             | [Australia] | Marlouk Stek    | 19-06-17 |
 | 178 | [Adore Tea]        | [Herbal]    | [Turkish Apple]             | [Turkey]    | Gary Butler     | 16-06-17 |
 | 177 | [Higher Living]    | [Green]     | [Green Tea Coconut]         | [UK]        | Marlouk Stek    | 14-06-17 |
 | 176 | [Basilur]          | [Black]     | [Raspberry & Rosehip]       | [Sri Lanka] | Ruslan Kazakov  | 14-06-17 |
@@ -240,6 +242,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Citrus Punch]: http://www.t2tea.com/en/au/tea/fruit-tisane/citrus-punch-loose-leaf-gift-cube-T130AE002.html
+[Toasty Nougat]: https://www.t2tea.com/en/au/tea/fruit-tisane/toasty-nougat-loose-leaf-gift-cube-T130AE021.html
 [Turkish Apple]: http://adoretea.com.au/Fruit-Blends/turkish-apple.html
 [Raspberry & Rosehip]: http://www.basilurshop.com.au/basilur/magic-fruits-tea-bags-raspberry-and-rosehip-2g-x-20
 [Café Latte]: http://www.adoretea.com.au/Green-Tea/Flavoured/Evening-Mist-p58.html
