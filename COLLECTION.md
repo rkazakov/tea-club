@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 172 | [T2]               | [Herbal]    | [Citrus Punch]              | [Australia] | Apple, Rosehip, Hibiscus    |
+| 171 | [T2]               | [Herbal]    | [Toasty Nougat]             | [Australia] | Apple, Nougat, Almonds      |
 | 170 | [Adore Tea]        | [Herbal]    | [Turkish Apple]             | [Turkey]    | Apple                       |
 | 169 | [Basilur]          | [Black]     | [Raspberry & Rosehip]       | [Sri Lanka] | Raspberry, Rosehip          |
 | 168 | [Rabbit Hole]      | [Black]     | [Café Latte]                | [China]     | Coffee                      |
@@ -232,6 +234,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Citrus Punch]: http://www.t2tea.com/en/au/tea/fruit-tisane/citrus-punch-loose-leaf-gift-cube-T130AE002.html
+[Toasty Nougat]: https://www.t2tea.com/en/au/tea/fruit-tisane/toasty-nougat-loose-leaf-gift-cube-T130AE021.html
 [Turkish Apple]: http://adoretea.com.au/Fruit-Blends/turkish-apple.html
 [Raspberry & Rosehip]: http://www.basilurshop.com.au/basilur/magic-fruits-tea-bags-raspberry-and-rosehip-2g-x-20
 [Café Latte]: http://www.adoretea.com.au/Green-Tea/Flavoured/Evening-Mist-p58.html
