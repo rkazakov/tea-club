@@ -6,7 +6,14 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 165 | [Twinings]         | [Green]     | [Apple & Elderflower flavour green tea]| [UK]     | Apple and Elderflower|
+| 172 | [T2]               | [Herbal]    | [Citrus Punch]              | [Australia] | Apple, Rosehip, Hibiscus    |
+| 171 | [T2]               | [Herbal]    | [Toasty Nougat]             | [Australia] | Apple, Nougat, Almonds      |
+| 170 | [Adore Tea]        | [Herbal]    | [Turkish Apple]             | [Turkey]    | Apple                       |
+| 169 | [Basilur]          | [Black]     | [Raspberry & Rosehip]       | [Sri Lanka] | Raspberry, Rosehip          |
+| 168 | [Rabbit Hole]      | [Black]     | [Café Latte]                | [China]     | Coffee                      |
+| 167 | -                  | [Green]     | [Chan Cha]                  | [China]     | Green tea                   |
+| 166 | [Uji-en]           | [Green]     | [Japanese Sencha]           | [Japan]     | Sencha tea                  |
+| 165 | [Twinings]         | [Green]     | [Apple & Elderflower]       | [UK]        | Apple, Elderflower          |
 | 164 | [T2]               | [Green]     | [Gorgeous Geisha]           | [Japan]     | Sencha tea, Strawberry      |
 | 163 | [Dilmah]           | [Green]     | [Lemongrass Green Tea]      | [Sri Lanka] | Lemongrass                  |
 | 162 | [Hansung KMT]      | [Herbal]    | [Honey Citron Tea]          | [Korea]     | Honey, Citron               |
@@ -221,12 +228,20 @@
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
 [Twinings]: http://www.twiningsusa.com
+[Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-[Apple & Elderflower flavour green tea]: https://www.twinings.co.uk/tea/loose-leaf-pyramids/apple-elderflower-green-tea-pyramids
+[Citrus Punch]: http://www.t2tea.com/en/au/tea/fruit-tisane/citrus-punch-loose-leaf-gift-cube-T130AE002.html
+[Toasty Nougat]: https://www.t2tea.com/en/au/tea/fruit-tisane/toasty-nougat-loose-leaf-gift-cube-T130AE021.html
+[Turkish Apple]: http://adoretea.com.au/Fruit-Blends/turkish-apple.html
+[Raspberry & Rosehip]: http://www.basilurshop.com.au/basilur/magic-fruits-tea-bags-raspberry-and-rosehip-2g-x-20
+[Café Latte]: http://www.adoretea.com.au/Green-Tea/Flavoured/Evening-Mist-p58.html
+[Chan Cha]: http://baike.baidu.com/item/%E7%A6%85%E8%8C%B6
+[Japanese Sencha]: http://www.uji-en.co.jp/wp-content/themes/ujien/pc/ocha.html
+[Apple & Elderflower]: https://www.twinings.co.uk/tea/loose-leaf-pyramids/apple-elderflower-green-tea-pyramids
 [Gorgeous Geisha]: http://www.t2tea.com/en/au/tea/green-tea/gorgeous-geisha-loose-leaf-gift-cube-T115AE009.html
 [Lemongrass Green Tea]: http://www.dilmahtea.com/ceylon-green-tea/pure-ceylon-green-tea-with-lemongrass.html
 [Honey Citron Tea]: https://www.jayagrocer.com/product?variant_id=10143
@@ -414,6 +429,7 @@
 [Sudan]: https://en.wikipedia.org/wiki/Sudan
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
 [Thailand]: https://en.wikipedia.org/wiki/Thailand
+[Turkey]: https://en.wikipedia.org/wiki/Turkey
 [US]: https://en.wikipedia.org/wiki/United_States
 [UK]: https://en.wikipedia.org/wiki/United_Kingdom
 
