@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 173 | [Montea Cristo]    | [Green]     | [Champagne Strawberry]      | [Australia] | Green, strawberry    |
+| 173 | [Montea Cristo]    | [Green]     | [Champagne Strawberry]      | [Australia] | Champagne, Strawberry       |
 | 172 | [T2]               | [Herbal]    | [Citrus Punch]              | [Australia] | Apple, Rosehip, Hibiscus    |
 | 171 | [T2]               | [Herbal]    | [Toasty Nougat]             | [Australia] | Apple, Nougat, Almonds      |
 | 170 | [Adore Tea]        | [Herbal]    | [Turkish Apple]             | [Turkey]    | Apple                       |
