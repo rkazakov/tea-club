@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 185 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Amy Dreise      | 23-06-17 |
+| 184 | [Montea Cristo]    | [Herbal]    | [Ginger Kiss]               | [Australia] | Amy Dreise      | 23-06-17 |
 | 183 | [Basilur]          | [Green]     | [Earl Grey & Mandarin]      | [Sri Lanka] | Ruslan Kazakov  | 22-06-17 |
 | 182 | Pokolbin           | [Black]     | Chocolate Chai              | [Australia] | Gary Butler     | 22-06-17 |
 | 181 | [Montea Cristo]    | [Green]     | [Champagne Strawberry]      | [Australia] | Amy Dreise      | 22-06-17 |
