@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 176 | [Basilur]          | [Herbal]    | [Herbal Infusion Camomile]  | [Sri Lanka] | Camomile                    |
 | 175 | [Basilur]          | [Green]     | [Earl Grey & Mandarin]      | [Sri Lanka] | Bergamot, Mandarin          |
 | 174 | Pokolbin           | [Black]     | Chocolate Chai              | [Australia] | Chocolate, Chai             |
 | 173 | [Montea Cristo]    | [Green]     | [Champagne Strawberry]      | [Australia] | Champagne, Strawberry       |
@@ -237,6 +238,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Herbal Infusion Camomile]: http://www.basilurshop.com.au/basilur/herbal-infusion-env-tb-camomile
 [Earl Grey & Mandarin]: http://www.basilurshop.com.au/basilur/magic-fruits-packet-lt-earl-grey-mandarin-100g
 [Champagne Strawberry]: http://www.monteacristo.com.au/product/champagne-strawberry-green-tea/
 [Citrus Punch]: http://www.t2tea.com/en/au/tea/fruit-tisane/citrus-punch-loose-leaf-gift-cube-T130AE002.html
