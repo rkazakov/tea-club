@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 186 | [Basilur]          | [Herbal]    | [Camomile]                  | [Sri Lanka] | Ruslan Kazakov  | 26-06-17 |
+| 186 | [Basilur]          | [Herbal]    | [Herbal Infusion Camomile]  | [Sri Lanka] | Ruslan Kazakov  | 26-06-17 |
 | 185 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Amy Dreise      | 23-06-17 |
 | 184 | [Montea Cristo]    | [Herbal]    | [Ginger Kiss]               | [Australia] | Amy Dreise      | 23-06-17 |
 | 183 | [Basilur]          | [Green]     | [Earl Grey & Mandarin]      | [Sri Lanka] | Ruslan Kazakov  | 22-06-17 |
@@ -248,6 +248,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Herbal Infusion Camomile]: http://www.basilurshop.com.au/basilur/herbal-infusion-env-tb-camomile
 [Earl Grey & Mandarin]: http://www.basilurshop.com.au/basilur/magic-fruits-packet-lt-earl-grey-mandarin-100g
 [Champagne Strawberry]: http://www.monteacristo.com.au/product/champagne-strawberry-green-tea/
 [Citrus Punch]: http://www.t2tea.com/en/au/tea/fruit-tisane/citrus-punch-loose-leaf-gift-cube-T130AE002.html
