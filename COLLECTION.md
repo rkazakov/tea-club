@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 177 | [Celestial]        | [Herbal]    | [Country Peach Passion]     | -           | Peach                       |
 | 176 | [Basilur]          | [Herbal]    | [Herbal Infusion Camomile]  | [Sri Lanka] | Camomile                    |
 | 175 | [Basilur]          | [Green]     | [Earl Grey & Mandarin]      | [Sri Lanka] | Bergamot, Mandarin          |
 | 174 | Pokolbin           | [Black]     | Chocolate Chai              | [Australia] | Chocolate, Chai             |
