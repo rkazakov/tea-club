@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 179 | [Basilur]          | [Black]     | [Pure Ceylon Kandy]         | [Sri Lanka] | Black tea                   |
+| 178 | [T2]               | [Herbal]    | [Detox Loose Leaf]          | -           | Fennel, Juniper berries     |
 | 177 | [Celestial]        | [Herbal]    | [Country Peach Passion]     | -           | Peach                       |
 | 176 | [Basilur]          | [Herbal]    | [Herbal Infusion Camomile]  | [Sri Lanka] | Camomile                    |
 | 175 | [Basilur]          | [Green]     | [Earl Grey & Mandarin]      | [Sri Lanka] | Bergamot, Mandarin          |
@@ -239,6 +241,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Pure Ceylon Kandy]: http://www.basilurshop.com.au/leaf-of-ceylon-packet-lt-kandy-100g
+[Detox Loose Leaf]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/detox-loose-leaf-gift-cube-T140AE010.html
 [Country Peach Passion]: http://www.celestialseasonings.com/products/herbal/country-peach-passion-herbal-tea
 [Herbal Infusion Camomile]: http://www.basilurshop.com.au/basilur/herbal-infusion-env-tb-camomile
 [Earl Grey & Mandarin]: http://www.basilurshop.com.au/basilur/magic-fruits-packet-lt-earl-grey-mandarin-100g
