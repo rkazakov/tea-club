@@ -61,9 +61,9 @@
 | 130 | [Adore Tea]        | [Herbal]    | [Nettle Tea]                | [Australia] | Nettle                      |
 | 129 | [Golden Sail]      | [Black]     | [Lichee Black Tea]          | [China]     | Lichee                      |
 | 128 | Xiang Ming         | [Black]     | [Xiang Lapsang Souchong]    | [China]     | Black tea                   |
-| 127 | [Rabbit Hole]      | [Black]     | [Green Power]             | -           | Organic rice                  |
+| 127 | [Rabbit Hole]      | [Black]     | [Green Power]               | -           | Organic rice                |
 | 126 | [Montea Cristo]    | [Black]     | [Blood Orange]              | [Australia] | Blood Orange                |
-| 125 | [Disney]           | [Black]     | [Official Unbirthday Tea]   | [US]        | Black tea                   |
+| 125 | [Disney]           | [Black]     | [Official Unbirthday Tea]   | [USA]       | Black tea                   |
 | 124 | [MightyLeaf]       | [Green]     | [Green Tea Tropical]        | [China]     | Tropical fruits             |
 | 123 | [T2]               | [Black]     | [Banana Bake]               | -           | Banana, Coconut, Honey      |
 | 122 | [Adore Tea]        | [Black]     | [Cherry Ripe]               | [India]     | Cherry                      |
