@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 184 | [Life of Cha]      | [Black]     | [Crystal Blue Tea]          | [China]     | Butterfly pea, Lemongrass   |
+| 183 | [Rabbit Hole]      | [Black]     | Darjeeling Tea              | [China]     | Black tea                   |
 | 182 | [Celestial]        | [Herbal]    | [True Blueberry]            | -           | Blueberry                   |
 | 181 | [Starbucks]        | [Green]     | [Hibiscus Full-Leaf]        | [Holland]   | Hibiscus                    |
 | 180 | [T2]               | [Herbal]    | [Apple Crumble Loose Leaf]  | -           | Apple                       |
@@ -210,6 +212,7 @@
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
+[Life of Cha]: https://www.lifeofcha.com.au
 [Lipton]: http://www.liptontea.com
 [Lupicia]: http://www.lupicia.com.au
 [MightyLeaf]: http://www.mightyleaf.com
@@ -245,6 +248,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Crystal Blue Tea]: https://www.lifeofcha.com.au/products/crystal
 [True Blueberry]: http://www.celestialseasonings.com/products/herbal/true-blueberry-herbal-tea
 [Hibiscus Full-Leaf]: http://store.starbucks.co.uk/teavana-hibiscus-full-leaf-sachets/011057359,en_GB,pd.html?navid=tea&start=3&navid=tea
 [Apple Crumble Loose Leaf]: http://www.t2tea.com/en/au/tea/fruit-tisane/apple-crumble-loose-leaf-gift-cube-T130AE034.html
