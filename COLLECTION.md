@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 185 | [T2]               | [Herbal]    | [Pumping Pomegranate]       | -           | Apple, Hibiscus, Rosehip    |
 | 184 | [Life of Cha]      | [Black]     | [Crystal Blue Tea]          | [China]     | Butterfly pea, Lemongrass   |
 | 183 | [Rabbit Hole]      | [Black]     | Darjeeling Tea              | [China]     | Black tea                   |
 | 182 | [Celestial]        | [Herbal]    | [True Blueberry]            | -           | Blueberry                   |
