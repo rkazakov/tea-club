@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 195 | [T2]               | [Herbal]    | [Pumping Pomegranate]       | -           | Marlouk Stek    | 10-07-17 |
 | 194 | [Life of Cha]      | [Black]     | [Crystal Blue Tea]          | [China]     | Felicia H.      | 07-07-17 |
 | 193 | [Rabbit Hole]      | [Black]     | Darjeeling Tea              | [China]     | Gary Butler     | 07-07-17 |
 | 192 | [Celestial]        | [Herbal]    | [True Blueberry]            | -           | Marlouk Stek    | 05-07-17 |
@@ -258,6 +259,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Pumping Pomegranate]: https://www.t2tea.com/en/au/tea/fruit-tisane/pumping-pomegranate-loose-leaf-gift-cube-T130AE030.html
 [Crystal Blue Tea]: https://www.lifeofcha.com.au/products/crystal
 [True Blueberry]: http://www.celestialseasonings.com/products/herbal/true-blueberry-herbal-tea
 [Hibiscus Full-Leaf]: http://store.starbucks.co.uk/teavana-hibiscus-full-leaf-sachets/011057359,en_GB,pd.html?navid=tea&start=3&navid=tea
