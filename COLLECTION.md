@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 187 | [Tea Cosy]         | [Herbal]    | [Tea Cosy Chai]             | -           | Chai                        |
+| 186 | [Celestial]        | [Herbal]    | [Wild Berry Zinger]         | -           | Hibiscus, Rosehips, Chicory |
 | 185 | [T2]               | [Herbal]    | [Pumping Pomegranate]       | -           | Apple, Hibiscus, Rosehip    |
 | 184 | [Life of Cha]      | [Black]     | [Crystal Blue Tea]          | [China]     | Butterfly pea, Lemongrass   |
 | 183 | [Rabbit Hole]      | [Black]     | Darjeeling Tea              | [China]     | Black tea                   |
@@ -238,6 +240,7 @@
 [T2]: http://www.t2tea.com
 [Love Tea]: https://lovetea.com.au
 [Taylors]: https://www.taylorsofharrogate.com
+[Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
@@ -249,6 +252,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Wild Berry Zinger]: http://www.celestialseasonings.com/products/herbal/wild-berry-zinger-herbal-tea
+[Tea Cosy Chai]: http://theteacosy.bigcartel.com/product/herbal-teas
 [Pumping Pomegranate]: https://www.t2tea.com/en/au/tea/fruit-tisane/pumping-pomegranate-loose-leaf-gift-cube-T130AE030.html
 [Crystal Blue Tea]: https://www.lifeofcha.com.au/products/crystal
 [True Blueberry]: http://www.celestialseasonings.com/products/herbal/true-blueberry-herbal-tea
