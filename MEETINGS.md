@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 198 | [Tea Cosy]         | [Herbal]    | [Tea Cosy Chai]             | -           | Jessica Hau     | 12-07-17 |
+| 197 | [Rabbit Hole]      | [Green]     | Green Sencha                | [Japan]     | Gary Butler     | 12-07-17 |
+| 196 | [Celestial]        | [Herbal]    | [Wild Berry Zinger]         | -           | Marlouk Stek    | 12-07-17 |
 | 195 | [T2]               | [Herbal]    | [Pumping Pomegranate]       | -           | Marlouk Stek    | 10-07-17 |
 | 194 | [Life of Cha]      | [Black]     | [Crystal Blue Tea]          | [China]     | Felicia H.      | 07-07-17 |
 | 193 | [Rabbit Hole]      | [Black]     | Darjeeling Tea              | [China]     | Gary Butler     | 07-07-17 |
@@ -248,6 +251,7 @@
 [T2]: http://www.t2tea.com
 [Love Tea]: https://lovetea.com.au
 [Taylors]: https://www.taylorsofharrogate.com
+[Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
@@ -259,6 +263,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Wild Berry Zinger]: http://www.celestialseasonings.com/products/herbal/wild-berry-zinger-herbal-tea
+[Tea Cosy Chai]: http://theteacosy.bigcartel.com/product/herbal-teas
 [Pumping Pomegranate]: https://www.t2tea.com/en/au/tea/fruit-tisane/pumping-pomegranate-loose-leaf-gift-cube-T130AE030.html
 [Crystal Blue Tea]: https://www.lifeofcha.com.au/products/crystal
 [True Blueberry]: http://www.celestialseasonings.com/products/herbal/true-blueberry-herbal-tea
