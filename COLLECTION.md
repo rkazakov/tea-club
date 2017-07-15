@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 188 | [Amy's teas]       | [Herbal]    | [Magic Tea]                 |[Australia]  | Health                      |
 | 187 | [Tea Cosy]         | [Herbal]    | [Tea Cosy Chai]             | -           | Chai                        |
 | 186 | [Celestial]        | [Herbal]    | [Wild Berry Zinger]         | -           | Hibiscus, Rosehips, Chicory |
 | 185 | [T2]               | [Herbal]    | [Pumping Pomegranate]       | -           | Apple, Hibiscus, Rosehip    |
@@ -250,6 +251,7 @@
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
 [Yuyupas]: http://www.yuyupas.com
+[Amy's teas]: https://github.com/frydreise/recipes
 
 <!-- Name -->
 [Wild Berry Zinger]: http://www.celestialseasonings.com/products/herbal/wild-berry-zinger-herbal-tea
@@ -426,6 +428,7 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+[Magic tea]: https://github.com/frydreise/recipes/blob/master/magic-tea.md
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea

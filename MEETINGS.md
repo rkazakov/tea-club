@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 199 | [Amy's teas]       | [Herbal]    | [Magic Tea]                 |[Australia]  | Amy Dreise      | 14-07-17 |
 | 198 | [Tea Cosy]         | [Herbal]    | [Tea Cosy Chai]             | -           | Jessica Hau     | 12-07-17 |
 | 197 | [Rabbit Hole]      | [Green]     | Green Sencha                | [Japan]     | Gary Butler     | 12-07-17 |
 | 196 | [Celestial]        | [Herbal]    | [Wild Berry Zinger]         | -           | Marlouk Stek    | 12-07-17 |
@@ -261,6 +262,7 @@
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
 [Yuyupas]: http://www.yuyupas.com
+[Amy's teas]: https://github.com/frydreise/recipes
 
 <!-- Name -->
 [Wild Berry Zinger]: http://www.celestialseasonings.com/products/herbal/wild-berry-zinger-herbal-tea
@@ -437,6 +439,7 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+[Magic Tea]: https://github.com/frydreise/recipes/blob/master/magic-tea.md
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
