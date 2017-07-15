@@ -255,6 +255,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Tension Tamer]: http://www.celestialseasonings.com/products/herbal/tension-tamer-herbal-tea
 [Magic Tea]: https://github.com/frydreise/recipes/blob/master/magic-tea.md
 [Wild Berry Zinger]: http://www.celestialseasonings.com/products/herbal/wild-berry-zinger-herbal-tea
 [Tea Cosy Chai]: http://theteacosy.bigcartel.com/product/herbal-teas
