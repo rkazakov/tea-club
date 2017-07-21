@@ -6,6 +6,11 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 205 | [Xihulongjin]      | [Green]     | [Xihulongjin - Gift package]| [China]     | Green tea       | 21-07-17 |
+| 204 | [Zhenshan]         | [Black]     | [Zhenshan xiaozhong]        | [China]     | Black tea       | 21-07-17 |
+| 203 | [Xihu Longjin]     | [Green]     | [Xihulongjin]               | [China]     | Green tea       | 19-07-17 |
+| 202 | [Puer]             | [Black]     | [Xiaguan Puer]              | [China]     | Black tea       | 17-07-17 |
+| 201 | [Yu Zhan]          | [Black]     | [Tianmushan white tea]      | [China]     | Black tea       | 17-07-17 |
 | 200 | [Celestial]        | [Herbal]    | [Tension Tamer]             | -           | Marlouk Stek    | 14-07-17 |
 | 199 | [Amy's Teas]       | [Herbal]    | [Magic Tea]                 | [Australia] | Amy Dreise      | 14-07-17 |
 | 198 | [Tea Cosy]         | [Herbal]    | [Tea Cosy Chai]             | -           | Jessica Hau     | 12-07-17 |

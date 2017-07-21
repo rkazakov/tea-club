@@ -6,6 +6,11 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 194 | [Xihulongjin]      | [Green]     | [Xihulongjin - Gift package]| [China]     | Green tea                   |
+| 193 | [Zhenshan]  	   | [Black]     | [Zhenshan xiaozhong]        | [China]     | Black tea                   |
+| 192 | [Xihu Longjin]     | [Green]     | [Xihulongjin]               | [China]     | Green tea                   |
+| 191 | [Puer]             | [Black]     | [Xiaguan Puer]              | [China]     | Black tea                   |
+| 190 | [Yu Zhan]          | [Black]     | [Tianmushan white tea]      | [China]     | Black tea                   |
 | 189 | [Celestial]        | [Herbal]    | [Tension Tamer]             | -           | Eleuthero, Peppermint       |
 | 188 | [Amy's Teas]       | [Herbal]    | [Magic Tea]                 | [Australia] | Health                      |
 | 187 | [Tea Cosy]         | [Herbal]    | [Tea Cosy Chai]             | -           | Chai                        |
