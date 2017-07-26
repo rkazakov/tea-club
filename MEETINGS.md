@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 206 | [T2]               | [Black]     | [Singapore Breakfast]       | -           | Amy Dreise      | 26-07-17 |
 | 205 | [Xihulongjin]      | [Green]     | [Xihulongjin - Gift package]| [China]     | Green tea       | 21-07-17 |
 | 204 | [Zhenshan]         | [Black]     | [Zhenshan xiaozhong]        | [China]     | Black tea       | 21-07-17 |
 | 203 | [Xihu Longjin]     | [Green]     | [Xihulongjin]               | [China]     | Green tea       | 19-07-17 |
