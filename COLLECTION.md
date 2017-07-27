@@ -259,9 +259,11 @@
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Singapore Breakfast]: http://www.t2tea.com/en/sg/tea/singapore-breakfast-loose-leaf-gift-cube-singapore_breakfast.html
 [Tension Tamer]: http://www.celestialseasonings.com/products/herbal/tension-tamer-herbal-tea
 [Magic Tea]: https://github.com/frydreise/recipes/blob/master/magic-tea.md
 [Wild Berry Zinger]: http://www.celestialseasonings.com/products/herbal/wild-berry-zinger-herbal-tea
