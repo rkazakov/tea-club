@@ -11,7 +11,7 @@
 | 205 | -                  | [Green]     | Xihulongjin                 | [China]     | Bill Wang       | 21-07-17 |
 | 204 | -                  | [Black]     | Zhenshan Xiaozhong          | [China]     | Bill Wang       | 21-07-17 |
 | 203 | -                  | [Green]     | Xihu Longjin                | [China]     | Bill Wang       | 19-07-17 |
-| 202 | Yunnan Xiaguan     | [Pu-erh]    | Xiaguan Tuocha              | [China]     | Bill Wang       | 17-07-17 |
+| 202 | Yunnan             | [Pu-erh]    | Xiaguan Tuocha              | [China]     | Bill Wang       | 17-07-17 |
 | 201 | [Yu Zhi]           | [Black]     | Tianmu Lake White Tea       | [China]     | Bill Wang       | 17-07-17 |
 | 200 | [Celestial]        | [Herbal]    | [Tension Tamer]             | -           | Marlouk Stek    | 14-07-17 |
 | 199 | [Amy's Teas]       | [Herbal]    | [Magic Tea]                 | [Australia] | Amy Dreise      | 14-07-17 |
