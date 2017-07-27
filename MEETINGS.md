@@ -6,12 +6,13 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 206 | [T2]               | [Black]     | [Singapore Breakfast]       | -           | Amy Dreise      | 26-07-17 |
-| 205 | [Xihulongjin]      | [Green]     | [Xihulongjin - Gift package]| [China]     | Green tea       | 21-07-17 |
-| 204 | [Zhenshan]         | [Black]     | [Zhenshan xiaozhong]        | [China]     | Black tea       | 21-07-17 |
-| 203 | [Xihu Longjin]     | [Green]     | [Xihulongjin]               | [China]     | Green tea       | 19-07-17 |
-| 202 | [Puer]             | [Black]     | [Xiaguan Puer]              | [China]     | Black tea       | 17-07-17 |
-| 201 | [Yu Zhan]          | [Black]     | [Tianmushan white tea]      | [China]     | Black tea       | 17-07-17 |
+| 207 | [T2]               | [Black]     | [Singapore Breakfast]       | -           | Amy Dreise      | 26-07-17 |
+| 206 | -                  | [Herbal]    | Honeysuckle Tea             | -           | Louise Brooks   | 24-07-17 |
+| 205 | -                  | [Green]     | Xihulongjin                 | [China]     | Bill Wang       | 21-07-17 |
+| 204 | -                  | [Black]     | Zhenshan Xiaozhong          | [China]     | Bill Wang       | 21-07-17 |
+| 203 | -                  | [Green]     | Xihu Longjin                | [China]     | Bill Wang       | 19-07-17 |
+| 202 | Yunnan Xiaguan     | [Pu-erh]    | Xiaguan Tuocha              | [China]     | Bill Wang       | 17-07-17 |
+| 201 | [Yu Zhi]           | [Black]     | Tianmu Lake White Tea       | [China]     | Bill Wang       | 17-07-17 |
 | 200 | [Celestial]        | [Herbal]    | [Tension Tamer]             | -           | Marlouk Stek    | 14-07-17 |
 | 199 | [Amy's Teas]       | [Herbal]    | [Magic Tea]                 | [Australia] | Amy Dreise      | 14-07-17 |
 | 198 | [Tea Cosy]         | [Herbal]    | [Tea Cosy Chai]             | -           | Jessica Hau     | 12-07-17 |
@@ -268,10 +269,12 @@
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
 [Amy's Teas]: https://github.com/frydreise/recipes
 
 <!-- Name -->
+[Singapore Breakfast]: http://www.t2tea.com/en/sg/tea/singapore-breakfast-loose-leaf-gift-cube-singapore_breakfast.html
 [Tension Tamer]: http://www.celestialseasonings.com/products/herbal/tension-tamer-herbal-tea
 [Magic Tea]: https://github.com/frydreise/recipes/blob/master/magic-tea.md
 [Wild Berry Zinger]: http://www.celestialseasonings.com/products/herbal/wild-berry-zinger-herbal-tea
