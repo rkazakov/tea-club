@@ -216,6 +216,7 @@
 
 <!-- Brand -->
 [Adore Tea]: http://adoretea.com.au
+[Amy's Teas]: https://github.com/frydreise/recipes
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
 [Calmer Sutra]: https://www.calmersutratea.com.au
@@ -271,7 +272,6 @@
 [Wedgwood]: http://www.wedgwood.com.au
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
-[Amy's Teas]: https://github.com/frydreise/recipes
 
 <!-- Name -->
 [Singapore Breakfast]: http://www.t2tea.com/en/sg/tea/singapore-breakfast-loose-leaf-gift-cube-singapore_breakfast.html
