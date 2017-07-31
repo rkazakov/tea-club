@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 198 | [Pickwick]         | [Herbal]    | [Sterrenmunt]               | [Holland]   | Anise, Fennel, Licorice     |
 | 197 | [Rabbit Hole]      | [Black]     | Assam                       | -           | Black tea                   |
 | 196 | [T2]               | [Black]     | [Singapore Breakfast]       | -           | Roasted rice                |
 | 195 | -                  | [Herbal]    | Honeysuckle Tea             | -           | Honeysuckle                 |
