@@ -239,6 +239,7 @@
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
 [Novyi Krym]: http://crimeantea.ru
 [Qualitea]: http://www.quali-tea.com
+[Pickwick]: https://www.pickwicktea.com
 [Princess Java]: http://www.java-tea.ru
 [Rabbit Hole]: https://therabbithole.com.au
 [Regular Tea]: http://www.ckmc.cn
@@ -265,6 +266,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Sterrenmunt]: https://www.pickwick.nl/thee/herbal-goodness/sterrenmunt/
 [Singapore Breakfast]: http://www.t2tea.com/en/sg/tea/singapore-breakfast-loose-leaf-gift-cube-singapore_breakfast.html
 [Tension Tamer]: http://www.celestialseasonings.com/products/herbal/tension-tamer-herbal-tea
 [Magic Tea]: https://github.com/frydreise/recipes/blob/master/magic-tea.md
