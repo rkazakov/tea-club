@@ -10,7 +10,7 @@
 | 209 | [Pickwick]         | [Herbal]    | [Sterrenmunt]               | [Holland]   | Jesse Smit      | 31-07-17 |
 | 208 | [Rabbit Hole]      | [Black]     | Assam                       | -           | Gary Butler     | 28-07-17 |
 | 207 | [T2]               | [Black]     | [Singapore Breakfast]       | -           | Amy Dreise      | 26-07-17 |
-| 206 | -                  | [Herbal]    | Honeysuckle Tea             | -           | Louise Brooks   | 24-07-17 |
+| 206 | Flower Wish        | [Herbal]    | Honeysuckle Tea             | -           | Louise Brooks   | 24-07-17 |
 | 205 | -                  | [Green]     | Xihulongjin                 | [China]     | Bill Wang       | 21-07-17 |
 | 204 | -                  | [Black]     | Zhenshan Xiaozhong          | [China]     | Bill Wang       | 21-07-17 |
 | 203 | -                  | [Green]     | Xihu Longjin                | [China]     | Bill Wang       | 19-07-17 |
