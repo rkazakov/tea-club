@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 199 | [Life of Cha]      | [Black]     | [Le GREY]                   | [China]     | Bergamot, Calendula         |
 | 198 | [Pickwick]         | [Herbal]    | [Sterrenmunt]               | [Holland]   | Anise, Fennel, Licorice     |
 | 197 | [Rabbit Hole]      | [Black]     | Assam                       | -           | Black tea                   |
 | 196 | [T2]               | [Black]     | [Singapore Breakfast]       | -           | Roasted rice                |
@@ -266,6 +267,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Le GREY]: https://www.lifeofcha.com.au/products/le-grey
 [Sterrenmunt]: https://www.pickwick.nl/thee/herbal-goodness/sterrenmunt/
 [Singapore Breakfast]: http://www.t2tea.com/en/sg/tea/singapore-breakfast-loose-leaf-gift-cube-singapore_breakfast.html
 [Tension Tamer]: http://www.celestialseasonings.com/products/herbal/tension-tamer-herbal-tea
