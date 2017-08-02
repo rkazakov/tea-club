@@ -10,7 +10,7 @@
 | 198 | [Pickwick]         | [Herbal]    | [Sterrenmunt]               | [Holland]   | Anise, Fennel, Licorice     |
 | 197 | [Rabbit Hole]      | [Black]     | Assam                       | -           | Black tea                   |
 | 196 | [T2]               | [Black]     | [Singapore Breakfast]       | -           | Roasted rice                |
-| 195 | -                  | [Herbal]    | Honeysuckle Tea             | -           | Honeysuckle                 |
+| 195 | Flower Wish        | [Herbal]    | Honeysuckle Tea             | -           | Honeysuckle                 |
 | 194 | -                  | [Green]     | Xihulongjin                 | [China]     | Green tea                   |
 | 193 | -                  | [Black]     | Zhenshan Xiaozhong          | [China]     | Black tea                   |
 | 192 | -                  | [Green]     | Xihu Longjin                | [China]     | Green tea                   |
