@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 210 | [Life of Cha]      | [Black]     | [Le GREY]                   | [China]     | Felicia H.      | 02-08-17 |
 | 209 | [Pickwick]         | [Herbal]    | [Sterrenmunt]               | [Holland]   | Jesse Smit      | 31-07-17 |
 | 208 | [Rabbit Hole]      | [Black]     | Assam                       | -           | Gary Butler     | 28-07-17 |
 | 207 | [T2]               | [Black]     | [Singapore Breakfast]       | -           | Amy Dreise      | 26-07-17 |
@@ -277,6 +278,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Le GREY]: https://www.lifeofcha.com.au/products/le-grey
 [Sterrenmunt]: https://www.pickwick.nl/thee/herbal-goodness/sterrenmunt/
 [Singapore Breakfast]: http://www.t2tea.com/en/sg/tea/singapore-breakfast-loose-leaf-gift-cube-singapore_breakfast.html
 [Tension Tamer]: http://www.celestialseasonings.com/products/herbal/tension-tamer-herbal-tea
