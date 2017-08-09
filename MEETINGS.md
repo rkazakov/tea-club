@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 213 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 09-08-17 |
 | 212 | Jhuang-He          | [Herbal]    | Burdock Tea                 | [Taiwan]    | Mamatha R.      | 07-08-17 |
 | 211 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Amy Dreise      | 04-08-17 |
 | 210 | [Life of Cha]      | [Black]     | [Le GREY]                   | [China]     | Felicia H.      | 02-08-17 |
