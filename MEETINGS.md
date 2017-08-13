@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 214 | [T2]               | [Black]     | [Singapore Breakfast]       | -           | Amy Dreise      | 11-08-17 |
 | 213 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 09-08-17 |
 | 212 | Jhuang-He          | [Herbal]    | Burdock Tea                 | [Taiwan]    | Mamatha R.      | 07-08-17 |
 | 211 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Amy Dreise      | 04-08-17 |
