@@ -249,6 +249,7 @@
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
+[Shou Zhuo]: https://kmshouyixuan.1688.com/page/creditdetail.htm
 [Siplo]: http://www.siplo.com.au
 [Skinny Me Tea]: https://www.skinnymetea.com.au
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
@@ -267,7 +268,6 @@
 [Wedgwood]: http://www.wedgwood.com.au
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
-[Shou Zhuo]: https://kmshouyixuan.1688.com/page/creditdetail.htm
 
 <!-- Name -->
 [Le GREY]: https://www.lifeofcha.com.au/products/le-grey
