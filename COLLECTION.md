@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 201 | [Shou Zhuo]        | [Pu-erh]    | [Osmanthus Pu-erh]          | [China]     | Pu-erh, Osmanthus           |
 | 200 | Jhuang-He          | [Herbal]    | Burdock Tea                 | [Taiwan]    | Burdock                     |
 | 199 | [Life of Cha]      | [Black]     | [Le GREY]                   | [China]     | Bergamot, Calendula         |
 | 198 | [Pickwick]         | [Herbal]    | [Sterrenmunt]               | [Holland]   | Anise, Fennel, Licorice     |
@@ -266,6 +267,7 @@
 [Wedgwood]: http://www.wedgwood.com.au
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
+[Shou Zhuo]: https://kmshouyixuan.1688.com/page/creditdetail.htm
 
 <!-- Name -->
 [Le GREY]: https://www.lifeofcha.com.au/products/le-grey
@@ -447,6 +449,7 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+[Osmanthus Pu-erh]: https://item.jd.com/1729233872.html
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea

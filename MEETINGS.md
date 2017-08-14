@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 215 | [T2]               | [Pu-erh]    | [Osmanthus Pu-erh]          | [China]     | Michael Chu     | 14-08-17 |
 | 214 | [T2]               | [Black]     | [Singapore Breakfast]       | -           | Amy Dreise      | 11-08-17 |
 | 213 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 09-08-17 |
 | 212 | Jhuang-He          | [Herbal]    | Burdock Tea                 | [Taiwan]    | Mamatha R.      | 07-08-17 |
@@ -461,6 +462,7 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+[Osmanthus Pu-erh]: https://item.jd.com/1729233872.html
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
