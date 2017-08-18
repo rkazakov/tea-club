@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 217 | [Shou Zhuo]        | [Pu-erh]    | [Lotus Leaf Ripened Pu-erh] | [China]     | Michael Chu     | 18-08-17 |
+| 216 | [Indonesian Tea]   | [Mystery]   | [Mystery Indonesian Tea]    | [Indonesia] | Felicia H.      | 16-08-17 |
 | 215 | [Shou Zhuo]        | [Pu-erh]    | [Osmanthus Pu-erh]          | [China]     | Michael Chu     | 14-08-17 |
 | 214 | [T2]               | [Black]     | [Singapore Breakfast]       | -           | Amy Dreise      | 11-08-17 |
 | 213 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 09-08-17 |
@@ -284,6 +286,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Lotus Leaf Ripened Pu-erh]: TBD
 [Osmanthus Pu-erh]: https://item.jd.com/1729233872.html
 [Le GREY]: https://www.lifeofcha.com.au/products/le-grey
 [Sterrenmunt]: https://www.pickwick.nl/thee/herbal-goodness/sterrenmunt/
