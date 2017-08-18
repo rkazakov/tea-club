@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 203 | [Shou Zhuo]        | [Pu-erh]    | [Lotus Leaf Ripened Pu-erh] | [China]     | Pu-erh, Lotus Leaf          |
+| 202 | [Mystery Tea]      | [Mystery]   | [Mystery Indonesian Tea]    | [Indonesia] | Indonesian Tea              |
 | 201 | [Shou Zhuo]        | [Pu-erh]    | [Osmanthus Pu-erh]          | [China]     | Pu-erh, Osmanthus           |
 | 200 | Jhuang-He          | [Herbal]    | Burdock Tea                 | [Taiwan]    | Burdock                     |
 | 199 | [Life of Cha]      | [Black]     | [Le GREY]                   | [China]     | Bergamot, Calendula         |
