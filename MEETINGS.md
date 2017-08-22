@@ -288,7 +288,7 @@
 
 <!-- Name -->
 [Lotus Leaf Ripened Pu-erh]: https://list.jd.com/list.html?cat=1320,12202,12204&ev=exbrand_139650
-[Jual Beli Teh Upet Melati]: https://www.bukalapak.com/p/food/minuman/rj1r4-jual-teh-upet-melati-cirebon-teh-celup-25-bags
+[Teh Upet Melati]: https://www.bukalapak.com/p/food/minuman/rj1r4-jual-teh-upet-melati-cirebon-teh-celup-25-bags
 [Osmanthus Pu-erh]: https://item.jd.com/1729233872.html
 [Le GREY]: https://www.lifeofcha.com.au/products/le-grey
 [Sterrenmunt]: https://www.pickwick.nl/thee/herbal-goodness/sterrenmunt/
