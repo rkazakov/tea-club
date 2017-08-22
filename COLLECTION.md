@@ -6,8 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 203 | [Shou Zhuo]        | [Pu-erh]    | [Lotus Leaf Ripened Pu-erh] | [China]     | Pu-erh, Lotus Leaf          |
-| 202 | [Bukalapak]        | [Jual Beli] | [Teh Upet Melati]           | [Indonesia] | Indonesian Tea              |
+| 203 | [Shou Zhuo]        | [Pu-erh]    | [Lotus Leaf Ripened Pu-erh] | [China]     | Lotus leaf                  |
+| 202 | [Bukalapak]        | [Black]     | [Teh Upet Melati]           | [Indonesia] | Black tea                   |
 | 201 | [Shou Zhuo]        | [Pu-erh]    | [Osmanthus Pu-erh]          | [China]     | Pu-erh, Osmanthus           |
 | 200 | Jhuang-He          | [Herbal]    | Burdock Tea                 | [Taiwan]    | Burdock                     |
 | 199 | [Life of Cha]      | [Black]     | [Le GREY]                   | [China]     | Bergamot, Calendula         |
