@@ -8,7 +8,7 @@
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
 | 205 | [Dilmah]           | [Black]     | [Rose With French Vanilla]  | [Sri Lanka] | Rose, Vanilla               |
 | 204 | [Pickwick]         | [Herbal]    | [Winter Glow]               | [Holland]   | Cinnamon, Orange, Red Apple |
-| 203 | [Shou Zhuo]        | [Pu-erh]    | [Lotus Leaf Ripened Pu-erh] | [China]     | Lotus leaf                  |
+| 203 | [Shou Zhuo]        | [Pu-erh]    | [Lotus Leaf Ripened]        | [China]     | Lotus leaf                  |
 | 202 | [Bukalapak]        | [Black]     | [Teh Upet Melati]           | [Indonesia] | Black tea                   |
 | 201 | [Shou Zhuo]        | [Pu-erh]    | [Osmanthus Pu-erh]          | [China]     | Pu-erh, Osmanthus           |
 | 200 | Jhuang-He          | [Herbal]    | Burdock Tea                 | [Taiwan]    | Burdock                     |
@@ -277,7 +277,7 @@
 <!-- Name -->
 [Rose With French Vanilla]: https://shop.dilmahtea.com.au/rose-with-french-vanilla-20-tea-bags-australia
 [Winter Glow]: https://steepster.com/teas/pickwick/14766-winter-glow
-[Lotus Leaf Ripened Pu-erh]: https://list.jd.com/list.html?cat=1320,12202,12204&ev=exbrand_139650
+[Lotus Leaf Ripened]: https://list.jd.com/list.html?cat=1320,12202,12204&ev=exbrand_139650
 [Teh Upet Melati]: https://www.bukalapak.com/p/food/minuman/rj1r4-jual-teh-upet-melati-cirebon-teh-celup-25-bags
 [Osmanthus Pu-erh]: https://item.jd.com/1729233872.html
 [Le GREY]: https://www.lifeofcha.com.au/products/le-grey
