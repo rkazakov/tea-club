@@ -7,7 +7,7 @@
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
 | 205 | [Dilmah]           | [Black]     | [Rose With French Vanilla]  | [Sri Lanka] | Rose, Vanilla               |
-| 204 | [Pickwick]         | [Herbal]    | [Winter Glow]               | [Holland]   | Cinnamon, Orange, Red Apple |
+| 204 | [Pickwick]         | [Herbal]    | [Winter Glow]               | [Holland]   | Cinnamon, Orange, Apple     |
 | 203 | [Shou Zhuo]        | [Pu-erh]    | [Lotus Leaf Ripened]        | [China]     | Lotus leaf                  |
 | 202 | [Bukalapak]        | [Black]     | [Teh Upet Melati]           | [Indonesia] | Black tea                   |
 | 201 | [Shou Zhuo]        | [Pu-erh]    | [Osmanthus Pu-erh]          | [China]     | Pu-erh, Osmanthus           |
