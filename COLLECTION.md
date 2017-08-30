@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 206 | [Shou Zhuo]        | [Pu-erh]    | Jasmine Raw Tea             | [China]     | Jasmine                     |
 | 205 | [Dilmah]           | [Black]     | [Rose With French Vanilla]  | [Sri Lanka] | Rose, Vanilla               |
 | 204 | [Pickwick]         | [Herbal]    | [Winter Glow]               | [Holland]   | Cinnamon, Orange, Apple     |
 | 203 | [Shou Zhuo]        | [Pu-erh]    | [Lotus Leaf Ripened]        | [China]     | Lotus leaf                  |

@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 222 | [Shou Zhuo]        | [Pu-erh]    | Jasmine Raw Tea             | [China]     | Michael Chu     | 30-08-17 |
 | 221 | [Dilmah]           | [Black]     | [Rose With French Vanilla]  | [Sri Lanka] | Mamatha R.      | 28-08-17 |
 | 220 | [Adore Tea]        | [Black]     | [Keemun]                    | [China]     | Gary Butler     | 25-08-17 |
 | 219 | [Dilmah]           | [Black]     | [Rose With French Vanilla]  | [Sri Lanka] | Mamatha R.      | 23-08-17 |
