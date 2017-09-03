@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 208 | [Shou Zhuo]        | [Pu-erh]    | Lotus Leaf Raw Tea          | [China]     | Lotus Leaf                  |
 | 207 | [Pukka]            | [Green]     | Supreme Matcha Green        | [Australia] | Green tea                   |
 | 206 | [Shou Zhuo]        | [Pu-erh]    | Jasmine Raw Tea             | [China]     | Jasmine                     |
 | 205 | [Dilmah]           | [Black]     | [Rose With French Vanilla]  | [Sri Lanka] | Rose, Vanilla               |

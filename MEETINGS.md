@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 224 | [Shou Zhuo]        | [Pu-erh]    | Lotus Leaf Raw Tea          | [China]     | Michael Chu     | 01-09-17 |
 | 223 | [Pukka]            | [Green]     | Supreme Matcha Green        | [Australia] | Felicia H.      | 30-08-17 |
 | 222 | [Shou Zhuo]        | [Pu-erh]    | Jasmine Raw Tea             | [China]     | Michael Chu     | 30-08-17 |
 | 221 | [Dilmah]           | [Black]     | [Rose With French Vanilla]  | [Sri Lanka] | Mamatha R.      | 28-08-17 |
