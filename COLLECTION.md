@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 207 | [Pukka]            | [Green]     | Supreme Matcha Green        | [Australia] | Green tea                   |
+| 207 | [Pukka]            | [Green]     | [Supreme Matcha Green]      | [Australia] | Matcha                      |
 | 206 | [Shou Zhuo]        | [Pu-erh]    | Jasmine Raw Tea             | [China]     | Jasmine                     |
 | 205 | [Dilmah]           | [Black]     | [Rose With French Vanilla]  | [Sri Lanka] | Rose, Vanilla               |
 | 204 | [Pickwick]         | [Herbal]    | [Winter Glow]               | [Holland]   | Cinnamon, Orange, Apple     |
@@ -278,6 +278,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Supreme Matcha Green]: http://www.pukkaherbs.com.au/products/pukka-teas/supreme-matcha-green
 [Rose With French Vanilla]: https://shop.dilmahtea.com.au/rose-with-french-vanilla-20-tea-bags-australia
 [Winter Glow]: https://steepster.com/teas/pickwick/14766-winter-glow
 [Lotus Leaf Ripened]: https://list.jd.com/list.html?cat=1320,12202,12204&ev=exbrand_139650
