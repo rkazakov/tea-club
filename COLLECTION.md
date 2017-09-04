@@ -7,7 +7,7 @@
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
 | 209 | [Tealeaves]        | [Black]     | [Adam & Eve's Garden]       | [Sri Lanka] | Fig, Hazelnut, Rosemary     |
-| 208 | [Shou Zhuo]        | [Pu-erh]    | Lotus Leaf Raw Tea          | [China]     | Lotus Leaf                  |
+| 208 | [Shou Zhuo]        | [Pu-erh]    | Lotus Leaf Raw Tea          | [China]     | Lotus leaf                  |
 | 207 | [Pukka]            | [Green]     | [Supreme Matcha Green]      | [Australia] | Matcha                      |
 | 206 | [Shou Zhuo]        | [Pu-erh]    | Jasmine Raw Tea             | [China]     | Jasmine                     |
 | 205 | [Dilmah]           | [Black]     | [Rose With French Vanilla]  | [Sri Lanka] | Rose, Vanilla               |
