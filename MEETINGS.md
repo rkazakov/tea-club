@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 226 | [Pickwick]         | [Herbal]    | [Fruit Fusion Melon]        | [Holland]   | Marlouk Stek    | 06-09-17 |
 | 225 | [Tealeaves]        | [Black]     | [Adam & Eve's Garden]       | [Sri Lanka] | Ruslan Kazakov  | 04-09-17 |
 | 224 | [Shou Zhuo]        | [Pu-erh]    | Lotus Leaf Raw Tea          | [China]     | Michael Chu     | 01-09-17 |
 | 223 | [Pukka]            | [Green]     | [Supreme Matcha Green]      | [Australia] | Felicia H.      | 30-08-17 |
@@ -296,6 +297,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Fruit Fusion Melon]: https://www.pickwick.nl/thee/fruit/fruit-fusion-variation-box/
 [Adam & Eve's Garden]: http://www.tealeaves.com.au/black-adam-and-eve-s-garden/w1/i1007352/
 [Supreme Matcha Green]: http://www.pukkaherbs.com.au/products/pukka-teas/supreme-matcha-green
 [Rose With French Vanilla]: https://shop.dilmahtea.com.au/rose-with-french-vanilla-20-tea-bags-australia
