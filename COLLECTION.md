@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 213 | [Twinings]         | [Herbal]    | Digest                      | [China]     | Peppermint, Liquorice & Lemon Balm |
 | 212 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Rice                        |
 | 211 | [Hema]             | [Green]     | [Moroccan Green]            | [Holland]   | Liquorice, Mint             |
 | 210 | [Pickwick]         | [Herbal]    | [Fruit Fusion Melon]        | [Holland]   | Melon                       |
