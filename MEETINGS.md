@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 229 | [Twinings]         | [Herbal]    | Digest                      | [China]     | Jesse Smit      | 11-09-17 |
+| 229 | [Twinings]         | [Herbal]    | [Twinings Digest]           | [China]     | Jesse Smit      | 11-09-17 |
 | 228 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Michael Chu     | 08-09-17 |
 | 227 | [Hema]             | [Green]     | [Moroccan Green]            | [Holland]   | Marlouk Stek    | 08-09-17 |
 | 226 | [Pickwick]         | [Herbal]    | [Fruit Fusion Melon]        | [Holland]   | Marlouk Stek    | 06-09-17 |
@@ -300,6 +300,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Twinings Digest]: https://www.woolworths.com.au/Shop/ProductDetails/575845/twinings-digest
 [Moroccan Green]: https://www.hemashop.com/gb/shop/cooking-dining/coffee-tea/tea/green-tea-moroccan-fair-trade-(60900098)?variant=60900098
 [Fruit Fusion Melon]: https://www.pickwick.nl/thee/fruit/fruit-fusion-variation-box/
 [Adam & Eve's Garden]: http://www.tealeaves.com.au/black-adam-and-eve-s-garden/w1/i1007352/
