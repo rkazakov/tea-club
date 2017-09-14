@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 214 | [Rabbit Hole]      | [Black]     | Russian Rabbit              | -           | Smoke                       |
 | 213 | [Twinings]         | [Herbal]    | [Twinings Digest]           | [China]     | Peppermint, Liquorice       |
 | 212 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Rice                        |
 | 211 | [Hema]             | [Green]     | [Moroccan Green]            | [Holland]   | Liquorice, Mint             |
