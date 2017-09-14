@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 230 | [Rabbit Hole]      | [Black]     | Russian Rabbit              | -           | Gary Butler     | 13-09-17 |
 | 229 | [Twinings]         | [Herbal]    | [Twinings Digest]           | [China]     | Jesse Smit      | 11-09-17 |
 | 228 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Michael Chu     | 08-09-17 |
 | 227 | [Hema]             | [Green]     | [Moroccan Green]            | [Holland]   | Marlouk Stek    | 08-09-17 |
