@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 215 | Butterfly Brand    | [Oolong]    | Fujian Oolong               | [China]     | Oolong tea                  |
 | 214 | [Rabbit Hole]      | [Black]     | Russian Rabbit              | -           | Smoke                       |
 | 213 | [Twinings]         | [Herbal]    | [Twinings Digest]           | [China]     | Peppermint, Liquorice       |
 | 212 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Rice                        |
