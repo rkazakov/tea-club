@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 231 | Butterfly Brand    | [Oolong]    | Fujian Oolong               | [China]     | Mamatha R.      | 15-09-17 |
 | 230 | [Rabbit Hole]      | [Black]     | Russian Rabbit              | -           | Gary Butler     | 13-09-17 |
 | 229 | [Twinings]         | [Herbal]    | [Twinings Digest]           | [China]     | Jesse Smit      | 11-09-17 |
 | 228 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Michael Chu     | 08-09-17 |
