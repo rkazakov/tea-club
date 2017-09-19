@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 216 | [Pickwick]         | [Herbal]    | [Fruit Fusion Mango]        | [Holland]   | Mango                       |
 | 215 | Butterfly Brand    | [Oolong]    | Fujian Oolong               | [China]     | Oolong tea                  |
 | 214 | [Rabbit Hole]      | [Black]     | Russian Rabbit              | -           | Smoke                       |
 | 213 | [Twinings]         | [Herbal]    | [Twinings Digest]           | [China]     | Peppermint, Liquorice       |
@@ -286,6 +287,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Fruit Fusion Mango]: https://www.pickwick.nl/thee/fruit/mango/
 [Twinings Digest]: https://www.woolworths.com.au/Shop/ProductDetails/575845/twinings-digest
 [Moroccan Green]: https://www.hemashop.com/gb/shop/cooking-dining/coffee-tea/tea/green-tea-moroccan-fair-trade-(60900098)?variant=60900098
 [Fruit Fusion Melon]: https://www.pickwick.nl/thee/fruit/fruit-fusion-variation-box/
