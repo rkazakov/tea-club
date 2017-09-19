@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 232 | [Pickwick]         | [Herbal]    | [Fruit Fusion Mango]        | [Holland]   | Marlouk Stek    | 18-09-17 |
 | 231 | Butterfly Brand    | [Oolong]    | Fujian Oolong               | [China]     | Mamatha R.      | 15-09-17 |
 | 230 | [Rabbit Hole]      | [Black]     | Russian Rabbit              | -           | Gary Butler     | 13-09-17 |
 | 229 | [Twinings]         | [Herbal]    | [Twinings Digest]           | [China]     | Jesse Smit      | 11-09-17 |
@@ -302,6 +303,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Fruit Fusion Mango]: https://www.pickwick.nl/thee/fruit/mango/
 [Twinings Digest]: https://www.woolworths.com.au/Shop/ProductDetails/575845/twinings-digest
 [Moroccan Green]: https://www.hemashop.com/gb/shop/cooking-dining/coffee-tea/tea/green-tea-moroccan-fair-trade-(60900098)?variant=60900098
 [Fruit Fusion Melon]: https://www.pickwick.nl/thee/fruit/fruit-fusion-variation-box/
