@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 233 | [Tealeaves]        | [Black]     | [Adam & Eve's Garden]       | [Sri Lanka] | Ruslan Kazakov  | 20-09-17 |
 | 232 | [Pickwick]         | [Herbal]    | [Fruit Fusion Mango]        | [Holland]   | Marlouk Stek    | 18-09-17 |
 | 231 | Butterfly Brand    | [Oolong]    | Fujian Oolong               | [China]     | Mamatha R.      | 15-09-17 |
 | 230 | [Rabbit Hole]      | [Black]     | Russian Rabbit              | -           | Gary Butler     | 13-09-17 |
