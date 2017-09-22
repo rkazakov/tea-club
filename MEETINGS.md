@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 234 | [Krasnodarskiy fl] | [Black]     | [Cornflower and lemon balm] | [Russia]    | Ivan Pchelnikov | 20-09-17 |
 | 233 | [Tealeaves]        | [Black]     | [Adam & Eve's Garden]       | [Sri Lanka] | Ruslan Kazakov  | 20-09-17 |
 | 232 | [Pickwick]         | [Herbal]    | [Fruit Fusion Mango]        | [Holland]   | Marlouk Stek    | 18-09-17 |
 | 231 | Butterfly Brand    | [Oolong]    | Fujian Oolong               | [China]     | Mamatha R.      | 15-09-17 |
@@ -261,6 +262,7 @@
 [Golden Tips]: http://www.goldentipstea.com
 [Dragon Leaf]: http://www.dragon-leaf.com
 [Krasnodarskiy]: http://www.krdtea.com
+[Krasnodarskiy fl]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
 [Life of Cha]: https://www.lifeofcha.com.au
@@ -304,6 +306,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Cornflower and lemon balm]: http://www.dobrynia-tea.com/unit.php?code=283
 [Fruit Fusion Mango]: https://www.pickwick.nl/thee/fruit/mango/
 [Twinings Digest]: https://www.woolworths.com.au/Shop/ProductDetails/575845/twinings-digest
 [Moroccan Green]: https://www.hemashop.com/gb/shop/cooking-dining/coffee-tea/tea/green-tea-moroccan-fair-trade-(60900098)?variant=60900098
