@@ -6,6 +6,10 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 221 | [New Crimea]       | [Black]     | [Warming thyme]             | [Russia]    | Warming thyme               |
+| 220 | [New Crimea]       | [Black]     | [Crimean dogwood]           | [Russia]    | Crimean dogwood             |
+| 219 | [Krasnodarskiy fl] | [Black]     | [Echinacea and lemongrass]  | [Russia]    | Echinacea and lemongrass    |
+| 218 | [Krasnodarskiy fl] | [Black]     | [Mint and cowberry]         | [Russia]    | Mint and cowberry           |
 | 217 | [Krasnodarskiy fl] | [Black]     | [Cornflower and lemon balm] | [Russia]    | Cornflower and lemon balm   |
 | 216 | [Pickwick]         | [Herbal]    | [Fruit Fusion Mango]        | [Holland]   | Mango                       |
 | 215 | Butterfly Brand    | [Oolong]    | Fujian Oolong               | [China]     | Oolong tea                  |
@@ -258,7 +262,7 @@
 [Neo Australia]: http://www.neoaustralia.com.au
 [Nomurasangyo]: http://www.nihoncha.co.jp
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
-[Novyi Krym]: http://crimeantea.ru
+[New Crimea]: http://crimeantea.ru
 [Qualitea]: http://www.quali-tea.com
 [Pickwick]: https://www.pickwicktea.com
 [Princess Java]: http://www.java-tea.ru
