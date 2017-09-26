@@ -8,9 +8,9 @@
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
 | 238 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Ivan Pchelnikov | 25-09-17 |
 | 237 | [Noviy Krym]       | [Herbal]    | [Crimean Dogwood]           | [Russia]    | Ivan Pchelnikov | 25-09-17 |
-| 236 | [Dobrynia Tea]     | [Black]     | [Echinacea and lemongrass]  | [Russia]    | Ivan Pchelnikov | 22-09-17 |
-| 235 | [Dobrynia Tea]     | [Black]     | [Mint and cowberry]         | [Russia]    | Ivan Pchelnikov | 22-09-17 |
-| 234 | [Dobrynia Tea]     | [Black]     | [Cornflower and lemon balm] | [Russia]    | Ivan Pchelnikov | 20-09-17 |
+| 236 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Ivan Pchelnikov | 22-09-17 |
+| 235 | [Dobrynia Tea]     | [Black]     | [Mint & Lingonberry]        | [Russia]    | Ivan Pchelnikov | 22-09-17 |
+| 234 | [Dobrynia Tea]     | [Black]     | [Cornflower & Lemon Balm]   | [Russia]    | Ivan Pchelnikov | 20-09-17 |
 | 233 | [Tealeaves]        | [Black]     | [Adam & Eve's Garden]       | [Sri Lanka] | Ruslan Kazakov  | 20-09-17 |
 | 232 | [Pickwick]         | [Herbal]    | [Fruit Fusion Mango]        | [Holland]   | Marlouk Stek    | 18-09-17 |
 | 231 | Butterfly Brand    | [Oolong]    | Fujian Oolong               | [China]     | Mamatha R.      | 15-09-17 |
@@ -311,8 +311,10 @@
 
 <!-- Name -->
 [Warming Thyme]: http://crimeantea.ru/news/portfolio/chabrets-sogrevayushhij-250g
-
-[Cornflower and lemon balm]: http://www.dobrynia-tea.com/unit.php?code=283
+[Crimean Dogwood]: http://crimeantea.ru/news/portfolio/kizil-krymskij-250g
+[Echinacea & Lemongrass]: http://www.dobrynia-tea.com/unit.php?code=278
+[Mint & Lingonberry]: http://www.dobrynia-tea.com/unit.php?code=280
+[Cornflower & Lemon Balm]: http://www.dobrynia-tea.com/unit.php?code=283
 [Fruit Fusion Mango]: https://www.pickwick.nl/thee/fruit/mango/
 [Twinings Digest]: https://www.woolworths.com.au/Shop/ProductDetails/575845/twinings-digest
 [Moroccan Green]: https://www.hemashop.com/gb/shop/cooking-dining/coffee-tea/tea/green-tea-moroccan-fair-trade-(60900098)?variant=60900098
