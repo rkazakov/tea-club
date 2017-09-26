@@ -6,6 +6,10 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 238 | [New Crimea]       | [Black]     | [Warming thyme]             | [Russia]    | Ivan Pchelnikov | 24-09-17 |
+| 237 | [New Crimea]       | [Herbal]    | [Crimean dogwood]           | [Russia]    | Ivan Pchelnikov | 24-09-17 |
+| 236 | [Krasnodarskiy fl] | [Black]     | [Echinacea and lemongrass]  | [Russia]    | Ivan Pchelnikov | 22-09-17 |
+| 235 | [Krasnodarskiy fl] | [Black]     | [Mint and cowberry]         | [Russia]    | Ivan Pchelnikov | 22-09-17 |
 | 234 | [Krasnodarskiy fl] | [Black]     | [Cornflower and lemon balm] | [Russia]    | Ivan Pchelnikov | 20-09-17 |
 | 233 | [Tealeaves]        | [Black]     | [Adam & Eve's Garden]       | [Sri Lanka] | Ruslan Kazakov  | 20-09-17 |
 | 232 | [Pickwick]         | [Herbal]    | [Fruit Fusion Mango]        | [Holland]   | Marlouk Stek    | 18-09-17 |
@@ -275,7 +279,7 @@
 [Neo Australia]: http://www.neoaustralia.com.au
 [Nomurasangyo]: http://www.nihoncha.co.jp
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
-[Novyi Krym]: http://crimeantea.ru
+[New Crimea]: http://crimeantea.ru
 [Qualitea]: http://www.quali-tea.com
 [Pickwick]: https://www.pickwicktea.com
 [Princess Java]: http://www.java-tea.ru
