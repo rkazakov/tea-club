@@ -6,11 +6,11 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 221 | [New Crimea]       | [Black]     | [Warming thyme]             | [Russia]    | Warming thyme               |
-| 220 | [New Crimea]       | [Black]     | [Crimean dogwood]           | [Russia]    | Crimean dogwood             |
-| 219 | [Krasnodarskiy fl] | [Black]     | [Echinacea and lemongrass]  | [Russia]    | Echinacea and lemongrass    |
-| 218 | [Krasnodarskiy fl] | [Black]     | [Mint and cowberry]         | [Russia]    | Mint and cowberry           |
-| 217 | [Krasnodarskiy fl] | [Black]     | [Cornflower and lemon balm] | [Russia]    | Cornflower and lemon balm   |
+| 221 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Thyme                       |
+| 220 | [Noviy Krym]       | [Herbal]    | [Crimean Dogwood]           | [Russia]    | Dogwood                     |
+| 219 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Echinacea, Lemongrass       |
+| 218 | [Dobrynia Tea]     | [Black]     | [Mint & Lingonberry]        | [Russia]    | Mint, Lingonberry           |
+| 217 | [Dobrynia Tea]     | [Black]     | [Cornflower & Lemon Balm]   | [Russia]    | Cornflower, Lemon Balm      |
 | 216 | [Pickwick]         | [Herbal]    | [Fruit Fusion Mango]        | [Holland]   | Mango                       |
 | 215 | Butterfly Brand    | [Oolong]    | Fujian Oolong               | [China]     | Oolong tea                  |
 | 214 | [Rabbit Hole]      | [Black]     | Russian Rabbit              | -           | Smoke                       |
@@ -233,12 +233,13 @@
 [Amy's Teas]: https://github.com/frydreise/recipes
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
-[Bukalapak]: https//www.bukalapak.com
+[Bukalapak]: https://www.bukalapak.com
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
 [Dilmah]: http://www.dilmahtea.com
+[Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Efuton]: http://www.efuton.com
 [Hansung KMT]: http://www.kmt.com.my
 [Hema]: http://www.hemashop.com/gb
@@ -249,7 +250,6 @@
 [Golden Tips]: http://www.goldentipstea.com
 [Dragon Leaf]: http://www.dragon-leaf.com
 [Krasnodarskiy]: http://www.krdtea.com
-[Krasnodarskiy fl]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
 [Life of Cha]: https://www.lifeofcha.com.au
@@ -262,7 +262,7 @@
 [Neo Australia]: http://www.neoaustralia.com.au
 [Nomurasangyo]: http://www.nihoncha.co.jp
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
-[New Crimea]: http://crimeantea.ru
+[Noviy Krym]: http://crimeantea.ru
 [Qualitea]: http://www.quali-tea.com
 [Pickwick]: https://www.pickwicktea.com
 [Princess Java]: http://www.java-tea.ru
@@ -293,7 +293,11 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-[Cornflower and lemon balm]: http://www.dobrynia-tea.com/unit.php?code=283
+[Warming Thyme]: http://crimeantea.ru/news/portfolio/chabrets-sogrevayushhij-250g
+[Crimean Dogwood]: http://crimeantea.ru/news/portfolio/kizil-krymskij-250g
+[Echinacea & Lemongrass]: http://www.dobrynia-tea.com/unit.php?code=278
+[Mint & Lingonberry]: http://www.dobrynia-tea.com/unit.php?code=280
+[Cornflower & Lemon Balm]: http://www.dobrynia-tea.com/unit.php?code=283
 [Fruit Fusion Mango]: https://www.pickwick.nl/thee/fruit/mango/
 [Twinings Digest]: https://www.woolworths.com.au/Shop/ProductDetails/575845/twinings-digest
 [Moroccan Green]: https://www.hemashop.com/gb/shop/cooking-dining/coffee-tea/tea/green-tea-moroccan-fair-trade-(60900098)?variant=60900098
