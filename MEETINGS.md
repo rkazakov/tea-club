@@ -6,11 +6,11 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 238 | [New Crimea]       | [Black]     | [Warming thyme]             | [Russia]    | Ivan Pchelnikov | 24-09-17 |
-| 237 | [New Crimea]       | [Herbal]    | [Crimean dogwood]           | [Russia]    | Ivan Pchelnikov | 24-09-17 |
-| 236 | [Krasnodarskiy fl] | [Black]     | [Echinacea and lemongrass]  | [Russia]    | Ivan Pchelnikov | 22-09-17 |
-| 235 | [Krasnodarskiy fl] | [Black]     | [Mint and cowberry]         | [Russia]    | Ivan Pchelnikov | 22-09-17 |
-| 234 | [Krasnodarskiy fl] | [Black]     | [Cornflower and lemon balm] | [Russia]    | Ivan Pchelnikov | 20-09-17 |
+| 238 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Ivan Pchelnikov | 25-09-17 |
+| 237 | [Noviy Krym]       | [Herbal]    | [Crimean Dogwood]           | [Russia]    | Ivan Pchelnikov | 25-09-17 |
+| 236 | [Dobrynia Tea]     | [Black]     | [Echinacea and lemongrass]  | [Russia]    | Ivan Pchelnikov | 22-09-17 |
+| 235 | [Dobrynia Tea]     | [Black]     | [Mint and cowberry]         | [Russia]    | Ivan Pchelnikov | 22-09-17 |
+| 234 | [Dobrynia Tea]     | [Black]     | [Cornflower and lemon balm] | [Russia]    | Ivan Pchelnikov | 20-09-17 |
 | 233 | [Tealeaves]        | [Black]     | [Adam & Eve's Garden]       | [Sri Lanka] | Ruslan Kazakov  | 20-09-17 |
 | 232 | [Pickwick]         | [Herbal]    | [Fruit Fusion Mango]        | [Holland]   | Marlouk Stek    | 18-09-17 |
 | 231 | Butterfly Brand    | [Oolong]    | Fujian Oolong               | [China]     | Mamatha R.      | 15-09-17 |
@@ -256,6 +256,7 @@
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
 [Dilmah]: http://www.dilmahtea.com
+[Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Efuton]: http://www.efuton.com
 [Hansung KMT]: http://www.kmt.com.my
 [Hema]: http://www.hemashop.com/gb
@@ -266,7 +267,6 @@
 [Golden Tips]: http://www.goldentipstea.com
 [Dragon Leaf]: http://www.dragon-leaf.com
 [Krasnodarskiy]: http://www.krdtea.com
-[Krasnodarskiy fl]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
 [Life of Cha]: https://www.lifeofcha.com.au
@@ -279,7 +279,7 @@
 [Neo Australia]: http://www.neoaustralia.com.au
 [Nomurasangyo]: http://www.nihoncha.co.jp
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
-[New Crimea]: http://crimeantea.ru
+[Noviy Krym]: http://crimeantea.ru
 [Qualitea]: http://www.quali-tea.com
 [Pickwick]: https://www.pickwicktea.com
 [Princess Java]: http://www.java-tea.ru
@@ -310,6 +310,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Warming Thyme]: http://crimeantea.ru/news/portfolio/chabrets-sogrevayushhij-250g
+
 [Cornflower and lemon balm]: http://www.dobrynia-tea.com/unit.php?code=283
 [Fruit Fusion Mango]: https://www.pickwick.nl/thee/fruit/mango/
 [Twinings Digest]: https://www.woolworths.com.au/Shop/ProductDetails/575845/twinings-digest
