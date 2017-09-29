@@ -12,4 +12,4 @@ What: Come and enjoy a good strong cuppa tea with us
 - [Meetings](./MEETINGS.md) ᛫ All tea meetings
 - [Tea collection](./COLLECTION.md) ᛫ Teas we tried
 - [Badges](./BADGES.md) ᛫ Badges of Honour
-- [fesTEAval](./FESTEAVAL.md) ᛫ fesTEAval
+- [fesTEAval](./FESTEAVAL.md) ᛫ Tea festival
