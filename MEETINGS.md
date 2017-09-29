@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 239 | [T2]               | [Tisane]    | [Cosmo Crush]               | -           | Sally Garton    | 27-09-17 |
+| 239 | [T2]               | [Herbal]    | [Cosmo Crush]               | -           | Sally Garton    | 27-09-17 |
 | 238 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Ivan Pchelnikov | 25-09-17 |
 | 237 | [Noviy Krym]       | [Herbal]    | [Crimean Dogwood]           | [Russia]    | Ivan Pchelnikov | 25-09-17 |
 | 236 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Ivan Pchelnikov | 22-09-17 |
