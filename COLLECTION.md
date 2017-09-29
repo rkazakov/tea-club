@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 222 | [T2]               | [Herbal]    | [Cosmo Crush]               | -           | Hibiscus, Apple, Cranberry  |
 | 221 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Thyme                       |
 | 220 | [Noviy Krym]       | [Herbal]    | [Crimean Dogwood]           | [Russia]    | Dogwood                     |
 | 219 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Echinacea, Lemongrass       |
