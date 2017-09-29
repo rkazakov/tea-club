@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 239 | [T2]               | [Tisane]    | [Cosmo Crush]               | -           | Sally Garton    | 27-09-17 |
 | 238 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Ivan Pchelnikov | 25-09-17 |
 | 237 | [Noviy Krym]       | [Herbal]    | [Crimean Dogwood]           | [Russia]    | Ivan Pchelnikov | 25-09-17 |
 | 236 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Ivan Pchelnikov | 22-09-17 |
@@ -310,6 +311,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Cosmo Crush]: http://www.t2tea.com/en/ca/tea/cosmo-crush-loose-leaf-tisane-cosmo_crush.html
 [Warming Thyme]: http://crimeantea.ru/news/portfolio/chabrets-sogrevayushhij-250g
 [Crimean Dogwood]: http://crimeantea.ru/news/portfolio/kizil-krymskij-250g
 [Echinacea & Lemongrass]: http://www.dobrynia-tea.com/unit.php?code=278
