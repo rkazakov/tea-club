@@ -2,7 +2,7 @@
 
 -----
 
-# fesTEAval 2017 - This year it's Russia
+# FesTEAval 2017 - This year it's Russia
 
 <img align="right" width="200" src="./images/festeaval.png">
 
