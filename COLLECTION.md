@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 223 | [T2]               | [Herbal]    | [Cosmo Crush]               | -           | Apple, Pineapple, Rosehip   |
 | 222 | [T2]               | [Herbal]    | [Cosmo Crush]               | -           | Hibiscus, Apple, Cranberry  |
 | 221 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Thyme                       |
 | 220 | [Noviy Krym]       | [Herbal]    | [Crimean Dogwood]           | [Russia]    | Dogwood                     |
@@ -294,6 +295,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Colada Paradiso]: http://www.t2tea.com/en/us/tea/colada-paradiso-loose-leaf-tisane-colada_paradiso.html
 [Cosmo Crush]: http://www.t2tea.com/en/ca/tea/cosmo-crush-loose-leaf-tisane-cosmo_crush.html
 [Warming Thyme]: http://crimeantea.ru/news/portfolio/chabrets-sogrevayushhij-250g
 [Crimean Dogwood]: http://crimeantea.ru/news/portfolio/kizil-krymskij-250g
