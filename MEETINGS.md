@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 240 | [T2]               | [Herbal]    | [Colada Paradiso]           | -           | Sally Garton    | 04-10-17 |
 | 239 | [T2]               | [Herbal]    | [Cosmo Crush]               | -           | Sally Garton    | 27-09-17 |
 | 238 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Ivan Pchelnikov | 25-09-17 |
 | 237 | [Noviy Krym]       | [Herbal]    | [Crimean Dogwood]           | [Russia]    | Ivan Pchelnikov | 25-09-17 |
@@ -311,6 +312,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Colada Paradiso]: http://www.t2tea.com/en/us/tea/colada-paradiso-loose-leaf-tisane-colada_paradiso.html
 [Cosmo Crush]: http://www.t2tea.com/en/ca/tea/cosmo-crush-loose-leaf-tisane-cosmo_crush.html
 [Warming Thyme]: http://crimeantea.ru/news/portfolio/chabrets-sogrevayushhij-250g
 [Crimean Dogwood]: http://crimeantea.ru/news/portfolio/kizil-krymskij-250g
