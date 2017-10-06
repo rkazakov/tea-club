@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 225 | [T2]               | [Black]     | [Blue Mountain]             | [Australia] | Vanilla, Cornflower         |
+| 224 | [Basilur]          | [Green]     | [Love Story Volume I]       | [Sri Lanka] | Safflower, Cornflower       |
 | 223 | [T2]               | [Herbal]    | [Cosmo Crush]               | -           | Apple, Pineapple, Rosehip   |
 | 222 | [T2]               | [Herbal]    | [Cosmo Crush]               | -           | Hibiscus, Apple, Cranberry  |
 | 221 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Thyme                       |
@@ -295,6 +297,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Blue Mountain]: https://www.t2tea.com/en/au/tea/black-tea/blue-mountain-loose-leaf-gift-cube-T125AE004.html
+[Love Story Volume I]: http://www.ruskiwaydeli.com.au/basilur-tea-book-love-story-vol.1-green-tea-100g
 [Colada Paradiso]: http://www.t2tea.com/en/us/tea/colada-paradiso-loose-leaf-tisane-colada_paradiso.html
 [Cosmo Crush]: http://www.t2tea.com/en/ca/tea/cosmo-crush-loose-leaf-tisane-cosmo_crush.html
 [Warming Thyme]: http://crimeantea.ru/news/portfolio/chabrets-sogrevayushhij-250g
