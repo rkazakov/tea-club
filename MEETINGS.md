@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 242 | [T2]               | [Black]     | [Blue Mountain]             | [Australia] | Felicia H.      | 06-10-17 |
+| 241 | [Basilur]          | [Green]     | [Love Story Volume I]       | [Sri Lanka] | Ruslan Kazakov  | 06-10-17 |
 | 240 | [T2]               | [Herbal]    | [Colada Paradiso]           | -           | Sally Garton    | 04-10-17 |
 | 239 | [T2]               | [Herbal]    | [Cosmo Crush]               | -           | Sally Garton    | 27-09-17 |
 | 238 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Ivan Pchelnikov | 25-09-17 |
@@ -312,6 +314,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Blue Mountain]: https://www.t2tea.com/en/au/tea/black-tea/blue-mountain-loose-leaf-gift-cube-T125AE004.html
+[Love Story Volume I]: http://www.ruskiwaydeli.com.au/basilur-tea-book-love-story-vol.1-green-tea-100g
 [Colada Paradiso]: http://www.t2tea.com/en/us/tea/colada-paradiso-loose-leaf-tisane-colada_paradiso.html
 [Cosmo Crush]: http://www.t2tea.com/en/ca/tea/cosmo-crush-loose-leaf-tisane-cosmo_crush.html
 [Warming Thyme]: http://crimeantea.ru/news/portfolio/chabrets-sogrevayushhij-250g
