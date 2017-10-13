@@ -279,6 +279,7 @@
 [Kunitaro]: http://www.kunitaro.co.jp
 [Life of Cha]: https://www.lifeofcha.com.au
 [Lipton]: http://www.liptontea.com
+[Love Tea]: https://lovetea.com.au
 [Lupicia]: http://www.lupicia.com.au
 [MightyLeaf]: http://www.mightyleaf.com
 [Miss Dong's]: http://www.travelsignpostschina.com/destination/picture.php/chongqing-ciqikou-DSC6334
@@ -304,7 +305,7 @@
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
-[Love Tea]: https://lovetea.com.au
+[Tetley]: http://www.tetley.com.au
 [Taylors]: https://www.taylorsofharrogate.com
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
