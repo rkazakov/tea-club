@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 245 | [Shou Zhuo]        | [Pu-erh]    | Dianhong                    | [China]     | Michael Chu     | 13-10-17 |
 | 244 | [Numero Uno]       | [Black]     | [Numero Uno Masala Chai]    | [India]     | Gary Butler     | 11-10-17 |
 | 243 | [Twinings]         | [Herbal]    | [Camomile & Spiced Apple]   | -           | Jesse Smit      | 09-10-17 |
 | 242 | [T2]               | [Black]     | [Blue Mountain]             | [Australia] | Felicia H.      | 06-10-17 |
