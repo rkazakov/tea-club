@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 247 | [T2]               | [Herbal]    | [Totally Appletini]         | -           | Apple, Hibiscus, Blackberry |
+| 230 | [T2]               | [Herbal]    | [Totally Appletini]         | -           | Apple, Hibiscus, Blackberry |
 | 229 | [Tetley]           | [Herbal]    | [Infused Passionfruit]      | [Australia] | Passionfruit, Rosehip       |
 | 228 | [Shou Zhuo]        | [Pu-erh]    | Dianhong                    | [China]     | Black tea                   |
 | 227 | [Numero Uno]       | [Black]     | [Numero Uno Masala Chai]    | [India]     | Cardamom, Black pepper      |
@@ -304,6 +304,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Totally Appletini]: http://www.t2tea.com/en/uk/tea/totally-appletini-totally_appletini.html
 [Infused Passionfruit]: https://www.woolworths.com.au/shop/productdetails/426427/tetley-pyramid-infused-passionfruit
 [Numero Uno Masala Chai]: https://www.numerouno.com.au/products/masala-chai
 [Camomile & Spiced Apple]: https://www.woolworths.com.au/shop/productdetails/791148/twinings-spiced-apple-infused-chamomile-tea-bags
