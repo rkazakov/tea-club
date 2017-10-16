@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 247 | [T2]               | [Herbal]    | [Totally Appletini]         | -           | Apple, Hibiscus, Blackberry |
 | 229 | [Tetley]           | [Herbal]    | [Infused Passionfruit]      | [Australia] | Passionfruit, Rosehip       |
 | 228 | [Shou Zhuo]        | [Pu-erh]    | Dianhong                    | [China]     | Black tea                   |
 | 227 | [Numero Uno]       | [Black]     | [Numero Uno Masala Chai]    | [India]     | Cardamom, Black pepper      |
