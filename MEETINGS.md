@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 247 | [T2]               | [Herbal]    | [Totally Appletini]         | -           | Sally Garton    | 16-10-17 |
 | 246 | [Tetley]           | [Herbal]    | [Infused Passionfruit]      | [Australia] | Felicia H.      | 13-10-17 |
 | 245 | [Shou Zhuo]        | [Pu-erh]    | Dianhong                    | [China]     | Michael Chu     | 13-10-17 |
 | 244 | [Numero Uno]       | [Black]     | [Numero Uno Masala Chai]    | [India]     | Gary Butler     | 11-10-17 |
@@ -320,6 +321,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Totally Appletini]: http://www.t2tea.com/en/uk/tea/totally-appletini-totally_appletini.html
 [Infused Passionfruit]: https://www.woolworths.com.au/shop/productdetails/426427/tetley-pyramid-infused-passionfruit
 [Numero Uno Masala Chai]: https://www.numerouno.com.au/products/masala-chai
 [Camomile & Spiced Apple]: https://www.woolworths.com.au/shop/productdetails/791148/twinings-spiced-apple-infused-chamomile-tea-bags
