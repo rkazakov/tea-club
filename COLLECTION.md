@@ -116,7 +116,7 @@
 | 124 | [MightyLeaf]       | [Green]     | [Green Tea Tropical]        | [China]     | Tropical fruits             |
 | 123 | [T2]               | [Black]     | [Banana Bake]               | -           | Banana, Coconut, Honey      |
 | 122 | [Adore Tea]        | [Black]     | [Cherry Ripe]               | [India]     | Cherry                      |
-| 121 | [Novyi Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Roseship                    |
+| 121 | [Noviy Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Roseship                    |
 | 120 | [Tealeaves]        | [Black]     | [Devonshire Cream]          | [China]     | Cream                       |
 | 119 | [Mrs Oldbucks]     | [Black]     | [Bushfire Caravan]          | -           | Black tea                   |
 | 118 | [Princess Java]    | [Herbal]    | [Carcade]                   | [Sudan]     | Sudanese rose petals        |
