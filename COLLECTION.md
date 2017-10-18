@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 232 | [Life of Cha]      | [Herbal]    | [Life of Cha Lite]          | [China]     | Hawthorn, Dandelion, Fennel |
 | 231 | -                  | [Green]     | Gaoshan Tea                 | [Taiwan]    | Green tea                   |
 | 230 | [T2]               | [Herbal]    | [Totally Appletini]         | -           | Apple, Hibiscus, Blackberry |
 | 229 | [Tetley]           | [Herbal]    | [Infused Passionfruit]      | [Australia] | Passionfruit, Rosehip       |
@@ -305,6 +306,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Life of Cha Lite]: https://www.lifeofcha.com.au/products/lite
 [Totally Appletini]: http://www.t2tea.com/en/uk/tea/totally-appletini-totally_appletini.html
 [Infused Passionfruit]: https://www.woolworths.com.au/shop/productdetails/426427/tetley-pyramid-infused-passionfruit
 [Numero Uno Masala Chai]: https://www.numerouno.com.au/products/masala-chai
