@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 249 | [Life of Cha]      | [Herbal]    | [Life of Cha Lite]          | [China]     | Felicia H.      | 18-10-17 |
 | 248 | -                  | [Green]     | Gaoshan Tea                 | [Taiwan]    | Michael Tong    | 16-10-17 |
 | 247 | [T2]               | [Herbal]    | [Totally Appletini]         | -           | Sally Garton    | 16-10-17 |
 | 246 | [Tetley]           | [Herbal]    | [Infused Passionfruit]      | [Australia] | Felicia H.      | 13-10-17 |
@@ -322,6 +323,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Life of Cha Lite]: https://www.lifeofcha.com.au/products/lite
 [Totally Appletini]: http://www.t2tea.com/en/uk/tea/totally-appletini-totally_appletini.html
 [Infused Passionfruit]: https://www.woolworths.com.au/shop/productdetails/426427/tetley-pyramid-infused-passionfruit
 [Numero Uno Masala Chai]: https://www.numerouno.com.au/products/masala-chai
