@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 234 | [Golden Harvest]   | [Oolong]    | [Green Tea milk]            | [China]     | Milk                        |
 | 233 | [Tetley]           | [Herbal]    | [Mango & Strawberry]        | [Australia] | Mango, Strawberry           |
 | 232 | [Life of Cha]      | [Herbal]    | [Life of Cha Lite]          | [China]     | Hawthorn, Dandelion, Fennel |
 | 231 | -                  | [Green]     | Gaoshan Tea                 | [Taiwan]    | Green tea                   |
