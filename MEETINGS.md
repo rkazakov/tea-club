@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 251 | Golden Harvest     | [Oolong]    | Milk Oolong                 | [China]     | Ivan Pchelnikov | 23-10-17 |
+| 251 | [Golden Harvest]   | [Oolong]    | Milk Oolong                 | [China]     | Ivan Pchelnikov | 23-10-17 |
 | 250 | [Tetley]           | [Herbal]    | [Mango & Strawberry]        | [Australia] | Felicia H.      | 20-10-17 |
 | 249 | [Life of Cha]      | [Herbal]    | [Life of Cha Lite]          | [China]     | Felicia H.      | 18-10-17 |
 | 248 | -                  | [Green]     | Gaoshan Tea                 | [Taiwan]    | Michael Tong    | 16-10-17 |
