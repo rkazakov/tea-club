@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 252 | [Yanyshev]         | [Herbal]    | [Green Flowering Tea]       | [China]     | Ivan Pchelnikov | 25-10-17 |
 | 251 | Gold Harvest       | [Oolong]    | Milk Oolong                 | [China]     | Ivan Pchelnikov | 23-10-17 |
 | 250 | [Tetley]           | [Herbal]    | [Mango & Strawberry]        | [Australia] | Felicia H.      | 20-10-17 |
 | 249 | [Life of Cha]      | [Herbal]    | [Life of Cha Lite]          | [China]     | Felicia H.      | 18-10-17 |
@@ -321,6 +322,7 @@
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
 
