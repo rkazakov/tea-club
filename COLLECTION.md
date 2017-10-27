@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 234 | [Tea Cosy]         | [Black]     | Tea Cosy House Blend        | -           | Black tea                   |
 | 235 | [Yanyshev]         | [Herbal]    | [Clover Flowering Tea]      | [China]     | Clover                      |
 | 234 | Gold Harvest       | [Oolong]    | Milk Oolong                 | [China]     | Milk Oolong                 |
 | 233 | [Tetley]           | [Herbal]    | [Mango & Strawberry]        | [Australia] | Mango, Strawberry           |
