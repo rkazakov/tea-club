@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 235 | [Yanyshev]         | [Herbal]    | [Clover Flowering Tea]      | [China]     | Clover                      |
 | 234 | Gold Harvest       | [Oolong]    | Milk Oolong                 | [China]     | Milk Oolong                 |
 | 233 | [Tetley]           | [Herbal]    | [Mango & Strawberry]        | [Australia] | Mango, Strawberry           |
 | 232 | [Life of Cha]      | [Herbal]    | [Life of Cha Lite]          | [China]     | Hawthorn, Dandelion, Fennel |
@@ -304,10 +305,12 @@
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Clover Flowering Tea]: http://yachai.ru/shop/portion/#knitted
 [Mango & Strawberry]: https://shop.coles.com.au/a/a-national/product/tetley-infusions-mango-strawberry-tea-bags-18-pack
 [Life of Cha Lite]: https://www.lifeofcha.com.au/products/lite
 [Totally Appletini]: http://www.t2tea.com/en/uk/tea/totally-appletini-totally_appletini.html
