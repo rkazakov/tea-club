@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 253 | [Tea Cosy]         | [Black]     | Tea Cosy House Blend        | -           | Gary Butler     | 27-10-17 |
 | 252 | [Yanyshev]         | [Herbal]    | [Clover Flowering Tea]      | [China]     | Ivan Pchelnikov | 25-10-17 |
 | 251 | Gold Harvest       | [Oolong]    | Milk Oolong                 | [China]     | Ivan Pchelnikov | 23-10-17 |
 | 250 | [Tetley]           | [Herbal]    | [Mango & Strawberry]        | [Australia] | Felicia H.      | 20-10-17 |
