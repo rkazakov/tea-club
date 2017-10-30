@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 235 | Gold Harvest       | [Green]     | Green Tea Raspberry         | [China]     | Raspberry                   |
 | 234 | [Tea Cosy]         | [Black]     | Tea Cosy House Blend        | -           | Black tea                   |
 | 235 | [Yanyshev]         | [Herbal]    | [Clover Flowering Tea]      | [China]     | Clover                      |
 | 234 | Gold Harvest       | [Oolong]    | Milk Oolong                 | [China]     | Milk Oolong                 |
