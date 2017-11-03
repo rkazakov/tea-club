@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 256 | [Fortnum & Mason]  | [Black]     | [Black Teas Peach]          | [UK]        | Rozanna Wong    | 03-11-17 |
+| 256 | [Fortnum's]        | [Black]     | [Black Teas Peach]          | [UK]        | Rozanna Wong    | 03-11-17 |
 | 255 | [T2]               | [Black]     | [Monk Pear]                 | [Australia] | Felicia H.      | 01-11-17 |
 | 254 | Gold Harvest       | [Green]     | Green Tea Raspberry         | [China]     | Ivan Pchelnikov | 30-10-17 |
 | 253 | [Tea Cosy]         | [Black]     | Tea Cosy House Blend        | -           | Gary Butler     | 27-10-17 |
@@ -276,7 +276,7 @@
 [Dilmah]: http://www.dilmahtea.com
 [Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Efuton]: http://www.efuton.com
-[Fortnum & Mason]: https://www.fortnumandmason.com
+[Fortnum's]: https://www.fortnumandmason.com
 [Hansung KMT]: http://www.kmt.com.my
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
