@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 257 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Ivan Pchelnikov | 06-11-17 |
 | 256 | [Fortnum's]        | [Black]     | [Black Teas Fruit Peach]    | [UK]        | Rozanna Wong    | 03-11-17 |
 | 255 | [T2]               | [Black]     | [Monk Pear]                 | [Australia] | Felicia H.      | 01-11-17 |
 | 254 | Gold Harvest       | [Green]     | Green Tea Raspberry         | [China]     | Ivan Pchelnikov | 30-10-17 |
