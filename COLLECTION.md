@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 238 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Banana, Mango, Pineapple    |
 | 237 | [Fortnum's]        | [Black]     | [Black Teas Fruit Peach]    | [UK]        | Peach                       |
 | 236 | [T2]               | [Black]     | [Monk Pear]                 | [Australia] | Pear                        |
 | 235 | Gold Harvest       | [Green]     | Green Tea Raspberry         | [China]     | Raspberry                   |
@@ -315,6 +316,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Tropical Fruit]: https://www.enjoybettercoffee.com/Pickwick-Tropical-Fruit-Tea-20-tea-bags-p/pw007.htm
 [Black Teas Fruit Peach]: https://www.fortnumandmason.com/products/new-six-mini-black-teas
 [Monk Pear]: http://www.t2tea.com/en/au/tea/black-tea/monk-pear-loose-leaf-gift-cube-T125AE024.html
 [Clover Flowering Tea]: http://yachai.ru/shop/portion/#knitted
