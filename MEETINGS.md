@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 260 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Ripened Rice Tea  | [China]     | Michael Chu     | 13-11-17 |
+| 260 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Michael Chu     | 13-11-17 |
 | 259 | [Lipton]           | [Black]     | [Russian Earl Grey]         | [Russia]    | Felicia H.      | 10-11-17 |
 | 258 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Marlouk Stek    | 08-11-17 |
 | 257 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Ivan Pchelnikov | 06-11-17 |
