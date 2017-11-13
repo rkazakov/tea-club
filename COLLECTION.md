@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 240 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Ripened Rice Tea  | [China]     | Glutinous Rice              |
+| 240 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Glutinous Rice              |
 | 239 | [Lipton]           | [Black]     | [Russian Earl Grey]         | [Russia]    | Orange, Lemon, Bluet petals |
 | 238 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Banana, Mango, Pineapple    |
 | 237 | [Fortnum's]        | [Black]     | [Black Teas Fruit Peach]    | [UK]        | Peach                       |
