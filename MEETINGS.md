@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 260 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Ripened Rice Tea  | [China]     | Michael Chu     | 13-11-17 |
+| 259 | [Lipton]           | [Black]     | [Russian Earl Grey]         | [Russia]    | Felicia H.      | 10-11-17 |
 | 258 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Marlouk Stek    | 08-11-17 |
 | 257 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Ivan Pchelnikov | 06-11-17 |
 | 256 | [Fortnum's]        | [Black]     | [Black Teas Fruit Peach]    | [UK]        | Rozanna Wong    | 03-11-17 |
@@ -334,6 +336,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Russian Earl Grey]: http://www.lipton.com.sg/product/detail/967773/lipton-pyramid-tea-russian-earl-grey
 [Tropical Fruit]: https://www.enjoybettercoffee.com/Pickwick-Tropical-Fruit-Tea-20-tea-bags-p/pw007.htm
 [Black Teas Fruit Peach]: https://www.fortnumandmason.com/products/new-six-mini-black-teas
 [Monk Pear]: http://www.t2tea.com/en/au/tea/black-tea/monk-pear-loose-leaf-gift-cube-T125AE024.html
