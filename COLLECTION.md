@@ -6,6 +6,20 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 240 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Ripened Rice Tea  | [China]     | Glutinous Rice              |
+| 239 | [Lipton]           | [Black]     | [Russian Earl Grey]         | [Russia]    | Orange, Lemon, Bluet petals |
+| 238 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Banana, Mango, Pineapple    |
+| 237 | [Fortnum's]        | [Black]     | [Black Teas Fruit Peach]    | [UK]        | Peach                       |
+| 236 | [T2]               | [Black]     | [Monk Pear]                 | [Australia] | Pear                        |
+| 235 | Gold Harvest       | [Green]     | Green Tea Raspberry         | [China]     | Raspberry                   |
+| 234 | [Tea Cosy]         | [Black]     | Tea Cosy House Blend        | -           | Black tea                   |
+| 235 | [Yanyshev]         | [Herbal]    | [Clover Flowering Tea]      | [China]     | Clover                      |
+| 234 | Gold Harvest       | [Oolong]    | Milk Oolong                 | [China]     | Milk Oolong                 |
+| 233 | [Tetley]           | [Herbal]    | [Mango & Strawberry]        | [Australia] | Mango, Strawberry           |
+| 232 | [Life of Cha]      | [Herbal]    | [Life of Cha Lite]          | [China]     | Hawthorn, Dandelion, Fennel |
+| 231 | -                  | [Green]     | Gaoshan Tea                 | [Taiwan]    | Green tea                   |
+| 230 | [T2]               | [Herbal]    | [Totally Appletini]         | -           | Apple, Hibiscus, Blackberry |
+| 229 | [Tetley]           | [Herbal]    | [Infused Passionfruit]      | [Australia] | Passionfruit, Rosehip       |
 | 228 | [Shou Zhuo]        | [Pu-erh]    | Dianhong                    | [China]     | Black tea                   |
 | 227 | [Numero Uno]       | [Black]     | [Numero Uno Masala Chai]    | [India]     | Cardamom, Black pepper      |
 | 226 | [Twinings]         | [Herbal]    | [Camomile & Spiced Apple]   | -           | Camomile, Apple             |
@@ -113,7 +127,7 @@
 | 124 | [MightyLeaf]       | [Green]     | [Green Tea Tropical]        | [China]     | Tropical fruits             |
 | 123 | [T2]               | [Black]     | [Banana Bake]               | -           | Banana, Coconut, Honey      |
 | 122 | [Adore Tea]        | [Black]     | [Cherry Ripe]               | [India]     | Cherry                      |
-| 121 | [Novyi Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Roseship                    |
+| 121 | [Noviy Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Roseship                    |
 | 120 | [Tealeaves]        | [Black]     | [Devonshire Cream]          | [China]     | Cream                       |
 | 119 | [Mrs Oldbucks]     | [Black]     | [Bushfire Caravan]          | -           | Black tea                   |
 | 118 | [Princess Java]    | [Herbal]    | [Carcade]                   | [Sudan]     | Sudanese rose petals        |
@@ -248,6 +262,7 @@
 [Dilmah]: http://www.dilmahtea.com
 [Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Efuton]: http://www.efuton.com
+[Fortnum's]: https://www.fortnumandmason.com
 [Hansung KMT]: http://www.kmt.com.my
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
@@ -261,6 +276,7 @@
 [Kunitaro]: http://www.kunitaro.co.jp
 [Life of Cha]: https://www.lifeofcha.com.au
 [Lipton]: http://www.liptontea.com
+[Love Tea]: https://lovetea.com.au
 [Lupicia]: http://www.lupicia.com.au
 [MightyLeaf]: http://www.mightyleaf.com
 [Miss Dong's]: http://www.travelsignpostschina.com/destination/picture.php/chongqing-ciqikou-DSC6334
@@ -286,21 +302,31 @@
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
-[Love Tea]: https://lovetea.com.au
 [Taylors]: https://www.taylorsofharrogate.com
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
+[Tetley]: http://www.tetley.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
 [Twinings]: http://www.twiningsusa.com
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Russian Earl Grey]: http://www.lipton.com.sg/product/detail/967773/lipton-pyramid-tea-russian-earl-grey
+[Tropical Fruit]: https://www.enjoybettercoffee.com/Pickwick-Tropical-Fruit-Tea-20-tea-bags-p/pw007.htm
+[Black Teas Fruit Peach]: https://www.fortnumandmason.com/products/new-six-mini-black-teas
+[Monk Pear]: http://www.t2tea.com/en/au/tea/black-tea/monk-pear-loose-leaf-gift-cube-T125AE024.html
+[Clover Flowering Tea]: http://yachai.ru/shop/portion/#knitted
+[Mango & Strawberry]: https://shop.coles.com.au/a/a-national/product/tetley-infusions-mango-strawberry-tea-bags-18-pack
+[Life of Cha Lite]: https://www.lifeofcha.com.au/products/lite
+[Totally Appletini]: http://www.t2tea.com/en/uk/tea/totally-appletini-totally_appletini.html
+[Infused Passionfruit]: https://www.woolworths.com.au/shop/productdetails/426427/tetley-pyramid-infused-passionfruit
 [Numero Uno Masala Chai]: https://www.numerouno.com.au/products/masala-chai
 [Camomile & Spiced Apple]: https://www.woolworths.com.au/shop/productdetails/791148/twinings-spiced-apple-infused-chamomile-tea-bags
 [Blue Mountain]: https://www.t2tea.com/en/au/tea/black-tea/blue-mountain-loose-leaf-gift-cube-T125AE004.html

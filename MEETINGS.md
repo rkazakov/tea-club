@@ -6,6 +6,21 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 260 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Ripened Rice Tea  | [China]     | Michael Chu     | 13-11-17 |
+| 259 | [Lipton]           | [Black]     | [Russian Earl Grey]         | [Russia]    | Felicia H.      | 10-11-17 |
+| 258 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Marlouk Stek    | 08-11-17 |
+| 257 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Ivan Pchelnikov | 06-11-17 |
+| 256 | [Fortnum's]        | [Black]     | [Black Teas Fruit Peach]    | [UK]        | Rozanna Wong    | 03-11-17 |
+| 255 | [T2]               | [Black]     | [Monk Pear]                 | [Australia] | Felicia H.      | 01-11-17 |
+| 254 | Gold Harvest       | [Green]     | Green Tea Raspberry         | [China]     | Ivan Pchelnikov | 30-10-17 |
+| 253 | [Tea Cosy]         | [Black]     | Tea Cosy House Blend        | -           | Gary Butler     | 27-10-17 |
+| 252 | [Yanyshev]         | [Herbal]    | [Clover Flowering Tea]      | [China]     | Ivan Pchelnikov | 25-10-17 |
+| 251 | Gold Harvest       | [Oolong]    | Milk Oolong                 | [China]     | Ivan Pchelnikov | 23-10-17 |
+| 250 | [Tetley]           | [Herbal]    | [Mango & Strawberry]        | [Australia] | Felicia H.      | 20-10-17 |
+| 249 | [Life of Cha]      | [Herbal]    | [Life of Cha Lite]          | [China]     | Felicia H.      | 18-10-17 |
+| 248 | -                  | [Green]     | Gaoshan Tea                 | [Taiwan]    | Michael Tong    | 16-10-17 |
+| 247 | [T2]               | [Herbal]    | [Totally Appletini]         | -           | Sally Garton    | 16-10-17 |
+| 246 | [Tetley]           | [Herbal]    | [Infused Passionfruit]      | [Australia] | Felicia H.      | 13-10-17 |
 | 245 | [Shou Zhuo]        | [Pu-erh]    | Dianhong                    | [China]     | Michael Chu     | 13-10-17 |
 | 244 | [Numero Uno]       | [Black]     | [Numero Uno Masala Chai]    | [India]     | Gary Butler     | 11-10-17 |
 | 243 | [Twinings]         | [Herbal]    | [Camomile & Spiced Apple]   | -           | Jesse Smit      | 09-10-17 |
@@ -125,7 +140,7 @@
 | 129 | [MightyLeaf]       | [Green]     | [Green Tea Tropical]        | [China]     | Cris Gladly     | 03-03-17 |
 | 128 | [T2]               | [Black]     | [Banana Bake]               | -           | Kate Andrews    | 01-03-17 |
 | 127 | [Adore Tea]        | [Black]     | [Cherry Ripe]               | [India]     | Gary Butler     | 22-02-17 |
-| 126 | [Novyi Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Ivan Pchelnikov | 13-02-17 |
+| 126 | [Noviy Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Ivan Pchelnikov | 13-02-17 |
 | 125 | [Tealeaves]        | [Black]     | [Devonshire Cream]          | [China]     | Gary Butler     | 10-02-17 |
 | 124 | [Mrs Oldbucks]     | [Black]     | [Bushfire Caravan]          | -           | Gary Butler     | 08-02-17 |
 | 123 | [Princess Java]    | [Herbal]    | [Carcade]                   | [Sudan]     | Ivan Pchelnikov | 06-02-17 |
@@ -265,6 +280,7 @@
 [Dilmah]: http://www.dilmahtea.com
 [Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Efuton]: http://www.efuton.com
+[Fortnum's]: https://www.fortnumandmason.com
 [Hansung KMT]: http://www.kmt.com.my
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
@@ -278,6 +294,7 @@
 [Kunitaro]: http://www.kunitaro.co.jp
 [Life of Cha]: https://www.lifeofcha.com.au
 [Lipton]: http://www.liptontea.com
+[Love Tea]: https://lovetea.com.au
 [Lupicia]: http://www.lupicia.com.au
 [MightyLeaf]: http://www.mightyleaf.com
 [Miss Dong's]: http://www.travelsignpostschina.com/destination/picture.php/chongqing-ciqikou-DSC6334
@@ -303,7 +320,7 @@
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
-[Love Tea]: https://lovetea.com.au
+[Tetley]: http://www.tetley.com.au
 [Taylors]: https://www.taylorsofharrogate.com
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
@@ -314,10 +331,20 @@
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Russian Earl Grey]: http://www.lipton.com.sg/product/detail/967773/lipton-pyramid-tea-russian-earl-grey
+[Tropical Fruit]: https://www.enjoybettercoffee.com/Pickwick-Tropical-Fruit-Tea-20-tea-bags-p/pw007.htm
+[Black Teas Fruit Peach]: https://www.fortnumandmason.com/products/new-six-mini-black-teas
+[Monk Pear]: http://www.t2tea.com/en/au/tea/black-tea/monk-pear-loose-leaf-gift-cube-T125AE024.html
+[Clover Flowering Tea]: http://yachai.ru/shop/portion/#knitted
+[Mango & Strawberry]: https://shop.coles.com.au/a/a-national/product/tetley-infusions-mango-strawberry-tea-bags-18-pack
+[Life of Cha Lite]: https://www.lifeofcha.com.au/products/lite
+[Totally Appletini]: http://www.t2tea.com/en/uk/tea/totally-appletini-totally_appletini.html
+[Infused Passionfruit]: https://www.woolworths.com.au/shop/productdetails/426427/tetley-pyramid-infused-passionfruit
 [Numero Uno Masala Chai]: https://www.numerouno.com.au/products/masala-chai
 [Camomile & Spiced Apple]: https://www.woolworths.com.au/shop/productdetails/791148/twinings-spiced-apple-infused-chamomile-tea-bags
 [Blue Mountain]: https://www.t2tea.com/en/au/tea/black-tea/blue-mountain-loose-leaf-gift-cube-T125AE004.html
