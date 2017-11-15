@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 262 | [Hema]             | [Green]     | [Moroccan Green]            | [Holland]   | Marlouk Stek    | 15-11-17 |
+| 261 | [Shou Zhuo]        | [Pu-erh]    | Dian Lu Tea                 | [China]     | Michael Chu     | 15-11-17 |
 | 260 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Michael Chu     | 13-11-17 |
 | 259 | [Lipton]           | [Black]     | [Russian Earl Grey]         | [Russia]    | Felicia H.      | 10-11-17 |
 | 258 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Marlouk Stek    | 08-11-17 |
