@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 241 | [Shou Zhuo]        | [Pu-erh]    | Dian Lu Tea                 | [China]     | Green tea                   |
 | 240 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Rice                        |
 | 239 | [Lipton]           | [Black]     | [Russian Earl Grey]         | [Russia]    | Orange, Lemon, Bluet petals |
 | 238 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Banana, Mango, Pineapple    |
