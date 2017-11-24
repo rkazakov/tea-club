@@ -6,7 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 243 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Christmas   |
+| 245 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Apple, Raisin, Cinnamon     |
+| 244 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Black tea                   |
+| 243 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Christmas                   |
 | 242 | [Twinings]         | [Oolong]    | [Orange & Cinnamon]         | -           | Rooibos, Cinnamon, Orange   |
 | 241 | [Shou Zhuo]        | [Pu-erh]    | Dian Lu Tea                 | [China]     | Green tea                   |
 | 240 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Rice                        |
@@ -321,6 +323,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Advent Christmas Tea]: https://gewurzhaus.com.au/product/advent-christmas-tea
+[Breakfast Ceylon (OPX)]: http://adoretea.com.au/New-Tea/breakfast-ceylon-opx.html
 [Mulled Wine Magic]: http://www.t2tea.com/en/uk/tea/limited-edition/mulled-wine-magic-loose-leaf-feature-tin-T140AI119.html
 [Orange & Cinnamon]: https://www.woolworths.com.au/shop/productdetails/791152/twinings-orange-cinnamon-tea
 [Russian Earl Grey]: http://www.lipton.com.sg/product/detail/967773/lipton-pyramid-tea-russian-earl-grey
