@@ -183,7 +183,7 @@
 | 092 | [Symingtons]       | [Herbal]    | [Instant Dandelion Herbal]  | [Scotland]  | Louise Brooks   | 18-11-16 |
 | 091 | [Trader Joe's]     | [Black]     | [Mango & Chile Black Tea]   | [Sri Lanka] | Kate Andrews    | 16-11-16 |
 | 090 | [Rabbit Hole]      | [Black]     | [Berry Bomb]            	   | -           | Gary Butler     | 14-11-16 |
-| 089 | [Kunitaro]         | [Genmaicha] | Brown rice tea              | [Japan]     | Jesse Smit      | 11-11-16 |
+| 089 | [Kunitaro]         | [Genmaicha] | Kunitaro Brown Rice Tea     | [Japan]     | Jesse Smit      | 11-11-16 |
 | 088 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Ruslan Kazakov  | 09-11-16 |
 | 087 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Ruslan Kazakov  | 07-11-16 |
 | 086 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Ruslan Kazakov  | 04-11-16 |
