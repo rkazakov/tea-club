@@ -1,4 +1,4 @@
-[Home](./README.md) ᛫ [Tea meetings](./MEETINGS.md) ᛫ [Tea collection](./COLLECTION.md) ᛫ [Badges](./BADGES.md)
+[Home](./README.md) ᛫ [Tea meetings](./MEETINGS.md) ᛫ [Tea collection](./COLLECTION.md) ᛫ [Tea Master Ranking](./RANKING.md) ᛫ [Badges](./BADGES.md)
 
 -----
 
