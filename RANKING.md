@@ -1,3 +1,7 @@
+[Home](./README.md) ᛫ [Tea meetings](./MEETINGS.md) ᛫ [Tea collection](./COLLECTION.md) ᛫ [Badges](./BADGES.md) ᛫ [fesTEAval](./FESTEAVAL.md)
+
+-----
+
 # Tea Master Ranking
 
 | Rank | Tea Master         | Teas |
