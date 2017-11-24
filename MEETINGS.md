@@ -120,7 +120,7 @@
 | 155 | [Miss Dong's]      | [Black]     | Valentine Black Tea         | [China]     | Azadeh H.       | 01-05-17 |
 | 154 | [T2]               | [Green]     | [Cinnamon Matcha]           | [China]     | Kate Andrews    | 28-04-17 |
 | 153 | [Hema]             | [Green]     | [Green Tea Jasmine]         | [China]     | Marlouk Stek    | 26-03-17 |
-| 152 | -                  | [Oolong]    | Oolong Tea                  | [China]     | Ivan Pchelnikov | 24-04-17 |
+| 152 | -                  | [Oolong]    | Chinese Oolong Tea          | [China]     | Ivan Pchelnikov | 24-04-17 |
 | 151 | -                  | [White]     | [Anji White Tea]            | [China]     | Ray Dai         | 21-04-17 |
 | 150 | Jia Ming           | [Green]     | [Jia Ming Dragon Well]      | [China]     | Bill Wang       | 20-04-17 |
 | 149 | [Gewurzhaus]       | [Black]     | [Velvety Vanilla Chai Tea]  | [India]     | Louise Brooks   | 12-04-17 |
@@ -202,7 +202,7 @@
 | 073 | [Tealeaves]        | [Black]     | [French Earl Grey]          | [China]     | Gary Butler     | 17-10-16 |
 | 072 | [Basilur]          | [Black]     | [Basilur Darjeeling]        | [Sri Lanka] | Ruslan Kazakov  | 14-10-16 |
 | 071 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Ruslan Kazakov  | 13-10-16 |
-| 070 | Shuey Shing        | [Oolong]    | Oolong Tea                  | [China]     | Jesse Smit      | 12-10-16 |
+| 070 | Shuey Shing        | [Oolong]    | Shuey Oolong Tea            | [China]     | Jesse Smit      | 12-10-16 |
 | 069 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Louise Brooks   | 10-10-16 |
 | 068 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Jesse Smit      | 07-10-16 |
 | 067 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Ruslan Kazakov  | 06-10-16 |
