@@ -30,7 +30,7 @@
 | 226 | [Twinings]         | [Herbal]    | [Camomile & Spiced Apple]   | -           | Camomile, Apple             |
 | 225 | [T2]               | [Black]     | [Blue Mountain]             | [Australia] | Vanilla, Cornflower         |
 | 224 | [Basilur]          | [Green]     | [Love Story Volume I]       | [Sri Lanka] | Safflower, Cornflower       |
-| 223 | [T2]               | [Herbal]    | [Cosmo Crush]               | -           | Apple, Pineapple, Rosehip   |
+| 223 | [T2]               | [Herbal]    | [Colada Paradiso]           | -           | Apple, Pineapple, Rosehip   |
 | 222 | [T2]               | [Herbal]    | [Cosmo Crush]               | -           | Hibiscus, Apple, Cranberry  |
 | 221 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Thyme                       |
 | 220 | [Noviy Krym]       | [Herbal]    | [Crimean Dogwood]           | [Russia]    | Dogwood                     |
