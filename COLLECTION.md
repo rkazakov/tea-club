@@ -163,7 +163,7 @@
 | 092 | [Symingtons]       | [Herbal]    | [Instant Dandelion Herbal]  | [Scotland]  | Dandelion                   |
 | 091 | [Trader Joe's]     | [Black]     | [Mango & Chile Black Tea]   | [Sri Lanka] | Mango, Red Chile            |
 | 090 | [Rabbit Hole]      | [Black]     | [Berry Bomb]            	   | -           | Blueberry, Raspberry        |
-| 089 | [Kunitaro]         | [Genmaicha] | Brown rice tea              | [Japan]     | Roasted brown rice          |
+| 089 | [Kunitaro]         | [Genmaicha] | Kunitaro Brown Rice Tea     | [Japan]     | Roasted brown rice          |
 | 088 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Apple, Ginger, Lemongrass   |
 | 087 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Bergamot                    |
 | 086 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Lemon                       |
