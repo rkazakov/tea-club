@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 266 | [Gewurzhaus]       | [Black]     | [Advent Christmas Tea]      | [Germany]   | Gary Butler     | 24-11-17 |
+| 266 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Gary Butler     | 24-11-17 |
 | 265 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Gary Butler     | 24-11-17 |
 | 264 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Amy Dreise      | 22-11-17 |
 | 263 | [Twinings]         | [Oolong]    | [Orange & Cinnamon]         | -           | Mamatha R.      | 20-11-17 |
