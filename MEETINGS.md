@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 266 | [Gewurzhaus]       | [Black]     | [Advent Christmas Tea]      | [Germany]   | Gary Butler     | 24-11-17 |
+| 265 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Gary Butler     | 24-11-17 |
 | 264 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Amy Dreise      | 22-11-17 |
 | 263 | [Twinings]         | [Oolong]    | [Orange & Cinnamon]         | -           | Mamatha R.      | 20-11-17 |
 | 262 | [Hema]             | [Green]     | [Moroccan Green]            | [Holland]   | Marlouk Stek    | 15-11-17 |
@@ -340,6 +342,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Advent Christmas Tea]: https://gewurzhaus.com.au/product/advent-christmas-tea
+[Breakfast Ceylon (OPX)]: http://adoretea.com.au/New-Tea/breakfast-ceylon-opx.html
 [Mulled Wine Magic]: http://www.t2tea.com/en/uk/tea/limited-edition/mulled-wine-magic-loose-leaf-feature-tin-T140AI119.html
 [Orange & Cinnamon]: https://www.woolworths.com.au/shop/productdetails/791152/twinings-orange-cinnamon-tea
 [Russian Earl Grey]: http://www.lipton.com.sg/product/detail/967773/lipton-pyramid-tea-russian-earl-grey
