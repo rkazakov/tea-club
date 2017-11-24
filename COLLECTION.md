@@ -6,12 +6,11 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 247 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Apple, Raisin, Cinnamon     |
-| 246 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Black tea                   |
-| 245 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Christmas                   |
-| 244 | [Twinings]         | [Oolong]    | [Orange & Cinnamon]         | -           | Rooibos, Cinnamon, Orange   |
-| 243 | [Shou Zhuo]        | [Pu-erh]    | Dian Lu Tea                 | [China]     | Green tea                   |
-| 242 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Rice                        |
+| 246 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Apple, Raisin, Cinnamon     |
+| 245 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Black tea                   |
+| 244 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Christmas                   |
+| 243 | [Twinings]         | [Oolong]    | [Orange & Cinnamon]         | -           | Rooibos, Cinnamon, Orange   |
+| 242 | [Shou Zhuo]        | [Pu-erh]    | Dian Lu Tea                 | [China]     | Green tea                   |
 | 241 | [Lipton]           | [Black]     | [Russian Earl Grey]         | [Russia]    | Orange, Lemon, Bluet petals |
 | 240 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Banana, Mango, Pineapple    |
 | 239 | [Fortnum's]        | [Black]     | [Black Teas Fruit Peach]    | [UK]        | Peach                       |
@@ -106,7 +105,7 @@
 | 150 | [Miss Dong's]      | [Black]     | Valentine Black Tea         | [China]     | Black tea                   |
 | 149 | [T2]               | [Green]     | [Cinnamon Matcha]           | [China]     | Cinnamon, Matcha            |
 | 148 | [Hema]             | [Green]     | [Green Tea Jasmine]         | [China]     | Jasmine                     |
-| 147 | -                  | [Oolong]    | Oolong Tea                  | [China]     | Oolong tea                  |
+| 147 | -                  | [Oolong]    | Chinese Oolong Tea          | [China]     | Oolong tea                  |
 | 146 | -                  | [White]     | [Anji White Tea]            | [China]     | White tea                   |
 | 145 | Jia Ming           | [Green]     | [Jia Ming Dragon Well]      | [China]     | Green tea                   |
 | 144 | [Gewurzhaus]       | [Black]     | [Velvety Vanilla Chai Tea]  | [India]     | Cassia, Cardamom, Pepper    |
@@ -183,7 +182,7 @@
 | 073 | [Tealeaves]        | [Black]     | [French Earl Grey]          | [China]     | Peach, Calendula, Rose      |
 | 072 | [Basilur]          | [Black]     | [Basilur Darjeeling]        | [Sri Lanka] | Black tea                   |
 | 071 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Cardamom, Cinnamon          |
-| 070 | Shuey Shing        | [Oolong]    | Oolong Tea                  | [China]     | Oolong tea                  |
+| 070 | Shuey Shing        | [Oolong]    | Shuey Oolong Tea            | [China]     | Oolong tea                  |
 | 069 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Licorice, Fennel, Cinnamon  |
 | 068 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Roasted rice                |
 | 067 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Orange, Rose, Lemongrass    |
