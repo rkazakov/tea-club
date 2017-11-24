@@ -1,4 +1,4 @@
-[Home](./README.md) ᛫ [Tea meetings](./MEETINGS.md) ᛫ [Tea collection](./COLLECTION.md) ᛫ [fesTEAval](./FESTEAVAL.md)
+[Home](./README.md) ᛫ [Tea meetings](./MEETINGS.md) ᛫ [Tea collection](./COLLECTION.md) ᛫ [Tea Master Ranking](./RANKING.md) ᛫ [fesTEAval](./FESTEAVAL.md)
 
 -----
 
