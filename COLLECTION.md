@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 267 | [Osulloc]          | [Herbal]    | [Jeju Canola & Honey]       | [Korea]     | Flower, Honey               |
+| 247 | [Osulloc]          | [Herbal]    | [Jeju Canola & Honey]       | [Korea]     | Flower, Honey               |
 | 246 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Apple, Raisin, Cinnamon     |
 | 245 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Black tea                   |
 | 244 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Christmas                   |
