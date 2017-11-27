@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 267 | [Osulloc]          | [Herbal]    | [Jeju Canola & Honey]       | [Korea]     | Flower, Honey               |
 | 246 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Apple, Raisin, Cinnamon     |
 | 245 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Black tea                   |
 | 244 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Christmas                   |
@@ -291,6 +292,7 @@
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
 [Noviy Krym]: http://crimeantea.ru
 [Numero Uno]: https://www.numerouno.com.au
+[Osulloc]: https://www.osulloc.com
 [Qualitea]: http://www.quali-tea.com
 [Pickwick]: https://www.pickwicktea.com
 [Princess Java]: http://www.java-tea.ru
@@ -322,6 +324,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Jeju Canola & Honey]: https://www.osulloc.com/kr/en/shop/item/blended/5663
 [Advent Christmas Tea]: https://gewurzhaus.com.au/product/advent-christmas-tea
 [Breakfast Ceylon (OPX)]: http://adoretea.com.au/New-Tea/breakfast-ceylon-opx.html
 [Mulled Wine Magic]: http://www.t2tea.com/en/uk/tea/limited-edition/mulled-wine-magic-loose-leaf-feature-tin-T140AI119.html
