@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 268 | [Shou Zhuo]        | [Pu-erh]    | Chrysanthemum Tea           | [China]     | Michael Chu     | 27-11-17 |
 | 267 | [Osulloc]          | [Herbal]    | [Jeju Canola & Honey]       | [Korea]     | Rozanna Wong    | 27-11-17 |
 | 266 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Gary Butler     | 24-11-17 |
 | 265 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Gary Butler     | 24-11-17 |

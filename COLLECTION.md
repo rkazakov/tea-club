@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 248 | [Shou Zhuo]        | [Pu-erh]    | Chrysanthemum Tea           | [China]     | Chrysanthemum Flower        |
 | 247 | [Osulloc]          | [Herbal]    | [Jeju Canola & Honey]       | [Korea]     | Flower, Honey               |
 | 246 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Apple, Raisin, Cinnamon     |
 | 245 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Black tea                   |
