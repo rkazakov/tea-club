@@ -345,14 +345,11 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-<<<<<<< HEAD
-=======
 [Jeju Canola & Honey]: https://www.osulloc.com/kr/en/shop/item/blended/5663
 [Advent Christmas Tea]: https://gewurzhaus.com.au/product/advent-christmas-tea
 [Breakfast Ceylon (OPX)]: http://adoretea.com.au/New-Tea/breakfast-ceylon-opx.html
 [Mulled Wine Magic]: http://www.t2tea.com/en/uk/tea/limited-edition/mulled-wine-magic-loose-leaf-feature-tin-T140AI119.html
 [Orange & Cinnamon]: https://www.woolworths.com.au/shop/productdetails/791152/twinings-orange-cinnamon-tea
->>>>>>> 114e12ecadc692d62d39584228ee1d9d31830c4c
 [Russian Earl Grey]: http://www.lipton.com.sg/product/detail/967773/lipton-pyramid-tea-russian-earl-grey
 [Tropical Fruit]: https://www.enjoybettercoffee.com/Pickwick-Tropical-Fruit-Tea-20-tea-bags-p/pw007.htm
 [Black Teas Fruit Peach]: https://www.fortnumandmason.com/products/new-six-mini-black-teas
