@@ -6,13 +6,14 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 248 | [Shou Zhuo]        | [Pu-erh]    | Chrysanthemum Tea           | [China]     | Chrysanthemum flower        |
-| 247 | [Osulloc]          | [Herbal]    | [Jeju Canola & Honey]       | [Korea]     | Flower, Honey               |
-| 246 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Apple, Raisin, Cinnamon     |
-| 245 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Black tea                   |
-| 244 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Christmas                   |
-| 243 | [Twinings]         | [Oolong]    | [Orange & Cinnamon]         | -           | Rooibos, Cinnamon, Orange   |
-| 242 | [Shou Zhuo]        | [Pu-erh]    | Dian Lu Tea                 | [China]     | Green tea                   |
+| 249 | [Shou Zhuo]        | [Pu-erh]    | Chrysanthemum Tea           | [China]     | Chrysanthemum flower        |
+| 248 | [Osulloc]          | [Herbal]    | [Jeju Canola & Honey]       | [Korea]     | Flower, Honey               |
+| 247 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Apple, Raisin, Cinnamon     |
+| 246 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Black tea                   |
+| 245 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Christmas                   |
+| 244 | [Twinings]         | [Oolong]    | [Orange & Cinnamon]         | -           | Rooibos, Cinnamon, Orange   |
+| 243 | [Shou Zhuo]        | [Pu-erh]    | Dian Lu Tea                 | [China]     | Green tea                   |
+| 242 | [Shou Zhuo]        | [Pu-erh]    | Ripened Glutinous Rice      | [China]     | Rice                        |
 | 241 | [Lipton]           | [Black]     | [Russian Earl Grey]         | [Russia]    | Orange, Lemon, Bluet petals |
 | 240 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Banana, Mango, Pineapple    |
 | 239 | [Fortnum's]        | [Black]     | [Black Teas Fruit Peach]    | [UK]        | Peach                       |
