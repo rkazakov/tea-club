@@ -328,6 +328,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Autumn Storm]: https://www.pickwick.nl/thee/spices/autumn-storm
+[Cherry Tea - Kersen Thee]: https://www.pickwick.nl/thee/fruit/kers
 [Jeju Canola & Honey]: https://www.osulloc.com/kr/en/shop/item/blended/5663
 [Advent Christmas Tea]: https://gewurzhaus.com.au/product/advent-christmas-tea
 [Breakfast Ceylon (OPX)]: http://adoretea.com.au/New-Tea/breakfast-ceylon-opx.html
