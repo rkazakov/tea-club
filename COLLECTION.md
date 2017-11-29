@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 270 | [Pickwick]         | [Herbal]    | [Autumn Storm]              | [Holland]   | Cinnamon, Apple             |
+| 269 | [Pickwick]         | [Herbal]    | [Cherry Tea - Kersen Thee]  | [Holland]   | Cherry                      |
 | 249 | [Shou Zhuo]        | [Pu-erh]    | Chrysanthemum Tea           | [China]     | Chrysanthemum flower        |
 | 248 | [Osulloc]          | [Herbal]    | [Jeju Canola & Honey]       | [Korea]     | Flower, Honey               |
 | 247 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Apple, Raisin, Cinnamon     |
