@@ -1,5 +1,4 @@
 const showTeaMasterRanking = () => {
- 
   const meetings = [...document.querySelectorAll('table tbody tr')].map((row) => {
     const curTd = row.querySelectorAll('td');
 
@@ -15,7 +14,7 @@ const showTeaMasterRanking = () => {
   }).reverse();
 
   const uniqueMeetings = meetings.reduce((list, currentMeeting) => {
-    return (list.find(item => item.tea_name === currentMeeting.tea_name))
+    return (list.find(item => item.tea_name === currentMeeting.tea_name && item.tea_brand === currentMeeting.tea_brand))
       ? [...list]
       : [...list, currentMeeting];
   }, []);
@@ -24,9 +23,23 @@ const showTeaMasterRanking = () => {
     const teaMaster = list.find(item => item.tea_master === currentMeeting.tea_master);
     if (teaMaster) {
       const listNoMaster = list.filter(item => item.tea_master !== currentMeeting.tea_master);
-      return [...listNoMaster, { tea_master: currentMeeting.tea_master, count: currentMeeting.count + 1 }];
+      return [...listNoMaster, { 
+        tea_master: currentMeeting.tea_master, 
+        teas: [...teaMaster.teas, {
+          tea_brand: currentMeeting.tea_brand, 
+          tea_name: currentMeeting.tea_name,
+        }],
+        count: ++teaMaster.count, 
+      }];
     }
-    return [...list, { tea_master: currentMeeting.tea_master, count: 1 }];
+    return [...list, {
+      tea_master: currentMeeting.tea_master, 
+      teas: [ {
+        tea_brand: currentMeeting.tea_brand, 
+        tea_name: currentMeeting.tea_name,
+      }], 
+      count: 1,
+    }];
   }, []);
 
   const teaMastersWithCountSortedDesc = teaMastersWithCount.sort((teaMaster1, teaMaster2) => {
