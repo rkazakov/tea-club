@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 270 | [Pickwick]         | [Herbal]    | [Autumn Storm]              | [Holland]   | Marlouk Stek    | 29-11-17 |
+| 269 | [Pickwick]         | [Herbal]    | [Cherry Tea - Kersen Thee]  | [Holland]   | Marlouk Stek    | 29-11-17 |
 | 268 | [Shou Zhuo]        | [Pu-erh]    | Chrysanthemum Tea           | [China]     | Michael Chu     | 27-11-17 |
 | 267 | [Osulloc]          | [Herbal]    | [Jeju Canola & Honey]       | [Korea]     | Rozanna Wong    | 27-11-17 |
 | 266 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Gary Butler     | 24-11-17 |
@@ -345,6 +347,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Autumn Storm]: https://www.pickwick.nl/thee/spices/autumn-storm
+[Cherry Tea - Kersen Thee]: https://www.pickwick.nl/thee/fruit/kers
 [Jeju Canola & Honey]: https://www.osulloc.com/kr/en/shop/item/blended/5663
 [Advent Christmas Tea]: https://gewurzhaus.com.au/product/advent-christmas-tea
 [Breakfast Ceylon (OPX)]: http://adoretea.com.au/New-Tea/breakfast-ceylon-opx.html
