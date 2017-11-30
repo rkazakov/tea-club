@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 271 | [Yunnan]           | [Pu-erh]    | [Yunnan Pu'er Tea]          | [China]     | Michael Chu     | 01-12-17 |
+| 270 | [Pickwick]         | [Herbal]    | [Autumn Storm]              | [Holland]   | Marlouk Stek    | 29-11-17 |
+| 269 | [Pickwick]         | [Herbal]    | [Cherry Tea - Kersen Thee]  | [Holland]   | Marlouk Stek    | 29-11-17 |
 | 268 | [Shou Zhuo]        | [Pu-erh]    | Chrysanthemum Tea           | [China]     | Michael Chu     | 27-11-17 |
 | 267 | [Osulloc]          | [Herbal]    | [Jeju Canola & Honey]       | [Korea]     | Rozanna Wong    | 27-11-17 |
 | 266 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Gary Butler     | 24-11-17 |
@@ -14,7 +17,7 @@
 | 263 | [Twinings]         | [Oolong]    | [Orange & Cinnamon]         | -           | Mamatha R.      | 20-11-17 |
 | 262 | [Hema]             | [Green]     | [Moroccan Green]            | [Holland]   | Marlouk Stek    | 15-11-17 |
 | 261 | [Shou Zhuo]        | [Pu-erh]    | Dian Lu Tea                 | [China]     | Michael Chu     | 15-11-17 |
-| 260 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Michael Chu     | 13-11-17 |
+| 260 | [Shou Zhuo]        | [Pu-erh]    | Ripened Glutinous Rice      | [China]     | Michael Chu     | 13-11-17 |
 | 259 | [Lipton]           | [Black]     | [Russian Earl Grey]         | [Russia]    | Felicia H.      | 10-11-17 |
 | 258 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Marlouk Stek    | 08-11-17 |
 | 257 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Ivan Pchelnikov | 06-11-17 |
@@ -342,9 +345,13 @@
 [Wedgwood]: http://www.wedgwood.com.au
 [Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
+[Yunnan]: https://yunnansourcing.com/
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Yunnan Pu'er Tea]: http://jointaobao.com/b/Yunnan-pu-erh-tea-ripe-tea-99-old-leather-bucket-of-loose-tea-gift-box-Year-of-the-horse-special-price-of-68.7-yuan-to-send-handbags/114008.html
+[Autumn Storm]: https://www.pickwick.nl/thee/spices/autumn-storm
+[Cherry Tea - Kersen Thee]: https://www.pickwick.nl/thee/fruit/kers
 [Jeju Canola & Honey]: https://www.osulloc.com/kr/en/shop/item/blended/5663
 [Advent Christmas Tea]: https://gewurzhaus.com.au/product/advent-christmas-tea
 [Breakfast Ceylon (OPX)]: http://adoretea.com.au/New-Tea/breakfast-ceylon-opx.html
