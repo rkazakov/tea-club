@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 253 | [Osulloc]          | [Herbal]    | [Jeju Cameillia Flower]     | [Korea]     | Cameillia Flower            |
+| 252 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Pu-erh tea                  |
 | 251 | [Pickwick]         | [Herbal]    | [Autumn Storm]              | [Holland]   | Cinnamon, Apple             |
 | 250 | [Pickwick]         | [Herbal]    | [Cherry Tea - Kersen Thee]  | [Holland]   | Cherry                      |
 | 249 | [Shou Zhuo]        | [Pu-erh]    | Chrysanthemum Tea           | [China]     | Chrysanthemum flower        |
@@ -56,7 +58,7 @@
 | 204 | [Pickwick]         | [Herbal]    | [Winter Glow]               | [Holland]   | Cinnamon, Orange, Apple     |
 | 203 | [Shou Zhuo]        | [Pu-erh]    | [Lotus Leaf Ripened]        | [China]     | Lotus leaf                  |
 | 202 | [Bukalapak]        | [Black]     | [Teh Upet Melati]           | [Indonesia] | Black tea                   |
-| 201 | [Shou Zhuo]        | [Pu-erh]    | [Osmanthus Pu-erh]          | [China]     | Pu-erh, Osmanthus           |
+| 201 | [Shou Zhuo]        | [Pu-erh]    | [Osmanthus Pu-erh]          | [China]     | Pu-erh tea, Osmanthus       |
 | 200 | Jhuang-He          | [Herbal]    | Burdock Tea                 | [Taiwan]    | Burdock                     |
 | 199 | [Life of Cha]      | [Black]     | [Le GREY]                   | [China]     | Bergamot, Calendula         |
 | 198 | [Pickwick]         | [Herbal]    | [Sterrenmunt]               | [Holland]   | Anise, Fennel, Licorice     |
@@ -328,6 +330,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Jeju Cameillia Flower]: https://www.osulloc.com/kr/en/shop/item/blended/5664
 [Autumn Storm]: https://www.pickwick.nl/thee/spices/autumn-storm
 [Cherry Tea - Kersen Thee]: https://www.pickwick.nl/thee/fruit/kers
 [Jeju Canola & Honey]: https://www.osulloc.com/kr/en/shop/item/blended/5663
