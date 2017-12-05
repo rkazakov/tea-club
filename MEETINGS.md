@@ -1,4 +1,4 @@
-[Home](./README.md) ᛫ [Tea collection](./COLLECTION.md) ᛫ [Badges](./BADGES.md) ᛫ [fesTEAval](./FESTEAVAL.md)
+[Home](./README.md) ᛫ [Tea collection](./COLLECTION.md) ᛫ [Badges](./BADGES.md) ᛫ [Tea master ranking](./RANKING.md) ᛫ [fesTEAval](./FESTEAVAL.md)
 
 -----
 
@@ -6,11 +6,23 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+<<<<<<< HEAD
 | 264 | [T2]               | [Herbal]    | [Mulled wine magic]         | -           | Amy Dreise      | 22-11-17 |
+=======
+| 272 | [Osulloc]          | [Herbal]    | [Jeju Cameillia Flower]     | [Korea]     | Rozanna Wong    | 01-12-17 |
+| 271 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Michael Chu     | 01-12-17 |
+| 270 | [Pickwick]         | [Herbal]    | [Autumn Storm]              | [Holland]   | Marlouk Stek    | 29-11-17 |
+| 269 | [Pickwick]         | [Herbal]    | [Cherry Tea - Kersen Thee]  | [Holland]   | Marlouk Stek    | 29-11-17 |
+| 268 | [Shou Zhuo]        | [Pu-erh]    | Chrysanthemum Tea           | [China]     | Michael Chu     | 27-11-17 |
+| 267 | [Osulloc]          | [Herbal]    | [Jeju Canola & Honey]       | [Korea]     | Rozanna Wong    | 27-11-17 |
+| 266 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Gary Butler     | 24-11-17 |
+| 265 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Gary Butler     | 24-11-17 |
+| 264 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Amy Dreise      | 22-11-17 |
+>>>>>>> upstream/master
 | 263 | [Twinings]         | [Oolong]    | [Orange & Cinnamon]         | -           | Mamatha R.      | 20-11-17 |
 | 262 | [Hema]             | [Green]     | [Moroccan Green]            | [Holland]   | Marlouk Stek    | 15-11-17 |
 | 261 | [Shou Zhuo]        | [Pu-erh]    | Dian Lu Tea                 | [China]     | Michael Chu     | 15-11-17 |
-| 260 | [Shou Zhuo]        | [Pu-erh]    | Glutinous Rice Tea          | [China]     | Michael Chu     | 13-11-17 |
+| 260 | [Shou Zhuo]        | [Pu-erh]    | Ripened Glutinous Rice      | [China]     | Michael Chu     | 13-11-17 |
 | 259 | [Lipton]           | [Black]     | [Russian Earl Grey]         | [Russia]    | Felicia H.      | 10-11-17 |
 | 258 | [Pickwick]         | [Herbal]    | [Tropical Fruit]            | [Holland]   | Marlouk Stek    | 08-11-17 |
 | 257 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Ivan Pchelnikov | 06-11-17 |
@@ -118,7 +130,7 @@
 | 155 | [Miss Dong's]      | [Black]     | Valentine Black Tea         | [China]     | Azadeh H.       | 01-05-17 |
 | 154 | [T2]               | [Green]     | [Cinnamon Matcha]           | [China]     | Kate Andrews    | 28-04-17 |
 | 153 | [Hema]             | [Green]     | [Green Tea Jasmine]         | [China]     | Marlouk Stek    | 26-03-17 |
-| 152 | -                  | [Oolong]    | Oolong Tea                  | [China]     | Ivan Pchelnikov | 24-04-17 |
+| 152 | -                  | [Oolong]    | Chinese Oolong Tea          | [China]     | Ivan Pchelnikov | 24-04-17 |
 | 151 | -                  | [White]     | [Anji White Tea]            | [China]     | Ray Dai         | 21-04-17 |
 | 150 | Jia Ming           | [Green]     | [Jia Ming Dragon Well]      | [China]     | Bill Wang       | 20-04-17 |
 | 149 | [Gewurzhaus]       | [Black]     | [Velvety Vanilla Chai Tea]  | [India]     | Louise Brooks   | 12-04-17 |
@@ -181,7 +193,7 @@
 | 092 | [Symingtons]       | [Herbal]    | [Instant Dandelion Herbal]  | [Scotland]  | Louise Brooks   | 18-11-16 |
 | 091 | [Trader Joe's]     | [Black]     | [Mango & Chile Black Tea]   | [Sri Lanka] | Kate Andrews    | 16-11-16 |
 | 090 | [Rabbit Hole]      | [Black]     | [Berry Bomb]            	   | -           | Gary Butler     | 14-11-16 |
-| 089 | [Kunitaro]         | [Genmaicha] | Brown rice tea              | [Japan]     | Jesse Smit      | 11-11-16 |
+| 089 | [Kunitaro]         | [Genmaicha] | Kunitaro Brown Rice Tea     | [Japan]     | Jesse Smit      | 11-11-16 |
 | 088 | [Basilur]          | [Black]     | [Magic Fruits Ginger]       | [Sri Lanka] | Ruslan Kazakov  | 09-11-16 |
 | 087 | [Basilur]          | [Black]     | [Basilur Earl Grey]         | [Sri Lanka] | Ruslan Kazakov  | 07-11-16 |
 | 086 | [Twinings]         | [Green]     | [Green Tea & Lemon]         | [UK]        | Ruslan Kazakov  | 04-11-16 |
@@ -200,7 +212,7 @@
 | 073 | [Tealeaves]        | [Black]     | [French Earl Grey]          | [China]     | Gary Butler     | 17-10-16 |
 | 072 | [Basilur]          | [Black]     | [Basilur Darjeeling]        | [Sri Lanka] | Ruslan Kazakov  | 14-10-16 |
 | 071 | [Basilur]          | [Black]     | [Masala Chai]               | [Sri Lanka] | Ruslan Kazakov  | 13-10-16 |
-| 070 | Shuey Shing        | [Oolong]    | Oolong Tea                  | [China]     | Jesse Smit      | 12-10-16 |
+| 070 | Shuey Shing        | [Oolong]    | Shuey Oolong Tea            | [China]     | Jesse Smit      | 12-10-16 |
 | 069 | [Higher Living]    | [Herbal]    | [Licorice Tea]              | [UK]        | Louise Brooks   | 10-10-16 |
 | 068 | [Uji no Tsuyu]     | [Genmaicha] | [Ujinotsuyu Genmaicha]      | [Japan]     | Jesse Smit      | 07-10-16 |
 | 067 | [Tealyra]          | [Black]     | [Lady Grey]                 | -           | Ruslan Kazakov  | 06-10-16 |
@@ -309,6 +321,7 @@
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
 [Noviy Krym]: http://crimeantea.ru
 [Numero Uno]: https://www.numerouno.com.au
+[Osulloc]: https://www.osulloc.com
 [Qualitea]: http://www.quali-tea.com
 [Pickwick]: https://www.pickwicktea.com
 [Princess Java]: http://www.java-tea.ru
@@ -340,7 +353,17 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+<<<<<<< HEAD
 [Mulled wine magic]: http://www.t2tea.com/en/uk/tea/limited-edition/mulled-wine-magic-loose-leaf-feature-tin-T140AI119.html
+=======
+[Jeju Cameillia Flower]: https://www.osulloc.com/kr/en/shop/item/blended/5664
+[Autumn Storm]: https://www.pickwick.nl/thee/spices/autumn-storm
+[Cherry Tea - Kersen Thee]: https://www.pickwick.nl/thee/fruit/kers
+[Jeju Canola & Honey]: https://www.osulloc.com/kr/en/shop/item/blended/5663
+[Advent Christmas Tea]: https://gewurzhaus.com.au/product/advent-christmas-tea
+[Breakfast Ceylon (OPX)]: http://adoretea.com.au/New-Tea/breakfast-ceylon-opx.html
+[Mulled Wine Magic]: http://www.t2tea.com/en/uk/tea/limited-edition/mulled-wine-magic-loose-leaf-feature-tin-T140AI119.html
+>>>>>>> upstream/master
 [Orange & Cinnamon]: https://www.woolworths.com.au/shop/productdetails/791152/twinings-orange-cinnamon-tea
 [Russian Earl Grey]: http://www.lipton.com.sg/product/detail/967773/lipton-pyramid-tea-russian-earl-grey
 [Tropical Fruit]: https://www.enjoybettercoffee.com/Pickwick-Tropical-Fruit-Tea-20-tea-bags-p/pw007.htm
