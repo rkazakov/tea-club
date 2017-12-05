@@ -6,9 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-<<<<<<< HEAD
-| 264 | [T2]               | [Herbal]    | [Mulled wine magic]         | -           | Amy Dreise      | 22-11-17 |
-=======
+| 273 | [T2]          | [Oolong]    | [Toasty Warm]     | [Australi]     | Amy Dreise    | 04-12-17 |
 | 272 | [Osulloc]          | [Herbal]    | [Jeju Cameillia Flower]     | [Korea]     | Rozanna Wong    | 01-12-17 |
 | 271 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Michael Chu     | 01-12-17 |
 | 270 | [Pickwick]         | [Herbal]    | [Autumn Storm]              | [Holland]   | Marlouk Stek    | 29-11-17 |
@@ -18,7 +16,6 @@
 | 266 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Gary Butler     | 24-11-17 |
 | 265 | [Adore Tea]        | [Black]     | [Breakfast Ceylon (OPX)]    | [Sri Lanka] | Gary Butler     | 24-11-17 |
 | 264 | [T2]               | [Herbal]    | [Mulled Wine Magic]         | -           | Amy Dreise      | 22-11-17 |
->>>>>>> upstream/master
 | 263 | [Twinings]         | [Oolong]    | [Orange & Cinnamon]         | -           | Mamatha R.      | 20-11-17 |
 | 262 | [Hema]             | [Green]     | [Moroccan Green]            | [Holland]   | Marlouk Stek    | 15-11-17 |
 | 261 | [Shou Zhuo]        | [Pu-erh]    | Dian Lu Tea                 | [China]     | Michael Chu     | 15-11-17 |
@@ -353,9 +350,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-<<<<<<< HEAD
-[Mulled wine magic]: http://www.t2tea.com/en/uk/tea/limited-edition/mulled-wine-magic-loose-leaf-feature-tin-T140AI119.html
-=======
+[Toasty warm]: http://www.t2tea.com/en/au/tea/oolong-tea/toasty-warm-loose-leaf-gift-cube-T105AE014.html
 [Jeju Cameillia Flower]: https://www.osulloc.com/kr/en/shop/item/blended/5664
 [Autumn Storm]: https://www.pickwick.nl/thee/spices/autumn-storm
 [Cherry Tea - Kersen Thee]: https://www.pickwick.nl/thee/fruit/kers
@@ -363,7 +358,6 @@
 [Advent Christmas Tea]: https://gewurzhaus.com.au/product/advent-christmas-tea
 [Breakfast Ceylon (OPX)]: http://adoretea.com.au/New-Tea/breakfast-ceylon-opx.html
 [Mulled Wine Magic]: http://www.t2tea.com/en/uk/tea/limited-edition/mulled-wine-magic-loose-leaf-feature-tin-T140AI119.html
->>>>>>> upstream/master
 [Orange & Cinnamon]: https://www.woolworths.com.au/shop/productdetails/791152/twinings-orange-cinnamon-tea
 [Russian Earl Grey]: http://www.lipton.com.sg/product/detail/967773/lipton-pyramid-tea-russian-earl-grey
 [Tropical Fruit]: https://www.enjoybettercoffee.com/Pickwick-Tropical-Fruit-Tea-20-tea-bags-p/pw007.htm
