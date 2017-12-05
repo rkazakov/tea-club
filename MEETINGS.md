@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 273 | [T2]          | [Oolong]    | [Toasty Warm]     | [Australi]     | Amy Dreise    | 04-12-17 |
+| 273 | [T2]               | [Oolong]    | [Toasty Warm]               | [Australia] | Amy Dreise      | 04-12-17 |
 | 272 | [Osulloc]          | [Herbal]    | [Jeju Cameillia Flower]     | [Korea]     | Rozanna Wong    | 01-12-17 |
 | 271 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Michael Chu     | 01-12-17 |
 | 270 | [Pickwick]         | [Herbal]    | [Autumn Storm]              | [Holland]   | Marlouk Stek    | 29-11-17 |
@@ -350,7 +350,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-[Toasty warm]: http://www.t2tea.com/en/au/tea/oolong-tea/toasty-warm-loose-leaf-gift-cube-T105AE014.html
+[Toasty Warm]: http://www.t2tea.com/en/au/tea/oolong-tea/toasty-warm-loose-leaf-gift-cube-T105AE014.html
 [Jeju Cameillia Flower]: https://www.osulloc.com/kr/en/shop/item/blended/5664
 [Autumn Storm]: https://www.pickwick.nl/thee/spices/autumn-storm
 [Cherry Tea - Kersen Thee]: https://www.pickwick.nl/thee/fruit/kers
