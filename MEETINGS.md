@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 275 | [Indulge Tea]      | [Black]     | [Supreme Ceylon]            | [Sri Lanka] | Gary Butler     | 06-12-17 |
 | 274 | [Aik Cheong]       | [Milk Tea]  | [Teh Tarik]                 | [Malaysia]  | Michael Tong    | 06-12-17 |
 | 273 | [T2]               | [Oolong]    | [Toasty Warm]               | [Australia] | Amy Dreise      | 04-12-17 |
 | 272 | [Osulloc]          | [Herbal]    | [Jeju Cameillia Flower]     | [Korea]     | Rozanna Wong    | 01-12-17 |
@@ -294,16 +295,17 @@
 [Disney]: http://www.disney.com.au
 [Dilmah]: http://www.dilmahtea.com
 [Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
+[Dragon Leaf]: http://www.dragon-leaf.com
 [Efuton]: http://www.efuton.com
 [Fortnum's]: https://www.fortnumandmason.com
-[Hansung KMT]: http://www.kmt.com.my
-[Hema]: http://www.hemashop.com/gb
-[Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
 [Golden Sail]: https://steepster.com/companies/golden-sail-brand
 [Golden Tips]: http://www.goldentipstea.com
-[Dragon Leaf]: http://www.dragon-leaf.com
+[Hansung KMT]: http://www.kmt.com.my
+[Hema]: http://www.hemashop.com/gb
+[Higher Living]: http://www.higherlivingherbs.com
+[Indulge Tea]: http://indulgetea.com.au
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
@@ -352,6 +354,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Supreme Ceylon]: http://indulgetea.com.au/tea-menu
 [Teh Tarik]: http://www.aikcheong.com.my/Templates/zenabasic/product.php
 [Toasty Warm]: http://www.t2tea.com/en/au/tea/oolong-tea/toasty-warm-loose-leaf-gift-cube-T105AE014.html
 [Jeju Cameillia Flower]: https://www.osulloc.com/kr/en/shop/item/blended/5664
