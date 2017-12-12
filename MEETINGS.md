@@ -353,7 +353,6 @@
 [Wedgwood]: http://www.wedgwood.com.au
 [Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
-[Yunnan]: https://yunnansourcing.com/
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
