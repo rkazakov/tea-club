@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 277 | [Shou Zhuo]        | [Pu-erh]    | Rippend Tea                 | [China]     | Michael Chu     | 11-12-17 |
 | 276 | [T2]               | [Herbal]    | [Turkish Apple Chunky]      | [Australia] | Marlouk Stek    | 08-12-17 |
 | 275 | [Indulge Tea]      | [Black]     | [Supreme Ceylon]            | [Sri Lanka] | Gary Butler     | 06-12-17 |
 | 274 | [Aik Cheong]       | [Milk Tea]  | [Teh Tarik]                 | [Malaysia]  | Michael Tong    | 06-12-17 |

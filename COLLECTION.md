@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 256 | [Shou Zhuo]        | [Pu-erh]    | Rippend Tea                 | [China]     | Black                       |
 | 255 | [T2]               | [Herbal]    | [Turkish Apple Chunky]      | [Australia] | Apple                       |
 | 254 | [T2]               | [Oolong]    | [Toasty Warm]               | [Australia] | Warm                        |
 | 253 | [Osulloc]          | [Herbal]    | [Jeju Cameillia Flower]     | [Korea]     | Cameillia Flower            |
