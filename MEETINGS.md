@@ -6,7 +6,13 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 271 | [Yunnan]           | [Pu-erh]    | [Yunnan Pu'er Tea]          | [China]     | Michael Chu     | 01-12-17 |
+| 277 | [Shou Zhuo]        | [Pu-erh]    | Rippend Tea                 | [China]     | Michael Chu     | 11-12-17 |
+| 276 | [T2]               | [Herbal]    | [Turkish Apple Chunky]      | [Australia] | Marlouk Stek    | 08-12-17 |
+| 275 | [Indulge Tea]      | [Black]     | [Supreme Ceylon]            | [Sri Lanka] | Gary Butler     | 06-12-17 |
+| 274 | [Aik Cheong]       | [Milk Tea]  | [Teh Tarik]                 | [Malaysia]  | Michael Tong    | 06-12-17 |
+| 273 | [T2]               | [Oolong]    | [Toasty Warm]               | [Australia] | Amy Dreise      | 04-12-17 |
+| 272 | [Osulloc]          | [Herbal]    | [Jeju Cameillia Flower]     | [Korea]     | Rozanna Wong    | 01-12-17 |
+| 271 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Michael Chu     | 01-12-17 |
 | 270 | [Pickwick]         | [Herbal]    | [Autumn Storm]              | [Holland]   | Marlouk Stek    | 29-11-17 |
 | 269 | [Pickwick]         | [Herbal]    | [Cherry Tea - Kersen Thee]  | [Holland]   | Marlouk Stek    | 29-11-17 |
 | 268 | [Shou Zhuo]        | [Pu-erh]    | Chrysanthemum Tea           | [China]     | Michael Chu     | 27-11-17 |
@@ -280,6 +286,7 @@
 
 <!-- Brand -->
 [Adore Tea]: http://adoretea.com.au
+[Aik Cheong]: http://www.aikcheong.com.my
 [Amy's Teas]: https://github.com/frydreise/recipes
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
@@ -290,16 +297,17 @@
 [Disney]: http://www.disney.com.au
 [Dilmah]: http://www.dilmahtea.com
 [Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
+[Dragon Leaf]: http://www.dragon-leaf.com
 [Efuton]: http://www.efuton.com
 [Fortnum's]: https://www.fortnumandmason.com
-[Hansung KMT]: http://www.kmt.com.my
-[Hema]: http://www.hemashop.com/gb
-[Higher Living]: http://www.higherlivingherbs.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
 [Golden Sail]: https://steepster.com/companies/golden-sail-brand
 [Golden Tips]: http://www.goldentipstea.com
-[Dragon Leaf]: http://www.dragon-leaf.com
+[Hansung KMT]: http://www.kmt.com.my
+[Hema]: http://www.hemashop.com/gb
+[Higher Living]: http://www.higherlivingherbs.com
+[Indulge Tea]: http://indulgetea.com.au
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
@@ -349,7 +357,11 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-[Yunnan Pu'er Tea]: http://jointaobao.com/b/Yunnan-pu-erh-tea-ripe-tea-99-old-leather-bucket-of-loose-tea-gift-box-Year-of-the-horse-special-price-of-68.7-yuan-to-send-handbags/114008.html
+[Turkish Apple Chunky]: http://www.t2tea.com/en/au/tea/turkish-apple-chunky-loose-leaf-gift-cube-turkish_apple_chunky.html
+[Supreme Ceylon]: http://indulgetea.com.au/tea-menu
+[Teh Tarik]: http://www.aikcheong.com.my/Templates/zenabasic/product.php
+[Toasty Warm]: http://www.t2tea.com/en/au/tea/oolong-tea/toasty-warm-loose-leaf-gift-cube-T105AE014.html
+[Jeju Cameillia Flower]: https://www.osulloc.com/kr/en/shop/item/blended/5664
 [Autumn Storm]: https://www.pickwick.nl/thee/spices/autumn-storm
 [Cherry Tea - Kersen Thee]: https://www.pickwick.nl/thee/fruit/kers
 [Jeju Canola & Honey]: https://www.osulloc.com/kr/en/shop/item/blended/5663
@@ -574,6 +586,7 @@
 [Genmaicha]: https://en.wikipedia.org/wiki/Genmaicha
 [Green]: https://en.wikipedia.org/wiki/Green_tea
 [Herbal]: https://en.wikipedia.org/wiki/Herbal_tea
+[Milk Tea]: https://en.wikipedia.org/wiki/Milk_tea
 [Oksusucha]: https://en.wikipedia.org/wiki/Oksusucha
 [Oolong]: https://en.wikipedia.org/wiki/Oolong
 [Pu-erh]: https://en.wikipedia.org/wiki/Pu-erh_tea
@@ -595,6 +608,7 @@
 [Japan]: https://en.wikipedia.org/wiki/Japan
 [Kenya]: https://en.wikipedia.org/wiki/Kenya
 [Korea]: https://en.wikipedia.org/wiki/Korea
+[Malaysia]: https://en.wikipedia.org/wiki/Malaysia
 [Poland]: https://en.wikipedia.org/wiki/Poland
 [Russia]: https://en.wikipedia.org/wiki/Russia
 [Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
