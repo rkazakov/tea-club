@@ -6,8 +6,10 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 256 | [Shou Zhuo]        | [Pu-erh]    | Golden Ripened Tea          | [China]     | Black tea                   |
-| 255 | [T2]               | [Herbal]    | [Turkish Apple Chunky]      | [Australia] | Apple                       |
+| 258 | [Shou Zhuo]        | [Pu-erh]    | Golden Ripened Tea          | [China]     | Black tea                   |
+| 257 | [T2]               | [Herbal]    | [Turkish Apple Chunky]      | [Australia] | Apple                       |
+| 256 | [Indulge Tea]      | [Black]     | [Supreme Ceylon]            | [Sri Lanka] | Black tea                   |
+| 255 | [Aik Cheong]       | [Milk Tea]  | [Teh Tarik]                 | [Malaysia]  | Teh Tarik                   |
 | 254 | [T2]               | [Oolong]    | [Toasty Warm]               | [Australia] | Warm                        |
 | 253 | [Osulloc]          | [Herbal]    | [Jeju Cameillia Flower]     | [Korea]     | Cameillia Flower            |
 | 252 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Pu-erh tea                  |
