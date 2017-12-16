@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 260 | An Phú Tea         | [Green]     | An Phú Green Tea            | [Malaysia]  | Green tea                   |
 | 259 | [Mrs Oldbucks]     | [Black]     | [Caramel Tea]               | [Australia] | Caramel                     |
 | 258 | [Shou Zhuo]        | [Pu-erh]    | Golden Ripened Tea          | [China]     | Black tea                   |
 | 257 | [T2]               | [Herbal]    | [Turkish Apple Chunky]      | [Australia] | Apple                       |
