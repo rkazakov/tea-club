@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 280 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Spearmint, Vanilla bean     |
+| 261 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Spearmint, Vanilla bean     |
 | 260 | An Phú Tea         | [Green]     | An Phú Green Tea            | [Malaysia]  | Green tea                   |
 | 259 | [Mrs Oldbucks]     | [Black]     | [Caramel Tea]               | [Australia] | Caramel                     |
 | 258 | [Shou Zhuo]        | [Pu-erh]    | Golden Ripened Tea          | [China]     | Black tea                   |
