@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 280 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Spearmint, Vanilla bean     |
 | 260 | An Phú Tea         | [Green]     | An Phú Green Tea            | [Malaysia]  | Green tea                   |
 | 259 | [Mrs Oldbucks]     | [Black]     | [Caramel Tea]               | [Australia] | Caramel                     |
 | 258 | [Shou Zhuo]        | [Pu-erh]    | Golden Ripened Tea          | [China]     | Black tea                   |
@@ -339,6 +340,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Vanilla Mint]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/vanilla-mint-loose-leaf-gift-cube-T140AE032.html
 [Caramel Tea]: http://www.mrsoldbucks.com.au/tea-black
 [Turkish Apple Chunky]: http://www.t2tea.com/en/au/tea/turkish-apple-chunky-loose-leaf-gift-cube-turkish_apple_chunky.html
 [Supreme Ceylon]: http://indulgetea.com.au/tea-menu
