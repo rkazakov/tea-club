@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 280 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Marianne Gerdis | 18-12-17 |
+| 280 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Marianne G.     | 18-12-17 |
 | 279 | An Phú Tea         | [Green]     | An Phú Green Tea            | [Malaysia]  | Rozanna Wong    | 15-12-17 |
 | 278 | [Mrs Oldbucks]     | [Black]     | [Caramel Tea]               | [Australia] | Gary Butler     | 13-12-17 |
 | 277 | [Shou Zhuo]        | [Pu-erh]    | Golden Ripened Tea          | [China]     | Michael Chu     | 11-12-17 |
