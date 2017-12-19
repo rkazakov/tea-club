@@ -12,7 +12,7 @@
 | 03   | Kate Andrews       | 20   |
 | 04   | Marlouk Stek       | 20   |
 | 05   | Ivan Pchelnikov    | 19   |
-| 06   | Amy Dreise         | 17   |
+| 06   | Amy Dreise         | 18   |
 | 07   | Louise Brooks      | 11   |
 | 08   | Michael Chu        | 11   |
 | 09   | Bill Wang          | 10   |
@@ -34,4 +34,5 @@
 | 25   | Cris Gladly        | 1    |
 | 26   | Ishwor Gurung      | 1    |
 | 27   | Jessica Hau        | 1    |
-| 28   | Marzieh M.         | 1    |
+| 28   | Marianne G.        | 1    |
+| 29   | Marzieh M.         | 1    |
