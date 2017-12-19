@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 280 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Marianne Gerdis | 18-12-17 |
 | 279 | An Phú Tea         | [Green]     | An Phú Green Tea            | [Malaysia]  | Rozanna Wong    | 15-12-17 |
 | 278 | [Mrs Oldbucks]     | [Black]     | [Caramel Tea]               | [Australia] | Gary Butler     | 13-12-17 |
 | 277 | [Shou Zhuo]        | [Pu-erh]    | Golden Ripened Tea          | [China]     | Michael Chu     | 11-12-17 |
@@ -358,6 +359,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Vanilla Mint]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/vanilla-mint-loose-leaf-gift-cube-T140AE032.html
 [Caramel Tea]: http://www.mrsoldbucks.com.au/tea-black
 [Turkish Apple Chunky]: http://www.t2tea.com/en/au/tea/turkish-apple-chunky-loose-leaf-gift-cube-turkish_apple_chunky.html
 [Supreme Ceylon]: http://indulgetea.com.au/tea-menu
