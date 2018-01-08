@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 285 | [Rus. Tea Company] | [Black]     | [Czar Nicholas II]          | [USA]       | Ruslan Kazakov  | 08-01-18 |
 | 284 | [Tealeaves]        | [Black]     | [Adam & Eve's Garden]       | [Sri Lanka] | Ruslan Kazakov  | 29-12-17 |
 | 283 | [Hema]             | [Green]     | [Moroccan Green]            | [Holland]   | Marlouk Stek    | 28-12-17 |
 | 282 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 27-12-17 |
@@ -338,6 +339,7 @@
 [Pukka]: http://www.pukkaherbs.com.au/
 [Rabbit Hole]: https://therabbithole.com.au
 [Regular Tea]: http://www.ckmc.cn
+[Rus. Tea Company]: http://www.russianteacompany.com
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
@@ -363,6 +365,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Czar Nicholas II]: https://www.russianfooddirect.com/czar-nicholas-ii-premium-russian-tea
 [Vanilla Mint]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/vanilla-mint-loose-leaf-gift-cube-T140AE032.html
 [Caramel Tea]: http://www.mrsoldbucks.com.au/tea-black
 [Turkish Apple Chunky]: http://www.t2tea.com/en/au/tea/turkish-apple-chunky-loose-leaf-gift-cube-turkish_apple_chunky.html
