@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 262 | [Rus Tea Co]       | [Black]     | [Czar Nicholas II]          | [USA]       | Blackcurrant, Strawberry    |
 | 261 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Spearmint, Vanilla bean     |
 | 260 | An Phú Tea         | [Green]     | An Phú Green Tea            | [Malaysia]  | Green tea                   |
 | 259 | [Mrs Oldbucks]     | [Black]     | [Caramel Tea]               | [Australia] | Caramel                     |
@@ -315,6 +316,7 @@
 [Pukka]: http://www.pukkaherbs.com.au/
 [Rabbit Hole]: https://therabbithole.com.au
 [Regular Tea]: http://www.ckmc.cn
+[Rus Tea Co]: http://www.russianteacompany.com
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
@@ -340,6 +342,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Czar Nicholas II]: https://www.russianfooddirect.com/czar-nicholas-ii-premium-russian-tea
 [Vanilla Mint]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/vanilla-mint-loose-leaf-gift-cube-T140AE032.html
 [Caramel Tea]: http://www.mrsoldbucks.com.au/tea-black
 [Turkish Apple Chunky]: http://www.t2tea.com/en/au/tea/turkish-apple-chunky-loose-leaf-gift-cube-turkish_apple_chunky.html
