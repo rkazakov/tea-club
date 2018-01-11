@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 287 | [T2]               | [Herbal]    | [Strawberries & Cream]      | [Australia] | Marlouk Stek    | 10-01-18 |
+| 286 | [Maitre de The]    | [Black]     | [Gingerbread Tea]           | [Russia]    | Ivan Pchelnikov | 10-01-18 |
 | 285 | [Rus Tea Co]       | [Black]     | [Czar Nicholas II]          | [USA]       | Ruslan Kazakov  | 08-01-18 |
 | 284 | [Tealeaves]        | [Black]     | [Adam & Eve's Garden]       | [Sri Lanka] | Ruslan Kazakov  | 29-12-17 |
 | 283 | [Hema]             | [Green]     | [Moroccan Green]            | [Holland]   | Marlouk Stek    | 28-12-17 |
@@ -323,6 +325,7 @@
 [Lipton]: http://www.liptontea.com
 [Love Tea]: https://lovetea.com.au
 [Lupicia]: http://www.lupicia.com.au
+[Maitre de The]: http://www.maitredethe.ru
 [MightyLeaf]: http://www.mightyleaf.com
 [Miss Dong's]: http://www.travelsignpostschina.com/destination/picture.php/chongqing-ciqikou-DSC6334
 [Montea Cristo]: http://www.monteacristo.com.au
@@ -365,6 +368,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Strawberries & Cream]: http://www.t2tea.com/en/au/tea/fruit-tisane/strawberries-cream-loose-leaf-gift-cube-T130AE004.html
+[Gingerbread Tea]: http://www.maitredethe.ru/ru/katalog/category/product/2-chay/68-keniya.html
 [Czar Nicholas II]: https://www.russianfooddirect.com/czar-nicholas-ii-premium-russian-tea
 [Vanilla Mint]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/vanilla-mint-loose-leaf-gift-cube-T140AE032.html
 [Caramel Tea]: http://www.mrsoldbucks.com.au/tea-black
