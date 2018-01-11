@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 264 | [T2]               | [Herbal]    | [Strawberries & Cream]      | [Australia] | Apple, Hibiscus, Rosehip    |
+| 263 | [Maitre de The]    | [Black]     | [Gingerbread Tea]           | [Russia]    | Ginger                      |
 | 262 | [Rus Tea Co]       | [Black]     | [Czar Nicholas II]          | [USA]       | Blackcurrant, Strawberry    |
 | 261 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Spearmint, Vanilla bean     |
 | 260 | An Phú Tea         | [Green]     | An Phú Green Tea            | [Malaysia]  | Green tea                   |
@@ -300,6 +302,7 @@
 [Lipton]: http://www.liptontea.com
 [Love Tea]: https://lovetea.com.au
 [Lupicia]: http://www.lupicia.com.au
+[Maitre de The]: http://www.maitredethe.ru
 [MightyLeaf]: http://www.mightyleaf.com
 [Miss Dong's]: http://www.travelsignpostschina.com/destination/picture.php/chongqing-ciqikou-DSC6334
 [Montea Cristo]: http://www.monteacristo.com.au
@@ -342,6 +345,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Strawberries & Cream]: http://www.t2tea.com/en/au/tea/fruit-tisane/strawberries-cream-loose-leaf-gift-cube-T130AE004.html
+[Gingerbread Tea]: http://www.maitredethe.ru/ru/katalog/category/product/2-chay/68-keniya.html
 [Czar Nicholas II]: https://www.russianfooddirect.com/czar-nicholas-ii-premium-russian-tea
 [Vanilla Mint]: https://www.t2tea.com/en/au/tea/herbal-floral-tisane/vanilla-mint-loose-leaf-gift-cube-T140AE032.html
 [Caramel Tea]: http://www.mrsoldbucks.com.au/tea-black
