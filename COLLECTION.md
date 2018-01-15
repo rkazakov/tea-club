@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 265 | [San-Cha]          | [Black]     | [Cardamom]                  | [India]     | Cardamom                    |
 | 264 | [T2]               | [Herbal]    | [Strawberries & Cream]      | [Australia] | Apple, Hibiscus, Rosehip    |
 | 263 | [Maitre de The]    | [Black]     | [Gingerbread Tea]           | [Russia]    | Ginger                      |
 | 262 | [Rus Tea Co]       | [Black]     | [Czar Nicholas II]          | [USA]       | Blackcurrant, Strawberry    |
@@ -321,6 +322,7 @@
 [Regular Tea]: http://www.ckmc.cn
 [Rus Tea Co]: http://www.russianteacompany.com
 [Sahar Khiz]: http://www.saharkhizsaffron.com
+[San-Cha]: http://www.sanchatea.com
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
 [Shou Zhuo]: https://kmshouyixuan.1688.com/page/creditdetail.htm
@@ -345,6 +347,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Cardamom]: http://www.sanchatea.com/category-1
 [Strawberries & Cream]: http://www.t2tea.com/en/au/tea/fruit-tisane/strawberries-cream-loose-leaf-gift-cube-T130AE004.html
 [Gingerbread Tea]: http://www.maitredethe.ru/ru/katalog/category/product/2-chay/68-keniya.html
 [Czar Nicholas II]: https://www.russianfooddirect.com/czar-nicholas-ii-premium-russian-tea
