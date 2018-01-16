@@ -3,16 +3,16 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 16/12/2017
+#### Updated: 16/01/2018
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
-| 01   | Ruslan Kazakov     | 47   |
+| 01   | Ruslan Kazakov     | 48   |
 | 02   | Gary Butler        | 42   |
-| 03   | Kate Andrews       | 20   |
-| 04   | Marlouk Stek       | 20   |
-| 05   | Ivan Pchelnikov    | 19   |
-| 06   | Amy Dreise         | 18   |
+| 03   | Marlouk Stek       | 22   |
+| 04   | Ivan Pchelnikov    | 20   |
+| 05   | Kate Andrews       | 20   |
+| 06   | Amy Dreise         | 17   |
 | 07   | Louise Brooks      | 11   |
 | 08   | Michael Chu        | 11   |
 | 09   | Bill Wang          | 10   |
@@ -36,3 +36,4 @@
 | 27   | Jessica Hau        | 1    |
 | 28   | Marianne G.        | 1    |
 | 29   | Marzieh M.         | 1    |
+| 30   | Will Niu           | 1    |
