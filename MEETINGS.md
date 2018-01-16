@@ -7,7 +7,7 @@
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
 | 290 | [T2]               | [Herbal]    | [Very Berry Fruitea]        | [Australia] | Marlouk Stek    | 15-01-18 |
-| 289 | [???]              | [Green]     | ???                         | [China]     | Will Niu        | 15-01-18 |
+| 289 | [Anhui]            | [Yellow]    | [Huoshan Huangya]           | [China]     | Will Niu        | 15-01-18 |
 | 288 | [San-Cha]          | [Black]     | [Cardamom]                  | [India]     | Mamatha R.      | 12-01-18 |
 | 287 | [T2]               | [Herbal]    | [Strawberries & Cream]      | [Australia] | Marlouk Stek    | 10-01-18 |
 | 286 | [Maitre de The]    | [Black]     | [Gingerbread Tea]           | [Russia]    | Ivan Pchelnikov | 10-01-18 |
@@ -301,6 +301,7 @@
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
 [Amy's Teas]: https://github.com/frydreise/recipes
+[Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
 [Bukalapak]: https://www.bukalapak.com
@@ -372,6 +373,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Very Berry Fruitea]: http://www.t2tea.com/en/au/tea/fruit-tisane/very-berry-fruitea-loose-leaf-gift-cube-T130AE010.html
+[Huoshan Huangya]: https://en.wikipedia.org/wiki/Huoshan_Huangya_tea
 [Cardamom]: http://www.sanchatea.com/category-1
 [Strawberries & Cream]: http://www.t2tea.com/en/au/tea/fruit-tisane/strawberries-cream-loose-leaf-gift-cube-T130AE004.html
 [Gingerbread Tea]: http://www.maitredethe.ru/ru/katalog/category/product/2-chay/68-keniya.html
