@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 267 | [T2]               | [Herbal]    | [Very Berry Fruitea]        | [Australia] | Hibiscus, Rosehip           |
+| 266 | [Anhui]            | [Yellow]    | [Huoshan Huangya]           | [China]     | Yellow tea                  |
 | 265 | [San-Cha]          | [Black]     | [Cardamom]                  | [India]     | Cardamom                    |
 | 264 | [T2]               | [Herbal]    | [Strawberries & Cream]      | [Australia] | Apple, Hibiscus, Rosehip    |
 | 263 | [Maitre de The]    | [Black]     | [Gingerbread Tea]           | [Russia]    | Ginger                      |
@@ -276,6 +278,7 @@
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
 [Amy's Teas]: https://github.com/frydreise/recipes
+[Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
 [Bukalapak]: https://www.bukalapak.com
@@ -347,6 +350,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Very Berry Fruitea]: http://www.t2tea.com/en/au/tea/fruit-tisane/very-berry-fruitea-loose-leaf-gift-cube-T130AE010.html
+[Huoshan Huangya]: https://en.wikipedia.org/wiki/Huoshan_Huangya_tea
 [Cardamom]: http://www.sanchatea.com/category-1
 [Strawberries & Cream]: http://www.t2tea.com/en/au/tea/fruit-tisane/strawberries-cream-loose-leaf-gift-cube-T130AE004.html
 [Gingerbread Tea]: http://www.maitredethe.ru/ru/katalog/category/product/2-chay/68-keniya.html
