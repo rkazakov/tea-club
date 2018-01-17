@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 269 | [T2]               | [Herbal]    | [Fruitalicious]             | [Australia] | Apple, Dragon fruit         |
+| 268 | [Adore Tea]        | [Black]     | [Truffle Tea]               | [Sri Lanka] | Macadamias, Cocoa           |
 | 267 | [T2]               | [Herbal]    | [Very Berry Fruitea]        | [Australia] | Hibiscus, Rosehip           |
 | 266 | [Anhui]            | [Yellow]    | [Huoshan Huangya]           | [China]     | Yellow tea                  |
 | 265 | [San-Cha]          | [Black]     | [Cardamom]                  | [India]     | Cardamom                    |
