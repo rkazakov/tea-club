@@ -352,6 +352,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Fruitalicious]: http://www.t2tea.com/en/au/tea/fruit-tisane/fruitalicious-loose-leaf-gift-cube-T130AE018.html
+[Truffle Tea]: http://www.adoretea.com.au/Certified-Organic/Organic-Earl-Grey-p100.html
 [Very Berry Fruitea]: http://www.t2tea.com/en/au/tea/fruit-tisane/very-berry-fruitea-loose-leaf-gift-cube-T130AE010.html
 [Huoshan Huangya]: https://en.wikipedia.org/wiki/Huoshan_Huangya_tea
 [Cardamom]: http://www.sanchatea.com/category-1
