@@ -6,8 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 271 | [T2]               | [Black]     | [Christmas Breakfast]       | [Australia] | Black, Christmas, ginger    |
-| 270 | [T2]               | [Black]     | [Black Rose]                | [Australia] | Black, Rose                 |
+| 271 | [T2]               | [Black]     | [Christmas Breakfast]       | [Australia] | Ginger, Cinnamon            |
+| 270 | [T2]               | [Black]     | [Black Rose]                | [Australia] | Rose                        |
 | 269 | [T2]               | [Herbal]    | [Fruitalicious]             | [Australia] | Apple, Dragon fruit         |
 | 268 | [Adore Tea]        | [Black]     | [Truffle Tea]               | [Sri Lanka] | Macadamias, Cocoa           |
 | 267 | [T2]               | [Herbal]    | [Very Berry Fruitea]        | [Australia] | Hibiscus, Rosehip           |
