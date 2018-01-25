@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 272 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Lemongrass, Ginger          |
 | 271 | [T2]               | [Black]     | [Christmas Breakfast]       | [Australia] | Ginger, Cinnamon            |
 | 270 | [T2]               | [Black]     | [Black Rose]                | [Australia] | Rose                        |
 | 269 | [T2]               | [Herbal]    | [Fruitalicious]             | [Australia] | Apple, Dragon fruit         |
@@ -354,6 +355,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Lemongrass and Ginger]: http://www.t2tea.com/en/au/lemongrass-and-ginger-loose-leaf-gift-cube-T140AE017.html
 [Christmas Breakfast]: https://steepster.com/teas/t2/81727-christmas-breakfast
 [Black Rose]: http://www.t2tea.com/en/au/tea/black-tea/black-rose-loose-leaf-gift-cube-T125AE003.html
 [Fruitalicious]: http://www.t2tea.com/en/au/tea/fruit-tisane/fruitalicious-loose-leaf-gift-cube-T130AE018.html
