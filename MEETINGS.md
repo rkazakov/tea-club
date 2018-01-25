@@ -6,7 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 294 | [T2]               | [Black]     | [Christmas Breakfast]       | [Australia] | Amy Dreise      | 23-01-18 |
+| 295 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Marianne G.     | 24-01-18 |
+| 294 | [T2]               | [Black]     | [Christmas Breakfast]       | [Australia] | Amy Dreise      | 22-01-18 |
 | 293 | [T2]               | [Black]     | [Black Rose]                | [Australia] | Amy Dreise      | 19-01-18 |
 | 292 | [T2]               | [Herbal]    | [Fruitalicious]             | [Australia] | Marlouk Stek    | 17-01-18 |
 | 291 | [Adore Tea]        | [Black]     | [Truffle Tea]               | [Sri Lanka] | Gary Butler     | 17-01-18 |
@@ -377,6 +378,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Lemongrass and Ginger]: http://www.t2tea.com/en/au/lemongrass-and-ginger-loose-leaf-gift-cube-T140AE017.html
 [Christmas Breakfast]: https://steepster.com/teas/t2/81727-christmas-breakfast
 [Black Rose]: http://www.t2tea.com/en/au/tea/black-tea/black-rose-loose-leaf-gift-cube-T125AE003.html
 [Fruitalicious]: http://www.t2tea.com/en/au/tea/fruit-tisane/fruitalicious-loose-leaf-gift-cube-T130AE018.html
