@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 273 | [Jing Tea]         | [Black]     | Jing Tea Black              | [China]     | Black tea                   |
 | 272 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Lemongrass, Ginger          |
 | 271 | [T2]               | [Black]     | [Christmas Breakfast]       | [Australia] | Ginger, Cinnamon            |
 | 270 | [T2]               | [Black]     | [Black Rose]                | [Australia] | Rose                        |
@@ -304,6 +305,7 @@
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Indulge Tea]: http://indulgetea.com.au
+[Jing Tea]: http://www.jing-tea.com
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
