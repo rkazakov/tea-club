@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 296 | [Jing Tea]         | [Black]     | Jing Tea Green              | [China]     | Charlotte Bian  | 29-01-18 |
 | 295 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Marianne G.     | 24-01-18 |
 | 294 | [T2]               | [Black]     | [Christmas Breakfast]       | [Australia] | Amy Dreise      | 22-01-18 |
 | 293 | [T2]               | [Black]     | [Black Rose]                | [Australia] | Amy Dreise      | 19-01-18 |
@@ -327,6 +328,7 @@
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Indulge Tea]: http://indulgetea.com.au
+[Jing Tea]: http://www.jing-tea.com
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
