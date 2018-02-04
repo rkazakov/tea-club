@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 276 | [Basilur]          | [Herbal]    | [Caribbean Cocktail]        | [Sri Lanka] | Pplums, Papaya, Apple       |
+| 275 | [Twinings]         | [Black]     | [Enchanting Forest Fruit]   | [Australia] | Strawberry, Blueberry       |
 | 274 | [Basilur]          | [Black]     | [Tea Book I]                | [Sri Lanka] | Roasted almond, Cornflower  |
 | 273 | [Jing Tea]         | [Black]     | Jing Tea Black              | [China]     | Black tea                   |
 | 272 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Lemongrass, Ginger          |
