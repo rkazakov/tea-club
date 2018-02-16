@@ -6,6 +6,14 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 307 | [Tea Adore]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Gary Butler     | 16-02-18 |
+| 306 | [Gewurzhaus]       | [Green]     | [Moroccan Mint]             | [Germany]   | Gary Butler     | 16-02-18 |
+| 305 | [Tea Adore]        | [Black]     | [Coconut]                   | [China]     | Gary Butler     | 14-02-18 |
+| 304 | [Tea Adore]        | [Green]     | [Soursop Sencha]            | [China]     | Gary Butler     | 12-02-18 |
+| 303 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Michael Chu     | 09-02-18 |
+| 302 | [Tea Cosy]         | [Black]     | Scottish Breakfast          | -           | Gary Butler     | 09-02-18 |
+| 301 | [Blue Mountains]   | [Black]     | [Cha Cha Chai]              | [Australia] | Gary Butler     | 07-02-18 |
+| 300 | [Blue Mountains]   | [Black]     | [Australian Premium]        | [Australia] | Gary Butler     | 05-02-18 |
 | 299 | [Basilur]          | [Herbal]    | [Caribbean Cocktail]        | [Sri Lanka] | Ruslan Kazakov  | 02-02-18 |
 | 298 | [Twinings]         | [Black]     | [Enchanting Forest Fruit]   | [Australia] | Marianne G.     | 02-02-18 |
 | 297 | [Basilur]          | [Black]     | [Tea Book I]                | [Sri Lanka] | Ruslan Kazakov  | 31-01-18 |
@@ -313,6 +321,7 @@
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
+[Blue Mountains]: https://bluemountainstea.com.au/
 [Bukalapak]: https://www.bukalapak.com
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
@@ -383,6 +392,12 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Australian Premium]: https://bluemountainstea.com.au/products/australian-premium-black
+[Cha Cha Chai]: https://bluemountainstea.com.au/products/cha-cha-chai
+[Soursop Sencha]: http://adoretea.com.au/soursop-sencha.html
+[Coconut]: http://adoretea.com.au/coconut-tea.html
+[Moroccan Mint]: https://gewurzhaus.com.au/product/moroccan-mint-tea-25g-l/
+[Nepalese Orange Pekoe]: http://adoretea.com.au/Top-35/nepalese-orange-pekoe.html
 [Enchanting Forest Fruit]: https://www.woolworths.com.au/Shop/ProductDetails/957951/twinings-black-tea-enchanting-forest-fruit
 [Caribbean Cocktail]: http://www.basilurshop.com.au/basilur/fruit-infusions-100g-t-caddy-caribbean-cocktail/
 [Tea Book I]: http://www.basilurshop.com.au/basilur/tea-books/tin-caddies/tea-book-t-caddy-flbt-lt-tea-book-volume-i-blue
