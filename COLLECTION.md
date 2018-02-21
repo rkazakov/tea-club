@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 284 | [Adore Tea]        | [Black]     | [East Frisian]              | [India]     | Black tea                   |
 | 283 | [Adore Tea]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Black tea                   |
 | 282 | [Gewurzhaus]       | [Green]     | [Moroccan Mint]             | [Germany]   | Spearmint, Peppermint, Rose |
 | 281 | [Adore Tea]        | [Black]     | [Coconut]                   | [Australia] | Coconut                     |
