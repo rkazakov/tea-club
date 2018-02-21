@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 310 | [Adore Tea]        | [Black]     | [East Frisian]              | [China]     | Gary Butler     | 21-02-18 |
 | 309 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | Ruslan Kazakov  | 19-02-18 |
 | 308 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 19-02-18 |
 | 307 | [Adore Tea]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Gary Butler     | 16-02-18 |
@@ -394,6 +395,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[East Frisian]: http://adoreteawholesale.com.au/Black/Black-Tea/east-frisian.html
 [Australian Premium]: https://bluemountainstea.com.au/products/australian-premium-black
 [Cha Cha Chai]: https://bluemountainstea.com.au/products/cha-cha-chai
 [Soursop Sencha]: http://adoretea.com.au/soursop-sencha.html
