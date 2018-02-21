@@ -6,10 +6,10 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 307 | [Tea Adore]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Gary Butler     | 16-02-18 |
+| 307 | [Adore Tea]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Gary Butler     | 16-02-18 |
 | 306 | [Gewurzhaus]       | [Green]     | [Moroccan Mint]             | [Germany]   | Gary Butler     | 16-02-18 |
-| 305 | [Tea Adore]        | [Black]     | [Coconut]                   | [China]     | Gary Butler     | 14-02-18 |
-| 304 | [Tea Adore]        | [Green]     | [Soursop Sencha]            | [China]     | Gary Butler     | 12-02-18 |
+| 305 | [Adore Tea]        | [Black]     | [Coconut]                   | [China]     | Gary Butler     | 14-02-18 |
+| 304 | [Adore Tea]        | [Green]     | [Soursop Sencha]            | [China]     | Gary Butler     | 12-02-18 |
 | 303 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Michael Chu     | 09-02-18 |
 | 302 | [Tea Cosy]         | [Black]     | Scottish Breakfast          | -           | Gary Butler     | 09-02-18 |
 | 301 | [Blue Mountains]   | [Black]     | [Cha Cha Chai]              | [Australia] | Gary Butler     | 07-02-18 |
