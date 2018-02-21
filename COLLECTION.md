@@ -297,6 +297,7 @@
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
+[Blue Mountains]: https://bluemountainstea.com.au/
 [Bukalapak]: https://www.bukalapak.com
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
@@ -367,6 +368,12 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Australian Premium]: https://bluemountainstea.com.au/products/australian-premium-black
+[Cha Cha Chai]: https://bluemountainstea.com.au/products/cha-cha-chai
+[Soursop Sencha]: http://adoretea.com.au/soursop-sencha.html
+[Coconut]: http://adoretea.com.au/coconut-tea.html
+[Moroccan Mint]: https://gewurzhaus.com.au/product/moroccan-mint-tea-25g-l/
+[Nepalese Orange Pekoe]: http://adoretea.com.au/Top-35/nepalese-orange-pekoe.html
 [Enchanting Forest Fruit]: https://www.woolworths.com.au/Shop/ProductDetails/957951/twinings-black-tea-enchanting-forest-fruit
 [Caribbean Cocktail]: http://www.basilurshop.com.au/basilur/fruit-infusions-100g-t-caddy-caribbean-cocktail/
 [Tea Book I]: http://www.basilurshop.com.au/basilur/tea-books/tin-caddies/tea-book-t-caddy-flbt-lt-tea-book-volume-i-blue
