@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 309 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | Ruslan Kazakov  | 19-02-18 |
+| 308 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 19-02-18 |
 | 307 | [Adore Tea]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Gary Butler     | 16-02-18 |
 | 306 | [Gewurzhaus]       | [Green]     | [Moroccan Mint]             | [Germany]   | Gary Butler     | 16-02-18 |
 | 305 | [Adore Tea]        | [Black]     | [Coconut]                   | [China]     | Gary Butler     | 14-02-18 |
