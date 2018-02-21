@@ -6,10 +6,10 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 283 | [Tea Adore]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Black tea                   |
+| 283 | [Adore Tea]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Black tea                   |
 | 282 | [Gewurzhaus]       | [Green]     | [Moroccan Mint]             | [Germany]   | Spearmint, Peppermint, Rose |
-| 281 | [Tea Adore]        | [Black]     | [Coconut]                   | [Australia] | Coconut                     |
-| 280 | [Tea Adore]        | [Green]     | [Soursop Sencha]            | [China]     | Soursop                     |
+| 281 | [Adore Tea]        | [Black]     | [Coconut]                   | [Australia] | Coconut                     |
+| 280 | [Adore Tea]        | [Green]     | [Soursop Sencha]            | [China]     | Soursop                     |
 | 279 | [Tea Cosy]         | [Black]     | Scottish Breakfast          | -           | Malty                       |
 | 278 | [Blue Mountains]   | [Black]     | [Cha Cha Chai]              | [Australia] | Spicey Warm Chai            |
 | 277 | [Blue Mountains]   | [Black]     | [Australian Premium]        | [Australia] | Buttery & Nutty             |
