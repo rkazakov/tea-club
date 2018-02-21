@@ -369,6 +369,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[East Frisian]: http://adoreteawholesale.com.au/Black/Black-Tea/east-frisian.html
 [Australian Premium]: https://bluemountainstea.com.au/products/australian-premium-black
 [Cha Cha Chai]: https://bluemountainstea.com.au/products/cha-cha-chai
 [Soursop Sencha]: http://adoretea.com.au/soursop-sencha.html
