@@ -31,7 +31,7 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
 | Congou       | 20           | Gary Butler ᛫ Kate Andrews ᛫ Marlouk Stek ᛫ Ivan Pchelnikov               |
 | Souchong     | 30           | Gary Butler                                                             |
 | Pekoe        | 50           | Gary Butler                                                             |
-| Orange Pekoe | 100           | Gary Butler                                                             |
+| Orange Pekoe | 100          |                                                                         |
 
 [MYOB Tea Club]: https://github.com/rkazakov/tea-club
 [Tea Leaf Grading]: https://en.wikipedia.org/wiki/Tea_leaf_grading
