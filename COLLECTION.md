@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 286 | [Kaleidoscope]     | [Black]     | [Serendip Blend]            | [Sri Lanka] | Black tea                   |
+| 285 | [Basilur]          | [Green]     | [Tea Book III]              | [Sri Lanka] | Strawberry, Cranberry       |
 | 284 | [Adore Tea]        | [Black]     | [East Frisian]              | [India]     | Black tea                   |
 | 283 | [Adore Tea]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Black tea                   |
 | 282 | [Gewurzhaus]       | [Green]     | [Moroccan Mint]             | [Germany]   | Spearmint, Peppermint, Rose |
@@ -318,6 +320,7 @@
 [Higher Living]: http://www.higherlivingherbs.com
 [Indulge Tea]: http://indulgetea.com.au
 [Jing Tea]: http://www.jing-tea.com
+[Kaleidoscope]: https://taste-kaleidoscope.com.au
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
@@ -369,6 +372,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Serendip Blend]: https://taste-kaleidoscope.com.au/products/black-tea-serendip-blend
+[Tea Book III]: https://www.ruskiwaydeli.com.au/basilur-tea-book-vol.3-green-tea-caddy-100g
 [East Frisian]: http://adoreteawholesale.com.au/Black/Black-Tea/east-frisian.html
 [Australian Premium]: https://bluemountainstea.com.au/products/australian-premium-black
 [Cha Cha Chai]: https://bluemountainstea.com.au/products/cha-cha-chai
