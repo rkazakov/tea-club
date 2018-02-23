@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 312 | [Kaleidoscope]     | [Black]     | [Serendip Blend]            | [Sri Lanka] | Louise Brooks   | 23-02-18 |
 | 311 | [Basilur]          | [Green]     | [Tea Book III]              | [Sri Lanka] | Ruslan Kazakov  | 23-02-18 |
 | 310 | [Adore Tea]        | [Black]     | [East Frisian]              | [China]     | Gary Butler     | 21-02-18 |
 | 309 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | Ruslan Kazakov  | 19-02-18 |
@@ -345,6 +346,7 @@
 [Higher Living]: http://www.higherlivingherbs.com
 [Indulge Tea]: http://indulgetea.com.au
 [Jing Tea]: http://www.jing-tea.com
+[Kaleidoscope]: https://taste-kaleidoscope.com.au
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
@@ -396,6 +398,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Serendip Blend]: https://taste-kaleidoscope.com.au/products/black-tea-serendip-blend
 [Tea Book III]: https://www.ruskiwaydeli.com.au/basilur-tea-book-vol.3-green-tea-caddy-100g
 [East Frisian]: http://adoreteawholesale.com.au/Black/Black-Tea/east-frisian.html
 [Australian Premium]: https://bluemountainstea.com.au/products/australian-premium-black
