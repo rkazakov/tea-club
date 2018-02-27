@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 287 | [Kaleidoscope]     | [Herbal]    | [Gingers & Honeybush]       | [Sri Lanka] | Gingers, Honeybush          |
 | 286 | [Kaleidoscope]     | [Black]     | [Serendip Blend]            | [Sri Lanka] | Black tea                   |
 | 285 | [Basilur]          | [Green]     | [Tea Book III]              | [Sri Lanka] | Strawberry, Cranberry       |
 | 284 | [Adore Tea]        | [Black]     | [East Frisian]              | [India]     | Black tea                   |
