@@ -373,6 +373,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Gingers & Honeybush]: https://taste-kaleidoscope.com.au/collections/all-products-1/products/gingers-honeybush-tea
 [Serendip Blend]: https://taste-kaleidoscope.com.au/products/black-tea-serendip-blend
 [Tea Book III]: https://www.ruskiwaydeli.com.au/basilur-tea-book-vol.3-green-tea-caddy-100g
 [East Frisian]: http://adoreteawholesale.com.au/Black/Black-Tea/east-frisian.html
