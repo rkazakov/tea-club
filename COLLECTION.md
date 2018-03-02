@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 288 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Melon, Banana               |
 | 287 | [Kaleidoscope]     | [Herbal]    | [Gingers & Honeybush]       | [Sri Lanka] | Gingers, Honeybush          |
 | 286 | [Kaleidoscope]     | [Black]     | [Serendip Blend]            | [Sri Lanka] | Black tea                   |
 | 285 | [Basilur]          | [Green]     | [Tea Book III]              | [Sri Lanka] | Strawberry, Cranberry       |
@@ -373,6 +374,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Melon & Banana]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-melon-banana-100g
 [Gingers & Honeybush]: https://taste-kaleidoscope.com.au/collections/all-products-1/products/gingers-honeybush-tea
 [Serendip Blend]: https://taste-kaleidoscope.com.au/products/black-tea-serendip-blend
 [Tea Book III]: https://www.ruskiwaydeli.com.au/basilur-tea-book-vol.3-green-tea-caddy-100g
