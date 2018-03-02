@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 314 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Ruslan Kazakov  | 28-02-18 |
 | 313 | [Kaleidoscope]     | [Herbal]    | [Gingers & Honeybush]       | [Sri Lanka] | Louise Brooks   | 26-02-18 |
 | 312 | [Kaleidoscope]     | [Black]     | [Serendip Blend]            | [Sri Lanka] | Louise Brooks   | 23-02-18 |
 | 311 | [Basilur]          | [Green]     | [Tea Book III]              | [Sri Lanka] | Ruslan Kazakov  | 23-02-18 |
@@ -399,6 +400,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Melon & Banana]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-melon-banana-100g
 [Gingers & Honeybush]: https://taste-kaleidoscope.com.au/collections/all-products-1/products/gingers-honeybush-tea
 [Serendip Blend]: https://taste-kaleidoscope.com.au/products/black-tea-serendip-blend
 [Tea Book III]: https://www.ruskiwaydeli.com.au/basilur-tea-book-vol.3-green-tea-caddy-100g
