@@ -7,8 +7,8 @@
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
 | 288 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Melon, Banana               |
-| 287 | [Kaleidoscope]     | [Herbal]    | [Gingers & Honeybush]       | [Sri Lanka] | Gingers, Honeybush          |
-| 286 | [Kaleidoscope]     | [Black]     | [Serendip Blend]            | [Sri Lanka] | Black tea                   |
+| 287 | [Kaleidoscope]     | [Herbal]    | [Gingers & Honeybush]       | -           | Gingers, Honeybush          |
+| 286 | [Kaleidoscope]     | [Black]     | [Serendip Blend]            | -           | Black tea                   |
 | 285 | [Basilur]          | [Green]     | [Tea Book III]              | [Sri Lanka] | Strawberry, Cranberry       |
 | 284 | [Adore Tea]        | [Black]     | [East Frisian]              | [India]     | Black tea                   |
 | 283 | [Adore Tea]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Black tea                   |
