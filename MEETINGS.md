@@ -7,8 +7,8 @@
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
 | 314 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Ruslan Kazakov  | 28-02-18 |
-| 313 | [Kaleidoscope]     | [Herbal]    | [Gingers & Honeybush]       | [Sri Lanka] | Louise Brooks   | 26-02-18 |
-| 312 | [Kaleidoscope]     | [Black]     | [Serendip Blend]            | [Sri Lanka] | Louise Brooks   | 23-02-18 |
+| 313 | [Kaleidoscope]     | [Herbal]    | [Gingers & Honeybush]       | -           | Louise Brooks   | 26-02-18 |
+| 312 | [Kaleidoscope]     | [Black]     | [Serendip Blend]            | -           | Louise Brooks   | 23-02-18 |
 | 311 | [Basilur]          | [Green]     | [Tea Book III]              | [Sri Lanka] | Ruslan Kazakov  | 23-02-18 |
 | 310 | [Adore Tea]        | [Black]     | [East Frisian]              | [China]     | Gary Butler     | 21-02-18 |
 | 309 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | Ruslan Kazakov  | 19-02-18 |
