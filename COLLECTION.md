@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 290 | [Gewurzhaus]       | [Herbal]    | [Apple Pie Tea]             | [Germany]   | Apple, Raisins, Chicory     |
 | 289 | [Kaleidoscope]     | [Herbal]    | [Royal Thailand]            | [Thailand]  | Coconut, Spices             |
 | 288 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Melon, Banana               |
 | 287 | [Kaleidoscope]     | [Herbal]    | [Gingers & Honeybush]       | -           | Gingers, Honeybush          |
@@ -375,6 +376,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Apple Pie Tea]: https://gewurzhaus.com.au/product/apple-pie-tea/
 [Royal Thailand]: https://taste-kaleidoscope.com.au/collections/frontpage/products/coming-soon-spiced-tea-no-5-royal-thailand-60g-golden-turmeric-coconut-mint
 [Melon & Banana]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-melon-banana-100g
 [Gingers & Honeybush]: https://taste-kaleidoscope.com.au/collections/all-products-1/products/gingers-honeybush-tea
