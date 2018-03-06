@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 291 | [Adore Tea]        | [Black]     | [Nilgiri]                   | [India]     | Black tea from Nilgiri      |
 | 290 | [Gewurzhaus]       | [Herbal]    | [Apple Pie Tea]             | [Germany]   | Apple, Raisins, Chicory     |
 | 289 | [Kaleidoscope]     | [Herbal]    | [Royal Thailand]            | [Thailand]  | Coconut, Spices             |
 | 288 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Melon, Banana               |
@@ -376,6 +377,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Nilgiri]: http://adoretea.com.au/Black/Black-Tea/nilgiri.html
 [Apple Pie Tea]: https://gewurzhaus.com.au/product/apple-pie-tea/
 [Royal Thailand]: https://taste-kaleidoscope.com.au/collections/frontpage/products/coming-soon-spiced-tea-no-5-royal-thailand-60g-golden-turmeric-coconut-mint
 [Melon & Banana]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-melon-banana-100g
