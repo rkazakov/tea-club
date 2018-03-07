@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 292 | [Kaleidoscope]     | [Herbal]    | [Organic Green Tea Formosa] | [Taiwan]    | Jasmine, Vanilla            |
 | 291 | [Adore Tea]        | [Black]     | [Nilgiri]                   | [India]     | Black tea from Nilgiri      |
 | 290 | [Gewurzhaus]       | [Herbal]    | [Apple Pie Tea]             | [Germany]   | Apple, Raisins, Chicory     |
 | 289 | [Kaleidoscope]     | [Herbal]    | [Royal Thailand]            | [Thailand]  | Coconut, Spices             |
