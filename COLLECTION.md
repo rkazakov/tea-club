@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 294 | [Tridosha]         | [Black]     | [Serendip]                  | [Sri Lanka] | Spiced Chai                 |
+| 293 | [T2]               | [Black]     | [Baxter's Buns]             | [China]     | Spiced Chai                 |
 | 292 | [Kaleidoscope]     | [Herbal]    | [Organic Green Tea Formosa] | [Taiwan]    | Jasmine, Vanilla            |
 | 291 | [Adore Tea]        | [Black]     | [Nilgiri]                   | [India]     | Black tea from Nilgiri      |
 | 290 | [Gewurzhaus]       | [Herbal]    | [Apple Pie Tea]             | [Germany]   | Apple, Raisins, Chicory     |
@@ -369,6 +371,7 @@
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
+[Tridosha]: https://tridosha.com.au
 [Twinings]: http://www.twiningsusa.com
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
@@ -378,6 +381,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Serendip]: https://tridosha.com.au/products/products_royaltea.html
+[Baxter's Buns]: https://www.t2tea.com/en/au/tea/baxter-s-buns-loose-leaf-feature-cube-T125AE200.html
 [Organic Green Tea Formosa]: https://taste-kaleidoscope.com.au/collections/all-products-1/products/organic-green-tea-formosa
 [Nilgiri]: http://adoretea.com.au/Black/Black-Tea/nilgiri.html
 [Apple Pie Tea]: https://gewurzhaus.com.au/product/apple-pie-tea/

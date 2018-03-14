@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 320 | [Tridosha]         | [Black]     | [Serendip]                  | [Sri Lanka] | Gary Butler     | 12-03-18 |
+| 319 | [T2]               | [Black]     | [Baxter's Buns]             | [China]     | Gary Butler     | 09-03-18 |
 | 318 | [Kaleidoscope]     | [Herbal]    | [Organic Green Tea Formosa] | [Taiwan]    | Louise Brooks   | 07-03-18 |
 | 317 | [Adore Tea]        | [Black]     | [Nilgiri]                   | [India]     | Gary Butler     | 05-03-18 |
 | 316 | [Gewurzhaus]       | [Herbal]    | [Apple Pie Tea]             | [Germany]   | Gary Butler     | 02-03-18 |
@@ -395,6 +397,7 @@
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
+[Tridosha]: https://tridosha.com.au
 [Twinings]: http://www.twiningsusa.com
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
@@ -404,6 +407,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Serendip]: https://tridosha.com.au/products/products_royaltea.html
+[Baxter's Buns]: https://www.t2tea.com/en/au/tea/baxter-s-buns-loose-leaf-feature-cube-T125AE200.html
 [Organic Green Tea Formosa]: https://taste-kaleidoscope.com.au/collections/all-products-1/products/organic-green-tea-formosa
 [Nilgiri]: http://adoretea.com.au/Black/Black-Tea/nilgiri.html
 [Apple Pie Tea]: https://gewurzhaus.com.au/product/apple-pie-tea/
