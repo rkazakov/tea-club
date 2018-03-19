@@ -6,8 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 323 | [Kaleidoscope]     | [Herbal]    | [Flora Day Tea]             | -           | Louise Brooks   | 19-03-18 |
 | 322 | [T2]               | [Black]     | [Strawberry Sensation]      | [China]     | Joan Riddoch    | 16-03-18 |
-| 321 | ??????             | [Black]     | ??????                      | [China]     | Charlotte Bian  | 14-03-18 |
+| 321 | [Wuyi Mountains]   | [Black]     | Lapsang Souchong            | [China]     | Charlotte Bian  | 14-03-18 |
 | 320 | [Tridosha]         | [Black]     | [Serendip]                  | [Sri Lanka] | Gary Butler     | 12-03-18 |
 | 319 | [T2]               | [Black]     | [Baxter's Buns]             | [China]     | Gary Butler     | 09-03-18 |
 | 318 | [Kaleidoscope]     | [Herbal]    | [Organic Green Tea Formosa] | [Taiwan]    | Louise Brooks   | 07-03-18 |
@@ -404,11 +405,13 @@
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Wuyi Mountains]: https://en.wikipedia.org/wiki/Wuyi_Mountains
 [Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Flora Day Tea]: https://taste-kaleidoscope.com.au/products/coming-soon-flora-day
 [Strawberry Sensation]: https://www.t2tea.com/en/au/tea/fruit-tisane/strawberry-sensation-loose-leaf-gift-cube-T130AE017.html
 [Serendip]: https://tridosha.com.au/products/products_royaltea.html
 [Baxter's Buns]: https://www.t2tea.com/en/au/tea/baxter-s-buns-loose-leaf-feature-cube-T125AE200.html
