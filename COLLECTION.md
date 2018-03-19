@@ -6,8 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 297 | [Kaleidoscope]     | [Herbal]    | [Flora Day Tea]             | -           | Oranges, Mandarin, Lime     |
 | 296 | [T2]               | [Black]     | [Strawberry Sensation]      | -           | Strawberry, Hibiscus        |
-| 295 | ??????             | [Black]     | ??????                      | [China]     | Black tea                   |
+| 295 | [Wuyi Mountains]   | [Black]     | Lapsang Souchong            | [China]     | Black (red) tea             |
 | 294 | [Tridosha]         | [Black]     | [Serendip]                  | [Sri Lanka] | Spiced Chai                 |
 | 293 | [T2]               | [Black]     | [Baxter's Buns]             | [China]     | Spiced Chai                 |
 | 292 | [Kaleidoscope]     | [Herbal]    | [Organic Green Tea Formosa] | [Taiwan]    | Jasmine, Vanilla            |
@@ -378,11 +379,13 @@
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Wuyi Mountains]: https://en.wikipedia.org/wiki/Wuyi_Mountains
 [Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Flora Day Tea]: https://taste-kaleidoscope.com.au/products/coming-soon-flora-day
 [Strawberry Sensation]: https://www.t2tea.com/en/au/tea/fruit-tisane/strawberry-sensation-loose-leaf-gift-cube-T130AE017.html
 [Serendip]: https://tridosha.com.au/products/products_royaltea.html
 [Baxter's Buns]: https://www.t2tea.com/en/au/tea/baxter-s-buns-loose-leaf-feature-cube-T125AE200.html
