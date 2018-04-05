@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 329 | [Shou Zhuo]        | [Pu-erh]    | Golden Ripened Tea          | [China]     | Michael Chu     | 04-04-18 |
 | 328 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 04-04-18 |
 | 327 | [T2]               | [Black]     | [Terrific Toffee]           | [Australia] | Jesse Smit      | 28-03-18 |
 | 326 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Marianne G.     | 26-03-18 |
