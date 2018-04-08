@@ -6,6 +6,10 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 333 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Gary Butler     | 06-04-18 |
+| 332 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Ruslan Kazakov  | 06-04-18 |
+| 331 | [Wuyi Mountains]   | [Black]     | Refined Red Tea             | [China]     | Charlotte Bian  | 06-04-18 |
+| 330 | [T2]               | [Black]     | [Terrific Toffee]           | [Australia] | Jesse Smit      | 06-04-18 |
 | 329 | [Shou Zhuo]        | [Pu-erh]    | Golden Ripened Tea          | [China]     | Michael Chu     | 04-04-18 |
 | 328 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 04-04-18 |
 | 327 | [T2]               | [Black]     | [Terrific Toffee]           | [Australia] | Jesse Smit      | 28-03-18 |
@@ -417,6 +421,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Choc Vanilla]: http://adoretea.com.au/Black/Flavoured-Black/choc-vanilla.html
 [Terrific Toffee]: https://www.t2tea.com/en/au/tea/black-tea/terrific-toffee-loose-leaf-gift-cube-T125AE034.html
 [Flora Day Tea]: https://taste-kaleidoscope.com.au/products/coming-soon-flora-day
 [Strawberry Sensation]: https://www.t2tea.com/en/au/tea/fruit-tisane/strawberry-sensation-loose-leaf-gift-cube-T130AE017.html
