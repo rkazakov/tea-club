@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 334 | [Ivan's Teas]      | [Black]     | Black Tea Kombucha          | [Australia] | Ivan Pchelnikov | 06-04-18 |
 | 333 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Gary Butler     | 06-04-18 |
 | 332 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Ruslan Kazakov  | 06-04-18 |
 | 331 | [Wuyi Mountains]   | [Black]     | Refined Red Tea             | [China]     | Charlotte Bian  | 06-04-18 |
@@ -366,6 +367,7 @@
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Indulge Tea]: http://indulgetea.com.au
+[Ivan's Teas]: https://github.com/Ivan-Pchelnikov
 [Jing Tea]: http://www.jing-tea.com
 [Kaleidoscope]: https://taste-kaleidoscope.com.au
 [Krasnodarskiy]: http://www.krdtea.com
