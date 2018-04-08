@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 301 | [Ivan's Teas]      | [Black]     | Black Tea Kombucha          | [Australia] | Black tea, Kombucha         |
 | 300 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Vanilla bean                |
 | 299 | [Wuyi Mountains]   | [Black]     | Refined Red Tea             | [China]     | Refined Red Tea             |
 | 298 | [T2]               | [Black]     | [Terrific Toffee]           | [Australia] | Nougat bits, Almonds, Honey |
@@ -333,6 +334,7 @@
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Indulge Tea]: http://indulgetea.com.au
+[Ivan's Teas]: https://github.com/Ivan-Pchelnikov
 [Jing Tea]: http://www.jing-tea.com
 [Kaleidoscope]: https://taste-kaleidoscope.com.au
 [Krasnodarskiy]: http://www.krdtea.com
