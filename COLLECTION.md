@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 300 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Vanilla bean                |
+| 299 | [Wuyi Mountains]   | [Black]     | Refined Red Tea             | [China]     | Refined Red Tea             |
 | 298 | [T2]               | [Black]     | [Terrific Toffee]           | [Australia] | Nougat bits, Almonds, Honey |
 | 297 | [Kaleidoscope]     | [Herbal]    | [Flora Day Tea]             | -           | Oranges, Mandarin, Lime     |
 | 296 | [T2]               | [Black]     | [Strawberry Sensation]      | -           | Strawberry, Hibiscus        |
@@ -386,6 +388,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Choc Vanilla]: http://adoretea.com.au/Black/Flavoured-Black/choc-vanilla.html
 [Terrific Toffee]: https://www.t2tea.com/en/au/tea/black-tea/terrific-toffee-loose-leaf-gift-cube-T125AE034.html
 [Flora Day Tea]: https://taste-kaleidoscope.com.au/products/coming-soon-flora-day
 [Strawberry Sensation]: https://www.t2tea.com/en/au/tea/fruit-tisane/strawberry-sensation-loose-leaf-gift-cube-T130AE017.html
