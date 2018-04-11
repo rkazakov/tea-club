@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 336 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Gary Butler     | 09-04-18 |
+| 335 | [Twinings]         | [Black]     | [Enchanting Forest Fruit]   | [Australia] | Marianne G.     | 09-04-18 |
 | 334 | [Ivan's Teas]      | [Black]     | Black Tea Kombucha          | [Australia] | Ivan Pchelnikov | 06-04-18 |
 | 333 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Gary Butler     | 06-04-18 |
 | 332 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Ruslan Kazakov  | 06-04-18 |
