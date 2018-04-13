@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 304 | [Tea Tonic]        | [Black]     | [Tea Tonic Earl Grey]       | [Australia] | Bergamot                    |
+| 303 | [Tea Tonic]        | [Green]     | [Tea Tonic Coconut]         | [Australia] | Coconut                     |
+| 302 | Heaven Dragon      | [Green]     | Heaven Dragon Jasmine       | [China]     | Jasmine                     |
 | 301 | [Ivan's Teas]      | [Black]     | Black Tea Kombucha          | [Australia] | Black tea, Kombucha         |
 | 300 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Vanilla bean                |
 | 299 | [Wuyi Mountains]   | [Black]     | Refined Red Tea             | [China]     | Refined Red Tea             |
@@ -372,6 +375,7 @@
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
+[Tea Tonic]: https://www.teatonic.com.au
 [Tetley]: http://www.tetley.com.au
 [Taylors]: https://www.taylorsofharrogate.com
 [Tea Cosy]: http://theteacosy.bigcartel.com
@@ -390,6 +394,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Tea Tonic Earl Grey]: https://www.teatonic.com.au/index.php/earl-grey-tea-25-teabags.html
+[Tea Tonic Coconut]: https://www.teatonic.com.au/index.php/coconut-tea-tube.html
 [Choc Vanilla]: http://adoretea.com.au/Black/Flavoured-Black/choc-vanilla.html
 [Terrific Toffee]: https://www.t2tea.com/en/au/tea/black-tea/terrific-toffee-loose-leaf-gift-cube-T125AE034.html
 [Flora Day Tea]: https://taste-kaleidoscope.com.au/products/coming-soon-flora-day
