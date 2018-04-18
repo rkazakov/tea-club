@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 340 | [T2]               | [Herbal]    | [Detox Loose Leaf]          | -           | Marlouk Stek    | 17-04-18 |
 | 339 | [Tea Tonic]        | [Black]     | [Tea Tonic Earl Grey]       | [Australia] | Ruslan Kazakov  | 13-04-18 |
 | 338 | [Tea Tonic]        | [Green]     | [Tea Tonic Coconut]         | [Australia] | Gary Butler     | 13-04-18 |
 | 337 | Heaven Dragon      | [Green]     | Heaven Dragon Jasmine       | [China]     | Michael Tong    | 11-04-18 |
