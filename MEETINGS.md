@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 342 | [Twinings]         | [Black]     | [Enchanting Forest Fruit]   | [Australia] | Marianne G.     | 18-04-18 |
 | 341 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Michael Chu     | 17-04-18 |
 | 340 | [T2]               | [Herbal]    | [Detox Loose Leaf]          | -           | Marlouk Stek    | 17-04-18 |
 | 339 | [Tea Tonic]        | [Black]     | [Tea Tonic Earl Grey]       | [Australia] | Ruslan Kazakov  | 13-04-18 |
