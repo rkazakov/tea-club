@@ -3,7 +3,7 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 14/04/2018
+#### Updated: 21/04/2018
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
@@ -13,7 +13,7 @@
 | 04   | Ivan Pchelnikov    | 21   |
 | 05   | Kate Andrews       | 20   |
 | 06   | Amy Dreise         | 19   |
-| 07   | Louise Brooks      | 15   |
+| 07   | Louise Brooks      | 16   |
 | 08   | Michael Chu        | 11   |
 | 09   | Bill Wang          | 10   |
 | 10   | Felicia H.         | 10   |
