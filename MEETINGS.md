@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 344 | [Kaleidoscope]     | [Black]     | [Spiced Tea No.3]           | [India]     | Louise Brooks   | 23-04-18 |
 | 343 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Gary Butler     | 20-04-18 |
 | 342 | [Twinings]         | [Black]     | [Enchanting Forest Fruit]   | [Australia] | Marianne G.     | 18-04-18 |
 | 341 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Michael Chu     | 17-04-18 |
@@ -433,6 +434,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Spiced Tea No.3]: https://taste-kaleidoscope.com.au/products/spiced-tea-no-3
 [Tea Tonic Earl Grey]: https://www.teatonic.com.au/index.php/earl-grey-tea-25-teabags.html
 [Tea Tonic Coconut]: https://www.teatonic.com.au/index.php/coconut-tea-tube.html
 [Choc Vanilla]: http://adoretea.com.au/Black/Flavoured-Black/choc-vanilla.html
