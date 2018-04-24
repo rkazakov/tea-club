@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 305 | [Kaleidoscope]     | [Black]     | [Spiced Tea No.3]           | [India]     | Cinnamon, Cardamom, Clove   |
 | 304 | [Tea Tonic]        | [Black]     | [Tea Tonic Earl Grey]       | [Australia] | Bergamot                    |
 | 303 | [Tea Tonic]        | [Green]     | [Tea Tonic Coconut]         | [Australia] | Coconut                     |
 | 302 | Heaven Dragon      | [Green]     | Heaven Dragon Jasmine       | [China]     | Jasmine                     |
@@ -394,6 +395,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Spiced Tea No.3]: https://taste-kaleidoscope.com.au/products/spiced-tea-no-3
 [Tea Tonic Earl Grey]: https://www.teatonic.com.au/index.php/earl-grey-tea-25-teabags.html
 [Tea Tonic Coconut]: https://www.teatonic.com.au/index.php/coconut-tea-tube.html
 [Choc Vanilla]: http://adoretea.com.au/Black/Flavoured-Black/choc-vanilla.html
