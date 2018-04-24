@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 345 | [Yanyshev]         | [Black]     | Yachai Black Tablet Tea     | [China]     | Ivan Pchelnikov | 23-04-18 |
 | 344 | [Kaleidoscope]     | [Black]     | [Spiced Tea No.3]           | [India]     | Louise Brooks   | 23-04-18 |
 | 343 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Gary Butler     | 20-04-18 |
 | 342 | [Twinings]         | [Black]     | [Enchanting Forest Fruit]   | [Australia] | Marianne G.     | 18-04-18 |
