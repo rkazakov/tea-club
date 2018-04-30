@@ -6,7 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 345 | [Yanyshev]         | [Black]     | Yachai Black Tablet Tea     | [China]     | Black tea                   |
+| 307 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Green tea                   |
+| 306 | [Yanyshev]         | [Black]     | Yachai Black Tablet Tea     | [China]     | Black tea                   |
 | 305 | [Kaleidoscope]     | [Black]     | [Spiced Tea No.3]           | [India]     | Cinnamon, Cardamom, Clove   |
 | 304 | [Tea Tonic]        | [Black]     | [Tea Tonic Earl Grey]       | [Australia] | Bergamot                    |
 | 303 | [Tea Tonic]        | [Green]     | [Tea Tonic Coconut]         | [Australia] | Coconut                     |
