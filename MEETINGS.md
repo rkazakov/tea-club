@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 347 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Gary Butler     | 02-05-18 |
 | 346 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Ivan Pchelnikov | 30-04-18 |
 | 345 | [Yanyshev]         | [Black]     | Yachai Black Tablet Tea     | [China]     | Ivan Pchelnikov | 23-04-18 |
 | 344 | [Kaleidoscope]     | [Black]     | [Spiced Tea No.3]           | [India]     | Louise Brooks   | 23-04-18 |
@@ -364,6 +365,7 @@
 [Bukalapak]: https://www.bukalapak.com
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
+[Chamellia]: https://www.mycoffeeshop.com.au
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
 [Dilmah]: http://www.dilmahtea.com
@@ -436,6 +438,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Chamellia English Breakf.]: https://www.mycoffeeshop.com.au/Chamellia-English-Breakfast-tea-Loose-Leaf-80g
 [Spiced Tea No.3]: https://taste-kaleidoscope.com.au/products/spiced-tea-no-3
 [Tea Tonic Earl Grey]: https://www.teatonic.com.au/index.php/earl-grey-tea-25-teabags.html
 [Tea Tonic Coconut]: https://www.teatonic.com.au/index.php/coconut-tea-tube.html
