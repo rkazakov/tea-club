@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 309 | [Yanyshev]         | [Pu-erh]    | Yachai Pu-erh Tablet Tea    | [China]     | Ceylon pu-erh tea           |
 | 308 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Ceylon black tea            |
 | 307 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Green tea                   |
 | 306 | [Yanyshev]         | [Black]     | Yachai Black Tablet Tea     | [China]     | Black tea                   |
