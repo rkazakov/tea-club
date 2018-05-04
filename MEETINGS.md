@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 348 | [Yanyshev]         | [Pu-erh]    | Yachai Pu-erh Tablet Tea    | [China]     | Ivan Pchelnikov | 04-05-18 |
 | 347 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Gary Butler     | 02-05-18 |
 | 346 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Ivan Pchelnikov | 30-04-18 |
 | 345 | [Yanyshev]         | [Black]     | Yachai Black Tablet Tea     | [China]     | Ivan Pchelnikov | 23-04-18 |
