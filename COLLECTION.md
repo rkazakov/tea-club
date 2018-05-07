@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 310 | [adagio teas]      | [Herbal]    | honeybush hazelnut          | [USA]       | Delicious hazelnut          |
 | 309 | [Yanyshev]         | [Pu-erh]    | Yachai Pu-erh Tablet Tea    | [China]     | Ceylon pu-erh tea           |
 | 308 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Ceylon black tea            |
 | 307 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Green tea                   |
@@ -317,6 +318,7 @@
 | 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange, Papaya, Raisin      |
 
 <!-- Brand -->
+[Adagio teas]: http://www.adagio.com
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
 [Amy's Teas]: https://github.com/frydreise/recipes
@@ -400,6 +402,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[honeybush hazelnut]: http://www.adagio.com/rooibos/honeybush_hazelnut.html
 [Chamellia English Breakf.]: https://www.mycoffeeshop.com.au/Chamellia-English-Breakfast-tea-Loose-Leaf-80g
 [Spiced Tea No.3]: https://taste-kaleidoscope.com.au/products/spiced-tea-no-3
 [Tea Tonic Earl Grey]: https://www.teatonic.com.au/index.php/earl-grey-tea-25-teabags.html
