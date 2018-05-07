@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 348 | [adagio teas]      | [Herbal]    | honeybush hazelnut          | [USA]       | Amy Dreise      | 07-05-18 |
 | 348 | [Yanyshev]         | [Pu-erh]    | Yachai Pu-erh Tablet Tea    | [China]     | Ivan Pchelnikov | 04-05-18 |
 | 347 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Gary Butler     | 02-05-18 |
 | 346 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Ivan Pchelnikov | 30-04-18 |
@@ -356,6 +357,7 @@
 | 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Ruslan Kazakov  | 20-06-16 |
 
 <!-- Brand -->
+[Adagio teas]: http://www.adagio.com
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
 [Amy's Teas]: https://github.com/frydreise/recipes
@@ -439,6 +441,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[honeybush hazelnut]: http://www.adagio.com/rooibos/honeybush_hazelnut.html
 [Chamellia English Breakf.]: https://www.mycoffeeshop.com.au/Chamellia-English-Breakfast-tea-Loose-Leaf-80g
 [Spiced Tea No.3]: https://taste-kaleidoscope.com.au/products/spiced-tea-no-3
 [Tea Tonic Earl Grey]: https://www.teatonic.com.au/index.php/earl-grey-tea-25-teabags.html
