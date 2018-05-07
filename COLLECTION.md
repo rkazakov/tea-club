@@ -6,8 +6,46 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 271 | [T2]               | [Black]     | [Christmas Breakfast]       | [Australia] | Black, Christmas, ginger    |
-| 270 | [T2]               | [Black]     | [Black Rose]                | [Australia] | Black, Rose                 |
+| 309 | [Yanyshev]         | [Pu-erh]    | Yachai Pu-erh Tablet Tea    | [China]     | Ceylon pu-erh tea           |
+| 308 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Ceylon black tea            |
+| 307 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Green tea                   |
+| 306 | [Yanyshev]         | [Black]     | Yachai Black Tablet Tea     | [China]     | Black tea                   |
+| 305 | [Kaleidoscope]     | [Black]     | [Spiced Tea No.3]           | [India]     | Cinnamon, Cardamom, Clove   |
+| 304 | [Tea Tonic]        | [Black]     | [Tea Tonic Earl Grey]       | [Australia] | Bergamot                    |
+| 303 | [Tea Tonic]        | [Green]     | [Tea Tonic Coconut]         | [Australia] | Coconut                     |
+| 302 | Heaven Dragon      | [Green]     | Heaven Dragon Jasmine       | [China]     | Jasmine                     |
+| 301 | [Ivan's Teas]      | [Black]     | Black Tea Kombucha          | [Australia] | Black tea, Kombucha         |
+| 300 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Vanilla bean                |
+| 299 | [Wuyi Mountains]   | [Black]     | Refined Red Tea             | [China]     | Refined Red Tea             |
+| 298 | [T2]               | [Black]     | [Terrific Toffee]           | [Australia] | Nougat bits, Almonds, Honey |
+| 297 | [Kaleidoscope]     | [Herbal]    | [Flora Day Tea]             | -           | Oranges, Mandarin, Lime     |
+| 296 | [T2]               | [Black]     | [Strawberry Sensation]      | -           | Strawberry, Hibiscus        |
+| 295 | [Wuyi Mountains]   | [Black]     | Lapsang Souchong            | [China]     | Black (red) tea             |
+| 294 | [Tridosha]         | [Black]     | [Serendip]                  | [Sri Lanka] | Spiced Chai                 |
+| 293 | [T2]               | [Black]     | [Baxter's Buns]             | [China]     | Spiced Chai                 |
+| 292 | [Kaleidoscope]     | [Herbal]    | [Organic Green Tea Formosa] | [Taiwan]    | Jasmine, Vanilla            |
+| 291 | [Adore Tea]        | [Black]     | [Nilgiri]                   | [India]     | Black tea from Nilgiri      |
+| 290 | [Gewurzhaus]       | [Herbal]    | [Apple Pie Tea]             | [Germany]   | Apple, Raisins, Chicory     |
+| 289 | [Kaleidoscope]     | [Herbal]    | [Royal Thailand]            | [Thailand]  | Coconut, Spices             |
+| 288 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Melon, Banana               |
+| 287 | [Kaleidoscope]     | [Herbal]    | [Gingers & Honeybush]       | -           | Gingers, Honeybush          |
+| 286 | [Kaleidoscope]     | [Black]     | [Serendip Blend]            | -           | Black tea                   |
+| 285 | [Basilur]          | [Green]     | [Tea Book III]              | [Sri Lanka] | Strawberry, Cranberry       |
+| 284 | [Adore Tea]        | [Black]     | [East Frisian]              | [India]     | Black tea                   |
+| 283 | [Adore Tea]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Black tea                   |
+| 282 | [Gewurzhaus]       | [Green]     | [Moroccan Mint]             | [Germany]   | Spearmint, Peppermint, Rose |
+| 281 | [Adore Tea]        | [Black]     | [Coconut]                   | [Australia] | Coconut                     |
+| 280 | [Adore Tea]        | [Green]     | [Soursop Sencha]            | [China]     | Soursop                     |
+| 279 | [Tea Cosy]         | [Black]     | Scottish Breakfast          | -           | Malty                       |
+| 278 | [Blue Mountains]   | [Black]     | [Cha Cha Chai]              | [Australia] | Spicey Warm Chai            |
+| 277 | [Blue Mountains]   | [Black]     | [Australian Premium]        | [Australia] | Buttery & Nutty             |
+| 276 | [Basilur]          | [Herbal]    | [Caribbean Cocktail]        | [Sri Lanka] | Plums, Papaya, Apple        |
+| 275 | [Twinings]         | [Black]     | [Enchanting Forest Fruit]   | [Australia] | Strawberry, Blueberry       |
+| 274 | [Basilur]          | [Black]     | [Tea Book I]                | [Sri Lanka] | Roasted almond, Cornflower  |
+| 273 | [Jing Tea]         | [Black]     | Jing Tea Black              | [China]     | Black tea                   |
+| 272 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Lemongrass, Ginger          |
+| 271 | [T2]               | [Black]     | [Christmas Breakfast]       | [Australia] | Ginger, Cinnamon            |
+| 270 | [T2]               | [Black]     | [Black Rose]                | [Australia] | Rose                        |
 | 269 | [T2]               | [Herbal]    | [Fruitalicious]             | [Australia] | Apple, Dragon fruit         |
 | 268 | [Adore Tea]        | [Black]     | [Truffle Tea]               | [Sri Lanka] | Macadamias, Cocoa           |
 | 267 | [T2]               | [Herbal]    | [Very Berry Fruitea]        | [Australia] | Hibiscus, Rosehip           |
@@ -285,9 +323,11 @@
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
+[Blue Mountains]: https://bluemountainstea.com.au/
 [Bukalapak]: https://www.bukalapak.com
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
+[Chamellia]: https://www.mycoffeeshop.com.au
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
 [Dilmah]: http://www.dilmahtea.com
@@ -303,6 +343,9 @@
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Indulge Tea]: http://indulgetea.com.au
+[Ivan's Teas]: https://github.com/Ivan-Pchelnikov
+[Jing Tea]: http://www.jing-tea.com
+[Kaleidoscope]: https://taste-kaleidoscope.com.au
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
@@ -338,6 +381,7 @@
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
+[Tea Tonic]: https://www.teatonic.com.au
 [Tetley]: http://www.tetley.com.au
 [Taylors]: https://www.taylorsofharrogate.com
 [Tea Cosy]: http://theteacosy.bigcartel.com
@@ -345,15 +389,46 @@
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
+[Tridosha]: https://tridosha.com.au
 [Twinings]: http://www.twiningsusa.com
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Wuyi Mountains]: https://en.wikipedia.org/wiki/Wuyi_Mountains
 [Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Chamellia English Breakf.]: https://www.mycoffeeshop.com.au/Chamellia-English-Breakfast-tea-Loose-Leaf-80g
+[Spiced Tea No.3]: https://taste-kaleidoscope.com.au/products/spiced-tea-no-3
+[Tea Tonic Earl Grey]: https://www.teatonic.com.au/index.php/earl-grey-tea-25-teabags.html
+[Tea Tonic Coconut]: https://www.teatonic.com.au/index.php/coconut-tea-tube.html
+[Choc Vanilla]: http://adoretea.com.au/Black/Flavoured-Black/choc-vanilla.html
+[Terrific Toffee]: https://www.t2tea.com/en/au/tea/black-tea/terrific-toffee-loose-leaf-gift-cube-T125AE034.html
+[Flora Day Tea]: https://taste-kaleidoscope.com.au/products/coming-soon-flora-day
+[Strawberry Sensation]: https://www.t2tea.com/en/au/tea/fruit-tisane/strawberry-sensation-loose-leaf-gift-cube-T130AE017.html
+[Serendip]: https://tridosha.com.au/products/products_royaltea.html
+[Baxter's Buns]: https://www.t2tea.com/en/au/tea/baxter-s-buns-loose-leaf-feature-cube-T125AE200.html
+[Organic Green Tea Formosa]: https://taste-kaleidoscope.com.au/collections/all-products-1/products/organic-green-tea-formosa
+[Nilgiri]: http://adoretea.com.au/Black/Black-Tea/nilgiri.html
+[Apple Pie Tea]: https://gewurzhaus.com.au/product/apple-pie-tea/
+[Royal Thailand]: https://taste-kaleidoscope.com.au/collections/frontpage/products/coming-soon-spiced-tea-no-5-royal-thailand-60g-golden-turmeric-coconut-mint
+[Melon & Banana]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-melon-banana-100g
+[Gingers & Honeybush]: https://taste-kaleidoscope.com.au/collections/all-products-1/products/gingers-honeybush-tea
+[Serendip Blend]: https://taste-kaleidoscope.com.au/products/black-tea-serendip-blend
+[Tea Book III]: https://www.ruskiwaydeli.com.au/basilur-tea-book-vol.3-green-tea-caddy-100g
+[East Frisian]: http://adoreteawholesale.com.au/Black/Black-Tea/east-frisian.html
+[Australian Premium]: https://bluemountainstea.com.au/products/australian-premium-black
+[Cha Cha Chai]: https://bluemountainstea.com.au/products/cha-cha-chai
+[Soursop Sencha]: http://adoretea.com.au/soursop-sencha.html
+[Coconut]: http://adoretea.com.au/coconut-tea.html
+[Moroccan Mint]: https://gewurzhaus.com.au/product/moroccan-mint-tea-25g-l/
+[Nepalese Orange Pekoe]: http://adoretea.com.au/Top-35/nepalese-orange-pekoe.html
+[Enchanting Forest Fruit]: https://www.woolworths.com.au/Shop/ProductDetails/957951/twinings-black-tea-enchanting-forest-fruit
+[Caribbean Cocktail]: http://www.basilurshop.com.au/basilur/fruit-infusions-100g-t-caddy-caribbean-cocktail/
+[Tea Book I]: http://www.basilurshop.com.au/basilur/tea-books/tin-caddies/tea-book-t-caddy-flbt-lt-tea-book-volume-i-blue
+[Lemongrass and Ginger]: http://www.t2tea.com/en/au/lemongrass-and-ginger-loose-leaf-gift-cube-T140AE017.html
 [Christmas Breakfast]: https://steepster.com/teas/t2/81727-christmas-breakfast
 [Black Rose]: http://www.t2tea.com/en/au/tea/black-tea/black-rose-loose-leaf-gift-cube-T125AE003.html
 [Fruitalicious]: http://www.t2tea.com/en/au/tea/fruit-tisane/fruitalicious-loose-leaf-gift-cube-T130AE018.html

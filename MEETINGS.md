@@ -6,7 +6,61 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 294 | [T2]               | [Black]     | [Christmas Breakfast]       | [Australia] | Amy Dreise      | 23-01-18 |
+| 348 | [Yanyshev]         | [Pu-erh]    | Yachai Pu-erh Tablet Tea    | [China]     | Ivan Pchelnikov | 04-05-18 |
+| 347 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Gary Butler     | 02-05-18 |
+| 346 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Ivan Pchelnikov | 30-04-18 |
+| 345 | [Yanyshev]         | [Black]     | Yachai Black Tablet Tea     | [China]     | Ivan Pchelnikov | 23-04-18 |
+| 344 | [Kaleidoscope]     | [Black]     | [Spiced Tea No.3]           | [India]     | Louise Brooks   | 23-04-18 |
+| 343 | [Adore Tea]        | [Black]     | [Ceylon BOP1]               | [Sri Lanka] | Gary Butler     | 20-04-18 |
+| 342 | [Twinings]         | [Black]     | [Enchanting Forest Fruit]   | [Australia] | Marianne G.     | 18-04-18 |
+| 341 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Michael Chu     | 17-04-18 |
+| 340 | [T2]               | [Herbal]    | [Detox Loose Leaf]          | -           | Marlouk Stek    | 17-04-18 |
+| 339 | [Tea Tonic]        | [Black]     | [Tea Tonic Earl Grey]       | [Australia] | Ruslan Kazakov  | 13-04-18 |
+| 338 | [Tea Tonic]        | [Green]     | [Tea Tonic Coconut]         | [Australia] | Gary Butler     | 13-04-18 |
+| 337 | Heaven Dragon      | [Green]     | Heaven Dragon Jasmine       | [China]     | Michael Tong    | 11-04-18 |
+| 336 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Gary Butler     | 09-04-18 |
+| 335 | [Twinings]         | [Black]     | [Enchanting Forest Fruit]   | [Australia] | Marianne G.     | 09-04-18 |
+| 334 | [Ivan's Teas]      | [Black]     | Black Tea Kombucha          | [Australia] | Ivan Pchelnikov | 06-04-18 |
+| 333 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Gary Butler     | 06-04-18 |
+| 332 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Ruslan Kazakov  | 06-04-18 |
+| 331 | [Wuyi Mountains]   | [Black]     | Refined Red Tea             | [China]     | Charlotte Bian  | 06-04-18 |
+| 330 | [T2]               | [Black]     | [Terrific Toffee]           | [Australia] | Jesse Smit      | 06-04-18 |
+| 329 | [Shou Zhuo]        | [Pu-erh]    | Golden Ripened Tea          | [China]     | Michael Chu     | 04-04-18 |
+| 328 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 04-04-18 |
+| 327 | [T2]               | [Black]     | [Terrific Toffee]           | [Australia] | Jesse Smit      | 28-03-18 |
+| 326 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Marianne G.     | 26-03-18 |
+| 325 | [Twinings]         | [Black]     | [Enchanting Forest Fruit]   | [Australia] | Marianne G.     | 23-03-18 |
+| 324 | [Anhui]            | [Yellow]    | [Huoshan Huangya]           | [China]     | Will Niu        | 21-03-18 |
+| 323 | [Kaleidoscope]     | [Herbal]    | [Flora Day Tea]             | -           | Louise Brooks   | 19-03-18 |
+| 322 | [T2]               | [Black]     | [Strawberry Sensation]      | [China]     | Joan Riddoch    | 16-03-18 |
+| 321 | [Wuyi Mountains]   | [Black]     | Lapsang Souchong            | [China]     | Charlotte Bian  | 14-03-18 |
+| 320 | [Tridosha]         | [Black]     | [Serendip]                  | [Sri Lanka] | Gary Butler     | 12-03-18 |
+| 319 | [T2]               | [Black]     | [Baxter's Buns]             | [China]     | Gary Butler     | 09-03-18 |
+| 318 | [Kaleidoscope]     | [Herbal]    | [Organic Green Tea Formosa] | [Taiwan]    | Louise Brooks   | 07-03-18 |
+| 317 | [Adore Tea]        | [Black]     | [Nilgiri]                   | [India]     | Gary Butler     | 05-03-18 |
+| 316 | [Gewurzhaus]       | [Herbal]    | [Apple Pie Tea]             | [Germany]   | Gary Butler     | 02-03-18 |
+| 315 | [Kaleidoscope]     | [Herbal]    | [Royal Thailand]            | [Thailand]  | Louise Brooks   | 02-03-18 |
+| 314 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Ruslan Kazakov  | 28-02-18 |
+| 313 | [Kaleidoscope]     | [Herbal]    | [Gingers & Honeybush]       | -           | Louise Brooks   | 26-02-18 |
+| 312 | [Kaleidoscope]     | [Black]     | [Serendip Blend]            | -           | Louise Brooks   | 23-02-18 |
+| 311 | [Basilur]          | [Green]     | [Tea Book III]              | [Sri Lanka] | Ruslan Kazakov  | 23-02-18 |
+| 310 | [Adore Tea]        | [Black]     | [East Frisian]              | [China]     | Gary Butler     | 21-02-18 |
+| 309 | [Tealyra]          | [Pu-erh]    | [Aged 20 Vintage Pu'erh]    | [China]     | Ruslan Kazakov  | 19-02-18 |
+| 308 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 19-02-18 |
+| 307 | [Adore Tea]        | [Black]     | [Nepalese Orange Pekoe]     | [China]     | Gary Butler     | 16-02-18 |
+| 306 | [Gewurzhaus]       | [Green]     | [Moroccan Mint]             | [Germany]   | Gary Butler     | 16-02-18 |
+| 305 | [Adore Tea]        | [Black]     | [Coconut]                   | [China]     | Gary Butler     | 14-02-18 |
+| 304 | [Adore Tea]        | [Green]     | [Soursop Sencha]            | [China]     | Gary Butler     | 12-02-18 |
+| 303 | -                  | [Pu-erh]    | Yunnan Pu-erh Tea           | [China]     | Michael Chu     | 09-02-18 |
+| 302 | [Tea Cosy]         | [Black]     | Scottish Breakfast          | -           | Gary Butler     | 09-02-18 |
+| 301 | [Blue Mountains]   | [Black]     | [Cha Cha Chai]              | [Australia] | Gary Butler     | 07-02-18 |
+| 300 | [Blue Mountains]   | [Black]     | [Australian Premium]        | [Australia] | Gary Butler     | 05-02-18 |
+| 299 | [Basilur]          | [Herbal]    | [Caribbean Cocktail]        | [Sri Lanka] | Ruslan Kazakov  | 02-02-18 |
+| 298 | [Twinings]         | [Black]     | [Enchanting Forest Fruit]   | [Australia] | Marianne G.     | 02-02-18 |
+| 297 | [Basilur]          | [Black]     | [Tea Book I]                | [Sri Lanka] | Ruslan Kazakov  | 31-01-18 |
+| 296 | [Jing Tea]         | [Black]     | Jing Tea Black              | [China]     | Charlotte Bian  | 29-01-18 |
+| 295 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Marianne G.     | 24-01-18 |
+| 294 | [T2]               | [Black]     | [Christmas Breakfast]       | [Australia] | Amy Dreise      | 22-01-18 |
 | 293 | [T2]               | [Black]     | [Black Rose]                | [Australia] | Amy Dreise      | 19-01-18 |
 | 292 | [T2]               | [Herbal]    | [Fruitalicious]             | [Australia] | Marlouk Stek    | 17-01-18 |
 | 291 | [Adore Tea]        | [Black]     | [Truffle Tea]               | [Sri Lanka] | Gary Butler     | 17-01-18 |
@@ -308,9 +362,11 @@
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
+[Blue Mountains]: https://bluemountainstea.com.au/
 [Bukalapak]: https://www.bukalapak.com
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
+[Chamellia]: https://www.mycoffeeshop.com.au
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
 [Dilmah]: http://www.dilmahtea.com
@@ -326,6 +382,9 @@
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Indulge Tea]: http://indulgetea.com.au
+[Ivan's Teas]: https://github.com/Ivan-Pchelnikov
+[Jing Tea]: http://www.jing-tea.com
+[Kaleidoscope]: https://taste-kaleidoscope.com.au
 [Krasnodarskiy]: http://www.krdtea.com
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
@@ -361,6 +420,7 @@
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
+[Tea Tonic]: https://www.teatonic.com.au
 [Tetley]: http://www.tetley.com.au
 [Taylors]: https://www.taylorsofharrogate.com
 [Tea Cosy]: http://theteacosy.bigcartel.com
@@ -368,15 +428,46 @@
 [Tealyra]: https://www.tealyra.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
+[Tridosha]: https://tridosha.com.au
 [Twinings]: http://www.twiningsusa.com
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[Wuyi Mountains]: https://en.wikipedia.org/wiki/Wuyi_Mountains
 [Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Chamellia English Breakf.]: https://www.mycoffeeshop.com.au/Chamellia-English-Breakfast-tea-Loose-Leaf-80g
+[Spiced Tea No.3]: https://taste-kaleidoscope.com.au/products/spiced-tea-no-3
+[Tea Tonic Earl Grey]: https://www.teatonic.com.au/index.php/earl-grey-tea-25-teabags.html
+[Tea Tonic Coconut]: https://www.teatonic.com.au/index.php/coconut-tea-tube.html
+[Choc Vanilla]: http://adoretea.com.au/Black/Flavoured-Black/choc-vanilla.html
+[Terrific Toffee]: https://www.t2tea.com/en/au/tea/black-tea/terrific-toffee-loose-leaf-gift-cube-T125AE034.html
+[Flora Day Tea]: https://taste-kaleidoscope.com.au/products/coming-soon-flora-day
+[Strawberry Sensation]: https://www.t2tea.com/en/au/tea/fruit-tisane/strawberry-sensation-loose-leaf-gift-cube-T130AE017.html
+[Serendip]: https://tridosha.com.au/products/products_royaltea.html
+[Baxter's Buns]: https://www.t2tea.com/en/au/tea/baxter-s-buns-loose-leaf-feature-cube-T125AE200.html
+[Organic Green Tea Formosa]: https://taste-kaleidoscope.com.au/collections/all-products-1/products/organic-green-tea-formosa
+[Nilgiri]: http://adoretea.com.au/Black/Black-Tea/nilgiri.html
+[Apple Pie Tea]: https://gewurzhaus.com.au/product/apple-pie-tea/
+[Royal Thailand]: https://taste-kaleidoscope.com.au/collections/frontpage/products/coming-soon-spiced-tea-no-5-royal-thailand-60g-golden-turmeric-coconut-mint
+[Melon & Banana]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-melon-banana-100g
+[Gingers & Honeybush]: https://taste-kaleidoscope.com.au/collections/all-products-1/products/gingers-honeybush-tea
+[Serendip Blend]: https://taste-kaleidoscope.com.au/products/black-tea-serendip-blend
+[Tea Book III]: https://www.ruskiwaydeli.com.au/basilur-tea-book-vol.3-green-tea-caddy-100g
+[East Frisian]: http://adoreteawholesale.com.au/Black/Black-Tea/east-frisian.html
+[Australian Premium]: https://bluemountainstea.com.au/products/australian-premium-black
+[Cha Cha Chai]: https://bluemountainstea.com.au/products/cha-cha-chai
+[Soursop Sencha]: http://adoretea.com.au/soursop-sencha.html
+[Coconut]: http://adoretea.com.au/coconut-tea.html
+[Moroccan Mint]: https://gewurzhaus.com.au/product/moroccan-mint-tea-25g-l/
+[Nepalese Orange Pekoe]: http://adoretea.com.au/Top-35/nepalese-orange-pekoe.html
+[Enchanting Forest Fruit]: https://www.woolworths.com.au/Shop/ProductDetails/957951/twinings-black-tea-enchanting-forest-fruit
+[Caribbean Cocktail]: http://www.basilurshop.com.au/basilur/fruit-infusions-100g-t-caddy-caribbean-cocktail/
+[Tea Book I]: http://www.basilurshop.com.au/basilur/tea-books/tin-caddies/tea-book-t-caddy-flbt-lt-tea-book-volume-i-blue
+[Lemongrass and Ginger]: http://www.t2tea.com/en/au/lemongrass-and-ginger-loose-leaf-gift-cube-T140AE017.html
 [Christmas Breakfast]: https://steepster.com/teas/t2/81727-christmas-breakfast
 [Black Rose]: http://www.t2tea.com/en/au/tea/black-tea/black-rose-loose-leaf-gift-cube-T125AE003.html
 [Fruitalicious]: http://www.t2tea.com/en/au/tea/fruit-tisane/fruitalicious-loose-leaf-gift-cube-T130AE018.html
