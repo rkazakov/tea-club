@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 313 | [Adagio Teas]      | [Herbal]    | [Tiger Eye]                 | [USA]       | Chocolate, Caramel          |
+| 312 | [Dilmah]           | [Green]     | [Fragrant Jasmine Green]    | [Sri Lanka] | Fragrant Jasmine            |
+| 311 | [Dilmah]           | [Black]     | [Aromatic Earl Grey]        | [Sri Lanka] | Aromatic Earl Grey          |
 | 310 | [Adagio Teas]      | [Herbal]    | [Honeybush Hazelnut]        | [USA]       | Delicious hazelnut          |
 | 309 | [Yanyshev]         | [Pu-erh]    | Yachai Pu-erh Tablet Tea    | [China]     | Ceylon pu-erh tea           |
 | 308 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Ceylon black tea            |
