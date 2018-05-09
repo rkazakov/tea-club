@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 348 | [Adagio Tea]      | [Herbal]    | [Honeybush Hazelnut]          | [USA]       | Amy Dreise      | 07-05-18 |
+| 349 | [Adagio Teas]      | [Herbal]    | [Honeybush Hazelnut]          | [USA]       | Amy Dreise      | 07-05-18 |
 | 348 | [Yanyshev]         | [Pu-erh]    | Yachai Pu-erh Tablet Tea    | [China]     | Ivan Pchelnikov | 04-05-18 |
 | 347 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Gary Butler     | 02-05-18 |
 | 346 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Ivan Pchelnikov | 30-04-18 |
@@ -357,7 +357,7 @@
 | 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Ruslan Kazakov  | 20-06-16 |
 
 <!-- Brand -->
-[Adagio Tea]: http://www.adagio.com
+[Adagio Teas]: http://www.adagio.com
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
 [Amy's Teas]: https://github.com/frydreise/recipes
