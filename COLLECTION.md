@@ -405,6 +405,9 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Tiger Eye]: http://www.adagio.com/flavors/tiger_eye.html
+[Fragrant Jasmine Green]: https://www.dilmah.com.au/tea-brands/dilmah-exceptionals/exceptional-fragrant-jasmine-green-tea--45.html
+[Aromatic Earl Grey]: https://www.dilmahtea.com/vivid-tea/our-teas/aromatic-earl-grey-tea.html
 [Honeybush Hazelnut]: http://www.adagio.com/rooibos/honeybush_hazelnut.html
 [Chamellia English Breakf.]: https://www.mycoffeeshop.com.au/Chamellia-English-Breakfast-tea-Loose-Leaf-80g
 [Spiced Tea No.3]: https://taste-kaleidoscope.com.au/products/spiced-tea-no-3
