@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 310 | [Adagio Tea]      | [Herbal]    | [Honeybush Hazelnut]          | [USA]       | Delicious hazelnut          |
+| 310 | [Adagio Teas]      | [Herbal]    | [Honeybush Hazelnut]        | [USA]       | Delicious hazelnut          |
 | 309 | [Yanyshev]         | [Pu-erh]    | Yachai Pu-erh Tablet Tea    | [China]     | Ceylon pu-erh tea           |
 | 308 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Ceylon black tea            |
 | 307 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Green tea                   |
@@ -318,7 +318,7 @@
 | 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange, Papaya, Raisin      |
 
 <!-- Brand -->
-[Adagio Tea]: http://www.adagio.com
+[Adagio Teas]: http://www.adagio.com
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
 [Amy's Teas]: https://github.com/frydreise/recipes
