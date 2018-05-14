@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 353 | [Gryphon Tea]      | [Herbal]    | [Mogambo]                   | [RSA]       | Felicia H.      | 14-05-18 |
 | 352 | [Adagio Teas]      | [Herbal]    | [Tiger Eye]                 | [USA]       | Amy Dreise      | 09-05-18 |
 | 351 | [Dilmah]           | [Green]     | [Fragrant Jasmine Green]    | [Sri Lanka] | Felicia H.      | 09-05-18 |
 | 350 | [Dilmah]           | [Black]     | [Aromatic Earl Grey]        | [Sri Lanka] | Felicia H.      | 09-05-18 |
@@ -383,6 +384,7 @@
 [Golchin]: http://www.golchin-tea.com
 [Golden Sail]: https://steepster.com/companies/golden-sail-brand
 [Golden Tips]: http://www.goldentipstea.com
+[Gryphon Tea]: http://www.gryphontea.com
 [Hansung KMT]: http://www.kmt.com.my
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
@@ -444,6 +446,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Mogambo]: http://www.gryphontea.com/mogambo.html
 [Tiger Eye]: http://www.adagio.com/flavors/tiger_eye.html
 [Fragrant Jasmine Green]: https://www.dilmah.com.au/tea-brands/dilmah-exceptionals/exceptional-fragrant-jasmine-green-tea--45.html
 [Aromatic Earl Grey]: https://www.dilmahtea.com/vivid-tea/our-teas/aromatic-earl-grey-tea.html
@@ -742,9 +745,10 @@
 [Korea]: https://en.wikipedia.org/wiki/Korea
 [Malaysia]: https://en.wikipedia.org/wiki/Malaysia
 [Poland]: https://en.wikipedia.org/wiki/Poland
+[RSA]: https://en.wikipedia.org/wiki/South_Africa
 [Russia]: https://en.wikipedia.org/wiki/Russia
-[Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Scotland]: https://en.wikipedia.org/wiki/Scotland
+[Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Sudan]: https://en.wikipedia.org/wiki/Sudan
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
 [Thailand]: https://en.wikipedia.org/wiki/Thailand
