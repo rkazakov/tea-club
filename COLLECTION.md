@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 317 | [Adore Tea]        | [Green]     | [Luscious Lychee]           | [Australia] | Papaya, Pineapple           |
+| 316 | [Adore Tea]        | [Herbal]    | [Watermelon Mojito]         | [Australia] | Lemon grass, Peppermint     |
+| 315 | [The Tea Centre]   | [Black]     | [Chocolate Mint]            | [Australia] | Chocolate, Mint             |
 | 314 | [Gryphon Tea]      | [Herbal]    | [Mogambo]                   | [RSA]       | Rooibos, Honeybush, Apple   |
 | 313 | [Adagio Teas]      | [Herbal]    | [Tiger Eye]                 | [USA]       | Chocolate, Caramel          |
 | 312 | [Dilmah]           | [Green]     | [Fragrant Jasmine Green]    | [Sri Lanka] | Fragrant Jasmine            |
@@ -394,6 +397,7 @@
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
+[The Tea Centre]: https://www.theteacentre.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
 [Tridosha]: https://tridosha.com.au
@@ -407,6 +411,9 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Luscious Lychee]: http://adoretea.com.au/luscious-lychee.html
+[Watermelon Mojito]: http://adoretea.com.au/watermelon-mojito.html
+[Chocolate Mint]: https://www.theteacentre.com.au/p/chocolate-mint
 [Mogambo]: http://www.gryphontea.com/mogambo.html
 [Tiger Eye]: http://www.adagio.com/flavors/tiger_eye.html
 [Fragrant Jasmine Green]: https://www.dilmah.com.au/tea-brands/dilmah-exceptionals/exceptional-fragrant-jasmine-green-tea--45.html
