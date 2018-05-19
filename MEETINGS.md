@@ -6,6 +6,12 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 359 | [Adore Tea]        | [Green]     | [Luscious Lychee]           | [Australia] | Gary Butler     | 17-05-18 |
+| 358 | [Adore Tea]        | [Herbal]    | [Watermelon Mojito]         | [Australia] | Gary Butler     | 17-05-18 |
+| 357 | [The Tea Centre]   | [Black]     | [Chocolate Mint]            | [Australia] | Marianne G.     | 17-05-18 |
+| 356 | [Yanyshev]         | [Black]     | Kokoshnik Black Tea         | [China]     | Ivan Pchelnikov | 17-05-18 |
+| 355 | [T2]               | [Blooming]  | T2 Blossoms                 | [Australia] | Kate Andrews    | 17-05-18 |
+| 354 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Marzieh M.      | 17-05-18 |
 | 353 | [Gryphon Tea]      | [Herbal]    | [Mogambo]                   | [RSA]       | Felicia H.      | 14-05-18 |
 | 352 | [Adagio Teas]      | [Herbal]    | [Tiger Eye]                 | [USA]       | Amy Dreise      | 09-05-18 |
 | 351 | [Dilmah]           | [Green]     | [Fragrant Jasmine Green]    | [Sri Lanka] | Felicia H.      | 09-05-18 |
@@ -433,6 +439,7 @@
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
+[The Tea Centre]: https://www.theteacentre.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
 [Tridosha]: https://tridosha.com.au
@@ -446,6 +453,9 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Luscious Lychee]: http://adoretea.com.au/luscious-lychee.html
+[Watermelon Mojito]: http://adoretea.com.au/watermelon-mojito.html
+[Chocolate Mint]: https://www.theteacentre.com.au/p/chocolate-mint
 [Mogambo]: http://www.gryphontea.com/mogambo.html
 [Tiger Eye]: http://www.adagio.com/flavors/tiger_eye.html
 [Fragrant Jasmine Green]: https://www.dilmah.com.au/tea-brands/dilmah-exceptionals/exceptional-fragrant-jasmine-green-tea--45.html
