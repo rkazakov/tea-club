@@ -11,10 +11,10 @@
 | 02   | Ruslan Kazakov     | 53   |
 | 03   | Ivan Pchelnikov    | 25   |
 | 04   | Marlouk Stek       | 23   |
-| 05   | Kate Andrews       | 20   |
-| 06   | Amy Dreise         | 19   |
+| 05   | Amy Dreise         | 21   |
+| 06   | Kate Andrews       | 20   |
 | 07   | Louise Brooks      | 17   |
-| 08   | Felicia H.         | 12   |
+| 08   | Felicia H.         | 13   |
 | 09   | Michael Chu        | 11   |
 | 10   | Bill Wang          | 10   |
 | 11   | Jesse Smit         | 9    |
