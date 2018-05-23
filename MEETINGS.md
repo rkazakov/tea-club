@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 362 | [Gryphon Tea]      | [Green]     | [Hanami]                    | [Japan]     | Felicia H.      | 23-05-18 |
+| 361 | Heaven Dragon      | [Green]     | Shou Mei Tea                | [China]     | Michael Tong    | 23-05-18 |
+| 360 | [Adore Tea]        | [Black]     | [Cream Brulee]              | [Australia] | Gary Butler     | 22-05-18 |
 | 359 | [Adore Tea]        | [Green]     | [Luscious Lychee]           | [Australia] | Gary Butler     | 17-05-18 |
 | 358 | [Adore Tea]        | [Herbal]    | [Watermelon Mojito]         | [Australia] | Gary Butler     | 17-05-18 |
 | 357 | [The Tea Centre]   | [Black]     | [Chocolate Mint]            | [Australia] | Marianne G.     | 17-05-18 |
@@ -453,6 +456,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Hanami]: http://www.gryphontea.com/hanami.html
+[Cream Brulee]: http://adoretea.com.au/teacup-candle-creme-brulee-infused.html
 [Luscious Lychee]: http://adoretea.com.au/luscious-lychee.html
 [Watermelon Mojito]: http://adoretea.com.au/watermelon-mojito.html
 [Chocolate Mint]: https://www.theteacentre.com.au/p/chocolate-mint
