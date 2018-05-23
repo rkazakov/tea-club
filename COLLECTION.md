@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 320 | [Gryphon Tea]      | [Green]     | [Hanami]                    | [Japan]     | Cherry blossoms             |
+| 319 | Heaven Dragon      | [Green]     | Shou Mei Tea                | [China]     | Green tea                   |
+| 318 | [Adore Tea]        | [Black]     | [Cream Brulee]              | [Australia] | Cream Brûlée                |
 | 317 | [Adore Tea]        | [Green]     | [Luscious Lychee]           | [Australia] | Papaya, Pineapple           |
 | 316 | [Adore Tea]        | [Herbal]    | [Watermelon Mojito]         | [Australia] | Lemon grass, Peppermint     |
 | 315 | [The Tea Centre]   | [Black]     | [Chocolate Mint]            | [Australia] | Chocolate, Mint             |
@@ -411,6 +414,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Hanami]: http://www.gryphontea.com/hanami.html
+[Cream Brulee]: http://adoretea.com.au/teacup-candle-creme-brulee-infused.html
 [Luscious Lychee]: http://adoretea.com.au/luscious-lychee.html
 [Watermelon Mojito]: http://adoretea.com.au/watermelon-mojito.html
 [Chocolate Mint]: https://www.theteacentre.com.au/p/chocolate-mint
