@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 366 | [Thrive by Nature] | [Herbal]    | [Rebound]                   | [Australia] | Dee Parnell     | 28-05-18 |
+| 365 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Dee Parnell     | 28-05-18 |
 | 364 | [Ranfer]           | [Black]     | Vanilla BOP                 | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
 | 363 | [Ranfer]           | [Black]     | Pussella BOP                | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
 | 362 | [Gryphon Tea]      | [Green]     | [Hanami]                    | [Japan]     | Felicia H.      | 23-05-18 |
@@ -439,13 +441,14 @@
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
+[Taylors]: https://www.taylorsofharrogate.com
 [Tea Tonic]: https://www.teatonic.com.au
 [Tetley]: http://www.tetley.com.au
-[Taylors]: https://www.taylorsofharrogate.com
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [The Tea Centre]: https://www.theteacentre.com.au
+[Thrive by Nature]: https://www.thrivebynature.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
 [Tridosha]: https://tridosha.com.au
@@ -459,6 +462,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Rebound]: https://www.thrivebynature.com.au/store/p7/Rebound.html
 [Hanami]: http://www.gryphontea.com/hanami.html
 [Cream Brulee]: http://adoretea.com.au/teacup-candle-creme-brulee-infused.html
 [Luscious Lychee]: http://adoretea.com.au/luscious-lychee.html
