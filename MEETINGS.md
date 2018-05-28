@@ -6,8 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 364 | [Ranfer]           | [Black]     | [Vanilla - BOP]             | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
-| 363 | [Ranfer]           | [Black]     | [Pussella - BOP]            | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
+| 364 | [Ranfer]           | [Black]     | Vanilla BOP                 | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
+| 363 | [Ranfer]           | [Black]     | Pussella BOP                | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
 | 362 | [Gryphon Tea]      | [Green]     | [Hanami]                    | [Japan]     | Felicia H.      | 23-05-18 |
 | 361 | Heaven Dragon      | [Green]     | Shou Mei Tea                | [China]     | Michael Tong    | 23-05-18 |
 | 360 | [Adore Tea]        | [Black]     | [Cream Brulee]              | [Australia] | Gary Butler     | 22-05-18 |
@@ -426,6 +426,7 @@
 [Princess Java]: http://www.java-tea.ru
 [Pukka]: http://www.pukkaherbs.com.au/
 [Rabbit Hole]: https://therabbithole.com.au
+[Ranfer]: http://www.ranfer.com
 [Regular Tea]: http://www.ckmc.cn
 [Rus Tea Co]: http://www.russianteacompany.com
 [Sahar Khiz]: http://www.saharkhizsaffron.com
