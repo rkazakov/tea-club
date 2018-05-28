@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 364 | [Ranfer]           | [Black]     | [Vanilla - BOP]             | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
+| 363 | [Ranfer]           | [Black]     | [Pussella - BOP]            | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
 | 362 | [Gryphon Tea]      | [Green]     | [Hanami]                    | [Japan]     | Felicia H.      | 23-05-18 |
 | 361 | Heaven Dragon      | [Green]     | Shou Mei Tea                | [China]     | Michael Tong    | 23-05-18 |
 | 360 | [Adore Tea]        | [Black]     | [Cream Brulee]              | [Australia] | Gary Butler     | 22-05-18 |

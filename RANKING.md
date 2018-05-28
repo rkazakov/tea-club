@@ -31,10 +31,11 @@
 | 22   | Andrea Ho          | 2    |
 | 23   | Azadeh H.          | 2    |
 | 24   | Sikang Li          | 2    |
-| 25   | Andy R Taylor      | 1    |
-| 26   | Cris Gladly        | 1    |
-| 27   | Ishwor Gurung      | 1    |
-| 28   | Jessica Hau        | 1    |
-| 29   | Joan Riddoch       | 1    |
-| 30   | Marzieh M.         | 1    |
-| 31   | Will Niu           | 1    |
+| 25   | Sajith Weerakoon   | 2    |
+| 26   | Andy R Taylor      | 1    |
+| 27   | Cris Gladly        | 1    |
+| 28   | Ishwor Gurung      | 1    |
+| 29   | Jessica Hau        | 1    |
+| 30   | Joan Riddoch       | 1    |
+| 31   | Marzieh M.         | 1    |
+| 32   | Will Niu           | 1    |
