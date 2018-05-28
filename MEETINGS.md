@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 366 | [Thrive by Nature] | [Herbal]    | [Rebound]                   | [Australia] | Dee Parnell     | 28-05-18 |
+| 366 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dee Parnell     | 28-05-18 |
 | 365 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Dee Parnell     | 28-05-18 |
 | 364 | [Ranfer]           | [Black]     | Vanilla BOP                 | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
 | 363 | [Ranfer]           | [Black]     | Pussella BOP                | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
@@ -448,7 +448,7 @@
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [The Tea Centre]: https://www.theteacentre.com.au
-[Thrive by Nature]: https://www.thrivebynature.com.au
+[Thrive]: https://www.thrivebynature.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
 [Tridosha]: https://tridosha.com.au
