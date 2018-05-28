@@ -3,7 +3,7 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 25/05/2018
+#### Updated: 28/05/2018
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
@@ -34,8 +34,9 @@
 | 25   | Sikang Li          | 2    |
 | 26   | Andy R Taylor      | 1    |
 | 27   | Cris Gladly        | 1    |
-| 28   | Ishwor Gurung      | 1    |
-| 29   | Jessica Hau        | 1    |
-| 30   | Joan Riddoch       | 1    |
-| 31   | Marzieh M.         | 1    |
-| 32   | Will Niu           | 1    |
+| 28   | Dee Parnell        | 1    |
+| 29   | Ishwor Gurung      | 1    |
+| 30   | Jessica Hau        | 1    |
+| 31   | Joan Riddoch       | 1    |
+| 32   | Marzieh M.         | 1    |
+| 33   | Will Niu           | 1    |
