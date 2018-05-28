@@ -6,8 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 322 | [Ranfer]           | [Black]     | [Vanilla - BOP]             | [Sri Lanka] | Vanilla                     |
-| 321 | [Ranfer]           | [Black]     | [Pussella - BOP]            | [Sri Lanka] | Black Tea                   |
+| 322 | [Ranfer]           | [Black]     | Vanilla BOP                 | [Sri Lanka] | Vanilla                     |
+| 321 | [Ranfer]           | [Black]     | Pussella BOP                | [Sri Lanka] | Black tea                   |
 | 320 | [Gryphon Tea]      | [Green]     | [Hanami]                    | [Japan]     | Cherry blossoms             |
 | 319 | Heaven Dragon      | [Green]     | Shou Mei Tea                | [China]     | Green tea                   |
 | 318 | [Adore Tea]        | [Black]     | [Cream Brulee]              | [Australia] | Cream Brûlée                |
@@ -384,6 +384,7 @@
 [Princess Java]: http://www.java-tea.ru
 [Pukka]: http://www.pukkaherbs.com.au/
 [Rabbit Hole]: https://therabbithole.com.au
+[Ranfer]: http://www.ranfer.com
 [Regular Tea]: http://www.ckmc.cn
 [Rus Tea Co]: http://www.russianteacompany.com
 [Sahar Khiz]: http://www.saharkhizsaffron.com
