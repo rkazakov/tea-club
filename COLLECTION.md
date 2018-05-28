@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 323 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dandelion, Licorice         |
 | 322 | [Ranfer]           | [Black]     | Vanilla BOP                 | [Sri Lanka] | Vanilla                     |
 | 321 | [Ranfer]           | [Black]     | Pussella BOP                | [Sri Lanka] | Black tea                   |
 | 320 | [Gryphon Tea]      | [Green]     | [Hanami]                    | [Japan]     | Cherry blossoms             |
@@ -397,13 +398,14 @@
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
+[Taylors]: https://www.taylorsofharrogate.com
 [Tea Tonic]: https://www.teatonic.com.au
 [Tetley]: http://www.tetley.com.au
-[Taylors]: https://www.taylorsofharrogate.com
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
 [The Tea Centre]: https://www.theteacentre.com.au
+[Thrive]: https://www.thrivebynature.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
 [Tridosha]: https://tridosha.com.au
@@ -417,6 +419,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Rebound]: https://www.thrivebynature.com.au/store/p7/Rebound.html
 [Hanami]: http://www.gryphontea.com/hanami.html
 [Cream Brulee]: http://adoretea.com.au/teacup-candle-creme-brulee-infused.html
 [Luscious Lychee]: http://adoretea.com.au/luscious-lychee.html
