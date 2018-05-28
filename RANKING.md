@@ -3,7 +3,7 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 22/05/2018
+#### Updated: 25/05/2018
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
@@ -30,8 +30,8 @@
 | 21   | Alex Yang          | 2    |
 | 22   | Andrea Ho          | 2    |
 | 23   | Azadeh H.          | 2    |
-| 24   | Sikang Li          | 2    |
-| 25   | Sajith Weerakoon   | 2    |
+| 24   | Sajith Weerakoon   | 2    |
+| 25   | Sikang Li          | 2    |
 | 26   | Andy R Taylor      | 1    |
 | 27   | Cris Gladly        | 1    |
 | 28   | Ishwor Gurung      | 1    |
