@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 322 | [Ranfer]           | [Black]     | [Vanilla - BOP]             | [Sri Lanka] | Vanilla                     |
+| 321 | [Ranfer]           | [Black]     | [Pussella - BOP]            | [Sri Lanka] | Black Tea                   |
 | 320 | [Gryphon Tea]      | [Green]     | [Hanami]                    | [Japan]     | Cherry blossoms             |
 | 319 | Heaven Dragon      | [Green]     | Shou Mei Tea                | [China]     | Green tea                   |
 | 318 | [Adore Tea]        | [Black]     | [Cream Brulee]              | [Australia] | Cream Brûlée                |
