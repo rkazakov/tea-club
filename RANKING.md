@@ -3,7 +3,7 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 28/05/2018
+#### Updated: 01/06/2018
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
@@ -11,7 +11,7 @@
 | 02   | Ruslan Kazakov     | 53   |
 | 03   | Ivan Pchelnikov    | 25   |
 | 04   | Marlouk Stek       | 23   |
-| 05   | Amy Dreise         | 21   |
+| 05   | Amy Dreise         | 22   |
 | 06   | Kate Andrews       | 20   |
 | 07   | Louise Brooks      | 17   |
 | 08   | Felicia H.         | 14   |
@@ -20,17 +20,17 @@
 | 11   | Jesse Smit         | 9    |
 | 12   | Cherry Zhou        | 8    |
 | 13   | Charlotte Bian     | 6    |
-| 14   | Mamatha R.         | 5    |
-| 15   | Rozanna Wong       | 5    |
-| 16   | Marianne G.        | 4    |
-| 17   | Michael Tong       | 4    |
+| 14   | Michael Tong       | 6    |
+| 15   | Mamatha R.         | 5    |
+| 16   | Rozanna Wong       | 5    |
+| 17   | Marianne G.        | 4    |
 | 18   | Ray Dai            | 4    |
 | 19   | Jess Cozanitis     | 3    |
-| 20   | Sally Garton       | 3    |
-| 21   | Alex Yang          | 2    |
-| 22   | Andrea Ho          | 2    |
-| 23   | Azadeh H.          | 2    |
-| 24   | Sajith Weerakoon   | 2    |
+| 20   | Sajith Weerakoon   | 3    |
+| 21   | Sally Garton       | 3    |
+| 22   | Alex Yang          | 2    |
+| 23   | Andrea Ho          | 2    |
+| 24   | Azadeh H.          | 2    |
 | 25   | Sikang Li          | 2    |
 | 26   | Andy R Taylor      | 1    |
 | 27   | Cris Gladly        | 1    |
