@@ -6,6 +6,10 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 327 | Heaven Dragon      | [Green]     | Heaven Dragon Green Tea     | [China]     | Green tea                   |
+| 326 | [Ranfer]           | [Black]     | Dimbulla BOP                | [Sri Lanka] | Black tea                   |
+| 325 | Heaven Dragon      | [Green]     | Tikunyin Tea                | [China]     | Green tea                   |
+| 324 | [Adagio Teas]      | [Herbal]    | [Beerbutter Tea]            | [USA]       | Beer butter                 |
 | 323 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dandelion, Licorice         |
 | 322 | [Ranfer]           | [Black]     | Vanilla BOP                 | [Sri Lanka] | Vanilla                     |
 | 321 | [Ranfer]           | [Black]     | Pussella BOP                | [Sri Lanka] | Black tea                   |
@@ -419,6 +423,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Beerbutter Tea]: http://www.adagio.com/signature_blend/blend.html?blend=7662
 [Rebound]: https://www.thrivebynature.com.au/store/p7/Rebound.html
 [Hanami]: http://www.gryphontea.com/hanami.html
 [Cream Brulee]: http://adoretea.com.au/teacup-candle-creme-brulee-infused.html
