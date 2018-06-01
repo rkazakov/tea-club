@@ -6,6 +6,10 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 369 | Heaven Dragon      | [Green]     | Heaven Dragon Green Tea     | [China]     | Michael Tong    | 01-06-18 |
+| 368 | [Ranfer]           | [Black]     | Dimbulla BOP                | [Sri Lanka] | Sajith Weerakoon| 01-06-18 |
+| 367 | Heaven Dragon      | [Green]     | Heaven Dragon Tikunyin Tea  | [China]     | Michael Tong    | 30-05-18 |
+| 366 | [Adagio Teas]      | [Herbal]    | [Beerbutter Tea]            | [USA]       | Amy Dreise      | 30-05-18 |
 | 366 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dee Parnell     | 28-05-18 |
 | 365 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Dee Parnell     | 28-05-18 |
 | 364 | [Ranfer]           | [Black]     | Vanilla BOP                 | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
@@ -462,6 +466,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Beerbutter Tea]: http://www.adagio.com/signature_blend/blend.html?blend=7662
 [Rebound]: https://www.thrivebynature.com.au/store/p7/Rebound.html
 [Hanami]: http://www.gryphontea.com/hanami.html
 [Cream Brulee]: http://adoretea.com.au/teacup-candle-creme-brulee-infused.html
