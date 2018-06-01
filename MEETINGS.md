@@ -8,7 +8,7 @@
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
 | 369 | Heaven Dragon      | [Green]     | Heaven Dragon Green Tea     | [China]     | Michael Tong    | 01-06-18 |
 | 368 | [Ranfer]           | [Black]     | Dimbulla BOP                | [Sri Lanka] | Sajith Weerakoon| 01-06-18 |
-| 367 | Heaven Dragon      | [Green]     | Heaven Dragon Tikunyin Tea  | [China]     | Michael Tong    | 30-05-18 |
+| 367 | Heaven Dragon      | [Green]     | Tikunyin Tea                | [China]     | Michael Tong    | 30-05-18 |
 | 366 | [Adagio Teas]      | [Herbal]    | [Beerbutter Tea]            | [USA]       | Amy Dreise      | 30-05-18 |
 | 366 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dee Parnell     | 28-05-18 |
 | 365 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Dee Parnell     | 28-05-18 |
