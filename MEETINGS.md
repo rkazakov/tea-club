@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 371 | [Adagio Teas]      | [Herbal]    | [Pumpkin Potion]            | [USA]       | Amy Dreise      | 06-06-18 |
+| 370 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Jesse Smit      | 05-06-18 |
 | 369 | Heaven Dragon      | [Green]     | Heaven Dragon Green Tea     | [China]     | Michael Tong    | 01-06-18 |
 | 368 | [Ranfer]           | [Black]     | Dimbulla BOP                | [Sri Lanka] | Sajith Weerakoon| 01-06-18 |
 | 367 | Heaven Dragon      | [Green]     | Tikunyin Tea                | [China]     | Michael Tong    | 30-05-18 |
@@ -466,6 +468,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Pumpkin Potion]: http://www.adagio.com/signature_blend/blend.html?blend=7569
 [Beerbutter Tea]: http://www.adagio.com/signature_blend/blend.html?blend=7662
 [Rebound]: https://www.thrivebynature.com.au/store/p7/Rebound.html
 [Hanami]: http://www.gryphontea.com/hanami.html
