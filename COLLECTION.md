@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 328 | [Adagio Teas]      | [Herbal]    | [Pumpkin Potion]            | [USA]       | Cinnamon, Pumpkin, Cloves   |
 | 327 | Heaven Dragon      | [Green]     | Heaven Dragon Green Tea     | [China]     | Green tea                   |
 | 326 | [Ranfer]           | [Black]     | Dimbulla BOP                | [Sri Lanka] | Black tea                   |
 | 325 | Heaven Dragon      | [Green]     | Tikunyin Tea                | [China]     | Green tea                   |
@@ -423,6 +424,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Pumpkin Potion]: http://www.adagio.com/signature_blend/blend.html?blend=7569
 [Beerbutter Tea]: http://www.adagio.com/signature_blend/blend.html?blend=7662
 [Rebound]: https://www.thrivebynature.com.au/store/p7/Rebound.html
 [Hanami]: http://www.gryphontea.com/hanami.html
