@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 372 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Felicia H.      | 08-06-18 |
+| 372 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Marianne G.     | 08-06-18 |
 | 371 | [Adagio Teas]      | [Herbal]    | [Pumpkin Potion]            | [USA]       | Amy Dreise      | 06-06-18 |
 | 370 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Jesse Smit      | 05-06-18 |
 | 369 | Heaven Dragon      | [Green]     | Heaven Dragon Green Tea     | [China]     | Michael Tong    | 01-06-18 |
