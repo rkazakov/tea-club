@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 329 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Lime, Ginger                |
 | 328 | [Adagio Teas]      | [Herbal]    | [Pumpkin Potion]            | [USA]       | Cinnamon, Pumpkin, Cloves   |
 | 327 | Heaven Dragon      | [Green]     | Heaven Dragon Green Tea     | [China]     | Green tea                   |
 | 326 | [Ranfer]           | [Black]     | Dimbulla BOP                | [Sri Lanka] | Black tea                   |
@@ -424,6 +425,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Lime With Ginger]: https://www.tetley.com.au/our-teas/caffeine-free-and-decaf/lime-twist-ginger
 [Pumpkin Potion]: http://www.adagio.com/signature_blend/blend.html?blend=7569
 [Beerbutter Tea]: http://www.adagio.com/signature_blend/blend.html?blend=7662
 [Rebound]: https://www.thrivebynature.com.au/store/p7/Rebound.html
