@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 331 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Oolong tea                  |
+| 330 | [Ranfer]           | [Black]     | Ruhuna BOP                  | [Sri Lanka] | Black tea                   |
 | 329 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Lime, Ginger                |
 | 328 | [Adagio Teas]      | [Herbal]    | [Pumpkin Potion]            | [USA]       | Cinnamon, Pumpkin, Cloves   |
 | 327 | Heaven Dragon      | [Green]     | Heaven Dragon Green Tea     | [China]     | Green tea                   |
