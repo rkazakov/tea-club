@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 375 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Michael Tong    | 13-06-18 |
+| 374 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dee Parnell     | 13-06-18 |
+| 372 | [Ranfer]           | [Black]     | Ruhuna BOP                  | [Sri Lanka] | Sajith Weerakoon| 12-06-18 |
 | 372 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Marianne G.     | 08-06-18 |
 | 371 | [Adagio Teas]      | [Herbal]    | [Pumpkin Potion]            | [USA]       | Amy Dreise      | 06-06-18 |
 | 370 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Jesse Smit      | 05-06-18 |
