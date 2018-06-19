@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 376 | [Chai]             | [Herbal]    | [Rainbow Chai]              | [Australia] | Dee Parnell     | 18-06-18 |
+| 376 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Dee Parnell     | 18-06-18 |
 | 375 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Michael Tong    | 13-06-18 |
 | 374 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dee Parnell     | 13-06-18 |
 | 372 | [Ranfer]           | [Black]     | Ruhuna BOP                  | [Sri Lanka] | Sajith Weerakoon| 12-06-18 |
