@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 332 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Ginger, Cinnamon, Cardamom  |
 | 331 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Oolong tea                  |
 | 330 | [Ranfer]           | [Black]     | Ruhuna BOP                  | [Sri Lanka] | Black tea                   |
 | 329 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Lime, Ginger                |
@@ -350,6 +351,7 @@
 [Bukalapak]: https://www.bukalapak.com
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
+[Chai]: http://chai.com.au
 [Chamellia]: https://www.mycoffeeshop.com.au
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
@@ -427,6 +429,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Rainbow Chai]: http://chai.com.au/product/green-tea-chai
 [Lime With Ginger]: https://www.tetley.com.au/our-teas/caffeine-free-and-decaf/lime-twist-ginger
 [Pumpkin Potion]: http://www.adagio.com/signature_blend/blend.html?blend=7569
 [Beerbutter Tea]: http://www.adagio.com/signature_blend/blend.html?blend=7662
