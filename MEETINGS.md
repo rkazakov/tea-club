@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 376 | Chai               | [Herbal]    | Chai                        | [Australia] | Dee Parnell     | 18-06-18 |
+| 376 | [Chai]             | [Herbal]    | [Rainbow Chai]              | [Australia] | Dee Parnell     | 18-06-18 |
 | 375 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Michael Tong    | 13-06-18 |
 | 374 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dee Parnell     | 13-06-18 |
 | 372 | [Ranfer]           | [Black]     | Ruhuna BOP                  | [Sri Lanka] | Sajith Weerakoon| 12-06-18 |
@@ -396,6 +396,7 @@
 [Bukalapak]: https://www.bukalapak.com
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
+[Chai]: http://chai.com.au
 [Chamellia]: https://www.mycoffeeshop.com.au
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
@@ -473,6 +474,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Rainbow Chai]: http://chai.com.au/product/green-tea-chai
 [Lime With Ginger]: https://www.tetley.com.au/our-teas/caffeine-free-and-decaf/lime-twist-ginger
 [Pumpkin Potion]: http://www.adagio.com/signature_blend/blend.html?blend=7569
 [Beerbutter Tea]: http://www.adagio.com/signature_blend/blend.html?blend=7662
