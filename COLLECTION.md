@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 333 | [Kaleidoscope]     | [Herbal]    | [Green Mint & Lemongrass]   | [Morocco]   | Green Mint, Lemongrass      |
 | 332 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Ginger, Cinnamon, Cardamom  |
 | 331 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Oolong tea                  |
 | 330 | [Ranfer]           | [Black]     | Ruhuna BOP                  | [Sri Lanka] | Black tea                   |
@@ -429,6 +430,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Green Mint & Lemongrass]: https://taste-kaleidoscope.com.au/products/green-mint-lemongrass-and-linden-flower
 [Rainbow Chai]: http://chai.com.au/product/green-tea-chai
 [Lime With Ginger]: https://www.tetley.com.au/our-teas/caffeine-free-and-decaf/lime-twist-ginger
 [Pumpkin Potion]: http://www.adagio.com/signature_blend/blend.html?blend=7569
@@ -737,6 +739,7 @@
 [Kenya]: https://en.wikipedia.org/wiki/Kenya
 [Korea]: https://en.wikipedia.org/wiki/Korea
 [Malaysia]: https://en.wikipedia.org/wiki/Malaysia
+[Morocco]: https://en.wikipedia.org/wiki/Morocco
 [Poland]: https://en.wikipedia.org/wiki/Poland
 [RSA]: https://en.wikipedia.org/wiki/South_Africa
 [Russia]: https://en.wikipedia.org/wiki/Russia
