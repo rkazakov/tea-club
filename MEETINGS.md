@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 377 | [Kaleidoscope]     | [Herbal]    | [Green Mint & Lemongrass]   | [Morocco]   | Louise Brooks   | 20-06-18 |
 | 376 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Dee Parnell     | 18-06-18 |
 | 375 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Michael Tong    | 13-06-18 |
 | 374 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dee Parnell     | 13-06-18 |
@@ -474,6 +475,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Green Mint & Lemongrass]: https://taste-kaleidoscope.com.au/products/green-mint-lemongrass-and-linden-flower
 [Rainbow Chai]: http://chai.com.au/product/green-tea-chai
 [Lime With Ginger]: https://www.tetley.com.au/our-teas/caffeine-free-and-decaf/lime-twist-ginger
 [Pumpkin Potion]: http://www.adagio.com/signature_blend/blend.html?blend=7569
@@ -782,6 +784,7 @@
 [Kenya]: https://en.wikipedia.org/wiki/Kenya
 [Korea]: https://en.wikipedia.org/wiki/Korea
 [Malaysia]: https://en.wikipedia.org/wiki/Malaysia
+[Morocco]: https://en.wikipedia.org/wiki/Morocco
 [Poland]: https://en.wikipedia.org/wiki/Poland
 [RSA]: https://en.wikipedia.org/wiki/South_Africa
 [Russia]: https://en.wikipedia.org/wiki/Russia
