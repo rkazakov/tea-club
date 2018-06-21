@@ -13,7 +13,7 @@
 | 04   | Amy Dreise         | 23   |
 | 05   | Marlouk Stek       | 23   |
 | 06   | Kate Andrews       | 20   |
-| 07   | Louise Brooks      | 17   |
+| 07   | Louise Brooks      | 18   |
 | 08   | Felicia H.         | 14   |
 | 09   | Michael Chu        | 11   |
 | 10   | Bill Wang          | 10   |
@@ -31,10 +31,10 @@
 | 22   | Alex Yang          | 2    |
 | 23   | Andrea Ho          | 2    |
 | 24   | Azadeh H.          | 2    |
-| 25   | Sikang Li          | 2    |
-| 26   | Andy R Taylor      | 1    |
-| 27   | Cris Gladly        | 1    |
-| 28   | Dee Parnell        | 1    |
+| 25   | Dee Parnell        | 2    |
+| 26   | Sikang Li          | 2    |
+| 27   | Andy R Taylor      | 1    |
+| 28   | Cris Gladly        | 1    |
 | 29   | Ishwor Gurung      | 1    |
 | 30   | Jessica Hau        | 1    |
 | 31   | Joan Riddoch       | 1    |
