@@ -6,8 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 379 | [Twinings]         | [Herbal]    | ???                         | [Australia] | Marianne G.     | 27-06-18 |
-| 378 | ???                | [Green]     | ???                         | [China]     | Jesse Smit      | 25-06-18 |
+| 379 | [Twinings]         | [Herbal]    | [Ginger & Apple]            | [Australia] | Marianne G.     | 27-06-18 |
+| 378 | Chinese Tea Gift   | [Green]     | Chinese Green Tea           | [China]     | Jesse Smit      | 25-06-18 |
 | 377 | [Kaleidoscope]     | [Herbal]    | [Green Mint & Lemongrass]   | [Morocco]   | Louise Brooks   | 20-06-18 |
 | 376 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Dee Parnell     | 18-06-18 |
 | 375 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Michael Tong    | 13-06-18 |
@@ -477,6 +477,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Ginger & Apple]: https://www.woolworths.com.au/shop/productdetails/931155/twinings-ginger-apple-tea-bags
 [Green Mint & Lemongrass]: https://taste-kaleidoscope.com.au/products/green-mint-lemongrass-and-linden-flower
 [Rainbow Chai]: http://chai.com.au/product/green-tea-chai
 [Lime With Ginger]: https://www.tetley.com.au/our-teas/caffeine-free-and-decaf/lime-twist-ginger
