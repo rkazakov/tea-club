@@ -6,7 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 334 | ???                | [Green]     | ???                         | [China]     | Green tea                   |
+| 336 | [Adore Tea]        | [Black]     | [Just Tea]                  | [Australia] | Black tea                   |
+| 335 | [Twinings]         | [Herbal]    | [Ginger & Apple]            | [Australia] | Ginger, Apple               |
+| 334 | Tea Gift           | [Green]     | Chinese Green Tea           | [China]     | Green tea                   |
 | 333 | [Kaleidoscope]     | [Herbal]    | [Green Mint & Lemongrass]   | [Morocco]   | Green Mint, Lemongrass      |
 | 332 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Ginger, Cinnamon, Cardamom  |
 | 331 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Oolong tea                  |
@@ -431,6 +433,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Just Tea]: http://adoretea.com.au/Black/Black-Tea/just-tea-ceylon-blend.html
+[Ginger & Apple]: https://www.woolworths.com.au/shop/productdetails/931155/twinings-ginger-apple-tea-bags
 [Green Mint & Lemongrass]: https://taste-kaleidoscope.com.au/products/green-mint-lemongrass-and-linden-flower
 [Rainbow Chai]: http://chai.com.au/product/green-tea-chai
 [Lime With Ginger]: https://www.tetley.com.au/our-teas/caffeine-free-and-decaf/lime-twist-ginger
