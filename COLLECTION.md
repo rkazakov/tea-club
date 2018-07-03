@@ -8,7 +8,7 @@
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
 | 336 | [Adore Tea]        | [Black]     | [Just Tea]                  | [Australia] | Black tea                   |
 | 335 | [Twinings]         | [Herbal]    | [Ginger & Apple]            | [Australia] | Ginger, Apple               |
-| 334 | Tea Gift           | [Green]     | Chinese Green Tea           | [China]     | Green tea                   |
+| 334 | Tea Gift           | [Oolong]    | Chinese Oolong Tea          | [China]     | Green tea                   |
 | 333 | [Kaleidoscope]     | [Herbal]    | [Green Mint & Lemongrass]   | [Morocco]   | Green Mint, Lemongrass      |
 | 332 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Ginger, Cinnamon, Cardamom  |
 | 331 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Oolong tea                  |
