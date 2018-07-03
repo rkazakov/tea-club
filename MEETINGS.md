@@ -6,9 +6,10 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 381 | Tea Gift           | [Oolong]    | Chinese Green Tea           | [China]     | Jesse Smit      | 03-07-18 |
 | 380 | [Adore Tea]        | [Black]     | [Just Tea]                  | [Australia] | Gary Butler     | 28-06-18 |
 | 379 | [Twinings]         | [Herbal]    | [Ginger & Apple]            | [Australia] | Marianne G.     | 27-06-18 |
-| 378 | Tea Gift           | [Green]     | Chinese Green Tea           | [China]     | Jesse Smit      | 25-06-18 |
+| 378 | Tea Gift           | [Oolong]    | Chinese Green Tea           | [China]     | Jesse Smit      | 25-06-18 |
 | 377 | [Kaleidoscope]     | [Herbal]    | [Green Mint & Lemongrass]   | [Morocco]   | Louise Brooks   | 20-06-18 |
 | 376 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Dee Parnell     | 18-06-18 |
 | 375 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Michael Tong    | 13-06-18 |
