@@ -6,7 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 381 | Tea Gift           | [Oolong]    | Chinese Oolong Tea          | [China]     | Jesse Smit      | 03-07-18 |
+| 383 | Tea Gift           | [Oolong]    | Chinese Oolong Tea          | [China]     | Jesse Smit      | 03-07-18 |
+| 382 | [Life of Cha]      | [Herbal]    | [Lattea]                    | [USA]       | Felicia H.      | 29-06-18 |
+| 381 | [Harney & Sons]    | [Green]     | [Green with Coconut]        | [Thailand]  | Chris Gladly    | 29-06-18 |
 | 380 | [Adore Tea]        | [Black]     | [Just Tea]                  | [Australia] | Gary Butler     | 28-06-18 |
 | 379 | [Twinings]         | [Herbal]    | [Ginger & Apple]            | [Australia] | Marianne G.     | 27-06-18 |
 | 378 | Tea Gift           | [Oolong]    | Chinese Oolong Tea          | [China]     | Jesse Smit      | 25-06-18 |
@@ -416,6 +418,7 @@
 [Golden Tips]: http://www.goldentipstea.com
 [Gryphon Tea]: http://www.gryphontea.com
 [Hansung KMT]: http://www.kmt.com.my
+[Harney & Sons]: http://www.harneyteas.com.au
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Indulge Tea]: http://indulgetea.com.au
@@ -479,6 +482,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Lattea]: https://www.lifeofcha.com.au/products/lattea
+[Green with Coconut]: http://www.harneyteas.com.au/shop/productdetails.php?p=31615
 [Just Tea]: http://adoretea.com.au/Black/Black-Tea/just-tea-ceylon-blend.html
 [Ginger & Apple]: https://www.woolworths.com.au/shop/productdetails/931155/twinings-ginger-apple-tea-bags
 [Green Mint & Lemongrass]: https://taste-kaleidoscope.com.au/products/green-mint-lemongrass-and-linden-flower
