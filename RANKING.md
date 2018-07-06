@@ -31,10 +31,10 @@
 | 22   | Alex Yang          | 2    |
 | 23   | Andrea Ho          | 2    |
 | 24   | Azadeh H.          | 2    |
-| 25   | Dee Parnell        | 2    |
-| 26   | Sikang Li          | 2    |
-| 27   | Andy R Taylor      | 1    |
-| 28   | Cris Gladly        | 1    |
+| 25   | Cris Gladly        | 2    |
+| 26   | Dee Parnell        | 2    |
+| 27   | Sikang Li          | 2    |
+| 28   | Andy R Taylor      | 1    |
 | 29   | Ishwor Gurung      | 1    |
 | 30   | Jessica Hau        | 1    |
 | 31   | Joan Riddoch       | 1    |
