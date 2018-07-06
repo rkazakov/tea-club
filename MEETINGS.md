@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 385 | Heaven Dragon      | [Pu-ehr]    | Heaven Dragon Pu Erh Tea    | [China]     | Michael Tong    | 06-07-18 |
+| 384 | Dong-So            | [Genmaicha] | Hyun-Mi Nok-Cha             | [Korea]     | Lucia Pak       | 04-07-18 |
 | 383 | Tea Gift           | [Oolong]    | Chinese Oolong Tea          | [China]     | Jesse Smit      | 03-07-18 |
 | 382 | [Life of Cha]      | [Herbal]    | [Lattea]                    | [USA]       | Felicia H.      | 29-06-18 |
 | 381 | [Harney & Sons]    | [Green]     | [Green with Coconut]        | [Thailand]  | Chris Gladly    | 29-06-18 |
