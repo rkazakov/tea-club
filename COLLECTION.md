@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 340 | Heaven Dragon      | [Pu-erh]    | Heaven Dragon Pu Erh Tea    | [China]     | Pu-erh tea                  |
+| 339 | Dong-So            | [Genmaicha] | Hyun-Mi Nok-Cha             | [Korea]     | Roasted rice                |
 | 338 | [Life of Cha]      | [Herbal]    | [Lattea]                    | [USA]       | Rooibos, Barley             |
 | 337 | [Harney & Sons]    | [Green]     | [Green with Coconut]        | [Thailand]  | Coconut, Lemongrass, Ginger |
 | 336 | [Adore Tea]        | [Black]     | [Just Tea]                  | [Australia] | Black tea                   |
