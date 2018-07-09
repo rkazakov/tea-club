@@ -3,7 +3,7 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 06/07/2018
+#### Updated: 09/07/2018
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
@@ -14,7 +14,7 @@
 | 05   | Marlouk Stek       | 23   |
 | 06   | Kate Andrews       | 20   |
 | 07   | Louise Brooks      | 18   |
-| 08   | Felicia H.         | 15   |
+| 08   | Felicia H.         | 16   |
 | 09   | Michael Chu        | 11   |
 | 10   | Bill Wang          | 10   |
 | 11   | Jesse Smit         | 10   |
