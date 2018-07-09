@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 386 | [Life of Cha]      | [Green]     | [Up]                        | [China]     | Felicia H.      | 09-07-18 |
 | 385 | Heaven Dragon      | [Pu-erh]    | Heaven Dragon Pu Erh Tea    | [China]     | Michael Tong    | 06-07-18 |
 | 384 | Dong-So            | [Genmaicha] | Hyun-Mi Nok-Cha             | [Korea]     | Lucia Pak       | 04-07-18 |
 | 383 | Tea Gift           | [Oolong]    | Chinese Oolong Tea          | [China]     | Jesse Smit      | 03-07-18 |
@@ -484,6 +485,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Up]: https://www.lifeofcha.com.au/products/up
 [Lattea]: https://www.lifeofcha.com.au/products/lattea
 [Green with Coconut]: http://www.harneyteas.com.au/shop/productdetails.php?p=31615
 [Just Tea]: http://adoretea.com.au/Black/Black-Tea/just-tea-ceylon-blend.html
