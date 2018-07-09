@@ -439,6 +439,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Up]: https://www.lifeofcha.com.au/products/up
 [Lattea]: https://www.lifeofcha.com.au/products/lattea
 [Green with Coconut]: http://www.harneyteas.com.au/shop/productdetails.php?p=31615
 [Just Tea]: http://adoretea.com.au/Black/Black-Tea/just-tea-ceylon-blend.html
