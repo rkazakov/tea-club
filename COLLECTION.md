@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 341 | [Life of Cha]      | [Green]     | [Up]                        | [China]     | Green tea                   |
 | 340 | Heaven Dragon      | [Pu-erh]    | Heaven Dragon Pu Erh Tea    | [China]     | Pu-erh tea                  |
 | 339 | Dong-So            | [Genmaicha] | Hyun-Mi Nok-Cha             | [Korea]     | Roasted rice                |
 | 338 | [Life of Cha]      | [Herbal]    | [Lattea]                    | [USA]       | Rooibos, Barley             |
