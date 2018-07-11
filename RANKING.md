@@ -3,7 +3,7 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 09/07/2018
+#### Updated: 11/07/2018
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
@@ -22,8 +22,8 @@
 | 13   | Michael Tong       | 8    |
 | 14   | Charlotte Bian     | 6    |
 | 15   | Marianne G.        | 6    |
-| 16   | Mamatha R.         | 5    |
-| 17   | Rozanna Wong       | 5    |
+| 16   | Rozanna Wong       | 6    |
+| 17   | Mamatha R.         | 5    |
 | 18   | Ray Dai            | 4    |
 | 19   | Sajith Weerakoon   | 4    |
 | 20   | Jess Cozanitis     | 3    |
