@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 387 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 11-07-18 |
 | 386 | [Life of Cha]      | [Green]     | [Up]                        | [China]     | Felicia H.      | 09-07-18 |
 | 385 | Heaven Dragon      | [Pu-erh]    | Heaven Dragon Pu Erh Tea    | [China]     | Michael Tong    | 06-07-18 |
 | 384 | Dong-So            | [Genmaicha] | Hyun-Mi Nok-Cha             | [Korea]     | Lucia Pak       | 04-07-18 |
@@ -402,7 +403,8 @@
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
-[Blue Mountains]: https://bluemountainstea.com.au/
+[Blue Mountains]: https://bluemountainstea.com.au
+[BOH]: https://www.bohtea.com
 [Bukalapak]: https://www.bukalapak.com
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
@@ -485,6 +487,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Classic BOH Tea]: https://www.bohtea.com/product-category/classic-boh-tea
 [Up]: https://www.lifeofcha.com.au/products/up
 [Lattea]: https://www.lifeofcha.com.au/products/lattea
 [Green with Coconut]: http://www.harneyteas.com.au/shop/productdetails.php?p=31615
