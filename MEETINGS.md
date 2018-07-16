@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 389 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Dee Parnell     | 13-07-18 |
+| 388 | [Kaleidoscope]     | [Herbal]    | [Flora Night Tea]           | [Australia] | Louise Brooks   | 13-07-18 |
 | 387 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 11-07-18 |
 | 386 | [Life of Cha]      | [Green]     | [Up]                        | [China]     | Felicia H.      | 09-07-18 |
 | 385 | Heaven Dragon      | [Pu-erh]    | Heaven Dragon Pu Erh Tea    | [China]     | Michael Tong    | 06-07-18 |
@@ -487,6 +489,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Flora Night Tea]: https://taste-kaleidoscope.com.au/products/flora-night-tea
 [Classic BOH Tea]: https://www.bohtea.com/product-category/classic-boh-tea
 [Up]: https://www.lifeofcha.com.au/products/up
 [Lattea]: https://www.lifeofcha.com.au/products/lattea
