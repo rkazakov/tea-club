@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 344 | [Adagio Teas]      | [Herbal]    | [Polyjuice Potion]          | [USA]       | Hair, goop, Goyle           |
 | 343 | [Kaleidoscope]     | [Herbal]    | [Flora Night Tea]           | [Australia] | Camomile, Lavender, Lemon   |
 | 342 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Black tea                   |
 | 341 | [Life of Cha]      | [Green]     | [Up]                        | [China]     | Green tea                   |
@@ -442,6 +443,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Polyjuice Potion]: http://www.adagio.com/signature_blend/blend.html?blend=14378
 [Flora Night Tea]: https://taste-kaleidoscope.com.au/products/flora-night-tea
 [Classic BOH Tea]: https://www.bohtea.com/product-category/classic-boh-tea
 [Up]: https://www.lifeofcha.com.au/products/up

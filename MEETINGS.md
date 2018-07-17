@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 390 | [Adagio Teas]      | [Herbal]    | [Polyjuice Potion]          | [USA]       | Amy Dreise      | 16-07-18 |
 | 389 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Dee Parnell     | 13-07-18 |
 | 388 | [Kaleidoscope]     | [Herbal]    | [Flora Night Tea]           | [Australia] | Louise Brooks   | 13-07-18 |
 | 387 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 11-07-18 |
@@ -489,6 +490,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Polyjuice Potion]: http://www.adagio.com/signature_blend/blend.html?blend=14378
 [Flora Night Tea]: https://taste-kaleidoscope.com.au/products/flora-night-tea
 [Classic BOH Tea]: https://www.bohtea.com/product-category/classic-boh-tea
 [Up]: https://www.lifeofcha.com.au/products/up
