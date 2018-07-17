@@ -6,7 +6,48 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 348 | [Adagio Tea]      | [Herbal]    | [Honeybush Hazelnut]          | [USA]       | Amy Dreise      | 07-05-18 |
+| 389 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Dee Parnell     | 13-07-18 |
+| 388 | [Kaleidoscope]     | [Herbal]    | [Flora Night Tea]           | [Australia] | Louise Brooks   | 13-07-18 |
+| 387 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 11-07-18 |
+| 386 | [Life of Cha]      | [Green]     | [Up]                        | [China]     | Felicia H.      | 09-07-18 |
+| 385 | Heaven Dragon      | [Pu-erh]    | Heaven Dragon Pu Erh Tea    | [China]     | Michael Tong    | 06-07-18 |
+| 384 | Dong-So            | [Genmaicha] | Hyun-Mi Nok-Cha             | [Korea]     | Lucia Pak       | 04-07-18 |
+| 383 | Tea Gift           | [Oolong]    | Chinese Oolong Tea          | [China]     | Jesse Smit      | 03-07-18 |
+| 382 | [Life of Cha]      | [Herbal]    | [Lattea]                    | [USA]       | Felicia H.      | 29-06-18 |
+| 381 | [Harney & Sons]    | [Green]     | [Green with Coconut]        | [Thailand]  | Chris Gladly    | 29-06-18 |
+| 380 | [Adore Tea]        | [Black]     | [Just Tea]                  | [Australia] | Gary Butler     | 28-06-18 |
+| 379 | [Twinings]         | [Herbal]    | [Ginger & Apple]            | [Australia] | Marianne G.     | 27-06-18 |
+| 378 | Tea Gift           | [Oolong]    | Chinese Oolong Tea          | [China]     | Jesse Smit      | 25-06-18 |
+| 377 | [Kaleidoscope]     | [Herbal]    | [Green Mint & Lemongrass]   | [Morocco]   | Louise Brooks   | 20-06-18 |
+| 376 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Dee Parnell     | 18-06-18 |
+| 375 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Michael Tong    | 13-06-18 |
+| 374 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dee Parnell     | 13-06-18 |
+| 372 | [Ranfer]           | [Black]     | Ruhuna BOP                  | [Sri Lanka] | Sajith Weerakoon| 12-06-18 |
+| 372 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Marianne G.     | 08-06-18 |
+| 371 | [Adagio Teas]      | [Herbal]    | [Pumpkin Potion]            | [USA]       | Amy Dreise      | 06-06-18 |
+| 370 | [T2]               | [Herbal]    | [Cocoa Loco]                | [Poland]    | Jesse Smit      | 05-06-18 |
+| 369 | Heaven Dragon      | [Green]     | Heaven Dragon Green Tea     | [China]     | Michael Tong    | 01-06-18 |
+| 368 | [Ranfer]           | [Black]     | Dimbulla BOP                | [Sri Lanka] | Sajith Weerakoon| 01-06-18 |
+| 367 | Heaven Dragon      | [Green]     | Tikunyin Tea                | [China]     | Michael Tong    | 30-05-18 |
+| 366 | [Adagio Teas]      | [Herbal]    | [Beerbutter Tea]            | [USA]       | Amy Dreise      | 30-05-18 |
+| 366 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dee Parnell     | 28-05-18 |
+| 365 | [T2]               | [Herbal]    | [Lemongrass and Ginger]     | [Australia] | Dee Parnell     | 28-05-18 |
+| 364 | [Ranfer]           | [Black]     | Vanilla BOP                 | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
+| 363 | [Ranfer]           | [Black]     | Pussella BOP                | [Sri Lanka] | Sajith Weerakoon| 25-05-18 |
+| 362 | [Gryphon Tea]      | [Green]     | [Hanami]                    | [Japan]     | Felicia H.      | 23-05-18 |
+| 361 | Heaven Dragon      | [Green]     | Shou Mei Tea                | [China]     | Michael Tong    | 23-05-18 |
+| 360 | [Adore Tea]        | [Black]     | [Cream Brulee]              | [Australia] | Gary Butler     | 22-05-18 |
+| 359 | [Adore Tea]        | [Green]     | [Luscious Lychee]           | [Australia] | Gary Butler     | 17-05-18 |
+| 358 | [Adore Tea]        | [Herbal]    | [Watermelon Mojito]         | [Australia] | Gary Butler     | 17-05-18 |
+| 357 | [The Tea Centre]   | [Black]     | [Chocolate Mint]            | [Australia] | Marianne G.     | 17-05-18 |
+| 356 | [Yanyshev]         | [Black]     | Kokoshnik Black Tea         | [China]     | Ivan Pchelnikov | 17-05-18 |
+| 355 | [T2]               | [Blooming]  | T2 Blossoms                 | [Australia] | Kate Andrews    | 17-05-18 |
+| 354 | [Golchin]          | [Herbal]    | [Gol Gav Zaban]             | [Iran]      | Marzieh M.      | 17-05-18 |
+| 353 | [Gryphon Tea]      | [Herbal]    | [Mogambo]                   | [RSA]       | Felicia H.      | 14-05-18 |
+| 352 | [Adagio Teas]      | [Herbal]    | [Tiger Eye]                 | [USA]       | Amy Dreise      | 09-05-18 |
+| 351 | [Dilmah]           | [Green]     | [Fragrant Jasmine Green]    | [Sri Lanka] | Felicia H.      | 09-05-18 |
+| 350 | [Dilmah]           | [Black]     | [Aromatic Earl Grey]        | [Sri Lanka] | Felicia H.      | 09-05-18 |
+| 349 | [Adagio Teas]      | [Herbal]    | [Honeybush Hazelnut]        | [USA]       | Amy Dreise      | 07-05-18 |
 | 348 | [Yanyshev]         | [Pu-erh]    | Yachai Pu-erh Tablet Tea    | [China]     | Ivan Pchelnikov | 04-05-18 |
 | 347 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Gary Butler     | 02-05-18 |
 | 346 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Ivan Pchelnikov | 30-04-18 |
@@ -226,7 +267,7 @@
 | 132 | [Rabbit Hole]      | [Black]     | [Green Power]               | -           | Gary Butler     | 09-03-17 |
 | 131 | [Montea Cristo]    | [Black]     | [Blood Orange]              | [Australia] | Amy Dreise      | 09-03-17 |
 | 130 | [Disney]           | [Black]     | [Official Unbirthday Tea]   | [USA]       | Amy Dreise      | 06-03-17 |
-| 129 | [MightyLeaf]       | [Green]     | [Green Tea Tropical]        | [China]     | Cris Gladly     | 03-03-17 |
+| 129 | [MightyLeaf]       | [Green]     | [Green Tea Tropical]        | [China]     | Chris Gladly    | 03-03-17 |
 | 128 | [T2]               | [Black]     | [Banana Bake]               | -           | Kate Andrews    | 01-03-17 |
 | 127 | [Adore Tea]        | [Black]     | [Cherry Ripe]               | [India]     | Gary Butler     | 22-02-17 |
 | 126 | [Noviy Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Ivan Pchelnikov | 13-02-17 |
@@ -357,17 +398,19 @@
 | 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Ruslan Kazakov  | 20-06-16 |
 
 <!-- Brand -->
-[Adagio Tea]: http://www.adagio.com
+[Adagio Teas]: http://www.adagio.com
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
 [Amy's Teas]: https://github.com/frydreise/recipes
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
-[Blue Mountains]: https://bluemountainstea.com.au/
+[Blue Mountains]: https://bluemountainstea.com.au
+[BOH]: https://www.bohtea.com
 [Bukalapak]: https://www.bukalapak.com
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
+[Chai]: http://chai.com.au
 [Chamellia]: https://www.mycoffeeshop.com.au
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
@@ -380,7 +423,9 @@
 [Golchin]: http://www.golchin-tea.com
 [Golden Sail]: https://steepster.com/companies/golden-sail-brand
 [Golden Tips]: http://www.goldentipstea.com
+[Gryphon Tea]: http://www.gryphontea.com
 [Hansung KMT]: http://www.kmt.com.my
+[Harney & Sons]: http://www.harneyteas.com.au
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Indulge Tea]: http://indulgetea.com.au
@@ -410,6 +455,7 @@
 [Princess Java]: http://www.java-tea.ru
 [Pukka]: http://www.pukkaherbs.com.au/
 [Rabbit Hole]: https://therabbithole.com.au
+[Ranfer]: http://www.ranfer.com
 [Regular Tea]: http://www.ckmc.cn
 [Rus Tea Co]: http://www.russianteacompany.com
 [Sahar Khiz]: http://www.saharkhizsaffron.com
@@ -422,12 +468,14 @@
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
+[Taylors]: https://www.taylorsofharrogate.com
 [Tea Tonic]: https://www.teatonic.com.au
 [Tetley]: http://www.tetley.com.au
-[Taylors]: https://www.taylorsofharrogate.com
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
+[The Tea Centre]: https://www.theteacentre.com.au
+[Thrive]: https://www.thrivebynature.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
 [Tridosha]: https://tridosha.com.au
@@ -441,6 +489,28 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Flora Night Tea]: https://taste-kaleidoscope.com.au/products/flora-night-tea
+[Classic BOH Tea]: https://www.bohtea.com/product-category/classic-boh-tea
+[Up]: https://www.lifeofcha.com.au/products/up
+[Lattea]: https://www.lifeofcha.com.au/products/lattea
+[Green with Coconut]: http://www.harneyteas.com.au/shop/productdetails.php?p=31615
+[Just Tea]: http://adoretea.com.au/Black/Black-Tea/just-tea-ceylon-blend.html
+[Ginger & Apple]: https://www.woolworths.com.au/shop/productdetails/931155/twinings-ginger-apple-tea-bags
+[Green Mint & Lemongrass]: https://taste-kaleidoscope.com.au/products/green-mint-lemongrass-and-linden-flower
+[Rainbow Chai]: http://chai.com.au/product/green-tea-chai
+[Lime With Ginger]: https://www.tetley.com.au/our-teas/caffeine-free-and-decaf/lime-twist-ginger
+[Pumpkin Potion]: http://www.adagio.com/signature_blend/blend.html?blend=7569
+[Beerbutter Tea]: http://www.adagio.com/signature_blend/blend.html?blend=7662
+[Rebound]: https://www.thrivebynature.com.au/store/p7/Rebound.html
+[Hanami]: http://www.gryphontea.com/hanami.html
+[Cream Brulee]: http://adoretea.com.au/teacup-candle-creme-brulee-infused.html
+[Luscious Lychee]: http://adoretea.com.au/luscious-lychee.html
+[Watermelon Mojito]: http://adoretea.com.au/watermelon-mojito.html
+[Chocolate Mint]: https://www.theteacentre.com.au/p/chocolate-mint
+[Mogambo]: http://www.gryphontea.com/mogambo.html
+[Tiger Eye]: http://www.adagio.com/flavors/tiger_eye.html
+[Fragrant Jasmine Green]: https://www.dilmah.com.au/tea-brands/dilmah-exceptionals/exceptional-fragrant-jasmine-green-tea--45.html
+[Aromatic Earl Grey]: https://www.dilmahtea.com/vivid-tea/our-teas/aromatic-earl-grey-tea.html
 [Honeybush Hazelnut]: http://www.adagio.com/rooibos/honeybush_hazelnut.html
 [Chamellia English Breakf.]: https://www.mycoffeeshop.com.au/Chamellia-English-Breakfast-tea-Loose-Leaf-80g
 [Spiced Tea No.3]: https://taste-kaleidoscope.com.au/products/spiced-tea-no-3
@@ -735,10 +805,12 @@
 [Kenya]: https://en.wikipedia.org/wiki/Kenya
 [Korea]: https://en.wikipedia.org/wiki/Korea
 [Malaysia]: https://en.wikipedia.org/wiki/Malaysia
+[Morocco]: https://en.wikipedia.org/wiki/Morocco
 [Poland]: https://en.wikipedia.org/wiki/Poland
+[RSA]: https://en.wikipedia.org/wiki/South_Africa
 [Russia]: https://en.wikipedia.org/wiki/Russia
-[Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Scotland]: https://en.wikipedia.org/wiki/Scotland
+[Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Sudan]: https://en.wikipedia.org/wiki/Sudan
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
 [Thailand]: https://en.wikipedia.org/wiki/Thailand

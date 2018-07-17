@@ -3,38 +3,41 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 25/04/2018
+#### Updated: 16/07/2018
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
-| 01   | Gary Butler        | 57   |
+| 01   | Gary Butler        | 62   |
 | 02   | Ruslan Kazakov     | 53   |
-| 03   | Marlouk Stek       | 23   |
-| 04   | Ivan Pchelnikov    | 22   |
-| 05   | Kate Andrews       | 20   |
-| 06   | Amy Dreise         | 19   |
-| 07   | Louise Brooks      | 17   |
-| 08   | Michael Chu        | 11   |
-| 09   | Bill Wang          | 10   |
-| 10   | Felicia H.         | 10   |
-| 11   | Jesse Smit         | 9    |
+| 03   | Ivan Pchelnikov    | 25   |
+| 04   | Amy Dreise         | 23   |
+| 05   | Marlouk Stek       | 23   |
+| 06   | Kate Andrews       | 20   |
+| 07   | Louise Brooks      | 19   |
+| 08   | Felicia H.         | 16   |
+| 09   | Michael Chu        | 11   |
+| 10   | Bill Wang          | 10   |
+| 11   | Jesse Smit         | 10   |
 | 12   | Cherry Zhou        | 8    |
-| 13   | Charlotte Bian     | 6    |
-| 14   | Mamatha R.         | 5    |
-| 15   | Rozanna Wong       | 5    |
-| 16   | Ray Dai            | 4    |
-| 17   | Jess Cozanitis     | 3    |
-| 18   | Marianne G.        | 3    |
-| 19   | Michael Tong       | 3    |
-| 20   | Sally Garton       | 3    |
-| 21   | Alex Yang          | 2    |
-| 22   | Andrea Ho          | 2    |
-| 23   | Azadeh H.          | 2    |
-| 24   | Sikang Li          | 2    |
-| 25   | Andy R Taylor      | 1    |
-| 26   | Cris Gladly        | 1    |
-| 27   | Ishwor Gurung      | 1    |
-| 28   | Jessica Hau        | 1    |
-| 29   | Joan Riddoch       | 1    |
-| 30   | Marzieh M.         | 1    |
-| 31   | Will Niu           | 1    |
+| 13   | Michael Tong       | 8    |
+| 14   | Charlotte Bian     | 6    |
+| 15   | Marianne G.        | 6    |
+| 16   | Rozanna Wong       | 6    |
+| 17   | Mamatha R.         | 5    |
+| 18   | Ray Dai            | 4    |
+| 19   | Sajith Weerakoon   | 4    |
+| 20   | Jess Cozanitis     | 3    |
+| 21   | Sally Garton       | 3    |
+| 22   | Alex Yang          | 2    |
+| 23   | Andrea Ho          | 2    |
+| 24   | Azadeh H.          | 2    |
+| 25   | Cris Gladly        | 2    |
+| 26   | Dee Parnell        | 2    |
+| 27   | Sikang Li          | 2    |
+| 28   | Andy R Taylor      | 1    |
+| 29   | Ishwor Gurung      | 1    |
+| 30   | Jessica Hau        | 1    |
+| 31   | Joan Riddoch       | 1    |
+| 32   | Lucia Pak          | 1    |
+| 33   | Marzieh M.         | 1    |
+| 34   | Will Niu           | 1    |

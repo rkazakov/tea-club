@@ -6,7 +6,40 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 310 | [Adagio Tea]      | [Herbal]    | [Honeybush Hazelnut]          | [USA]       | Delicious hazelnut          |
+| 343 | [Kaleidoscope]     | [Herbal]    | [Flora Night Tea]           | [Australia] | Camomile, Lavender, Lemon   |
+| 342 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Black tea                   |
+| 341 | [Life of Cha]      | [Green]     | [Up]                        | [China]     | Green tea                   |
+| 340 | Heaven Dragon      | [Pu-erh]    | Heaven Dragon Pu Erh Tea    | [China]     | Pu-erh tea                  |
+| 339 | Dong-So            | [Genmaicha] | Hyun-Mi Nok-Cha             | [Korea]     | Roasted rice                |
+| 338 | [Life of Cha]      | [Herbal]    | [Lattea]                    | [USA]       | Rooibos, Barley             |
+| 337 | [Harney & Sons]    | [Green]     | [Green with Coconut]        | [Thailand]  | Coconut, Lemongrass, Ginger |
+| 336 | [Adore Tea]        | [Black]     | [Just Tea]                  | [Australia] | Black tea                   |
+| 335 | [Twinings]         | [Herbal]    | [Ginger & Apple]            | [Australia] | Ginger, Apple               |
+| 334 | Tea Gift           | [Oolong]    | Chinese Oolong Tea          | [China]     | Green tea                   |
+| 333 | [Kaleidoscope]     | [Herbal]    | [Green Mint & Lemongrass]   | [Morocco]   | Green Mint, Lemongrass      |
+| 332 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Ginger, Cinnamon, Cardamom  |
+| 331 | Heaven Dragon      | [Green]     | Heaven Dragon Oolong Tea    | [China]     | Oolong tea                  |
+| 330 | [Ranfer]           | [Black]     | Ruhuna BOP                  | [Sri Lanka] | Black tea                   |
+| 329 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Lime, Ginger                |
+| 328 | [Adagio Teas]      | [Herbal]    | [Pumpkin Potion]            | [USA]       | Cinnamon, Pumpkin, Cloves   |
+| 327 | Heaven Dragon      | [Green]     | Heaven Dragon Green Tea     | [China]     | Green tea                   |
+| 326 | [Ranfer]           | [Black]     | Dimbulla BOP                | [Sri Lanka] | Black tea                   |
+| 325 | Heaven Dragon      | [Green]     | Tikunyin Tea                | [China]     | Green tea                   |
+| 324 | [Adagio Teas]      | [Herbal]    | [Beerbutter Tea]            | [USA]       | Beer butter                 |
+| 323 | [Thrive]           | [Herbal]    | [Rebound]                   | [Australia] | Dandelion, Licorice         |
+| 322 | [Ranfer]           | [Black]     | Vanilla BOP                 | [Sri Lanka] | Vanilla                     |
+| 321 | [Ranfer]           | [Black]     | Pussella BOP                | [Sri Lanka] | Black tea                   |
+| 320 | [Gryphon Tea]      | [Green]     | [Hanami]                    | [Japan]     | Cherry blossoms             |
+| 319 | Heaven Dragon      | [Green]     | Shou Mei Tea                | [China]     | Green tea                   |
+| 318 | [Adore Tea]        | [Black]     | [Cream Brulee]              | [Australia] | Cream Brûlée                |
+| 317 | [Adore Tea]        | [Green]     | [Luscious Lychee]           | [Australia] | Papaya, Pineapple           |
+| 316 | [Adore Tea]        | [Herbal]    | [Watermelon Mojito]         | [Australia] | Lemon grass, Peppermint     |
+| 315 | [The Tea Centre]   | [Black]     | [Chocolate Mint]            | [Australia] | Chocolate, Mint             |
+| 314 | [Gryphon Tea]      | [Herbal]    | [Mogambo]                   | [RSA]       | Rooibos, Honeybush, Apple   |
+| 313 | [Adagio Teas]      | [Herbal]    | [Tiger Eye]                 | [USA]       | Chocolate, Caramel          |
+| 312 | [Dilmah]           | [Green]     | [Fragrant Jasmine Green]    | [Sri Lanka] | Fragrant Jasmine            |
+| 311 | [Dilmah]           | [Black]     | [Aromatic Earl Grey]        | [Sri Lanka] | Aromatic Earl Grey          |
+| 310 | [Adagio Teas]      | [Herbal]    | [Honeybush Hazelnut]        | [USA]       | Delicious hazelnut          |
 | 309 | [Yanyshev]         | [Pu-erh]    | Yachai Pu-erh Tablet Tea    | [China]     | Ceylon pu-erh tea           |
 | 308 | [Chamellia]        | [Black]     | [Chamellia English Breakf.] | [Sri Lanka] | Ceylon black tea            |
 | 307 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Green tea                   |
@@ -318,17 +351,19 @@
 | 001 | [Basilur]          | [Black]     | [Fruit Shop]                | [Sri Lanka] | Orange, Papaya, Raisin      |
 
 <!-- Brand -->
-[Adagio Tea]: http://www.adagio.com
+[Adagio Teas]: http://www.adagio.com
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
 [Amy's Teas]: https://github.com/frydreise/recipes
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
 [Black Dragon]: http://www.china-tea.ru
-[Blue Mountains]: https://bluemountainstea.com.au/
+[Blue Mountains]: https://bluemountainstea.com.au
+[BOH]: https://www.bohtea.com
 [Bukalapak]: https://www.bukalapak.com
 [Calmer Sutra]: https://www.calmersutratea.com.au
 [Celestial]: http://www.celestialseasonings.com
+[Chai]: http://chai.com.au
 [Chamellia]: https://www.mycoffeeshop.com.au
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
@@ -341,7 +376,9 @@
 [Golchin]: http://www.golchin-tea.com
 [Golden Sail]: https://steepster.com/companies/golden-sail-brand
 [Golden Tips]: http://www.goldentipstea.com
+[Gryphon Tea]: http://www.gryphontea.com
 [Hansung KMT]: http://www.kmt.com.my
+[Harney & Sons]: http://www.harneyteas.com.au
 [Hema]: http://www.hemashop.com/gb
 [Higher Living]: http://www.higherlivingherbs.com
 [Indulge Tea]: http://indulgetea.com.au
@@ -371,6 +408,7 @@
 [Princess Java]: http://www.java-tea.ru
 [Pukka]: http://www.pukkaherbs.com.au/
 [Rabbit Hole]: https://therabbithole.com.au
+[Ranfer]: http://www.ranfer.com
 [Regular Tea]: http://www.ckmc.cn
 [Rus Tea Co]: http://www.russianteacompany.com
 [Sahar Khiz]: http://www.saharkhizsaffron.com
@@ -383,12 +421,14 @@
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
+[Taylors]: https://www.taylorsofharrogate.com
 [Tea Tonic]: https://www.teatonic.com.au
 [Tetley]: http://www.tetley.com.au
-[Taylors]: https://www.taylorsofharrogate.com
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
+[The Tea Centre]: https://www.theteacentre.com.au
+[Thrive]: https://www.thrivebynature.com.au
 [Tipson]: http://www.tipsontea.com
 [Trader Joe's]: http://www.traderjoes.com
 [Tridosha]: https://tridosha.com.au
@@ -402,6 +442,28 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Flora Night Tea]: https://taste-kaleidoscope.com.au/products/flora-night-tea
+[Classic BOH Tea]: https://www.bohtea.com/product-category/classic-boh-tea
+[Up]: https://www.lifeofcha.com.au/products/up
+[Lattea]: https://www.lifeofcha.com.au/products/lattea
+[Green with Coconut]: http://www.harneyteas.com.au/shop/productdetails.php?p=31615
+[Just Tea]: http://adoretea.com.au/Black/Black-Tea/just-tea-ceylon-blend.html
+[Ginger & Apple]: https://www.woolworths.com.au/shop/productdetails/931155/twinings-ginger-apple-tea-bags
+[Green Mint & Lemongrass]: https://taste-kaleidoscope.com.au/products/green-mint-lemongrass-and-linden-flower
+[Rainbow Chai]: http://chai.com.au/product/green-tea-chai
+[Lime With Ginger]: https://www.tetley.com.au/our-teas/caffeine-free-and-decaf/lime-twist-ginger
+[Pumpkin Potion]: http://www.adagio.com/signature_blend/blend.html?blend=7569
+[Beerbutter Tea]: http://www.adagio.com/signature_blend/blend.html?blend=7662
+[Rebound]: https://www.thrivebynature.com.au/store/p7/Rebound.html
+[Hanami]: http://www.gryphontea.com/hanami.html
+[Cream Brulee]: http://adoretea.com.au/teacup-candle-creme-brulee-infused.html
+[Luscious Lychee]: http://adoretea.com.au/luscious-lychee.html
+[Watermelon Mojito]: http://adoretea.com.au/watermelon-mojito.html
+[Chocolate Mint]: https://www.theteacentre.com.au/p/chocolate-mint
+[Mogambo]: http://www.gryphontea.com/mogambo.html
+[Tiger Eye]: http://www.adagio.com/flavors/tiger_eye.html
+[Fragrant Jasmine Green]: https://www.dilmah.com.au/tea-brands/dilmah-exceptionals/exceptional-fragrant-jasmine-green-tea--45.html
+[Aromatic Earl Grey]: https://www.dilmahtea.com/vivid-tea/our-teas/aromatic-earl-grey-tea.html
 [Honeybush Hazelnut]: http://www.adagio.com/rooibos/honeybush_hazelnut.html
 [Chamellia English Breakf.]: https://www.mycoffeeshop.com.au/Chamellia-English-Breakfast-tea-Loose-Leaf-80g
 [Spiced Tea No.3]: https://taste-kaleidoscope.com.au/products/spiced-tea-no-3
@@ -696,10 +758,12 @@
 [Kenya]: https://en.wikipedia.org/wiki/Kenya
 [Korea]: https://en.wikipedia.org/wiki/Korea
 [Malaysia]: https://en.wikipedia.org/wiki/Malaysia
+[Morocco]: https://en.wikipedia.org/wiki/Morocco
 [Poland]: https://en.wikipedia.org/wiki/Poland
+[RSA]: https://en.wikipedia.org/wiki/South_Africa
 [Russia]: https://en.wikipedia.org/wiki/Russia
-[Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Scotland]: https://en.wikipedia.org/wiki/Scotland
+[Sri Lanka]: https://en.wikipedia.org/wiki/Sri_Lanka
 [Sudan]: https://en.wikipedia.org/wiki/Sudan
 [Taiwan]: https://en.wikipedia.org/wiki/Taiwan
 [Thailand]: https://en.wikipedia.org/wiki/Thailand
