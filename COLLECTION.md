@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 345 | [Exquisite L.]     | [Black]     | Anhua Dark Tea              | [China]     | Smoked black tea            |
 | 344 | [Adagio Teas]      | [Herbal]    | [Polyjuice Potion]          | [USA]       | Hair, Goop, Goyle           |
 | 343 | [Kaleidoscope]     | [Herbal]    | [Flora Night Tea]           | [Australia] | Camomile, Lavender, Lemon   |
 | 342 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Black tea                   |
@@ -372,6 +373,7 @@
 [Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Dragon Leaf]: http://www.dragon-leaf.com
 [Efuton]: http://www.efuton.com
+[Exquisite L.]: https://exquisiteleaves.com
 [Fortnum's]: https://www.fortnumandmason.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
