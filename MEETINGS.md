@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 394 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 27-07-18 |
+| 393 | [Exquisite Leaves] | [Black]     | [Anhua Dark Tea]            | [China]     | Ruslan Kazakov  | 25-07-18 |
 | 392 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Gary Butler     | 20-07-18 |
 | 391 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 18-07-18 |
 | 390 | [Adagio Teas]      | [Herbal]    | [Polyjuice Potion]          | [USA]       | Amy Dreise      | 16-07-18 |
@@ -421,6 +423,7 @@
 [Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Dragon Leaf]: http://www.dragon-leaf.com
 [Efuton]: http://www.efuton.com
+[Exquisite Leaves]: https://exquisiteleaves.com
 [Fortnum's]: https://www.fortnumandmason.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
