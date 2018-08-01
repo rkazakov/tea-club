@@ -8,9 +8,9 @@
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
 | 01   | Gary Butler        | 62   |
-| 02   | Ruslan Kazakov     | 53   |
+| 02   | Ruslan Kazakov     | 54   |
 | 03   | Ivan Pchelnikov    | 25   |
-| 04   | Amy Dreise         | 23   |
+| 04   | Amy Dreise         | 24   |
 | 05   | Marlouk Stek       | 23   |
 | 06   | Kate Andrews       | 20   |
 | 07   | Louise Brooks      | 19   |
@@ -26,13 +26,13 @@
 | 17   | Mamatha R.         | 5    |
 | 18   | Ray Dai            | 4    |
 | 19   | Sajith Weerakoon   | 4    |
-| 20   | Jess Cozanitis     | 3    |
-| 21   | Sally Garton       | 3    |
-| 22   | Alex Yang          | 2    |
-| 23   | Andrea Ho          | 2    |
-| 24   | Azadeh H.          | 2    |
-| 25   | Cris Gladly        | 2    |
-| 26   | Dee Parnell        | 2    |
+| 20   | Dee Parnell        | 3    |
+| 21   | Jess Cozanitis     | 3    |
+| 22   | Sally Garton       | 3    |
+| 23   | Alex Yang          | 2    |
+| 24   | Andrea Ho          | 2    |
+| 25   | Azadeh H.          | 2    |
+| 26   | Cris Gladly        | 2    |
 | 27   | Sikang Li          | 2    |
 | 28   | Andy R Taylor      | 1    |
 | 29   | Ishwor Gurung      | 1    |
