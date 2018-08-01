@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 346 | [The Organic T]    | [Herbal]    | [Ayurvedic Clean Brew]      | [Australia] | Herbal                      |
 | 345 | [Exquisite L.]     | [Black]     | Anhua Dark Tea              | [China]     | Smoked black tea            |
 | 344 | [Adagio Teas]      | [Herbal]    | [Polyjuice Potion]          | [USA]       | Hair, Goop, Goyle           |
 | 343 | [Kaleidoscope]     | [Herbal]    | [Flora Night Tea]           | [Australia] | Camomile, Lavender, Lemon   |
@@ -430,6 +431,7 @@
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
+[The Organic T]: https://theorganicteaproject.com
 [The Tea Centre]: https://www.theteacentre.com.au
 [Thrive]: https://www.thrivebynature.com.au
 [Tipson]: http://www.tipsontea.com
@@ -445,6 +447,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Ayurvedic Clean Brew]: https://theorganicteaproject.com/blogs/news/ayurvedic-clean-brew
 [Polyjuice Potion]: http://www.adagio.com/signature_blend/blend.html?blend=14378
 [Flora Night Tea]: https://taste-kaleidoscope.com.au/products/flora-night-tea
 [Classic BOH Tea]: https://www.bohtea.com/product-category/classic-boh-tea
