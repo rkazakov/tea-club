@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 395 | [The Organic Tea]  | [Herbal]    | [Ayurvedic Clean Brew]      | [Australia] | Dee Parnell     | 01-08-18 |
 | 394 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 27-07-18 |
 | 393 | [Exquisite L.]     | [Black]     | Anhua Dark Tea              | [China]     | Ruslan Kazakov  | 25-07-18 |
 | 392 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Gary Butler     | 20-07-18 |
@@ -480,6 +481,7 @@
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
+[The Organic Tea]: https://theorganicteaproject.com
 [The Tea Centre]: https://www.theteacentre.com.au
 [Thrive]: https://www.thrivebynature.com.au
 [Tipson]: http://www.tipsontea.com
@@ -495,6 +497,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Ayurvedic Clean Brew]: https://theorganicteaproject.com/blogs/news/ayurvedic-clean-brew
 [Polyjuice Potion]: http://www.adagio.com/signature_blend/blend.html?blend=14378
 [Flora Night Tea]: https://taste-kaleidoscope.com.au/products/flora-night-tea
 [Classic BOH Tea]: https://www.bohtea.com/product-category/classic-boh-tea
