@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 398 | [Adagio Teas]      | [Herbal]    | [Veritaserum]               | [USA]       | Amy Dreise      | 09-08-18 |
+| 397 | [Akbar]            | [Black]     | [Gold Tea]                  | [Sri Lanka] | Sajith Weerakoon| 06-08-18 |
+| 396 | Ming Xiang         | [Green]     | Guanyin                     | [China]     | Cherry Zhou     | 03-08-18 |
 | 395 | [The Organic T]    | [Herbal]    | [Ayurvedic Clean Brew]      | [Australia] | Dee Parnell     | 01-08-18 |
 | 394 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 27-07-18 |
 | 393 | [Exquisite L.]     | [Black]     | Anhua Dark Tea              | [China]     | Ruslan Kazakov  | 25-07-18 |
@@ -407,6 +410,7 @@
 [Adagio Teas]: http://www.adagio.com
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
+[Akbar]: http://www.akbar.com
 [Amy's Teas]: https://github.com/frydreise/recipes
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
@@ -497,6 +501,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Veritaserum]: http://www.adagio.com/signature_blend/blend.html?blend=34123
+[Gold Tea]: http://www.akbar.com/our-teas/black-tea
 [Ayurvedic Clean Brew]: https://theorganicteaproject.com/blogs/news/ayurvedic-clean-brew
 [Polyjuice Potion]: http://www.adagio.com/signature_blend/blend.html?blend=14378
 [Flora Night Tea]: https://taste-kaleidoscope.com.au/products/flora-night-tea
