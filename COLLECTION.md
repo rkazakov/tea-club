@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 349 | [Adagio Teas]      | [Herbal]    | [Veritaserum]               | [USA]       | Raspberry, Chocolate        |
+| 348 | [Akbar]            | [Black]     | [Gold Tea]                  | [Sri Lanka] | Black tea                   |
+| 347 | Ming Xiang         | [Green]     | Guanyin                     | [China]     | Green tea                   |
 | 346 | [The Organic T]    | [Herbal]    | [Ayurvedic Clean Brew]      | [Australia] | Herbal                      |
 | 345 | [Exquisite L.]     | [Black]     | Anhua Dark Tea              | [China]     | Smoked black tea            |
 | 344 | [Adagio Teas]      | [Herbal]    | [Polyjuice Potion]          | [USA]       | Hair, Goop, Goyle           |
@@ -357,6 +360,7 @@
 [Adagio Teas]: http://www.adagio.com
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
+[Akbar]: http://www.akbar.com
 [Amy's Teas]: https://github.com/frydreise/recipes
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
@@ -447,6 +451,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Veritaserum]: http://www.adagio.com/signature_blend/blend.html?blend=34123
+[Gold Tea]: http://www.akbar.com/our-teas/black-tea
 [Ayurvedic Clean Brew]: https://theorganicteaproject.com/blogs/news/ayurvedic-clean-brew
 [Polyjuice Potion]: http://www.adagio.com/signature_blend/blend.html?blend=14378
 [Flora Night Tea]: https://taste-kaleidoscope.com.au/products/flora-night-tea
