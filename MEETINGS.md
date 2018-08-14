@@ -6,7 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 398 | [Adagio Teas]      | [Herbal]    | [Veritaserum]               | [USA]       | Amy Dreise      | 09-08-18 |
+| 399 | [Adagio Teas]      | [Black]     | [Draught of Peace]          | [USA]       | Amy Dreise      | 13-08-18 |
+| 398 | [Adagio Teas]      | [Black]     | [Veritaserum]               | [USA]       | Amy Dreise      | 09-08-18 |
 | 397 | [Akbar]            | [Black]     | [Gold Tea]                  | [Sri Lanka] | Sajith Weerakoon| 06-08-18 |
 | 396 | Ming Xiang         | [Green]     | Guanyin                     | [China]     | Cherry Zhou     | 03-08-18 |
 | 395 | [The Organic T]    | [Herbal]    | [Ayurvedic Clean Brew]      | [Australia] | Dee Parnell     | 01-08-18 |
@@ -501,6 +502,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Draught of Peace]: http://www.adagio.com/signature_blend/blend.html?blend=28621
 [Veritaserum]: http://www.adagio.com/signature_blend/blend.html?blend=34123
 [Gold Tea]: http://www.akbar.com/our-teas/black-tea
 [Ayurvedic Clean Brew]: https://theorganicteaproject.com/blogs/news/ayurvedic-clean-brew
