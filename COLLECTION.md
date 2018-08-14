@@ -6,7 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 349 | [Adagio Teas]      | [Herbal]    | [Veritaserum]               | [USA]       | Raspberry, Chocolate        |
+| 350 | [Adagio Teas]      | [Black]     | [Draught of Peace]          | [USA]       | Apple, Apricot, Creme       |
+| 349 | [Adagio Teas]      | [Black]     | [Veritaserum]               | [USA]       | Raspberry, Chocolate        |
 | 348 | [Akbar]            | [Black]     | [Gold Tea]                  | [Sri Lanka] | Black tea                   |
 | 347 | Ming Xiang         | [Green]     | Guanyin                     | [China]     | Green tea                   |
 | 346 | [The Organic T]    | [Herbal]    | [Ayurvedic Clean Brew]      | [Australia] | Herbal                      |
@@ -451,6 +452,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Draught of Peace]: http://www.adagio.com/signature_blend/blend.html?blend=28621
 [Veritaserum]: http://www.adagio.com/signature_blend/blend.html?blend=34123
 [Gold Tea]: http://www.akbar.com/our-teas/black-tea
 [Ayurvedic Clean Brew]: https://theorganicteaproject.com/blogs/news/ayurvedic-clean-brew
