@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 400 | [Adagio Teas]      | [Black]     | [Veritaserum]               | [USA]       | Amy Dreise      | 15-08-18 |
 | 399 | [Adagio Teas]      | [Black]     | [Draught of Peace]          | [USA]       | Amy Dreise      | 13-08-18 |
 | 398 | [Adagio Teas]      | [Black]     | [Veritaserum]               | [USA]       | Amy Dreise      | 09-08-18 |
 | 397 | [Akbar]            | [Black]     | [Gold Tea]                  | [Sri Lanka] | Sajith Weerakoon| 06-08-18 |
