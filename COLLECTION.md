@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 352 | [Adagio Teas]      | [Black]     | [Felix Felicis]             | [USA]       | Rooibos, Almond, Honeybush  |
 | 351 | [Gewurzhaus]       | [Black]     | [English Breakfast Tea]     | [Germany]   | Black tea                   |
 | 350 | [Adagio Teas]      | [Black]     | [Draught of Peace]          | [USA]       | Apple, Apricot, Creme       |
 | 349 | [Adagio Teas]      | [Black]     | [Veritaserum]               | [USA]       | Raspberry, Chocolate        |
@@ -453,6 +454,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Felix Felicis]: http://www.adagio.com/signature_blend/blend.html?blend=15825
 [English Breakfast Tea]: https://gewurzhaus.com.au/product/english-breakfast-tea-60g-l
 [Draught of Peace]: http://www.adagio.com/signature_blend/blend.html?blend=28621
 [Veritaserum]: http://www.adagio.com/signature_blend/blend.html?blend=34123
