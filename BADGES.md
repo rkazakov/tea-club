@@ -27,8 +27,8 @@ Inspired by [Tea Leaf Grading] we honour our [MYOB Tea Club] members with the ba
 
 | Level        | Teas donated | Members                                                                 |
 |--------------|--------------|-------------------------------------------------------------------------|
-| Bohea        | 10           | Gary Butler ᛫ Kate Andrews ᛫ Ivan Pchelnikov ᛫ Amy Dreise ᛫ Louise Brooks ᛫ <br>Marlouk Stek ᛫ Bill Wang ᛫ Felicia Hasibuan ᛫ Michael Chu |
-| Congou       | 20           | Gary Butler ᛫ Kate Andrews ᛫ Marlouk Stek ᛫ Ivan Pchelnikov               |
+| Bohea        | 10           | Gary Butler ᛫ Kate Andrews ᛫ Ivan Pchelnikov ᛫ Amy Dreise ᛫ Louise Brooks ᛫ <br>Marlouk Stek ᛫ Bill Wang ᛫ Felicia Hasibuan ᛫ Michael Chu ᛫ Jesse Smit (yet to award) |
+| Congou       | 20           | Gary Butler ᛫ Kate Andrews ᛫ Marlouk Stek ᛫ Ivan Pchelnikov ᛫ Amy Dreise (yet to award)  |
 | Souchong     | 30           | Gary Butler                                                             |
 | Pekoe        | 50           | Gary Butler                                                             |
 | Orange Pekoe | 100          |                                                                         |
