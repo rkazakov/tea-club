@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 403 | Ming Xiang         | [Green]     | Guanyin                     | [China]     | Cherry Zhou     | 22-08-18 |
 | 402 | [Adagio Teas]      | [Black]     | [Felix Felicis]             | [USA]       | Amy Dreise      | 20-08-18 |
 | 401 | [Gewurzhaus]       | [Black]     | [English Breakfast Tea]     | [Germany]   | Gary Butler     | 17-08-18 |
 | 400 | [Adagio Teas]      | [Black]     | [Veritaserum]               | [USA]       | Amy Dreise      | 15-08-18 |
