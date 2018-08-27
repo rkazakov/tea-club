@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 354 | [Kaleidoscope]     | [Herbal]    | [Summer Blush Tea]          | [Australia] | Inca Berry, Mulberry        |
 | 353 | [Chai]             | [Black]     | [Spiced Dandelion]          | [Australia] | Dandelion, Ginger, Cinnamon |
 | 352 | [Adagio Teas]      | [Black]     | [Felix Felicis]             | [USA]       | Rooibos, Almond, Honeybush  |
 | 351 | [Gewurzhaus]       | [Black]     | [English Breakfast Tea]     | [Germany]   | Black tea                   |
@@ -455,6 +456,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Summer Blush Tea]: https://taste-kaleidoscope.com.au/products/new-summer-blush-tea-60g
 [Spiced Dandelion]: https://chai.com.au/product/spiced-dandelion
 [Felix Felicis]: http://www.adagio.com/signature_blend/blend.html?blend=15825
 [English Breakfast Tea]: https://gewurzhaus.com.au/product/english-breakfast-tea-60g-l
