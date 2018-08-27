@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 404 | [Chai]             | [Black]     | [Spiced Dandelion]          | [Australia] | Dee Parnell     | 24-08-18 |
 | 403 | Ming Xiang         | [Green]     | Guanyin                     | [China]     | Cherry Zhou     | 22-08-18 |
 | 402 | [Adagio Teas]      | [Black]     | [Felix Felicis]             | [USA]       | Amy Dreise      | 20-08-18 |
 | 401 | [Gewurzhaus]       | [Black]     | [English Breakfast Tea]     | [Germany]   | Gary Butler     | 17-08-18 |
@@ -506,6 +507,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Spiced Dandelion]: https://chai.com.au/product/spiced-dandelion
 [Felix Felicis]: http://www.adagio.com/signature_blend/blend.html?blend=15825
 [English Breakfast Tea]: https://gewurzhaus.com.au/product/english-breakfast-tea-60g-l
 [Draught of Peace]: http://www.adagio.com/signature_blend/blend.html?blend=28621
