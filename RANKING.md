@@ -3,7 +3,7 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 20/08/2018
+#### Updated: 27/08/2018
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
