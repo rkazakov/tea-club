@@ -25,8 +25,8 @@
 | 16   | Rozanna Wong       | 6    |
 | 17   | Mamatha R.         | 5    |
 | 18   | Sajith Weerakoon   | 5    |
-| 19   | Ray Dai            | 4    |
-| 20   | Dee Parnell        | 3    |
+| 19   | Dee Parnell        | 4    |
+| 20   | Ray Dai            | 4    |
 | 21   | Jess Cozanitis     | 3    |
 | 22   | Sally Garton       | 3    |
 | 23   | Alex Yang          | 2    |
