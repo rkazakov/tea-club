@@ -13,7 +13,7 @@
 | 04   | Ivan Pchelnikov    | 25   |
 | 05   | Marlouk Stek       | 23   |
 | 06   | Kate Andrews       | 20   |
-| 07   | Louise Brooks      | 19   |
+| 07   | Louise Brooks      | 20   |
 | 08   | Felicia H.         | 16   |
 | 09   | Michael Chu        | 11   |
 | 10   | Bill Wang          | 10   |
