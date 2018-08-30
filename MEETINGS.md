@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 406 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 29-08-18 |
 | 405 | [Kaleidoscope]     | [Herbal]    | [Summer Blush Tea]          | [Australia] | Louise Brooks   | 27-08-18 |
 | 404 | [Chai]             | [Black]     | [Spiced Dandelion]          | [Australia] | Dee Parnell     | 24-08-18 |
 | 403 | Ming Xiang         | [Green]     | Guanyin                     | [China]     | Cherry Zhou     | 22-08-18 |
