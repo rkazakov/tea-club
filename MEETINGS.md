@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 407 | [Chai]             | [Black]     | [Spiced Dandelion]          | [Australia] | Dee Parnell     | 31-08-18 |
 | 406 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 29-08-18 |
 | 405 | [Kaleidoscope]     | [Herbal]    | [Summer Blush Tea]          | [Australia] | Louise Brooks   | 27-08-18 |
 | 404 | [Chai]             | [Black]     | [Spiced Dandelion]          | [Australia] | Dee Parnell     | 24-08-18 |
