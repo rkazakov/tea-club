@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 410 | [Silvertip]        | [Herbal]    | [I feel strong]             | [Australia] | Amy Dreise      | 05-09-18 |
+| 409 | [Twinings]         | [Green]     | [Summer Berry Green Tea]    | [Australia] | Amy Dreise      | 05-09-18 |
 | 408 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 03-09-18 |
 | 407 | [Chai]             | [Black]     | [Spiced Dandelion]          | [Australia] | Dee Parnell     | 31-08-18 |
 | 406 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 29-08-18 |
@@ -484,6 +486,7 @@
 [Sempio]: http://www.sempio.com
 [Severnyi Chai]: http://www.ivan-chai.su
 [Shou Zhuo]: https://kmshouyixuan.1688.com/page/creditdetail.htm
+[Silvertip]: https://www.pineteacoffee.com.au/
 [Siplo]: http://www.siplo.com.au
 [Skinny Me Tea]: https://www.skinnymetea.com.au
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
@@ -511,6 +514,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[I feel strong]: https://www.pineteacoffee.com.au/online-shop/tea/fruit-melanges/i-feel-strong-100g
+[Summer Berry Green Tea]: https://www.twinings.co.uk/gifts/discovery-collection/summer-berry-green-tea-pyramid
 [Summer Blush Tea]: https://taste-kaleidoscope.com.au/products/new-summer-blush-tea-60g
 [Spiced Dandelion]: https://chai.com.au/product/spiced-dandelion
 [Felix Felicis]: http://www.adagio.com/signature_blend/blend.html?blend=15825
