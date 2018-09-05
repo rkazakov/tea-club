@@ -6,6 +6,24 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 408 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 03-09-18 |
+| 407 | [Chai]             | [Black]     | [Spiced Dandelion]          | [Australia] | Dee Parnell     | 31-08-18 |
+| 406 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 29-08-18 |
+| 405 | [Kaleidoscope]     | [Herbal]    | [Summer Blush Tea]          | [Australia] | Louise Brooks   | 27-08-18 |
+| 404 | [Chai]             | [Black]     | [Spiced Dandelion]          | [Australia] | Dee Parnell     | 24-08-18 |
+| 403 | Ming Xiang         | [Green]     | Guanyin                     | [China]     | Cherry Zhou     | 22-08-18 |
+| 402 | [Adagio Teas]      | [Black]     | [Felix Felicis]             | [USA]       | Amy Dreise      | 20-08-18 |
+| 401 | [Gewurzhaus]       | [Black]     | [English Breakfast Tea]     | [Germany]   | Gary Butler     | 17-08-18 |
+| 400 | [Adagio Teas]      | [Black]     | [Veritaserum]               | [USA]       | Amy Dreise      | 15-08-18 |
+| 399 | [Adagio Teas]      | [Black]     | [Draught of Peace]          | [USA]       | Amy Dreise      | 13-08-18 |
+| 398 | [Adagio Teas]      | [Black]     | [Veritaserum]               | [USA]       | Amy Dreise      | 09-08-18 |
+| 397 | [Akbar]            | [Black]     | [Gold Tea]                  | [Sri Lanka] | Sajith Weerakoon| 06-08-18 |
+| 396 | Ming Xiang         | [Green]     | Guanyin                     | [China]     | Cherry Zhou     | 03-08-18 |
+| 395 | [The Organic T]    | [Herbal]    | [Ayurvedic Clean Brew]      | [Australia] | Dee Parnell     | 01-08-18 |
+| 394 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Rozanna Wong    | 27-07-18 |
+| 393 | [Exquisite L.]     | [Black]     | Anhua Dark Tea              | [China]     | Ruslan Kazakov  | 25-07-18 |
+| 392 | [Gewurzhaus]       | [Herbal]    | [Advent Christmas Tea]      | [Germany]   | Gary Butler     | 20-07-18 |
+| 391 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 18-07-18 |
 | 390 | [Adagio Teas]      | [Herbal]    | [Polyjuice Potion]          | [USA]       | Amy Dreise      | 16-07-18 |
 | 389 | [Chai]             | [Black]     | [Rainbow Chai]              | [Australia] | Dee Parnell     | 13-07-18 |
 | 388 | [Kaleidoscope]     | [Herbal]    | [Flora Night Tea]           | [Australia] | Louise Brooks   | 13-07-18 |
@@ -402,6 +420,7 @@
 [Adagio Teas]: http://www.adagio.com
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
+[Akbar]: http://www.akbar.com
 [Amy's Teas]: https://github.com/frydreise/recipes
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
@@ -419,6 +438,7 @@
 [Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Dragon Leaf]: http://www.dragon-leaf.com
 [Efuton]: http://www.efuton.com
+[Exquisite L.]: https://exquisiteleaves.com
 [Fortnum's]: https://www.fortnumandmason.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
@@ -475,6 +495,7 @@
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
+[The Organic T]: https://theorganicteaproject.com
 [The Tea Centre]: https://www.theteacentre.com.au
 [Thrive]: https://www.thrivebynature.com.au
 [Tipson]: http://www.tipsontea.com
@@ -490,6 +511,14 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Summer Blush Tea]: https://taste-kaleidoscope.com.au/products/new-summer-blush-tea-60g
+[Spiced Dandelion]: https://chai.com.au/product/spiced-dandelion
+[Felix Felicis]: http://www.adagio.com/signature_blend/blend.html?blend=15825
+[English Breakfast Tea]: https://gewurzhaus.com.au/product/english-breakfast-tea-60g-l
+[Draught of Peace]: http://www.adagio.com/signature_blend/blend.html?blend=28621
+[Veritaserum]: http://www.adagio.com/signature_blend/blend.html?blend=34123
+[Gold Tea]: http://www.akbar.com/our-teas/black-tea
+[Ayurvedic Clean Brew]: https://theorganicteaproject.com/blogs/news/ayurvedic-clean-brew
 [Polyjuice Potion]: http://www.adagio.com/signature_blend/blend.html?blend=14378
 [Flora Night Tea]: https://taste-kaleidoscope.com.au/products/flora-night-tea
 [Classic BOH Tea]: https://www.bohtea.com/product-category/classic-boh-tea

@@ -6,7 +6,17 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 344 | [Adagio Teas]      | [Herbal]    | [Polyjuice Potion]          | [USA]       | Hair, goop, Goyle           |
+| 354 | [Kaleidoscope]     | [Herbal]    | [Summer Blush Tea]          | [Australia] | Inca Berry, Mulberry        |
+| 353 | [Chai]             | [Black]     | [Spiced Dandelion]          | [Australia] | Dandelion, Ginger, Cinnamon |
+| 352 | [Adagio Teas]      | [Black]     | [Felix Felicis]             | [USA]       | Rooibos, Almond, Honeybush  |
+| 351 | [Gewurzhaus]       | [Black]     | [English Breakfast Tea]     | [Germany]   | Black tea                   |
+| 350 | [Adagio Teas]      | [Black]     | [Draught of Peace]          | [USA]       | Apple, Apricot, Creme       |
+| 349 | [Adagio Teas]      | [Black]     | [Veritaserum]               | [USA]       | Raspberry, Chocolate        |
+| 348 | [Akbar]            | [Black]     | [Gold Tea]                  | [Sri Lanka] | Black tea                   |
+| 347 | Ming Xiang         | [Green]     | Guanyin                     | [China]     | Green tea                   |
+| 346 | [The Organic T]    | [Herbal]    | [Ayurvedic Clean Brew]      | [Australia] | Herbal                      |
+| 345 | [Exquisite L.]     | [Black]     | Anhua Dark Tea              | [China]     | Smoked black tea            |
+| 344 | [Adagio Teas]      | [Herbal]    | [Polyjuice Potion]          | [USA]       | Hair, Goop, Goyle           |
 | 343 | [Kaleidoscope]     | [Herbal]    | [Flora Night Tea]           | [Australia] | Camomile, Lavender, Lemon   |
 | 342 | [BOH]              | [Black]     | [Classic BOH Tea]           | [Malaysia]  | Black tea                   |
 | 341 | [Life of Cha]      | [Green]     | [Up]                        | [China]     | Green tea                   |
@@ -355,6 +365,7 @@
 [Adagio Teas]: http://www.adagio.com
 [Adore Tea]: http://adoretea.com.au
 [Aik Cheong]: http://www.aikcheong.com.my
+[Akbar]: http://www.akbar.com
 [Amy's Teas]: https://github.com/frydreise/recipes
 [Anhui]: https://en.wikipedia.org/wiki/Anhui
 [Basilur]: http://www.basilurshop.com.au
@@ -372,6 +383,7 @@
 [Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Dragon Leaf]: http://www.dragon-leaf.com
 [Efuton]: http://www.efuton.com
+[Exquisite L.]: https://exquisiteleaves.com
 [Fortnum's]: https://www.fortnumandmason.com
 [Gewurzhaus]: http://www.gewurzhaus.com.au
 [Golchin]: http://www.golchin-tea.com
@@ -428,6 +440,7 @@
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
 [Tealyra]: https://www.tealyra.com.au
+[The Organic T]: https://theorganicteaproject.com
 [The Tea Centre]: https://www.theteacentre.com.au
 [Thrive]: https://www.thrivebynature.com.au
 [Tipson]: http://www.tipsontea.com
@@ -443,6 +456,14 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Summer Blush Tea]: https://taste-kaleidoscope.com.au/products/new-summer-blush-tea-60g
+[Spiced Dandelion]: https://chai.com.au/product/spiced-dandelion
+[Felix Felicis]: http://www.adagio.com/signature_blend/blend.html?blend=15825
+[English Breakfast Tea]: https://gewurzhaus.com.au/product/english-breakfast-tea-60g-l
+[Draught of Peace]: http://www.adagio.com/signature_blend/blend.html?blend=28621
+[Veritaserum]: http://www.adagio.com/signature_blend/blend.html?blend=34123
+[Gold Tea]: http://www.akbar.com/our-teas/black-tea
+[Ayurvedic Clean Brew]: https://theorganicteaproject.com/blogs/news/ayurvedic-clean-brew
 [Polyjuice Potion]: http://www.adagio.com/signature_blend/blend.html?blend=14378
 [Flora Night Tea]: https://taste-kaleidoscope.com.au/products/flora-night-tea
 [Classic BOH Tea]: https://www.bohtea.com/product-category/classic-boh-tea
