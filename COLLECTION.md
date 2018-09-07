@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 354 | [Silvertip]        | [Herbal]    | [I feel strong]             | [Australia] | Fruity                      |
+| 355 | [Twinings]         | [Green]     | [Summer Berry Green Tea]    | [Australia] | Green tea, berry            |
 | 354 | [Kaleidoscope]     | [Herbal]    | [Summer Blush Tea]          | [Australia] | Inca Berry, Mulberry        |
 | 353 | [Chai]             | [Black]     | [Spiced Dandelion]          | [Australia] | Dandelion, Ginger, Cinnamon |
 | 352 | [Adagio Teas]      | [Black]     | [Felix Felicis]             | [USA]       | Rooibos, Almond, Honeybush  |
@@ -456,6 +458,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[I feel strong]: https://www.pineteacoffee.com.au/online-shop/tea/fruit-melanges/i-feel-strong-100g
+[Summer Berry Green Tea]: https://www.twinings.co.uk/gifts/discovery-collection/summer-berry-green-tea-pyramid
 [Summer Blush Tea]: https://taste-kaleidoscope.com.au/products/new-summer-blush-tea-60g
 [Spiced Dandelion]: https://chai.com.au/product/spiced-dandelion
 [Felix Felicis]: http://www.adagio.com/signature_blend/blend.html?blend=15825
@@ -751,6 +755,7 @@
 [Four Seasons Summer]: http://www.basilurtea.com.au/tea_collection/four_seasons/four-seasons-packet-lt-summer-tea-100g.html
 [Momo Oolong]: https://usa.lupicia.com/category/select/cid/308/pid/9383/language/en
 [Fruit Shop]: http://www.basilurshop.com.au/basilur/festive-collection-100g-lt-fruit-shop
+[Silvertip]: https://www.pineteacoffee.com.au/
 
 <!-- Type -->
 [Black]: https://en.wikipedia.org/wiki/Black_tea
