@@ -9,7 +9,7 @@
 | 357 | [Matsesta Tea]     | [Black]     | [Oregano & Thymes Tea]      | [Russia]    | Oregano, Thymes             |
 | 356 | [Silvertip]        | [Herbal]    | [I Feel Strong]             | [Australia] | Fruity                      |
 | 355 | [Twinings]         | [Green]     | [Summer Berry Green Tea]    | [Australia] | Green tea, Berry            |
-| 354 | [Kaleidoscope]     | [Herbal]    | [Summer Blush Tea]          | [Australia] | Inca Berry, Mulberry        |
+| 354 | [Kaleidoscope]     | [Herbal]    | [Summer Blush Tea]          | [Australia] | Inca berry, Mulberry        |
 | 353 | [Chai]             | [Black]     | [Spiced Dandelion]          | [Australia] | Dandelion, Ginger, Cinnamon |
 | 352 | [Adagio Teas]      | [Black]     | [Felix Felicis]             | [USA]       | Rooibos, Almond, Honeybush  |
 | 351 | [Gewurzhaus]       | [Black]     | [English Breakfast Tea]     | [Germany]   | Black tea                   |
