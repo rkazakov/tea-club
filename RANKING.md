@@ -9,8 +9,8 @@
 |------|--------------------|------|
 | 01   | Gary Butler        | 63   |
 | 02   | Ruslan Kazakov     | 54   |
-| 03   | Amy Dreise         | 27   |
-| 04   | Ivan Pchelnikov    | 25   |
+| 03   | Amy Dreise         | 29   |
+| 04   | Ivan Pchelnikov    | 26   |
 | 05   | Marlouk Stek       | 23   |
 | 06   | Kate Andrews       | 20   |
 | 07   | Louise Brooks      | 20   |
