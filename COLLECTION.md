@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 358 | [Matsesta Tea]     | [Black]     | [Lime & Honey Tea]          | [Russia]    | Lime, Honey                 |
 | 357 | [Matsesta Tea]     | [Black]     | [Oregano & Thymes Tea]      | [Russia]    | Oregano, Thymes             |
 | 356 | [Silvertip]        | [Herbal]    | [I Feel Strong]             | [Australia] | Fruity                      |
 | 355 | [Twinings]         | [Green]     | [Summer Berry Green Tea]    | [Australia] | Green tea, Berry            |
@@ -461,6 +462,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Lime & Honey Tea]: https://www.matsestatea.ru/online-store/directory/tea-black-tea-with-lime-and-honey
 [Oregano & Thymes Tea]: https://www.matsestatea.ru/online-store/directory/tea-black-tea-with-thyme-and-oregano/
 [I Feel Strong]: https://www.pineteacoffee.com.au/online-shop/tea/fruit-melanges/i-feel-strong-100g
 [Summer Berry Green Tea]: https://www.twinings.co.uk/gifts/discovery-collection/summer-berry-green-tea-pyramid
