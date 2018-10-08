@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 360 | [Matsesta Tea]     | [Black]     | [Mint & Marigold Tea]       | [Russia]    | Mint, Marigold              |
 | 359 | [Twinings]         | [Black]     | [Morning Tea]               | [Australia] | Black tea                   |
 | 358 | [Matsesta Tea]     | [Black]     | [Lime & Honey Tea]          | [Russia]    | Lime, Honey                 |
 | 357 | [Matsesta Tea]     | [Black]     | [Oregano & Thymes Tea]      | [Russia]    | Oregano, Thymes             |
@@ -463,6 +464,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Mint & Marigold Tea]: https://www.matsestatea.ru/online-store/directory/tea-black-tea-with-mint-and-marigold2
 [Morning Tea]: https://twinings.com.au/products/twinings-morning-3
 [Lime & Honey Tea]: https://www.matsestatea.ru/online-store/directory/tea-black-tea-with-lime-and-honey
 [Oregano & Thymes Tea]: https://www.matsestatea.ru/online-store/directory/tea-black-tea-with-thyme-and-oregano/
