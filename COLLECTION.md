@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 361 | [The Grounds]      | [Black]     | Grounds French Earl Grey    | [Australia] | Black tea                   |
+| 361 | [The Grounds]      | [Black]     | Grounds French Earl Grey    | [Australia] | Rose, Black tea             |
 | 360 | [Matsesta Tea]     | [Black]     | [Mint & Marigold Tea]       | [Russia]    | Mint, Marigold              |
 | 359 | [Twinings]         | [Black]     | [Morning Tea]               | [Australia] | Black tea                   |
 | 358 | [Matsesta Tea]     | [Black]     | [Lime & Honey Tea]          | [Russia]    | Lime, Honey                 |
