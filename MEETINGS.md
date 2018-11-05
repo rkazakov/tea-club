@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 418 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Marianne G.     | 05-11-18 |
 | 417 | [Adore Tea]        | [Black]     | [Arctic Fire]               | [China]     | Gary Butler     | 29-10-18 |
 | 416 | [Yanyshev]         | [Black]     | Kokoshnik Black Tea         | [China]     | Ivan Pchelnikov | 22-10-18 |
 | 415 | [The Grounds]      | [Black]     | Grounds French Earl Grey    | [Australia] | Gary Butler     | 19-10-18 |
