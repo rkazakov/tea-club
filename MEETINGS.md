@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 419 | [Adore Tea]        | [Black]     | [Almond & Vanilla]          | [Sri Lanka] | Gary Butler     | 06-11-18 |
 | 418 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Marianne G.     | 05-11-18 |
 | 417 | [Adore Tea]        | [Black]     | [Arctic Fire]               | [China]     | Gary Butler     | 29-10-18 |
 | 416 | [Yanyshev]         | [Black]     | Kokoshnik Black Tea         | [China]     | Ivan Pchelnikov | 22-10-18 |
