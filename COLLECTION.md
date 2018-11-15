@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 363 | [Adore Tea]        | [Black]     | [Devonshire Cream]          | [Sri Lanka] | Cream                       |
+| 362 | Fix this           | [Herbal]    | Fix this                    | [Brazil]    | Mate                        |
 | 361 | [The Grounds]      | [Black]     | Grounds French Earl Grey    | [Australia] | Rose, Black tea             |
 | 360 | [Matsesta Tea]     | [Black]     | [Mint & Marigold Tea]       | [Russia]    | Mint, Marigold              |
 | 359 | [Twinings]         | [Black]     | [Morning Tea]               | [Australia] | Black tea                   |
@@ -466,6 +468,8 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Devonshire Cream]: http://adoretea.com.au/black/flavoured-black/devonshire-cream.html
+[Fix this]: http://brazil.com
 [Mint & Marigold Tea]: https://www.matsestatea.ru/online-store/directory/tea-black-tea-with-mint-and-marigold2
 [Morning Tea]: https://twinings.com.au/products/twinings-morning-3
 [Lime & Honey Tea]: https://www.matsestatea.ru/online-store/directory/tea-black-tea-with-lime-and-honey
