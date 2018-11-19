@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 364 | [Basilur]          | [Black]     | [Magic Nights]              | [Sri Lanka] | Strawberry, Apricot         |
 | 363 | [Adore Tea]        | [Black]     | [Devonshire Cream]          | [Sri Lanka] | Cream                       |
 | 362 | Fix this           | [Herbal]    | Fix this                    | [Brazil]    | Mate                        |
 | 361 | [The Grounds]      | [Black]     | Grounds French Earl Grey    | [Australia] | Rose, Black tea             |
@@ -468,6 +469,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Magic Nights]: http://www.basilurshop.com.au/basilur/oriental-collection-2gx25-magic-nights
 [Devonshire Cream]: http://adoretea.com.au/black/flavoured-black/devonshire-cream.html
 [Fix this]: http://brazil.com
 [Mint & Marigold Tea]: https://www.matsestatea.ru/online-store/directory/tea-black-tea-with-mint-and-marigold2
