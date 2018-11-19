@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 422 | [Basilur]          | [Black]     | [Magic Nights]              | [Sri Lanka] | Ruslan Kazakov  | 19-11-18 |
 | 421 | [Adore Tea]        | [Black]     | [Devonshire Cream]          | [Sri Lanka] | Gary Butler     | 12-11-18 |
 | 420 | Fix this           | [Herbal]    | Fix this                    | [Brazil]    | Fagner Brack    | 09-11-18 |
 | 419 | [Adore Tea]        | [Black]     | [Almond & Vanilla]          | [Sri Lanka] | Gary Butler     | 06-11-18 |
@@ -527,6 +528,7 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
+[Magic Nights]: http://www.basilurshop.com.au/basilur/oriental-collection-2gx25-magic-nights
 [Devonshire Cream]: http://adoretea.com.au/black/flavoured-black/devonshire-cream.html
 [Fix this]: http://brazil.com
 [Mint & Marigold Tea]: https://www.matsestatea.ru/online-store/directory/tea-black-tea-with-mint-and-marigold2
