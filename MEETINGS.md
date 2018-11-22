@@ -8,7 +8,7 @@
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
 | 422 | [Basilur]          | [Black]     | [Magic Nights]              | [Sri Lanka] | Ruslan Kazakov  | 19-11-18 |
 | 421 | [Adore Tea]        | [Black]     | [Devonshire Cream]          | [Sri Lanka] | Gary Butler     | 12-11-18 |
-| 420 | Fix this           | [Herbal]    | Fix this                    | [Brazil]    | Fagner Brack    | 09-11-18 |
+| 420 | [Ximango]          | [Herbal]    | [Chimarrao]                 | [Brazil]    | Fagner Brack    | 09-11-18 |
 | 419 | [Adore Tea]        | [Black]     | [Almond & Vanilla]          | [Sri Lanka] | Gary Butler     | 06-11-18 |
 | 418 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Marianne G.     | 05-11-18 |
 | 417 | [Adore Tea]        | [Black]     | [Arctic Fire]               | [China]     | Gary Butler     | 29-10-18 |
