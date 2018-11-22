@@ -8,7 +8,7 @@
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
 | 422 | [Basilur]          | [Black]     | [Magic Nights]              | [Sri Lanka] | Ruslan Kazakov  | 19-11-18 |
 | 421 | [Adore Tea]        | [Black]     | [Devonshire Cream]          | [Sri Lanka] | Gary Butler     | 12-11-18 |
-| 420 | Fix this           | [Herbal]    | Fix this                    | [Brazil]    | Fagner Brack    | 09-11-18 |
+| 420 | [Ximango]          | [Herbal]    | [Chimarrão]                 | [Brazil]    | Fagner Brack    | 09-11-18 |
 | 419 | [Adore Tea]        | [Black]     | [Almond & Vanilla]          | [Sri Lanka] | Gary Butler     | 06-11-18 |
 | 418 | [T2]               | [Herbal]    | [Vanilla Mint]              | [Australia] | Marianne G.     | 05-11-18 |
 | 417 | [Adore Tea]        | [Black]     | [Arctic Fire]               | [China]     | Gary Butler     | 29-10-18 |
@@ -526,6 +526,7 @@
 [Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
+[Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
 [Magic Nights]: http://www.basilurshop.com.au/basilur/oriental-collection-2gx25-magic-nights
@@ -845,6 +846,7 @@
 [Pu-erh]: https://en.wikipedia.org/wiki/Pu-erh_tea
 [Yellow]: https://en.wikipedia.org/wiki/Yellow_tea
 [White]: https://en.wikipedia.org/wiki/White_tea
+[Chimarrão]: https://en.wikipedia.org/wiki/Mate_(drink)
 
 <!-- Origin -->
 [Africa]: https://en.wikipedia.org/wiki/Africa
