@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 423 | [Yanyshev]         | [Green]     | Yachai Green Tablet Tea     | [China]     | Ivan Pchelnikov | 22-11-18 |
 | 422 | [Basilur]          | [Black]     | [Magic Nights]              | [Sri Lanka] | Ruslan Kazakov  | 19-11-18 |
 | 421 | [Adore Tea]        | [Black]     | [Devonshire Cream]          | [Sri Lanka] | Gary Butler     | 12-11-18 |
 | 420 | [Ximango]          | [Herbal]    | [Chimarrão]                 | [Brazil]    | Fagner Brack    | 09-11-18 |
