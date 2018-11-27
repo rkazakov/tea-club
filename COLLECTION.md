@@ -72,11 +72,11 @@
 | 302 | Heaven Dragon      | [Green]     | Heaven Dragon Jasmine       | [China]     | Jasmine                     |
 | 301 | [Ivan's Teas]      | [Black]     | Black Tea Kombucha          | [Australia] | Black tea, Kombucha         |
 | 300 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Vanilla bean                |
-| 299 | [Wuyi Mountains]   | [Black]     | Refined Red Tea             | [China]     | Refined Red Tea             |
+| 299 | [Wuyi Mount]       | [Black]     | Refined Red Tea             | [China]     | Refined Red Tea             |
 | 298 | [T2]               | [Black]     | [Terrific Toffee]           | [Australia] | Nougat bits, Almonds, Honey |
 | 297 | [Kaleidoscope]     | [Herbal]    | [Flora Day Tea]             | -           | Oranges, Mandarin, Lime     |
 | 296 | [T2]               | [Black]     | [Strawberry Sensation]      | -           | Strawberry, Hibiscus        |
-| 295 | [Wuyi Mountains]   | [Black]     | Lapsang Souchong            | [China]     | Black (red) tea             |
+| 295 | [Wuyi Mount]       | [Black]     | Lapsang Souchong            | [China]     | Black (red) tea             |
 | 294 | [Tridosha]         | [Black]     | [Serendip]                  | [Sri Lanka] | Spiced Chai                 |
 | 293 | [T2]               | [Black]     | [Baxter's Buns]             | [China]     | Spiced Chai                 |
 | 292 | [Kaleidoscope]     | [Herbal]    | [Organic Green Tea Formosa] | [Taiwan]    | Jasmine, Vanilla            |
@@ -464,7 +464,7 @@
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
-[Wuyi Mountains]: https://en.wikipedia.org/wiki/Wuyi_Mountains
+[Wuyi Mount]: https://en.wikipedia.org/wiki/Wuyi_Mountains
 [Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
