@@ -9,7 +9,7 @@
 | 365 | [Basilur]          | [Black]     | [Persian Earl Grey]         | [Sri Lanka] | Bergamot, Mandarin          |
 | 364 | [Basilur]          | [Black]     | [Magic Nights]              | [Sri Lanka] | Strawberry, Apricot         |
 | 363 | [Adore Tea]        | [Black]     | [Devonshire Cream]          | [Sri Lanka] | Cream                       |
-| 462 | [Ximango]          | [Herbal]    | [Chimarrão]                 | [Brazil]    | Mate                        |
+| 362 | [Ximango]          | [Herbal]    | [Chimarrão]                 | [Brazil]    | Mate                        |
 | 361 | [The Grounds]      | [Black]     | Grounds French Earl Grey    | [Australia] | Rose, Black tea             |
 | 360 | [Matsesta Tea]     | [Black]     | [Mint & Marigold Tea]       | [Russia]    | Mint, Marigold              |
 | 359 | [Twinings]         | [Black]     | [Morning Tea]               | [Australia] | Black tea                   |
