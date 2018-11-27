@@ -101,7 +101,7 @@
 | 334 | [Ivan's Teas]      | [Black]     | Black Tea Kombucha          | [Australia] | Ivan Pchelnikov | 06-04-18 |
 | 333 | [Adore Tea]        | [Black]     | [Choc Vanilla]              | [China]     | Gary Butler     | 06-04-18 |
 | 332 | [Basilur]          | [Green]     | [Melon & Banana]            | [Sri Lanka] | Ruslan Kazakov  | 06-04-18 |
-| 331 | [Wuyi Mountains]   | [Black]     | Refined Red Tea             | [China]     | Charlotte Bian  | 06-04-18 |
+| 331 | [Wuyi Mount]       | [Black]     | Refined Red Tea             | [China]     | Charlotte Bian  | 06-04-18 |
 | 330 | [T2]               | [Black]     | [Terrific Toffee]           | [Australia] | Jesse Smit      | 06-04-18 |
 | 329 | [Shou Zhuo]        | [Pu-erh]    | Golden Ripened Tea          | [China]     | Michael Chu     | 04-04-18 |
 | 328 | [Basilur]          | [Black]     | [Lemon & Lime]              | [Sri Lanka] | Ruslan Kazakov  | 04-04-18 |
@@ -111,7 +111,7 @@
 | 324 | [Anhui]            | [Yellow]    | [Huoshan Huangya]           | [China]     | Will Niu        | 21-03-18 |
 | 323 | [Kaleidoscope]     | [Herbal]    | [Flora Day Tea]             | -           | Louise Brooks   | 19-03-18 |
 | 322 | [T2]               | [Black]     | [Strawberry Sensation]      | [China]     | Joan Riddoch    | 16-03-18 |
-| 321 | [Wuyi Mountains]   | [Black]     | Lapsang Souchong            | [China]     | Charlotte Bian  | 14-03-18 |
+| 321 | [Wuyi Mount]       | [Black]     | Lapsang Souchong            | [China]     | Charlotte Bian  | 14-03-18 |
 | 320 | [Tridosha]         | [Black]     | [Serendip]                  | [Sri Lanka] | Gary Butler     | 12-03-18 |
 | 319 | [T2]               | [Black]     | [Baxter's Buns]             | [China]     | Gary Butler     | 09-03-18 |
 | 318 | [Kaleidoscope]     | [Herbal]    | [Organic Green Tea Formosa] | [Taiwan]    | Louise Brooks   | 07-03-18 |
@@ -525,7 +525,7 @@
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
-[Wuyi Mountains]: https://en.wikipedia.org/wiki/Wuyi_Mountains
+[Wuyi Mount]: https://en.wikipedia.org/wiki/Wuyi_Mountains
 [Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
