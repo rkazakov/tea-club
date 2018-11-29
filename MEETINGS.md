@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 428 | [Adore Tea]        | [Black]     | Christmas Pudding           | [Sri Lanka] | Gary Butler     | 29-11-18 |
 | 427 | [Basilur]          | [Black]     | [Green Soursop]             | [Sri Lanka] | Ruslan Kazakov  | 29-11-18 |
 | 426 | [Basilur]          | [Black]     | [Thyme]                     | [Sri Lanka] | Ruslan Kazakov  | 28-11-18 |
 | 425 | [Basilur]          | [Black]     | [Persian Earl Grey]         | [Sri Lanka] | Ruslan Kazakov  | 26-11-18 |
