@@ -7,7 +7,7 @@
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
-| 01   | Gary Butler        | 66   |
+| 01   | Gary Butler        | 67   |
 | 02   | Ruslan Kazakov     | 58   |
 | 03   | Amy Dreise         | 29   |
 | 04   | Ivan Pchelnikov    | 28   |
