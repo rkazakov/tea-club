@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 427 | [Basilur]          | [Black]     | [Green Soursop]             | [Sri Lanka] | Ruslan Kazakov  | 29-11-18 |
 | 426 | [Basilur]          | [Black]     | [Thyme]                     | [Sri Lanka] | Ruslan Kazakov  | 28-11-18 |
 | 425 | [Basilur]          | [Black]     | [Persian Earl Grey]         | [Sri Lanka] | Ruslan Kazakov  | 26-11-18 |
 | 424 | [Basilur]          | [Black]     | [Tea Book I]                | [Sri Lanka] | Ruslan Kazakov  | 23-11-18 |
@@ -533,6 +534,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Green Soursop]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-soursop-100g
 [Thyme]: http://www.basilurshop.com.au/basilur/tea-moods-black-loose-tea-thyme-100g
 [Persian Earl Grey]: http://www.basilurtea.ro/en/oriental-collection/349-persian-earl-grey.html
 [Magic Nights]: http://www.basilurshop.com.au/basilur/oriental-collection-2gx25-magic-nights
