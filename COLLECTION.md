@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 368 | [Adore Tea]        | [Black]     | Christmas Pudding           | [Sri Lanka] | Pudding                     |
 | 367 | [Basilur]          | [Black]     | [Green Soursop]             | [Sri Lanka] | Soursop                     |
 | 366 | [Basilur]          | [Black]     | [Thyme]                     | [Sri Lanka] | Thyme                       |
 | 365 | [Basilur]          | [Black]     | [Persian Earl Grey]         | [Sri Lanka] | Bergamot, Mandarin          |
