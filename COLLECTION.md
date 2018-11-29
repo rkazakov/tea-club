@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 367 | [Basilur]          | [Black]     | [Green Soursop]             | [Sri Lanka] | Soursop                     |
 | 366 | [Basilur]          | [Black]     | [Thyme]                     | [Sri Lanka] | Thyme                       |
 | 365 | [Basilur]          | [Black]     | [Persian Earl Grey]         | [Sri Lanka] | Bergamot, Mandarin          |
 | 364 | [Basilur]          | [Black]     | [Magic Nights]              | [Sri Lanka] | Strawberry, Apricot         |
@@ -472,6 +473,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Green Soursop]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-soursop-100g
 [Thyme]: http://www.basilurshop.com.au/basilur/tea-moods-black-loose-tea-thyme-100g
 [Persian Earl Grey]: http://www.basilurtea.ro/en/oriental-collection/349-persian-earl-grey.html
 [Magic Nights]: http://www.basilurshop.com.au/basilur/oriental-collection-2gx25-magic-nights
