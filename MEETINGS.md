@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 429 | [Basilur]          | [Black]     | [Cardamom Black Tea]        | [Sri Lanka] | Ruslan Kazakov  | 03-12-18 |
 | 428 | [Adore Tea]        | [Black]     | Christmas Pudding           | [Sri Lanka] | Gary Butler     | 29-11-18 |
 | 427 | [Basilur]          | [Black]     | [Green Soursop]             | [Sri Lanka] | Ruslan Kazakov  | 29-11-18 |
 | 426 | [Basilur]          | [Black]     | [Thyme]                     | [Sri Lanka] | Ruslan Kazakov  | 28-11-18 |
@@ -535,6 +536,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Cardamom Black Tea]: https://www.amazon.com/Basilur-Cardamom-Black-Ultra-Premium-Loose/dp/B07FH6XH5M
 [Green Soursop]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-soursop-100g
 [Thyme]: http://www.basilurshop.com.au/basilur/tea-moods-black-loose-tea-thyme-100g
 [Persian Earl Grey]: http://www.basilurtea.ro/en/oriental-collection/349-persian-earl-grey.html
