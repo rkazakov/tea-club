@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 369 | [Basilur]          | [Black]     | [Cardamom Black Tea]        | [Sri Lanka] | Cardamom                    |
 | 368 | [Adore Tea]        | [Black]     | Christmas Pudding           | [Sri Lanka] | Pudding                     |
 | 367 | [Basilur]          | [Black]     | [Green Soursop]             | [Sri Lanka] | Soursop                     |
 | 366 | [Basilur]          | [Black]     | [Thyme]                     | [Sri Lanka] | Thyme                       |
@@ -474,6 +475,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Cardamom Black Tea]: https://www.amazon.com/Basilur-Cardamom-Black-Ultra-Premium-Loose/dp/B07FH6XH5M
 [Green Soursop]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-soursop-100g
 [Thyme]: http://www.basilurshop.com.au/basilur/tea-moods-black-loose-tea-thyme-100g
 [Persian Earl Grey]: http://www.basilurtea.ro/en/oriental-collection/349-persian-earl-grey.html
