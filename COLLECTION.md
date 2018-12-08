@@ -6,6 +6,10 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 373 | [TEA2YOU]          | [Black]     | [Rose Hibiscus Tea]         | [UK]        | Rose, Hibiscus              |
+| 372 | [Connemara]        | [Black]     | [Irish Whiskey]             | [Ireland]   | Irish Whiskey               |
+| 371 | [Connemara]        | [Black]     | [Irish Cream]               | [Ireland]   | Irish cream                 |
+| 370 | [Basilur]          | [Green]     | [Love Story Volume III]     | [Sri Lanka] | Amaranth, Pineapple         |
 | 369 | [Basilur]          | [Black]     | [Cardamom Black Tea]        | [Sri Lanka] | Cardamom                    |
 | 368 | [Adore Tea]        | [Black]     | Christmas Pudding           | [Sri Lanka] | Pudding                     |
 | 367 | [Basilur]          | [Black]     | [Green Soursop]             | [Sri Lanka] | Soursop                     |
@@ -392,6 +396,7 @@
 [Celestial]: http://www.celestialseasonings.com
 [Chai]: http://chai.com.au
 [Chamellia]: https://www.mycoffeeshop.com.au
+[Connemara]: https://www.connemaramarble.com
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
 [Dilmah]: http://www.dilmahtea.com
@@ -452,6 +457,7 @@
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
 [Taylors]: https://www.taylorsofharrogate.com
+[TEA2YOU]: https://tea2you.co.uk
 [Tea Tonic]: https://www.teatonic.com.au
 [Tetley]: http://www.tetley.com.au
 [Tea Cosy]: http://theteacosy.bigcartel.com
@@ -475,6 +481,10 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Rose Hibiscus Tea]: https://tea2you.co.uk/products/tgbop
+[Irish Whiskey]: https://www.carrollsirishgifts.com/the-connemara-kitchen-irish-whiskey-flavoured-tea.html
+[Irish Cream]: https://www.connemaramarble.com/product/80005-connemara-kitchen-irish-cream-flavoured-tea
+[Love Story Volume III]: http://www.basilurshop.com.au/tea-book/tin-caddies/tea-book-love-story-vol-iii
 [Cardamom Black Tea]: https://www.amazon.com/Basilur-Cardamom-Black-Ultra-Premium-Loose/dp/B07FH6XH5M
 [Green Soursop]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-soursop-100g
 [Thyme]: http://www.basilurshop.com.au/basilur/tea-moods-black-loose-tea-thyme-100g
@@ -809,6 +819,7 @@
 [India]: https://en.wikipedia.org/wiki/India
 [Indonesia]: https://en.wikipedia.org/wiki/Indonesia
 [Iran]: https://en.wikipedia.org/wiki/Iran
+[Ireland]: https://en.wikipedia.org/wiki/Ireland
 [Jamaica]: https://en.wikipedia.org/wiki/Jamaica
 [Japan]: https://en.wikipedia.org/wiki/Japan
 [Kenya]: https://en.wikipedia.org/wiki/Kenya
