@@ -3,12 +3,12 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 03/12/2018
+#### Updated: 08/12/2018
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
 | 01   | Gary Butler        | 67   |
-| 02   | Ruslan Kazakov     | 59   |
+| 02   | Ruslan Kazakov     | 60   |
 | 03   | Amy Dreise         | 29   |
 | 04   | Ivan Pchelnikov    | 28   |
 | 05   | Marlouk Stek       | 23   |
@@ -19,10 +19,10 @@
 | 10   | Bill Wang          | 10   |
 | 11   | Jesse Smit         | 10   |
 | 12   | Cherry Zhou        | 9    |
-| 13   | Michael Tong       | 8    |
-| 14   | Charlotte Bian     | 6    |
-| 15   | Marianne G.        | 6    |
-| 16   | Rozanna Wong       | 6    |
+| 13   | Rozanna Wong       | 9    |
+| 14   | Michael Tong       | 8    |
+| 15   | Charlotte Bian     | 6    |
+| 16   | Marianne G.        | 6    |
 | 17   | Mamatha R.         | 5    |
 | 18   | Sajith Weerakoon   | 5    |
 | 19   | Dee Parnell        | 4    |
