@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 374 | [Gewurzhaus]       | [Herbal]    | [Gingerbread Tea]           | [Australia] | Ginger                      |
 | 373 | [TEA2YOU]          | [Black]     | [Rose Hibiscus Tea]         | [UK]        | Rose, Hibiscus              |
 | 372 | [Connemara]        | [Black]     | [Irish Whiskey]             | [Ireland]   | Irish Whiskey               |
 | 371 | [Connemara]        | [Black]     | [Irish Cream]               | [Ireland]   | Irish cream                 |
@@ -481,6 +482,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Gingerbread Tea]: https://gewurzhaus.com.au/product/gingerbread-tea
 [Rose Hibiscus Tea]: https://tea2you.co.uk/products/tgbop
 [Irish Whiskey]: https://www.carrollsirishgifts.com/the-connemara-kitchen-irish-whiskey-flavoured-tea.html
 [Irish Cream]: https://www.connemaramarble.com/product/80005-connemara-kitchen-irish-cream-flavoured-tea
