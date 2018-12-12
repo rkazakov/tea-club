@@ -18,8 +18,8 @@
 | 09   | Michael Chu        | 11   |
 | 10   | Bill Wang          | 10   |
 | 11   | Jesse Smit         | 10   |
-| 12   | Cherry Zhou        | 9    |
-| 13   | Rozanna Wong       | 9    |
+| 12   | Rozanna Wong       | 10   |
+| 13   | Cherry Zhou        | 9    |
 | 14   | Michael Tong       | 8    |
 | 15   | Charlotte Bian     | 6    |
 | 16   | Marianne G.        | 6    |
