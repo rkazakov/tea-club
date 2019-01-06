@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 377 | [TEA2YOU]          | [Black]     | [Indian Masala Chai]        | [UK]        | Clove, Cinnamon, Pepper     |
 | 376 | [Connemara]        | [Black]     | [Irish Wild Berry Tea]      | [Ireland]   | Berries                     |
 | 375 | [Basilur]          | [Green]     | [Basilur Milk Oolong]       | [Sri Lanka] | Milk oolong                 |
 | 374 | [Gewurzhaus]       | [Herbal]    | [Gingerbread Tea]           | [Australia] | Ginger                      |
@@ -484,6 +485,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Indian Masala Chai]: https://tea2you.co.uk/collections/masala-blended
 [Irish Wild Berry Tea]: https://www.connemaramarble.com/product/irish-wild-berry-tea
 [Basilur Milk Oolong]: http://www.basilurshop.com.au/the-garden-of-stones-t-caddy-lt-milk-oolong-75-g
 [Gingerbread Tea]: https://gewurzhaus.com.au/product/gingerbread-tea
