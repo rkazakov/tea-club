@@ -16,9 +16,9 @@
 | 07   | Kate Andrews       | 20   |
 | 08   | Felicia H.         | 16   |
 | 09   | Michael Chu        | 11   |
-| 10   | Bill Wang          | 10   |
-| 11   | Jesse Smit         | 10   |
-| 12   | Rozanna Wong       | 10   |
+| 10   | Rozanna Wong       | 11   |
+| 11   | Bill Wang          | 10   |
+| 12   | Jesse Smit         | 10   |
 | 13   | Cherry Zhou        | 9    |
 | 14   | Michael Tong       | 8    |
 | 15   | Charlotte Bian     | 6    |
