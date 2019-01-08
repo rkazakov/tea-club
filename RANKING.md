@@ -3,11 +3,11 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 04/01/2019
+#### Updated: 09/01/2019
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
-| 01   | Gary Butler        | 67   |
+| 01   | Gary Butler        | 68   |
 | 02   | Ruslan Kazakov     | 61   |
 | 03   | Amy Dreise         | 29   |
 | 04   | Ivan Pchelnikov    | 28   |
@@ -33,9 +33,9 @@
 | 24   | Andrea Ho          | 2    |
 | 25   | Azadeh H.          | 2    |
 | 26   | Cris Gladly        | 2    |
-| 27   | Sikang Li          | 2    |
-| 28   | Andy R Taylor      | 1    |
-| 29   | Fagner Brack       | 1    |
+| 27   | Fagner Brack       | 2    |
+| 28   | Sikang Li          | 2    |
+| 29   | Andy R Taylor      | 1    |
 | 30   | Ishwor Gurung      | 1    |
 | 31   | Jessica Hau        | 1    |
 | 32   | Joan Riddoch       | 1    |
