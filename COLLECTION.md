@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 379 | [T2]               | [Black]     | [T2 Chai]                   | -           | Anise, Cardamon, Cinnamon   |
+| 378 | [T2]               | [Black]     | [Caramel Brownie]           | -           | Caramel, Chocolate, Almond  |
 | 377 | [TEA2YOU]          | [Black]     | [Indian Masala Chai]        | [UK]        | Clove, Cinnamon, Pepper     |
 | 376 | [Connemara]        | [Black]     | [Irish Wild Berry Tea]      | [Ireland]   | Berries                     |
 | 375 | [Basilur]          | [Green]     | [Basilur Milk Oolong]       | [Sri Lanka] | Milk oolong                 |
@@ -485,6 +487,8 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[T2 Chai]: https://steepster.com/teas/t2/9036-chai
+[Caramel Brownie]: https://www.t2tea.com/en/ca/tea/black-tea/caramel-brownie-loose-leaf-gift-cube-chocolate_brownie.html
 [Indian Masala Chai]: https://tea2you.co.uk/collections/masala-blended
 [Irish Wild Berry Tea]: https://www.connemaramarble.com/product/irish-wild-berry-tea
 [Basilur Milk Oolong]: http://www.basilurshop.com.au/the-garden-of-stones-t-caddy-lt-milk-oolong-75-g
