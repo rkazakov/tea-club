@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 380 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Orange, Cinnamon, Ginger    |
 | 379 | [T2]               | [Black]     | [T2 Chai]                   | -           | Anise, Cardamon, Cinnamon   |
 | 378 | [T2]               | [Black]     | [Caramel Brownie]           | -           | Caramel, Chocolate, Almond  |
 | 377 | [TEA2YOU]          | [Black]     | [Indian Masala Chai]        | [UK]        | Clove, Cinnamon, Pepper     |
