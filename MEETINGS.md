@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 441 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Gary Butler     | 15-01-19 |
 | 440 | [T2]               | [Black]     | [T2 Chai]                   | -           | Fagner Brack    | 09-01-19 |
 | 439 | [T2]               | [Black]     | [Caramel Brownie]           | -           | Gary Butler     | 08-01-19 |
 | 438 | [TEA2YOU]          | [Black]     | [Indian Masala Chai]        | [UK]        | Rozanna Wong    | 04-01-19 |
