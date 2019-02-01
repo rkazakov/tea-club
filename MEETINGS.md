@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 442 | [Basilur]          | [Green]     | [Window Paris]              | [Sri Lanka] | Ruslan Kazakov  | 31-01-19 |
 | 441 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Gary Butler     | 15-01-19 |
 | 440 | [T2]               | [Black]     | [T2 Chai]                   | -           | Fagner Brack    | 09-01-19 |
 | 439 | [T2]               | [Black]     | [Caramel Brownie]           | -           | Gary Butler     | 08-01-19 |
@@ -550,6 +551,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Window Paris]: https://basilurtea.co.uk/productdisplay/paris-window-tea-caddy
 [T2 Chai]: https://steepster.com/teas/t2/9036-chai
 [Caramel Brownie]: https://www.t2tea.com/en/ca/tea/black-tea/caramel-brownie-loose-leaf-gift-cube-chocolate_brownie.html
 [Indian Masala Chai]: https://tea2you.co.uk/collections/masala-blended
