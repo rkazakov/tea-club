@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 381 | [Basilur]          | [Green]     | [Window Paris]              | [Sri Lanka] | Cherry, Almond, Cornflower  |
 | 380 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Orange, Cinnamon, Ginger    |
 | 379 | [T2]               | [Black]     | [T2 Chai]                   | -           | Anise, Cardamon, Cinnamon   |
 | 378 | [T2]               | [Black]     | [Caramel Brownie]           | -           | Caramel, Chocolate, Almond  |
@@ -488,6 +489,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Window Paris]: https://basilurtea.co.uk/productdisplay/paris-window-tea-caddy
 [T2 Chai]: https://steepster.com/teas/t2/9036-chai
 [Caramel Brownie]: https://www.t2tea.com/en/ca/tea/black-tea/caramel-brownie-loose-leaf-gift-cube-chocolate_brownie.html
 [Indian Masala Chai]: https://tea2you.co.uk/collections/masala-blended
