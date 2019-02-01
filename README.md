@@ -1,6 +1,4 @@
-# MYOB Tea Club
-
-Est. 2016
+# MYOB Tea Club <sup>Est. 2016</sup>
 
 Tea tasting experience at MYOB Sydney
 
