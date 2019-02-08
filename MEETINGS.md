@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 445 | Chinese Tea        | [Green]     | Chinese Green Tea           | [China]     | Lisa Miks       | 08-02-19 |
+| 444 | Chinese Tea        | [Green]     | [Tieguanyin]                | [China]     | Lisa Miks       | 07-02-19 |
+| 443 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Fagner Brack    | 06-02-19 |
 | 442 | [Basilur]          | [Green]     | [Window Paris]              | [Sri Lanka] | Ruslan Kazakov  | 31-01-19 |
 | 441 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Gary Butler     | 15-01-19 |
 | 440 | [T2]               | [Black]     | [T2 Chai]                   | -           | Fagner Brack    | 09-01-19 |
@@ -551,6 +554,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Tieguanyin]: https://en.wikipedia.org/wiki/Tieguanyin
 [Window Paris]: https://basilurtea.co.uk/productdisplay/paris-window-tea-caddy
 [T2 Chai]: https://steepster.com/teas/t2/9036-chai
 [Caramel Brownie]: https://www.t2tea.com/en/ca/tea/black-tea/caramel-brownie-loose-leaf-gift-cube-chocolate_brownie.html
