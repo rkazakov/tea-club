@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 383 | Chinese Tea        | [Green]     | Chinese Green Tea           | [China]     | Green tea                   |
+| 382 | Chinese Tea        | [Green]     | [Tieguanyin]                | [China]     | Green tea                   |
 | 381 | [Basilur]          | [Green]     | [Window Paris]              | [Sri Lanka] | Cherry, Almond, Cornflower  |
 | 380 | [T2]               | [Black]     | [Go Go Goa]                 | [India]     | Orange, Cinnamon, Ginger    |
 | 379 | [T2]               | [Black]     | [T2 Chai]                   | -           | Anise, Cardamon, Cinnamon   |
@@ -489,6 +491,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Tieguanyin]: https://en.wikipedia.org/wiki/Tieguanyin
 [Window Paris]: https://basilurtea.co.uk/productdisplay/paris-window-tea-caddy
 [T2 Chai]: https://steepster.com/teas/t2/9036-chai
 [Caramel Brownie]: https://www.t2tea.com/en/ca/tea/black-tea/caramel-brownie-loose-leaf-gift-cube-chocolate_brownie.html
