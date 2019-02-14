@@ -27,8 +27,8 @@
 | 18   | Sajith Weerakoon   | 5    |
 | 19   | Dee Parnell        | 4    |
 | 20   | Ray Dai            | 4    |
-| 21   | Jess Cozanitis     | 3    |
-| 22   | Sally Garton       | 3    |
+| 21   | Sally Garton       | 4    |
+| 22   | Jess Cozanitis     | 3    |
 | 23   | Alex Yang          | 2    |
 | 24   | Andrea Ho          | 2    |
 | 25   | Azadeh H.          | 2    |
