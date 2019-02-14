@@ -6,8 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 447 | Ni Ti              | [Black]     | Pure Nepalese Tea           | [Nepal]     | Gary Butler     | 13-02-19 |
-| 446 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Marianne G.     | 12-02-19 |
+| 448 | Ni Ti              | [Black]     | Pure Nepalese Tea           | [Nepal]     | Gary Butler     | 13-02-19 |
+| 447 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Marianne G.     | 12-02-19 |
+| 446 | [T2]               | [Black]     | [T2 French Earl Grey]       | -           | Sally Garton    | 11-02-19 |
 | 445 | Chinese Tea        | [Green]     | Chinese Green Tea           | [China]     | Lisa Miks       | 08-02-19 |
 | 444 | Chinese Tea        | [Green]     | [Tieguanyin]                | [China]     | Lisa Miks       | 07-02-19 |
 | 443 | [T2]               | [Black]     | [Melbourne Breakfast]       | -           | Fagner Brack    | 06-02-19 |
@@ -557,6 +558,7 @@
 
 <!-- Name -->
 [Lime With Ginger]: https://www.tetley.com.au/our-tea-blends/caffeine-free-decaf-tea/lime-twist-ginger
+[T2 French Earl Grey]: https://www.t2tea.com/en/us/tea/black-tea/french-earl-grey-teabag-D105.html
 [Tieguanyin]: https://en.wikipedia.org/wiki/Tieguanyin
 [Window Paris]: https://basilurtea.co.uk/productdisplay/paris-window-tea-caddy
 [T2 Chai]: https://steepster.com/teas/t2/9036-chai
