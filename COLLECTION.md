@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 385 | Ni Ti              | [Black]     | Pure Nepalese Tea           | [Nepal]     | Black tea                   |
+| 384 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Lime, Ginger                |
 | 383 | Chinese Tea        | [Green]     | Chinese Green Tea           | [China]     | Green tea                   |
 | 382 | Chinese Tea        | [Green]     | [Tieguanyin]                | [China]     | Green tea                   |
 | 381 | [Basilur]          | [Green]     | [Window Paris]              | [Sri Lanka] | Cherry, Almond, Cornflower  |
@@ -491,6 +493,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Lime With Ginger]: https://www.tetley.com.au/our-tea-blends/caffeine-free-decaf-tea/lime-twist-ginger
 [Tieguanyin]: https://en.wikipedia.org/wiki/Tieguanyin
 [Window Paris]: https://basilurtea.co.uk/productdisplay/paris-window-tea-caddy
 [T2 Chai]: https://steepster.com/teas/t2/9036-chai
@@ -844,6 +847,7 @@
 [Korea]: https://en.wikipedia.org/wiki/Korea
 [Malaysia]: https://en.wikipedia.org/wiki/Malaysia
 [Morocco]: https://en.wikipedia.org/wiki/Morocco
+[Nepal]: https://en.wikipedia.org/wiki/Nepal
 [Poland]: https://en.wikipedia.org/wiki/Poland
 [RSA]: https://en.wikipedia.org/wiki/South_Africa
 [Russia]: https://en.wikipedia.org/wiki/Russia
