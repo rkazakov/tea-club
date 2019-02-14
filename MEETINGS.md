@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 447 | Ni Ti              | [Black]     | [Pure Nepalese Tea]         | [Nepal]     | Gary Butler     | 13-02-19 |
+| 447 | Ni Ti              | [Black]     | Pure Nepalese Tea           | [Nepal]     | Gary Butler     | 13-02-19 |
 | 446 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Marianne G.     | 12-02-19 |
 | 445 | Chinese Tea        | [Green]     | Chinese Green Tea           | [China]     | Lisa Miks       | 08-02-19 |
 | 444 | Chinese Tea        | [Green]     | [Tieguanyin]                | [China]     | Lisa Miks       | 07-02-19 |
