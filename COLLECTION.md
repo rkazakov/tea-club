@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 389 | [Basilur]          | [Herbal]    | [Herbal Virgin Nature]      | [Sri Lanka] | Thyme                       |
+| 388 | [Basilur]          | [Green]     | [Apricot & Passion Fruit]   | [Sri Lanka] | Apricot, Passion fruit      |
+| 387 | [Basilur]          | [Black]     | [Fortune Saturn Black]      | [Sri Lanka] | Pina Colada                 |
 | 386 | Ni Ti              | [Black]     | Pure Nepalese Tea           | [Nepal]     | Black tea                   |
 | 385 | [Tetley]           | [Herbal]    | [Lime With Ginger]          | [Australia] | Lime, Ginger                |
 | 384 | [T2]               | [Black]     | [T2 French Earl Grey]       | -           | Rose                        |
@@ -494,6 +497,9 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Herbal Virgin Nature]: https://www.amazon.com/Basilur-Natural-Collection-Pyramid-Sachets/dp/B076H9CFGT
+[Apricot & Passion Fruit]: https://www.amazon.com/Basilur-Magic-Fruits-Apricot-Flavored/dp/B06XQFYW1N
+[Fortune Saturn Black]: http://www.basilurshop.com.au/basilur/fortune-collection-saturn-85g-packet-black-loose-tea
 [Lime With Ginger]: https://www.tetley.com.au/our-tea-blends/caffeine-free-decaf-tea/lime-twist-ginger
 [T2 French Earl Grey]: https://www.t2tea.com/en/us/tea/black-tea/french-earl-grey-teabag-D105.html
 [Tieguanyin]: https://en.wikipedia.org/wiki/Tieguanyin
