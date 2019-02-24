@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 390 | [Basilur]          | [Herbal]    | [Red Hot Ginger]            | [Sri Lanka] | Ginger                      |
 | 389 | [Basilur]          | [Herbal]    | [Herbal Virgin Nature]      | [Sri Lanka] | Thyme                       |
 | 388 | [Basilur]          | [Green]     | [Apricot & Passion Fruit]   | [Sri Lanka] | Apricot, Passion fruit      |
 | 387 | [Basilur]          | [Black]     | [Fortune Saturn Black]      | [Sri Lanka] | Pina Colada                 |
@@ -497,6 +498,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Red Hot Ginger]: http://www.basilurtea.co.nz/product/red-hot-ginger-tea
 [Herbal Virgin Nature]: https://www.amazon.com/Basilur-Natural-Collection-Pyramid-Sachets/dp/B076H9CFGT
 [Apricot & Passion Fruit]: https://www.amazon.com/Basilur-Magic-Fruits-Apricot-Flavored/dp/B06XQFYW1N
 [Fortune Saturn Black]: http://www.basilurshop.com.au/basilur/fortune-collection-saturn-85g-packet-black-loose-tea
