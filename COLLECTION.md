@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 392 | Heaven Drag.       | [Green]     | Heaven Dragon Jasmine       | [China]     | Jasmine                     |
 | 391 | [Basilur]          | [Black]     | [Basilur English Breakfast] | [Sri Lanka] | Black tea                   |
 | 390 | [Basilur]          | [Herbal]    | [Red Hot Ginger]            | [Sri Lanka] | Ginger                      |
 | 389 | [Basilur]          | [Herbal]    | [Herbal Virgin Nature]      | [Sri Lanka] | Thyme                       |
