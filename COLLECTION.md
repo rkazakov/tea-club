@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 393 | [Twinings]         | [Herbal]    | [Buttermint]                | [Australia] | Peppermint, Vanilla         |
 | 392 | Heaven Drag.       | [Green]     | Heaven Dragon Jasmine       | [China]     | Jasmine                     |
 | 391 | [Basilur]          | [Black]     | [Basilur English Breakfast] | [Sri Lanka] | Black tea                   |
 | 390 | [Basilur]          | [Herbal]    | [Red Hot Ginger]            | [Sri Lanka] | Ginger                      |
@@ -500,6 +501,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Buttermint]: https://www.twinings.co.uk/tea/fruit-herbal/buttermint-20-single-tea-bags
 [Basilur English Breakfast]: http://thebasilurtea.com/index.php/tea-type/basilur-tea-english-breakfast-loose-black-tea-pack-100g.html
 [Red Hot Ginger]: http://www.basilurtea.co.nz/product/red-hot-ginger-tea
 [Herbal Virgin Nature]: https://www.amazon.com/Basilur-Natural-Collection-Pyramid-Sachets/dp/B076H9CFGT
