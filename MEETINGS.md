@@ -6,9 +6,10 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 456 | Heaven Drag.       | [Green]     | Heaven Dragon Jasmine        | [China]     | Gary Butler     | 27-03-19 |
+| 457 | [Daintree Tea]     | [Black]     | [Daintree Black Tea]        | [China]     | Gary Butler     | 27-03-19 |
+| 456 | Heaven Drag.       | [Green]     | Heaven Dragon Jasmine       | [China]     | Gary Butler     | 27-03-19 |
 | 455 | [Twinings]         | [Herbal]    | [Buttermint]                | [Australia] | Amy Dreise      | 21-03-19 |
-| 454 | Heaven Drag.       | [Green]     | Heaven Dragon Jasmine        | [China]     | Gary Butler     | 18-03-19 |
+| 454 | Heaven Drag.       | [Green]     | Heaven Dragon Jasmine       | [China]     | Gary Butler     | 18-03-19 |
 | 453 | [Basilur]          | [Black]     | [Basilur English Breakfast] | [Sri Lanka] | Ruslan Kazakov  | 04-03-19 |
 | 452 | [Basilur]          | [Herbal]    | [Red Hot Ginger]            | [Sri Lanka] | Ruslan Kazakov  | 25-02-19 |
 | 451 | [Basilur]          | [Herbal]    | [Herbal Virgin Nature]      | [Sri Lanka] | Ruslan Kazakov  | 22-02-19 |
@@ -482,6 +483,7 @@
 [Chamellia]: https://www.mycoffeeshop.com.au
 [Connemara]: https://www.connemaramarble.com
 [Dafolongjing]: http://www.dflj.cn
+[Daintree Tea]: https://daintreetea.com.au
 [Disney]: http://www.disney.com.au
 [Dilmah]: http://www.dilmahtea.com
 [Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
@@ -565,6 +567,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Daintree Black Tea]: https://daintreetea.com.au/shop/australian-orders/single-tea-products/50-teabags-s-2
 [Buttermint]: https://www.twinings.co.uk/tea/fruit-herbal/buttermint-20-single-tea-bags
 [Basilur English Breakfast]: http://thebasilurtea.com/index.php/tea-type/basilur-tea-english-breakfast-loose-black-tea-pack-100g.html
 [Red Hot Ginger]: http://www.basilurtea.co.nz/product/red-hot-ginger-tea
