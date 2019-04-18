@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 394 | [Daintree Tea]     | [Black]     | [Daintree Black Tea]        | [China]     | Black tea                   |
 | 393 | [Twinings]         | [Herbal]    | [Buttermint]                | [Australia] | Peppermint, Vanilla         |
 | 392 | Heaven Drag.       | [Green]     | Heaven Dragon Jasmine       | [China]     | Jasmine                     |
 | 391 | [Basilur]          | [Black]     | [Basilur English Breakfast] | [Sri Lanka] | Black tea                   |
@@ -418,6 +419,7 @@
 [Chamellia]: https://www.mycoffeeshop.com.au
 [Connemara]: https://www.connemaramarble.com
 [Dafolongjing]: http://www.dflj.cn
+[Daintree Tea]: https://daintreetea.com.au
 [Disney]: http://www.disney.com.au
 [Dilmah]: http://www.dilmahtea.com
 [Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
@@ -501,6 +503,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Daintree Black Tea]: https://daintreetea.com.au/shop/australian-orders/single-tea-products/50-teabags-s-2
 [Buttermint]: https://www.twinings.co.uk/tea/fruit-herbal/buttermint-20-single-tea-bags
 [Basilur English Breakfast]: http://thebasilurtea.com/index.php/tea-type/basilur-tea-english-breakfast-loose-black-tea-pack-100g.html
 [Red Hot Ginger]: http://www.basilurtea.co.nz/product/red-hot-ginger-tea
