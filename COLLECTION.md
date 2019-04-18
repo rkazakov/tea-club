@@ -6,7 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 395 | Kasmiri Kava       | [Herbal]    | Special Kasmiri Kava        | [India]     | Cinnamon, Cardamom, Saffron |
+| 395 | Kasmiri Kava       | [Herbal]    | Special Kasmiri Kava        | [India]     | Cinnamon, Saffron           |
 | 394 | [Daintree Tea]     | [Black]     | [Daintree Black Tea]        | [China]     | Black tea                   |
 | 393 | [Twinings]         | [Herbal]    | [Buttermint]                | [Australia] | Peppermint, Vanilla         |
 | 392 | Heaven Drag.       | [Green]     | Heaven Dragon Jasmine       | [China]     | Jasmine                     |
