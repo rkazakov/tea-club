@@ -3,7 +3,7 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 18/04/2019
+#### Updated: 11/05/2019
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
@@ -43,4 +43,5 @@
 | 34   | Joan Riddoch       | 1    |
 | 35   | Lucia Pak          | 1    |
 | 36   | Marzieh M.         | 1    |
-| 37   | Will Niu           | 1    |
+| 37   | Sam Grunel         | 1    |
+| 38   | Will Niu           | 1    |
