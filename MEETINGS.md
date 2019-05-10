@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 459 | [Tea Heritage]     | [Green]     | Ilam Green                  | [Nepal]     | Sam Grunel      | 11-05-19 |
 | 458 | Kasmiri Kava       | [Herbal]    | Special Kasmiri Kava        | [India]     | Fagner Brack    | 17-04-19 |
 | 457 | [Daintree Tea]     | [Black]     | [Daintree Black Tea]        | [China]     | Anthony S.      | 08-04-19 |
 | 456 | Heaven Drag.       | [Green]     | Heaven Dragon Jasmine       | [China]     | Gary Butler     | 27-03-19 |
@@ -545,6 +546,7 @@
 [T2]: http://www.t2tea.com
 [Taylors]: https://www.taylorsofharrogate.com
 [TEA2YOU]: https://tea2you.co.uk
+[Tea Heritage]: https://www.teaheritagenepal.com
 [Tea Tonic]: https://www.teatonic.com.au
 [Tetley]: http://www.tetley.com.au
 [Tea Cosy]: http://theteacosy.bigcartel.com
