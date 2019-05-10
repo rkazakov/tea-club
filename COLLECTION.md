@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 396 | [Tea Heritage]     | [Green]     | Ilam Green                  | [Nepal]     | Green tea                   |
 | 395 | Kasmiri Kava       | [Herbal]    | Special Kasmiri Kava        | [India]     | Cinnamon, Saffron           |
 | 394 | [Daintree Tea]     | [Black]     | [Daintree Black Tea]        | [China]     | Black tea                   |
 | 393 | [Twinings]         | [Herbal]    | [Buttermint]                | [Australia] | Peppermint, Vanilla         |
@@ -481,6 +482,7 @@
 [T2]: http://www.t2tea.com
 [Taylors]: https://www.taylorsofharrogate.com
 [TEA2YOU]: https://tea2you.co.uk
+[Tea Heritage]: https://www.teaheritagenepal.com
 [Tea Tonic]: https://www.teatonic.com.au
 [Tetley]: http://www.tetley.com.au
 [Tea Cosy]: http://theteacosy.bigcartel.com
