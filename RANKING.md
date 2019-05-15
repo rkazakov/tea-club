@@ -3,7 +3,7 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 11/05/2019
+#### Updated: 15/05/2019
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
@@ -41,7 +41,8 @@
 | 32   | Ishwor Gurung      | 1    |
 | 33   | Jessica Hau        | 1    |
 | 34   | Joan Riddoch       | 1    |
-| 35   | Lucia Pak          | 1    |
-| 36   | Marzieh M.         | 1    |
-| 37   | Sam Grunel         | 1    |
-| 38   | Will Niu           | 1    |
+| 35   | Joanna Savakis     | 1    |
+| 36   | Lucia Pak          | 1    |
+| 37   | Marzieh M.         | 1    |
+| 38   | Sam Grunel         | 1    |
+| 39   | Will Niu           | 1    |
