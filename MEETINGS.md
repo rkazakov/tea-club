@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 460 | [Madame Flavour]   | [Green]     | [Green Jasmine & Pear]      | [Australia] | Joanna Savakis  | 13-05-19 |
 | 459 | [Tea Heritage]     | [Green]     | Ilam Green                  | [Nepal]     | Sam Grunel      | 11-05-19 |
 | 458 | Kasmiri Kava       | [Herbal]    | Special Kasmiri Kava        | [India]     | Fagner Brack    | 17-04-19 |
 | 457 | [Daintree Tea]     | [Black]     | [Daintree Black Tea]        | [China]     | Anthony S.      | 08-04-19 |
@@ -513,6 +514,7 @@
 [Lipton]: http://www.liptontea.com
 [Love Tea]: https://lovetea.com.au
 [Lupicia]: http://www.lupicia.com.au
+[Madame Flavour]: https://madameflavourshop.com
 [Maitre de The]: http://www.maitredethe.ru
 [Matsesta Tea]: https://www.matsestatea.ru
 [MightyLeaf]: http://www.mightyleaf.com
@@ -570,6 +572,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Green Jasmine & Pear]: https://madameflavourshop.com/shop/green-jasmine-pear-pyramids-100
 [Daintree Black Tea]: https://daintreetea.com.au/shop/australian-orders/single-tea-products/50-teabags-s-2
 [Buttermint]: https://www.twinings.co.uk/tea/fruit-herbal/buttermint-20-single-tea-bags
 [Basilur English Breakfast]: http://thebasilurtea.com/index.php/tea-type/basilur-tea-english-breakfast-loose-black-tea-pack-100g.html
