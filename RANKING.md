@@ -3,7 +3,7 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 15/05/2019
+#### Updated: 24/05/2019
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
@@ -34,14 +34,14 @@
 | 25   | Andrea Ho          | 2    |
 | 26   | Azadeh H.          | 2    |
 | 27   | Cris Gladly        | 2    |
-| 28   | Lisa Miks          | 2    |
-| 29   | Sikang Li          | 2    |
-| 30   | Andy R Taylor      | 1    |
-| 31   | Anthony Sceresini  | 1    |
-| 32   | Ishwor Gurung      | 1    |
-| 33   | Jessica Hau        | 1    |
-| 34   | Joan Riddoch       | 1    |
-| 35   | Joanna Savakis     | 1    |
+| 28   | Joanna Savakis     | 2    |
+| 29   | Lisa Miks          | 2    |
+| 30   | Sikang Li          | 2    |
+| 31   | Andy R Taylor      | 1    |
+| 32   | Anthony Sceresini  | 1    |
+| 33   | Ishwor Gurung      | 1    |
+| 34   | Jessica Hau        | 1    |
+| 35   | Joan Riddoch       | 1    |
 | 36   | Lucia Pak          | 1    |
 | 37   | Marzieh M.         | 1    |
 | 38   | Sam Grunel         | 1    |
