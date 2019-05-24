@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 461 | [Madame Flavour]   | [Green]     | [Organic Mints]             | [Australia] | Joanna Savakis  | 21-05-19 |
 | 460 | [Madame Flavour]   | [Green]     | [Green Jasmine & Pear]      | [Australia] | Joanna Savakis  | 13-05-19 |
 | 459 | [Tea Heritage]     | [Green]     | Ilam Green                  | [Nepal]     | Sam Grunel      | 11-05-19 |
 | 458 | Kasmiri Kava       | [Herbal]    | Special Kasmiri Kava        | [India]     | Fagner Brack    | 17-04-19 |
@@ -572,6 +573,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Organic Mints]: https://madameflavourshop.com/shop/organic-mints
 [Green Jasmine & Pear]: https://madameflavourshop.com/shop/green-jasmine-pear-pyramids-100
 [Daintree Black Tea]: https://daintreetea.com.au/shop/australian-orders/single-tea-products/50-teabags-s-2
 [Buttermint]: https://www.twinings.co.uk/tea/fruit-herbal/buttermint-20-single-tea-bags
