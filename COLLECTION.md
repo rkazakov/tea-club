@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 398 | [Madame Flavour]   | [Green]     | [Organic Mints]             | [Australia] | Peppermint, Spearmint       |
 | 397 | [Madame Flavour]   | [Green]     | [Green Jasmine & Pear]      | [Australia] | Jasmine, Pear               |
 | 396 | [Tea Heritage]     | [Green]     | Ilam Green                  | [Nepal]     | Green tea                   |
 | 395 | Kasmiri Kava       | [Herbal]    | Special Kasmiri Kava        | [India]     | Cinnamon, Saffron           |
@@ -508,6 +509,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Organic Mints]: https://madameflavourshop.com/shop/organic-mints
 [Green Jasmine & Pear]: https://madameflavourshop.com/shop/green-jasmine-pear-pyramids-100
 [Daintree Black Tea]: https://daintreetea.com.au/shop/australian-orders/single-tea-products/50-teabags-s-2
 [Buttermint]: https://www.twinings.co.uk/tea/fruit-herbal/buttermint-20-single-tea-bags
