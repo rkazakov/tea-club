@@ -3,7 +3,7 @@
 -----
 
 # Tea Master Ranking
-#### Updated: 24/05/2019
+#### Updated: 02/06/2019
 
 | Rank | Tea Master         | Teas |
 |------|--------------------|------|
@@ -30,11 +30,11 @@
 | 21   | Sally Garton       | 4    |
 | 22   | Fagner Brack       | 3    |
 | 23   | Jess Cozanitis     | 3    |
-| 24   | Alex Yang          | 2    |
-| 25   | Andrea Ho          | 2    |
-| 26   | Azadeh H.          | 2    |
-| 27   | Cris Gladly        | 2    |
-| 28   | Joanna Savakis     | 2    |
+| 24   | Joanna Savakis     | 3    |
+| 25   | Alex Yang          | 2    |
+| 26   | Andrea Ho          | 2    |
+| 27   | Azadeh H.          | 2    |
+| 28   | Cris Gladly        | 2    |
 | 29   | Lisa Miks          | 2    |
 | 30   | Sikang Li          | 2    |
 | 31   | Andy R Taylor      | 1    |
