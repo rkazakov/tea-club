@@ -6,8 +6,11 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 465 | [T2]               | [Black]     | [La Fudgy]                  | [China]     | Gary Butler     | 07-06-19 |
+| 464 | [World Par-Tea]    | [Black]     | [Blood Orange BFT]          | [China]     | Gary Butler     | 06-06-19 |
+| 463 | [Madame Flavour]   | [Herbal]    | [Luscious Licorise]         | [Australia] | Joanna Savakis  | 03-06-19 |
 | 462 | [Pukka]            | [Herbal]    | [Pukka Relax]               | [Australia] | Joanna Savakis  | 30-05-19 |
-| 461 | [Madame Flavour]   | [Green]     | [Organic Mints]             | [Australia] | Joanna Savakis  | 21-05-19 |
+| 461 | [Madame Flavour]   | [Herbal]    | [Organic Mints]             | [Australia] | Joanna Savakis  | 21-05-19 |
 | 460 | [Madame Flavour]   | [Green]     | [Green Jasmine & Pear]      | [Australia] | Joanna Savakis  | 13-05-19 |
 | 459 | [Tea Heritage]     | [Green]     | Ilam Green                  | [Nepal]     | Sam Grunel      | 11-05-19 |
 | 458 | Kasmiri Kava       | [Herbal]    | Special Kasmiri Kava        | [India]     | Fagner Brack    | 17-04-19 |
@@ -567,6 +570,7 @@
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[World Par-Tea]: https://www.worldpartea.com.au
 [Wuyi Mount]: https://en.wikipedia.org/wiki/Wuyi_Mountains
 [Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
@@ -574,6 +578,9 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[La Fudgy]: https://www.t2tea.com/en/au/what-s-new/new-teas
+[Blood Orange BFT]: https://www.worldpartea.com.au/shop/blood-orange-bft
+[Luscious Licorise]: https://www.madameflavour.com/luscious-licorise
 [Pukka Relax]: https://www.pukkaherbs.com/shop/organic-teas/relax
 [Organic Mints]: https://madameflavourshop.com/shop/organic-mints
 [Green Jasmine & Pear]: https://madameflavourshop.com/shop/green-jasmine-pear-pyramids-100
