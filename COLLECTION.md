@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 402 | [T2]               | [Black]     | [La Fudgy]                  | [China]     | Caramel                     |
+| 401 | [World Par-Tea]    | [Black]     | [Blood Orange BFT]          | [China]     | Blood Orange                |
+| 400 | [Madame Flavour]   | [Herbal]    | [Luscious Licorise]         | [Australia] | Licorise                    |
 | 399 | [Pukka]            | [Herbal]    | [Pukka Relax]               | [Australia] | Chamomile, Fennel           |
 | 398 | [Madame Flavour]   | [Green]     | [Organic Mints]             | [Australia] | Peppermint, Spearmint       |
 | 397 | [Madame Flavour]   | [Green]     | [Green Jasmine & Pear]      | [Australia] | Jasmine, Pear               |
@@ -503,6 +506,7 @@
 [Uji-en]: http://www.uji-en.co.jp
 [Uji no Tsuyu]: http://www.ujinotsuyu.co.jp/english/index.html
 [Wedgwood]: http://www.wedgwood.com.au
+[World Par-Tea]: https://www.worldpartea.com.au
 [Wuyi Mount]: https://en.wikipedia.org/wiki/Wuyi_Mountains
 [Yanyshev]: http://www.yachai.ru
 [Yu Zhi]: http://www.tmhyz.com
@@ -510,6 +514,9 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[La Fudgy]: https://www.t2tea.com/en/au/what-s-new/new-teas
+[Blood Orange BFT]: https://www.worldpartea.com.au/shop/blood-orange-bft
+[Luscious Licorise]: https://www.madameflavour.com/luscious-licorise
 [Pukka Relax]: https://www.pukkaherbs.com/shop/organic-teas/relax
 [Organic Mints]: https://madameflavourshop.com/shop/organic-mints
 [Green Jasmine & Pear]: https://madameflavourshop.com/shop/green-jasmine-pear-pyramids-100
