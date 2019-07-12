@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 405 | [World Par-Tea]    | [Black]     | Dikom Assam Estate          | [Australia] |  |
+| 404 | [World Par-Tea]    | [Black]     | [Creamed Earl Grey]         | [Australia] |  | 
+| 403 | [World Par-Tea]    | [Black]     | [Chocolate Dream Cream]     | [Australia] |  |
 | 402 | [T2]               | [Black]     | [La Fudgy]                  | [China]     | Caramel                     |
 | 401 | [World Par-Tea]    | [Black]     | [Blood Orange BFT]          | [China]     | Blood Orange                |
 | 400 | [Madame Flavour]   | [Herbal]    | [Luscious Licorise]         | [Australia] | Licorise                    |
@@ -514,6 +517,8 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Creamed Earl Grey]: https://www.worldpartea.com.au/shop/creamed-earl-grey-tea
+[Chocolate Dream Cream]: https://www.worldpartea.com.au/shop/drean-cream-tea
 [La Fudgy]: https://www.t2tea.com/en/au/what-s-new/new-teas
 [Blood Orange BFT]: https://www.worldpartea.com.au/shop/blood-orange-bft
 [Luscious Licorise]: https://www.madameflavour.com/luscious-licorise
