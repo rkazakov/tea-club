@@ -6,9 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
-| 405 | [World Par-Tea]    | [Black]     | Dikom Assam Estate          | [Australia] |  |
-| 404 | [World Par-Tea]    | [Black]     | [Creamed Earl Grey]         | [Australia] |  | 
-| 403 | [World Par-Tea]    | [Black]     | [Chocolate Dream Cream]     | [Australia] |  |
+| 405 | [World Par-Tea]    | [Black]     | Dikom Assam Estate          | [Australia] | Black tea                   |
+| 404 | [World Par-Tea]    | [Black]     | [Creamed Earl Grey]         | [Australia] | Bergamont, Cream            | 
+| 403 | [World Par-Tea]    | [Black]     | [Chocolate Dream Cream]     | [Australia] | Caramel, Chocolate          |
 | 402 | [T2]               | [Black]     | [La Fudgy]                  | [China]     | Caramel                     |
 | 401 | [World Par-Tea]    | [Black]     | [Blood Orange BFT]          | [China]     | Blood Orange                |
 | 400 | [Madame Flavour]   | [Herbal]    | [Luscious Licorise]         | [Australia] | Licorise                    |
