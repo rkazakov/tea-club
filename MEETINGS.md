@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 468 | [World Par-Tea]    | [Black]     | Dikom Assam Estate          | [Australia] | Gary Butler     | 12-07-19 |
+| 467 | [World Par-Tea]    | [Black]     | [Creamed Earl Grey]         | [Australia] | Gary Butler     | 11-07-19 | 
+| 466 | [World Par-Tea]    | [Black]     | [Chocolate Dream Cream]     | [Australia] | Gary Butler     | 10-07-19 |
 | 465 | [T2]               | [Black]     | [La Fudgy]                  | [China]     | Gary Butler     | 07-06-19 |
 | 464 | [World Par-Tea]    | [Black]     | [Blood Orange BFT]          | [China]     | Gary Butler     | 06-06-19 |
 | 463 | [Madame Flavour]   | [Herbal]    | [Luscious Licorise]         | [Australia] | Joanna Savakis  | 03-06-19 |
@@ -578,6 +581,8 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Creamed Earl Grey]: https://www.worldpartea.com.au/shop/creamed-earl-grey-tea
+[Chocolate Dream Cream]: https://www.worldpartea.com.au/shop/drean-cream-tea
 [La Fudgy]: https://www.t2tea.com/en/au/what-s-new/new-teas
 [Blood Orange BFT]: https://www.worldpartea.com.au/shop/blood-orange-bft
 [Luscious Licorise]: https://www.madameflavour.com/luscious-licorise
