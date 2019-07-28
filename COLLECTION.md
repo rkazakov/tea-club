@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 407 | [Basilur]          | [Green]     | [Blackberry Tea]            | [Sri Lanka] | Blackberry                  |
+| 406 | [Basilur]          | [Black]     | [Folk Indigo]               | [Sri Lanka] | Blackcurrant, Blueberry     |
 | 405 | [World Par-Tea]    | [Black]     | Dikom Assam Estate          | [Australia] | Black tea                   |
 | 404 | [World Par-Tea]    | [Black]     | [Creamed Earl Grey]         | [Australia] | Bergamont, Cream            | 
 | 403 | [World Par-Tea]    | [Black]     | [Chocolate Dream Cream]     | [Australia] | Caramel, Chocolate          |
@@ -517,6 +519,8 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Blackberry Tea]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-blackberry-100g
+[Folk Indigo]: http://www.basilurshop.com.au/basilur/folk-collection/knitted-100g-t-caddy-folk-indigo
 [Creamed Earl Grey]: https://www.worldpartea.com.au/shop/creamed-earl-grey-tea
 [Chocolate Dream Cream]: https://www.worldpartea.com.au/shop/drean-cream-tea
 [La Fudgy]: https://www.t2tea.com/en/au/what-s-new/new-teas
