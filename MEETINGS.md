@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 471 | [Basilur]          | [Green]     | [Blackberry Tea]            | [Sri Lanka] | Ruslan Kazakov  | 26-07-19 |
+| 470 | [Basilur]          | [Black]     | [Folk Indigo]               | [Sri Lanka] | Ruslan Kazakov  | 24-07-19 |
+| 469 | [Tipson]           | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Ruslan Kazakov  | 23-07-19 |
 | 468 | [World Par-Tea]    | [Black]     | Dikom Assam Estate          | [Australia] | Gary Butler     | 12-07-19 |
 | 467 | [World Par-Tea]    | [Black]     | [Creamed Earl Grey]         | [Australia] | Gary Butler     | 11-07-19 | 
 | 466 | [World Par-Tea]    | [Black]     | [Chocolate Dream Cream]     | [Australia] | Gary Butler     | 10-07-19 |
@@ -581,6 +584,8 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Blackberry Tea]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-blackberry-100g
+[Folk Indigo]: http://www.basilurshop.com.au/basilur/folk-collection/knitted-100g-t-caddy-folk-indigo
 [Creamed Earl Grey]: https://www.worldpartea.com.au/shop/creamed-earl-grey-tea
 [Chocolate Dream Cream]: https://www.worldpartea.com.au/shop/drean-cream-tea
 [La Fudgy]: https://www.t2tea.com/en/au/what-s-new/new-teas
