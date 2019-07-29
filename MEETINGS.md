@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 472 | [Basilur]          | [Green]     | [Magic Fruits Sweet Cherry] | [Sri Lanka] | Ruslan Kazakov  | 29-07-19 |
 | 471 | [Basilur]          | [Green]     | [Blackberry Tea]            | [Sri Lanka] | Ruslan Kazakov  | 26-07-19 |
 | 470 | [Basilur]          | [Black]     | [Folk Indigo]               | [Sri Lanka] | Ruslan Kazakov  | 24-07-19 |
 | 469 | [Tipson]           | [Green]     | [Ethno Cream Buds]          | [Sri Lanka] | Ruslan Kazakov  | 23-07-19 |
@@ -584,6 +585,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Magic Fruits Sweet Cherry]: https://www.basilurtea.co.nz/product/sweet-cherry
 [Blackberry Tea]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-blackberry-100g
 [Folk Indigo]: http://www.basilurshop.com.au/basilur/folk-collection/knitted-100g-t-caddy-folk-indigo
 [Creamed Earl Grey]: https://www.worldpartea.com.au/shop/creamed-earl-grey-tea
