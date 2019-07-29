@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 408 | [Basilur]          | [Green]     | [Magic Fruits Sweet Cherry] | [Sri Lanka] | Sweet Cherry                |
 | 407 | [Basilur]          | [Green]     | [Blackberry Tea]            | [Sri Lanka] | Blackberry                  |
 | 406 | [Basilur]          | [Black]     | [Folk Indigo]               | [Sri Lanka] | Blackcurrant, Blueberry     |
 | 405 | [World Par-Tea]    | [Black]     | Dikom Assam Estate          | [Australia] | Black tea                   |
@@ -519,6 +520,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Magic Fruits Sweet Cherry]: https://www.basilurtea.co.nz/product/sweet-cherry
 [Blackberry Tea]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-blackberry-100g
 [Folk Indigo]: http://www.basilurshop.com.au/basilur/folk-collection/knitted-100g-t-caddy-folk-indigo
 [Creamed Earl Grey]: https://www.worldpartea.com.au/shop/creamed-earl-grey-tea
