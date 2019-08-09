@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 475 | [Basilur]          | [Green]     | [Jasmine Tea]               | [Sri Lanka] | Ruslan Kazakov  | 08-08-19 |
 | 474 | [Basilur]          | [Green]     | [Magic Fruits Raspberry]    | [Sri Lanka] | Ruslan Kazakov  | 07-08-19 |
 | 473 | [Tipson]           | [Black]     | [For You]                   | [Sri Lanka] | Ruslan Kazakov  | 02-08-19 |
 | 472 | [Basilur]          | [Green]     | [Magic Fruits Sweet Cherry] | [Sri Lanka] | Ruslan Kazakov  | 29-07-19 |
