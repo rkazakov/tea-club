@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 474 | [Basilur]          | [Green]     | [Magic Fruits Raspberry]    | [Sri Lanka] | Ruslan Kazakov  | 07-08-19 |
 | 473 | [Tipson]           | [Black]     | [For You]                   | [Sri Lanka] | Ruslan Kazakov  | 02-08-19 |
 | 472 | [Basilur]          | [Green]     | [Magic Fruits Sweet Cherry] | [Sri Lanka] | Ruslan Kazakov  | 29-07-19 |
 | 471 | [Basilur]          | [Green]     | [Blackberry Tea]            | [Sri Lanka] | Ruslan Kazakov  | 26-07-19 |
@@ -586,6 +587,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Magic Fruits Raspberry]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-raspberry-100g
 [For You]: https://americansportshouse.com/products/tipson-gift-collection-for-you-heart-te-gift-pure-ceylon-black-tea-loose-black-leaf-tea-with-melon-cantaloupe-and-rose-designer-tin-caddy-75g-2-pack-for-you-gold-2-pack
 [Magic Fruits Sweet Cherry]: https://www.basilurtea.co.nz/product/sweet-cherry
 [Blackberry Tea]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-blackberry-100g
