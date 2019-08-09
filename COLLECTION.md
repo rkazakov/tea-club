@@ -6,6 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 411 | [Basilur]          | [Black]     | Tea Shop                    | [Sri Lanka] | Cranberry, Pineapple, Apple |
+| 410 | [Basilur]          | [Green]     | [Magic Fruits Raspberry]    | [Sri Lanka] | Raspberry                   |
 | 409 | [Tipson]           | [Black]     | [For You]                   | [Sri Lanka] | Cantaloupe, Melon, Rose     |
 | 408 | [Basilur]          | [Green]     | [Magic Fruits Sweet Cherry] | [Sri Lanka] | Sweet Cherry                |
 | 407 | [Basilur]          | [Green]     | [Blackberry Tea]            | [Sri Lanka] | Blackberry                  |
@@ -521,6 +523,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Magic Fruits Raspberry]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-raspberry-100g
 [For You]: https://americansportshouse.com/products/tipson-gift-collection-for-you-heart-te-gift-pure-ceylon-black-tea-loose-black-leaf-tea-with-melon-cantaloupe-and-rose-designer-tin-caddy-75g-2-pack-for-you-gold-2-pack
 [Magic Fruits Sweet Cherry]: https://www.basilurtea.co.nz/product/sweet-cherry
 [Blackberry Tea]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-blackberry-100g
