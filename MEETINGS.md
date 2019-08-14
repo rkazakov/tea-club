@@ -6,6 +6,9 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 479 | [Boh Tea]          | [Black]     | Boh                         | [Malaysia]  | Rozanna Wong    | 14-08-19 |
+| 478 | [Sabah Tea]        | [Black]     | Borneo                      | [Malaysia]  | Rozanna Wong    | 13-08-19 |
+| 477 | [T2]               | [Black]     | [Irish Breakfast]           | [Australia] | Gary Butler     | 12-08-19 |
 | 476 | [Basilur]          | [Black]     | Tea Shop                    | [Sri Lanka] | Ruslan Kazakov  | 09-08-19 |
 | 475 | [Basilur]          | [Green]     | [Jasmine Tea]               | [Sri Lanka] | Ruslan Kazakov  | 08-08-19 |
 | 474 | [Basilur]          | [Green]     | [Magic Fruits Raspberry]    | [Sri Lanka] | Ruslan Kazakov  | 07-08-19 |
