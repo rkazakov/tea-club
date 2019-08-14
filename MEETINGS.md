@@ -6,8 +6,8 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 479 | [Boh Tea]          | [Black]     | Boh                         | [Malaysia]  | Rozanna Wong    | 14-08-19 |
-| 478 | [Sabah Tea]        | [Black]     | Borneo                      | [Malaysia]  | Rozanna Wong    | 13-08-19 |
+| 479 | [BOH]              | [Black]     | Boh Black Tea               | [Malaysia]  | Rozanna Wong    | 14-08-19 |
+| 478 | [Sabah Tea]        | [Black]     | Sabah Black Tea             | [Malaysia]  | Rozanna Wong    | 13-08-19 |
 | 477 | [T2]               | [Black]     | [Irish Breakfast]           | [Australia] | Gary Butler     | 12-08-19 |
 | 476 | [Basilur]          | [Black]     | Tea Shop                    | [Sri Lanka] | Ruslan Kazakov  | 09-08-19 |
 | 475 | [Basilur]          | [Green]     | [Jasmine Tea]               | [Sri Lanka] | Ruslan Kazakov  | 08-08-19 |
@@ -554,6 +554,7 @@
 [Ranfer]: http://www.ranfer.com
 [Regular Tea]: http://www.ckmc.cn
 [Rus Tea Co]: http://www.russianteacompany.com
+[Sabah Tea]: https://www.sabahtea.com.my
 [Sahar Khiz]: http://www.saharkhizsaffron.com
 [San-Cha]: http://www.sanchatea.com
 [Sempio]: http://www.sempio.com
@@ -592,6 +593,7 @@
 [Ximango]: http://www.ximango.com.br/
 
 <!-- Name -->
+[Irish Breakfast]: https://www.t2tea.com/en/ca/tea/black-tea/irish-breakfast-teabag-D107.html
 [Magic Fruits Raspberry]: http://www.basilurshop.com.au/basilur/magic-fruits-green-loose-tea-raspberry-100g
 [For You]: https://americansportshouse.com/products/tipson-gift-collection-for-you-heart-te-gift-pure-ceylon-black-tea-loose-black-leaf-tea-with-melon-cantaloupe-and-rose-designer-tin-caddy-75g-2-pack-for-you-gold-2-pack
 [Magic Fruits Sweet Cherry]: https://www.basilurtea.co.nz/product/sweet-cherry
